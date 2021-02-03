@@ -1,8 +1,12 @@
 
-# simple_icons
-
-This package features the [Simple Icon](https://simpleicons.org/) pack as Flutter Icons. <br>
-If you feel like an icon is missing, you can submit an icon request at [simple-icon's github](https://github.com/simple-icons/simple-icons/issues/new/choose).
+<p align="center">
+<a href="https://simpleicons.org/">
+<img src="https://simpleicons.org/icons/simpleicons.svg" alt="Simple Icons" width=64 height=64>
+</a>
+<h3 align="center">Simple Icons</h3>
+<p align="center">
+Over 1500 Free SVG icons for popular brands. See them all on one page at <a href="https://simpleicons.org">SimpleIcons.org</a>.<br> Contributions, corrections & requests can be made on GitHub. Started by <a href="https://twitter.com/bathtype">Dan Leech</a>.</p>
+</p>
 
 
 ## Naming
@@ -29,6 +33,13 @@ abstract => abstracticon
 
 ## Installation
 
+In the `dependencies:` section of your `pubspec.yaml` add the following line:
+
+```yaml
+dependencies:
+  simple_icons: <latest_version>
+```
+
 ## Usage
 
 ```dart
@@ -48,3 +59,4 @@ class MyAwesomeWidget extends StatelessWidget {
 
 ## Example
 View the flutter app in the `example` directory
+
