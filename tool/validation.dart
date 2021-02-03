@@ -14,7 +14,8 @@ String validateVariableName(String name) {
 }
 
 // source: https://pub.dev/documentation/exception_templates/latest/exception_templates/dartKeywords.html
-final dartKeywords = UnmodifiableListView<String>([
+final UnmodifiableListView<String> dartKeywords =
+    UnmodifiableListView<String>(<String>[
   'abstract',
   'as',
   'assert',

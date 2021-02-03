@@ -5,7 +5,7 @@ class SimpleIconData extends IconData {
   const SimpleIconData(int codePoint)
       : super(
           codePoint,
-          fontFamily: "SimpleIcons",
-          fontPackage: "simple_icons",
+          fontFamily: 'SimpleIcons',
+          fontPackage: 'simple_icons',
         );
 }

@@ -17,11 +17,11 @@ DARTSDK="${FLUTTERSDK}/cache/dart-sdk/bin"
 
 # clean up
 echo "initialize dirs"
-rm -r "$WORKSPACEPATH/node"
+rm -rf "$WORKSPACEPATH/node"
 mkdir "$WORKSPACEPATH/node"
 
 
-rm -r "$WORKSPACEPATH/fonts"
+rm -rf "$WORKSPACEPATH/fonts"
 mkdir "$WORKSPACEPATH/fonts"
 
 
@@ -41,10 +41,10 @@ ttx -t cmap SimpleIcons.ttf
 
 cd "$WORKSPACEPATH"
 echo "generating dart file"
-${DARTSDK}/dart "./tools/generate_fonts.dart" "./fonts/SimpleIcons.ttx"
+${DARTSDK}/dart "./tool/generate_fonts.dart" "./fonts/SimpleIcons.ttx"
 
 echo "formatting dart file"
-${DARTSDK}/dartfmt -w "./lib/flutter_simple_icons.g.dart"
+${DARTSDK}/dartfmt -w "./lib/src/flutter_simple_icons.g.dart"
 
 echo "post cleanup"
 rm -r "$WORKSPACEPATH/node"
