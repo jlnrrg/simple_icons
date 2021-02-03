@@ -1,4 +1,4 @@
-## [1.0.0-nullsafety.0] - flutter_brand_icons -> simple_icons
+## [1.0.0] - flutter_brand_icons -> simple_icons
 - based on [flutter_brand_icons](https://github.com/NikSWE/flutter_brand_icons)
 - updated workflow to more automation
 - usage of xml instead of json
