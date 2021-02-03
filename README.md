@@ -13,20 +13,20 @@ Over 1500 Free SVG icons for popular brands. See them all on one page at <a href
 Naming conventions have been changed for better readability and consistancy with all other flutter icon packs.
 
 Additionally: 
-- special characters => written in words
-- names starting with a number => the letter 'n' placed in front
-- dart reserved words => 'icon' placed in the back
+- special characters ➔ written in words
+- names starting with a number ➔ the letter 'n' placed in front
+- dart reserved words ➔ 'icon' placed in the back
 
 To convert from the [catalog](https://simpleicons.org/) simply follow this method
 
 ```
-.NET => dotNet
+.NET ➔ dotNet
 
-Apple Pay => applepay
+Apple Pay ➔ applepay
 
-1Password => n1password
+1Password ➔ n1password
 
-abstract => abstracticon
+abstract ➔ abstracticon
 ```
 
 ## 
