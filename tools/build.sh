@@ -41,9 +41,12 @@ ttx -t cmap SimpleIcons.ttf
 
 cd "$WORKSPACEPATH"
 echo "generating dart file"
-${DARTSDK}/dart "./tool/generate_fonts.dart" "./fonts/SimpleIcons.ttx"
+${DARTSDK}/dart "./tools/generate_fonts.dart" "./fonts/SimpleIcons.ttx"
 
 echo "formatting dart file"
-${DARTSDK}/dartfmt -w "./lib/flutter_simple_icons.dart"
+${DARTSDK}/dartfmt -w "./lib/flutter_simple_icons.g.dart"
+
+echo "post cleanup"
+rm -r "$WORKSPACEPATH/node"
 
 echo "build process done"
