@@ -25,9 +25,9 @@ mkdir "$WORKSPACEPATH/fonts"
 echo "starting the build process"
 
 echo "get latest ttf"
-cd "$WORKSPACEPATH/node"
+cd "$WORKSPACEPATH/vendor"
 npm install --force simple-icons-font
-/bin/cp -rf "$WORKSPACEPATH/node/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
+/bin/cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
 cd "$WORKSPACEPATH/fonts"
 
 
