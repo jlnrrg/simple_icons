@@ -5,7 +5,7 @@
 </a>
 <h3 align="center">Simple Icons</h3>
 <p align="center">
-A Flutter package for Simple Icons, which provides over 1500 Free SVG icons for popular brands. <br> See them all on one page at <a href="https://simpleicons.org">SimpleIcons.org</a>.<br> Contributions, corrections & requests can be made on GitHub. Started by <a href="https://twitter.com/bathtype">Dan Leech</a>.</p>
+A Flutter package for Simple Icons, which provides over 1500 Free SVG icons for popular brands. <br> See them all on one page at <a href="https://simpleicons.org">SimpleIcons.org</a>.<br> Contributions, corrections & requests can be made on <a href=https://github.com/simple-icons/simple-icons/issues/new/choose">GitHub</a>.</p>
 </p>
 
 

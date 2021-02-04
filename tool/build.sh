@@ -17,10 +17,6 @@ DARTSDK="${FLUTTERSDK}/cache/dart-sdk/bin"
 
 # clean up
 echo "initialize dirs"
-rm -rf "$WORKSPACEPATH/node"
-mkdir "$WORKSPACEPATH/node"
-
-
 rm -rf "$WORKSPACEPATH/fonts"
 mkdir "$WORKSPACEPATH/fonts"
 
@@ -31,7 +27,7 @@ echo "starting the build process"
 echo "get latest ttf"
 cd "$WORKSPACEPATH/node"
 npm install --force simple-icons-font
-mv "$WORKSPACEPATH/node/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
+/bin/cp -rf "$WORKSPACEPATH/node/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
 cd "$WORKSPACEPATH/fonts"
 
 
@@ -45,8 +41,5 @@ ${DARTSDK}/dart "./tool/generate_fonts.dart" "./fonts/SimpleIcons.ttx"
 
 echo "formatting dart file"
 ${DARTSDK}/dartfmt -w "./lib/src/flutter_simple_icons.g.dart"
-
-echo "post cleanup"
-rm -r "$WORKSPACEPATH/node"
 
 echo "build process done"
