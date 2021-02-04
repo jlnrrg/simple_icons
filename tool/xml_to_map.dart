@@ -1,12 +1,8 @@
 import 'package:xml/xml.dart';
 
 Map<String, String> xmlToIcons(XmlDocument document) {
-  final XmlElement? ttFont = document.firstElementChild;
-  final XmlElement? cmap = ttFont?.firstElementChild;
-  if (cmap == null) {
-    return <String, String>{};
-  }
-
+  final XmlElement ttFont = document.firstElementChild;
+  final XmlElement cmap = ttFont.firstElementChild;
   final XmlNode relevantChild = cmap.children.where((XmlNode e) {
     final bool correctPlatformID = e.getAttribute('platformID') == '0';
     final bool correctplatEncID = e.getAttribute('platEncID') == '3';
