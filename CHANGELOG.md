@@ -1,5 +1,6 @@
 ## [4.9.0] - align package version with repository
 - Big version update equals to the [simple-icons-font](https://github.com/simple-icons/simple-icons-font)
+  
 ## [1.0.1] - node directory inclusion
 - added the node directory for a bot to watch changes in simple-icons-font
 

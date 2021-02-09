@@ -8,7 +8,7 @@
             "type": "bashdb",
             "request": "launch",
             "name": "Bash-Debug (simplest configuration)",
-            "program": "${workspaceFolder}/tool/build.sh"
+            "program": "${workspaceFolder}/tool/set_version.sh"
         }
     ]
 }
