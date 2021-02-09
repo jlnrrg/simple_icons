@@ -63,4 +63,4 @@ View the flutter app in the `example` directory
 ## Screenshots
 <br>
 
-![website](assets/website_screenshot.png)
+![website](assets/simple_icons_overview.png)
