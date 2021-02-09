@@ -60,3 +60,7 @@ class MyAwesomeWidget extends StatelessWidget {
 ## Example
 View the flutter app in the `example` directory
 
+## Screenshots
+<br>
+
+![website](assets/website_screenshot.png)
