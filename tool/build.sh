@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# dependencies: 
 # sudo apt-get install fonttools
 # npm
 
