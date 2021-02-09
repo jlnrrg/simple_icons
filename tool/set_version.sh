@@ -33,5 +33,5 @@ else
 
     # adds line to CHANGELOG.md
     printf "## [$VERSIONNUMBER] - auto_generated update\n$CHANGELOGMOD\n\n" | cat - $WORKSPACEPATH/CHANGELOG.md > $WORKSPACEPATH/CHANGELOG.tmp.md
-    # mv -f $WORKSPACEPATH/CHANGELOG.tmp.md $WORKSPACEPATH/CHANGELOG.md
+    mv -f $WORKSPACEPATH/CHANGELOG.tmp.md $WORKSPACEPATH/CHANGELOG.md
 fi

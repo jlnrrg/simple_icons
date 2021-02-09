@@ -1,3 +1,18 @@
+## [4.10.0] - auto_generated update
+### New Icons
+
+- dwm ([#4891](https://github.com/simple-icons/simple-icons/pull/4891))
+- LiveChat ([#4871](https://github.com/simple-icons/simple-icons/pull/4871))
+- PubMed ([#4705](https://github.com/simple-icons/simple-icons/pull/4705))
+- Showtime ([#4864](https://github.com/simple-icons/simple-icons/pull/4864))
+- suckless ([#4890](https://github.com/simple-icons/simple-icons/pull/4890))
+
+### Updated Icons
+
+- .NET ([#4906](https://github.com/simple-icons/simple-icons/pull/4906))
+- Google Chrome ([#4525](https://github.com/simple-icons/simple-icons/pull/4525))
+- Google Sheets ([#4685](https://github.com/simple-icons/simple-icons/pull/4685))
+
 ## [4.9.0] - align package version with repository
 - Big version update equals to the [simple-icons-font](https://github.com/simple-icons/simple-icons-font)
   
