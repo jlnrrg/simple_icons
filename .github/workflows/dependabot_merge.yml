@@ -8,19 +8,67 @@ jobs:
     runs-on: ubuntu-latest
     if: github.actor == 'dependabot[bot]'
     steps:
-      - name: automerge
-        uses: actions/github-script@0.2.0
-        with:
+      # close PR
+      - name: Comment close PR
+      - uses: actions/github-script@v3
+        with: 
           script: |
-            github.pullRequests.createReview({
+            github.pulls.createReviewComment({
               owner: context.payload.repository.owner.login,
               repo: context.payload.repository.name,
               pull_number: context.payload.pull_request.number,
-              event: 'APPROVE'
-            })
-            github.pullRequests.merge({
-              owner: context.payload.repository.owner.login,
-              repo: context.payload.repository.name,
-              pull_number: context.payload.pull_request.number
+              body: '@dependabot close'
             })
           github-token: ${{github.token}}
+
+    # start real build
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '15.x'
+
+      # Setup the flutter environment.
+      - uses: subosito/flutter-action@v1
+        with:
+          channel: 'beta' # 'dev', 'alpha', default to: 'stable'
+          # flutter-version: '1.12.x' # you can also specify exact version of flutter
+
+      - name: Install dependencies
+        run: sudo apt install fonttools
+        run: sudo snap install yq
+
+      - name: Set Version and Changelog
+        run: bash ./set_version.sh
+        working-directory: ./tool/
+        
+      - name: Get Flutter packages
+        run: flutter pub get
+
+      - name: Run build script
+        run: bash ./build.sh
+        working-directory: ./tool/
+
+      - name: Commit new changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "🤖 - the font repository was updated"
+          git push
+
+      # - name: automerge
+      #   uses: actions/github-script@0.2.0
+      #   with:
+      #     script: |
+      #       github.pullRequests.createReview({
+      #         owner: context.payload.repository.owner.login,
+      #         repo: context.payload.repository.name,
+      #         pull_number: context.payload.pull_request.number,
+      #         event: 'APPROVE'
+      #       })
+      #       github.pullRequests.merge({
+      #         owner: context.payload.repository.owner.login,
+      #         repo: context.payload.repository.name,
+      #         pull_number: context.payload.pull_request.number
+      #       })
+      #     github-token: ${{github.token}}
