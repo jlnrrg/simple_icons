@@ -35,10 +35,6 @@ jobs:
 
       - name: Install dependencies
         run: sudo apt install fonttools && sudo snap install yq
-
-      - name: Set Version and Changelog
-        run: bash ./set_version.sh
-        working-directory: ./tool/
         
       - name: Get Flutter packages
         run: flutter pub get
@@ -46,6 +42,13 @@ jobs:
       - name: Run build script
         run: bash ./build.sh
         working-directory: ./tool/
+
+      - name: Set Version and Changelog
+        run: bash ./set_version.sh
+        working-directory: ./tool/
+
+      - name: Varify Flutter yaml version
+        run: flutter pub get
 
       - name: Commit new changes
         run: |
