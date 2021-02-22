@@ -34,8 +34,7 @@ jobs:
           # flutter-version: '1.12.x' # you can also specify exact version of flutter
 
       - name: Install dependencies
-        run: sudo apt install fonttools
-        run: sudo snap install yq
+        run: sudo apt install fonttools && sudo snap install yq
 
       - name: Set Version and Changelog
         run: bash ./set_version.sh
