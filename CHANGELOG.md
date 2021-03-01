@@ -1,3 +1,47 @@
+## [4.13.0] - auto_generated update
+### New Icons
+
+- AirAsia ([#4892](https://github.com/simple-icons/simple-icons/pull/4892))
+- AMP ([#4962](https://github.com/simple-icons/simple-icons/pull/4962))
+- Amul ([#4955](https://github.com/simple-icons/simple-icons/pull/4955))
+- Apostrophe ([#4977](https://github.com/simple-icons/simple-icons/pull/4977))
+- Apple Arcade ([#4944](https://github.com/simple-icons/simple-icons/pull/4944))
+- AssemblyScript ([#4997](https://github.com/simple-icons/simple-icons/pull/4997))
+- AutoHotkey ([#4911](https://github.com/simple-icons/simple-icons/pull/4911))
+- Baremetrics ([#5118](https://github.com/simple-icons/simple-icons/pull/5118))
+- Bitwig ([#4958](https://github.com/simple-icons/simple-icons/pull/4958))
+- CBS ([#5122](https://github.com/simple-icons/simple-icons/pull/5122))
+- Etihad Airways ([#4957](https://github.com/simple-icons/simple-icons/pull/4957))
+- Grammarly ([#5045](https://github.com/simple-icons/simple-icons/pull/5045))
+- KakaoTalk ([#5016](https://github.com/simple-icons/simple-icons/pull/5016))
+- Kasa Smart ([#5114](https://github.com/simple-icons/simple-icons/pull/5114))
+- KnowledgeBase ([#4922](https://github.com/simple-icons/simple-icons/pull/4922))
+- Max ([#4981](https://github.com/simple-icons/simple-icons/pull/4981))
+- MyAnimeList ([#4718](https://github.com/simple-icons/simple-icons/pull/4718))
+- Namebase ([#5074](https://github.com/simple-icons/simple-icons/pull/5074))
+- Nano ([#5063](https://github.com/simple-icons/simple-icons/pull/5063))
+- Nx ([#4860](https://github.com/simple-icons/simple-icons/pull/4860))
+- PlayCanvas ([#5103](https://github.com/simple-icons/simple-icons/pull/5103))
+- Plotly ([#5111](https://github.com/simple-icons/simple-icons/pull/5111))
+- Ram ([#5014](https://github.com/simple-icons/simple-icons/pull/5014))
+- reveal.js ([#5127](https://github.com/simple-icons/simple-icons/pull/5127))
+- Rezgo ([#5100](https://github.com/simple-icons/simple-icons/pull/5100))
+- S7 Airlines ([#4888](https://github.com/simple-icons/simple-icons/pull/4888))
+- Supabase ([#4858](https://github.com/simple-icons/simple-icons/pull/4858))
+- SurveyMonkey ([#4790](https://github.com/simple-icons/simple-icons/pull/4790))
+- SUSE ([#4905](https://github.com/simple-icons/simple-icons/pull/4905))
+- Swiggy ([#4875](https://github.com/simple-icons/simple-icons/pull/4875))
+- ts-node ([#5105](https://github.com/simple-icons/simple-icons/pull/5105))
+- Vaadin ([#5007](https://github.com/simple-icons/simple-icons/pull/5007))
+
+### Updated Icons
+
+- Chrysler ([#4991](https://github.com/simple-icons/simple-icons/pull/4991))
+- Fiat ([#5008](https://github.com/simple-icons/simple-icons/pull/5008))
+- Jeep ([#5011](https://github.com/simple-icons/simple-icons/pull/5011))
+- Peugeot ([#5119](https://github.com/simple-icons/simple-icons/pull/5119))
+- Vauxhall ([#5015](https://github.com/simple-icons/simple-icons/pull/5015))
+
 ## [4.12.0] - auto_generated update
 ### New Icons
 

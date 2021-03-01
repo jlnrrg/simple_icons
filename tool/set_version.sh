@@ -25,11 +25,17 @@ else
     # get release body
     CHANGELOG=$(curl -sL https://api.github.com/repos/simple-icons/simple-icons/releases/tags/$VERSIONNUMBER | jq -r '.body')
 
-    # replace single # with ###
-    CHANGELOGHEADERMOD=$(echo "$CHANGELOG" | sed -e "s/^#/###/g")
+    # if body is empty
+    if [ -z "$CHANGELOG" ]; then
+        CHANGELOGMOD="(Changelog $VERSIONNUMBER)[https://github.com/simple-icons/simple-icons-font/releases/tag/$VERSIONNUMBER"
+    else
 
-    # replace github issue number with real link
-    CHANGELOGMOD=$(echo "$CHANGELOGHEADERMOD" | sed -E "s/(\()(#)([0-9]*)(\))/([#\3](https:\/\/github.com\/simple-icons\/simple-icons\/pull\/\3))/g")
+        # replace single # with ###
+        CHANGELOGHEADERMOD=$(echo "$CHANGELOG" | sed -e "s/^#/###/g")
+
+        # replace github issue number with real link
+        CHANGELOGMOD=$(echo "$CHANGELOGHEADERMOD" | sed -E "s/(\()(#)([0-9]*)(\))/([#\3](https:\/\/github.com\/simple-icons\/simple-icons\/pull\/\3))/g")
+    fi
 
     # adds line to CHANGELOG.md
     printf "## [$VERSIONNUMBER] - auto_generated update\n$CHANGELOGMOD\n\n" | cat - $WORKSPACEPATH/CHANGELOG.md > $WORKSPACEPATH/CHANGELOG.tmp.md
