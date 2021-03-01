@@ -19,7 +19,7 @@ jobs:
               pull_number: context.payload.pull_request.number,
               body: '@dependabot close'
             })
-          github-token: ${{github.token}}
+          github-token: ${{secrets.GITHUB_TOKEN}}
 
     # start real build
       - uses: actions/checkout@v2
