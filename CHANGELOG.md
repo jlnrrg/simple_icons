@@ -1,3 +1,57 @@
+## [4.14.0] - auto_generated update
+### New Icons
+
+- Aeroflot ([#4881](https://github.com/simple-icons/simple-icons/pull/4881))
+- Artix Linux ([#5181](https://github.com/simple-icons/simple-icons/pull/5181))
+- Barclays ([#5031](https://github.com/simple-icons/simple-icons/pull/5031))
+- Bitcoin Cash ([#4567](https://github.com/simple-icons/simple-icons/pull/4567))
+- Bitcoin SV ([#4576](https://github.com/simple-icons/simple-icons/pull/4576))
+- CodeMirror ([#5124](https://github.com/simple-icons/simple-icons/pull/5124))
+- Coding Ninjas ([#5152](https://github.com/simple-icons/simple-icons/pull/5152))
+- Crowdsource ([#5142](https://github.com/simple-icons/simple-icons/pull/5142))
+- Deutsche Bank ([#5026](https://github.com/simple-icons/simple-icons/pull/5026))
+- GoToMeeting ([#5154](https://github.com/simple-icons/simple-icons/pull/5154))
+- Hungry Jack's ([#4804](https://github.com/simple-icons/simple-icons/pull/4804))
+- Libraries.io ([#4996](https://github.com/simple-icons/simple-icons/pull/4996))
+- Norwegian ([#5145](https://github.com/simple-icons/simple-icons/pull/5145))
+- Pegasus Airlines ([#5144](https://github.com/simple-icons/simple-icons/pull/5144))
+- Picnic ([#5138](https://github.com/simple-icons/simple-icons/pull/5138))
+- ProtonVPN ([#5075](https://github.com/simple-icons/simple-icons/pull/5075))
+- Puppeteer ([#4969](https://github.com/simple-icons/simple-icons/pull/4969))
+- Qiskit ([#5033](https://github.com/simple-icons/simple-icons/pull/5033))
+- QuantConnect ([#5139](https://github.com/simple-icons/simple-icons/pull/5139))
+- Robot Framework ([#5017](https://github.com/simple-icons/simple-icons/pull/5017))
+- Sparkasse ([#5024](https://github.com/simple-icons/simple-icons/pull/5024))
+- Trino ([#5134](https://github.com/simple-icons/simple-icons/pull/5134))
+- Vapor ([#5129](https://github.com/simple-icons/simple-icons/pull/5129))
+- Wappalyzer ([#5130](https://github.com/simple-icons/simple-icons/pull/5130))
+
+### Updated Icons
+
+- AlloCiné ([#5162](https://github.com/simple-icons/simple-icons/pull/5162))
+- Android Studio ([#4469](https://github.com/simple-icons/simple-icons/pull/4469))
+- Arch Linux ([#5172](https://github.com/simple-icons/simple-icons/pull/5172))
+- Automatic ([#5061](https://github.com/simple-icons/simple-icons/pull/5061))
+- Clubhouse ([#5177](https://github.com/simple-icons/simple-icons/pull/5177))
+- Disroot ([#5173](https://github.com/simple-icons/simple-icons/pull/5173))
+- Epic Games ([#5178](https://github.com/simple-icons/simple-icons/pull/5178))
+- FedEx ([#5180](https://github.com/simple-icons/simple-icons/pull/5180))
+- Lamborghini ([#5169](https://github.com/simple-icons/simple-icons/pull/5169))
+- Material Design Icons ([#5160](https://github.com/simple-icons/simple-icons/pull/5160))
+- ngrok ([#5176](https://github.com/simple-icons/simple-icons/pull/5176))
+- Packagist ([#5182](https://github.com/simple-icons/simple-icons/pull/5182))
+- Phabricator ([#5143](https://github.com/simple-icons/simple-icons/pull/5143))
+- RabbitMQ ([#5183](https://github.com/simple-icons/simple-icons/pull/5183))
+- Ruby on Rails ([#5167](https://github.com/simple-icons/simple-icons/pull/5167))
+- Server Fault ([#5164](https://github.com/simple-icons/simple-icons/pull/5164))
+- Serverless ([#5164](https://github.com/simple-icons/simple-icons/pull/5164))
+- Stack Exchange ([#5164](https://github.com/simple-icons/simple-icons/pull/5164))
+- Stack Overflow ([#5164](https://github.com/simple-icons/simple-icons/pull/5164))
+- Stackbit ([#5164](https://github.com/simple-icons/simple-icons/pull/5164))
+- Strapi ([#5116](https://github.com/simple-icons/simple-icons/pull/5116))
+- Super User ([#5164](https://github.com/simple-icons/simple-icons/pull/5164))
+- SVGO ([#5140](https://github.com/simple-icons/simple-icons/pull/5140))
+
 ## [4.13.0] - auto_generated update
 ### New Icons
 
