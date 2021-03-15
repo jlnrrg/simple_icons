@@ -19,7 +19,7 @@ jobs:
               repo: context.repo.repo,
               body: '@dependabot close'
             })
-          github-token: ${{secrets.GITHUB_TOKEN}}
+          github-token: ${{secrets.MYGITHUB_TOKEN}}
 
     # start real build
       - uses: actions/checkout@v2
