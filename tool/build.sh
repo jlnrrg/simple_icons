@@ -34,7 +34,6 @@ SCRIPTPATH=$(dirname "$SCRIPT")
 WORKSPACEPATH="$SCRIPTPATH/.."
 
 # get flutter bins path
-
 if [ -z ${sdkArg+x} ]; then FLUTTERSDK=$(dirname $(which flutter)); else FLUTTERSDK=$sdkArg; fi
 
 echo $FLUTTERSDK
