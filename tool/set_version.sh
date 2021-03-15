@@ -27,7 +27,7 @@ else
 
     # if body is empty
     if [ -z "$CHANGELOG" ]; then
-        CHANGELOGMOD="(Changelog $VERSIONNUMBER)[https://github.com/simple-icons/simple-icons-font/releases/tag/$VERSIONNUMBER"
+        CHANGELOGMOD="[Changelog $VERSIONNUMBER](https://github.com/simple-icons/simple-icons-font/releases/tag/$VERSIONNUMBER)"
     else
 
         # replace single # with ###

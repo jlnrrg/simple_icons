@@ -3,6 +3,29 @@
 # sudo apt-get install fonttools
 # npm
 
+ARGUMENT_LIST=(
+    "sdk"
+)
+# read arguments
+opts=$(getopt \
+    --longoptions "$(printf "%s:," "${ARGUMENT_LIST[@]}")" \
+    --name "$(basename "$0")" \
+    --options "" \
+    -- "$@"
+)
+eval set --$opts
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        --sdk)
+            sdkArg=$2
+            shift 2
+            ;;
+
+        *)
+            break
+            ;;
+    esac
+done
 
 # Absolute path to this script, e.g. /home/user/bin/foo.sh
 SCRIPT=$(readlink -f "$0")
@@ -11,7 +34,12 @@ SCRIPTPATH=$(dirname "$SCRIPT")
 WORKSPACEPATH="$SCRIPTPATH/.."
 
 # get flutter bins path
-FLUTTERSDK=$(dirname $(which flutter))
+
+if [ -z ${sdkArg+x} ]; then FLUTTERSDK=$(dirname $(which flutter)); else FLUTTERSDK=$sdkArg; fi
+
+echo $FLUTTERSDK
+
+
 DARTSDK="${FLUTTERSDK}/cache/dart-sdk/bin"
 
 
