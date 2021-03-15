@@ -50,12 +50,22 @@ jobs:
       - name: Varify Flutter yaml version
         run: flutter pub get
 
+      - id: set_var
+        run: |
+          content=`cat ./vendor/package.json`
+          # the following lines are only required for multi line json
+          content="${content//'%'/'%25'}"
+          content="${content//$'\n'/'%0A'}"
+          content="${content//$'\r'/'%0D'}"
+          # end of optional handling for multi line json
+          echo "::set-output name=packageJson::$content"
+
       - name: Commit new changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "🤖 - the font repository was updated"
+          git commit -m "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
           git push
 
       # - name: automerge
