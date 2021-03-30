@@ -10,16 +10,17 @@ jobs:
     steps:
       # close PR
       - name: Comment close PR
-        uses: actions/github-script@v3
-        with: 
-          script: |
-            github.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '@dependabot close'
-            })
-          github-token: ${{ secrets.MYGITHUB_TOKEN }}
+        env:
+          URL: ${{ github.event.pull_request.comments_url }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MSG: '@dependabot close'
+        run: |
+          curl \
+            -X POST \
+            $URL \
+            -H "Content-Type: application/json" \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            --data '{ "body": "$MSG" }'
 
     # start real build
       - uses: actions/checkout@v2
