@@ -12,7 +12,7 @@ jobs:
       - name: Comment close PR
         env:
           URL: ${{ github.event.pull_request.comments_url }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MYGITHUB_TOKEN }}
           MSG: '@dependabot close'
         run: |
           curl \
@@ -67,7 +67,7 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
-          git push
+          git push origin master
 
       # - name: automerge
       #   uses: actions/github-script@0.2.0
