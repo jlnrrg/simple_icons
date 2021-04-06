@@ -20,6 +20,6 @@ class MyHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(child: Icon(SimpleIcons.github));
+    return const Scaffold(body: Center(child: Icon(SimpleIcons.github)));
   }
 }

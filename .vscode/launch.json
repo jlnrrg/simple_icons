@@ -9,6 +9,12 @@
             "request": "launch",
             "name": "Bash-Debug (simplest configuration)",
             "program": "${workspaceFolder}/tool/set_version.sh"
-        }
+        },
+        {
+            "name": "example",
+            "request": "launch",
+            "type": "dart",
+            "program": "${workspaceFolder}/example/lib/main.dart",
+        },
     ]
 }
