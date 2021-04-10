@@ -31,8 +31,9 @@ void main(List<String> args) {
 
   icons.forEach((String iconName, String iconUnicode) {
     iconName = validateVariableName(iconName);
-    generatedOutput.add(
-        'static const IconData ${ReCase(iconName).camelCase} = SimpleIconData($iconUnicode);\n');
+    generatedOutput
+        .add('''// Simple Icons "$iconName" icon with Unicode $iconUnicode
+        static const IconData ${ReCase(iconName).camelCase} = SimpleIconData($iconUnicode);\n''');
   });
 
   generatedOutput.add('}\n');

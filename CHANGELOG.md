@@ -1,3 +1,5 @@
+## [4.18.5] - Documentation
+This update adds a comment on each IconData
 ## [4.18.0] - auto_generated update
 [Changelog 4.18.0](https://github.com/simple-icons/simple-icons-font/releases/tag/4.18.0)
 
