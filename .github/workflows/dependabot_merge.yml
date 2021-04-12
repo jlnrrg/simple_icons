@@ -65,6 +65,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git commit -m "🤖 - preupdate commit to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
           git add .
           git commit -m "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
           git push origin master
