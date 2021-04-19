@@ -61,14 +61,16 @@ jobs:
           # end of optional handling for multi line json
           echo "::set-output name=packageJson::$content"
 
-      - name: Commit new changes
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git commit -m "🤖 - preupdate commit to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
-          git add .
-          git commit -m "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
-          git push origin master
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with: 
+          commit_message: "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
+
+      # - name: Commit new changes
+      #   run: |
+      #     git config user.name github-actions
+      #     git config user.email github-actions@github.com
+      #     git commit -am "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
+      #     git push origin master
 
       # - name: automerge
       #   uses: actions/github-script@0.2.0
