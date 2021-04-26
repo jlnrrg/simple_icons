@@ -1,3 +1,6 @@
+## [4.21.0] - auto_generated update
+[Changelog 4.21.0](https://github.com/simple-icons/simple-icons-font/releases/tag/4.21.0)
+
 ## [4.20.0] - auto_generated update
 [Changelog 4.20.0](https://github.com/simple-icons/simple-icons-font/releases/tag/4.20.0)
 
