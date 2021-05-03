@@ -69,6 +69,8 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with: 
           commit_message: "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.MYGITHUB_TOKEN }}
 
       # - name: Commit new changes
       #   run: |
