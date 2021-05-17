@@ -71,7 +71,7 @@ jobs:
         with: 
           commit_message: "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
           branch: ${{ github.head_ref }}
-          token: ${{ github.PAT }}
+          # token: ${{ github.PAT }}
 
       # - name: Commit new changes
       #   run: |
