@@ -63,24 +63,24 @@ jobs:
           branch: ${{ github.head_ref }}
           # token: ${{ github.PAT }}
 
-      - name: Setup Pub Credentials
-        run: |
-          mkdir -p ~/.pub-cache
-          cat <<EOF > ~/.pub-cache/credentials.json
-          {
-            "accessToken": "${{ secrets.PUB_DEV_PUBLISH_ACCESS_TOKEN }}",
-            "refreshToken": "${{ secrets.PUB_DEV_PUBLISH_REFRESH_TOKEN }}",
-            "tokenEndpoint": "${{ secrets.PUB_DEV_PUBLISH_TOKEN_ENDPOINT }}",
-            "scopes": ["openid", "https://www.googleapis.com/auth/userinfo.email"],
-            "expiration": ${{ secrets.PUB_DEV_PUBLISH_EXPIRATION }}
-          }
-          EOF
+      # - name: Setup Pub Credentials
+      #   run: |
+      #     mkdir -p ~/.pub-cache
+      #     cat <<EOF > ~/.pub-cache/credentials.json
+      #     {
+      #       "accessToken": "${{ secrets.PUB_DEV_PUBLISH_ACCESS_TOKEN }}",
+      #       "refreshToken": "${{ secrets.PUB_DEV_PUBLISH_REFRESH_TOKEN }}",
+      #       "tokenEndpoint": "${{ secrets.PUB_DEV_PUBLISH_TOKEN_ENDPOINT }}",
+      #       "scopes": ["openid", "https://www.googleapis.com/auth/userinfo.email"],
+      #       "expiration": ${{ secrets.PUB_DEV_PUBLISH_EXPIRATION }}
+      #     }
+      #     EOF
           
-      - name: Check Publish Warnings
-        run: flutter pub publish --dry-run
+      # - name: Check Publish Warnings
+      #   run: flutter pub publish --dry-run
 
-      - name: Publish Package
-        run: flutter pub publish -f
+      # - name: Publish Package
+      #   run: flutter pub publish -f
 
       # - name: Commit new changes
       #   run: |
