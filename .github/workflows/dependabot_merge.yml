@@ -56,11 +56,15 @@ jobs:
       - name: Stach changes
         run: git add .
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with: 
           commit_message: "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
           branch: ${{ github.head_ref }}
           # token: ${{ github.PAT }}
+
+      - name: Push to pub.dev
+        run: flutter pub publish --force
 
       # - name: Commit new changes
       #   run: |
