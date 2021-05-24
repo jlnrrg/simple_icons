@@ -9,21 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     # if: github.actor == 'dependabot[bot]'
     steps:
-      # close PR
-      - name: Comment close PR
-        env:
-          URL: ${{ github.event.pull_request.comments_url }}
-          GITHUB_TOKEN: ${{ secrets.MYGITHUB_TOKEN }}
-          MSG: '@dependabot close'
-        run: |
-          curl \
-            -X POST \
-            $URL \
-            -H "Content-Type: application/json" \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            --data '{ "body": "$MSG" }'
-
-    # start real build
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
