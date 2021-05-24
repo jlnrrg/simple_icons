@@ -71,7 +71,7 @@ jobs:
           PUB_DEV_PUBLISH_TOKEN_ENDPOINT: ${{ secrets.PUB_DEV_PUBLISH_TOKEN_ENDPOINT }}
           PUB_DEV_PUBLISH_EXPIRATION: ${{ secrets.PUB_DEV_PUBLISH_EXPIRATION }}
         run: |
-          sh ./pub_login.sh
+          sh ./tool/pub_login.sh
           
       - name: Check Publish Warnings
         run: flutter pub publish --dry-run
