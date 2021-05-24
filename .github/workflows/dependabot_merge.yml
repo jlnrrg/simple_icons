@@ -38,6 +38,9 @@ jobs:
           channel: 'stable' # 'dev', 'alpha', default to: 'stable'
           # flutter-version: '1.12.x' # you can also specify exact version of flutter
 
+      - name: Update Ubuntu
+        run: sudo apt update && sudo apt upgrade -y
+
       - name: Install dependencies
         run: sudo apt install fonttools && sudo snap install yq
         
