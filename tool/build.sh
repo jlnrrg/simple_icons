@@ -54,7 +54,7 @@ echo "starting the build process"
 
 echo "get latest ttf"
 cd "$WORKSPACEPATH/vendor"
-npm install --force simple-icons-font
+npm install --force simple-icons-font@latest
 /bin/cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
 cd "$WORKSPACEPATH/fonts"
 

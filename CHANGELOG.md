@@ -1,3 +1,13 @@
+## [5.1.0] - auto_generated update
+### New Icons
+
+- Construct 3 ([#5515](https://github.com/simple-icons/simple-icons/pull/5515))
+- Paddy Power ([#5744](https://github.com/simple-icons/simple-icons/pull/5744))
+
+### Updated Icons
+
+- ManageIQ ([#5165](https://github.com/simple-icons/simple-icons/pull/5165))
+
 ## [4.25.0] - auto_generated update
 [Changelog 4.25.0](https://github.com/simple-icons/simple-icons-font/releases/tag/4.25.0)
 
