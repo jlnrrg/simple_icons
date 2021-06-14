@@ -12,15 +12,17 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
+          repository: jlnrrg/simple_icons
+          token: ${{ secrets.PAT }}
 
       - uses: actions/setup-node@v2
         with:
-          node-version: '15.x'
+          node-version: "15.x"
 
       # Setup the flutter environment.
       - uses: subosito/flutter-action@v1
         with:
-          channel: 'stable' # 'dev', 'alpha', default to: 'stable'
+          channel: "stable" # 'dev', 'alpha', default to: 'stable'
           # flutter-version: '1.12.x' # you can also specify exact version of flutter
 
       - name: Update Ubuntu
@@ -28,7 +30,7 @@ jobs:
 
       - name: Install dependencies
         run: sudo apt install fonttools && sudo snap install yq
-        
+
       - name: Get Flutter packages
         run: flutter pub get
 
@@ -52,16 +54,27 @@ jobs:
           content="${content//$'\r'/'%0D'}"
           # end of optional handling for multi line json
           echo "::set-output name=packageJson::$content"
-          
+
       - name: Stach changes
         run: git add .
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with: 
-          commit_message: "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
-          branch: ${{ github.head_ref }}
-          # token: ${{ github.PAT }}
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add --all
+          git commit -m "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
+          git push https://$USERNAME:$REPO_KEY@github.com/jlnrrg/simple_icons.git $GITHUB_REF
+        env:
+          REPO_KEY: ${{ secrets.PAT }}
+          USERNAME: github-actions
+
+      # - name: Commit changes
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     commit_message: "🤖 - update to ${{fromJson(steps.set_var.outputs.packageJson).dependencies.simple-icons-font}}"
+      #     branch: ${{ github.head_ref }}
+      # token: ${{ github.PAT }}
 
       # - name: Setup Pub Credentials
       #   run: |
@@ -75,7 +88,7 @@ jobs:
       #       "expiration": ${{ secrets.PUB_DEV_PUBLISH_EXPIRATION }}
       #     }
       #     EOF
-          
+
       # - name: Check Publish Warnings
       #   run: flutter pub publish --dry-run
 
