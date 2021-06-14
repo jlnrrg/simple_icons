@@ -1,3 +1,6 @@
+## [5.2.0] - auto_generated update
+[Changelog 5.2.0](https://github.com/simple-icons/simple-icons-font/releases/tag/5.2.0)
+
 ## [5.1.0] - auto_generated update
 ### New Icons
 
