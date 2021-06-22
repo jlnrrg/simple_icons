@@ -1,3 +1,30 @@
+## [5.3.0] - auto_generated update
+### New Icons
+
+- Binance ([#5906](https://github.com/simple-icons/simple-icons/pull/5906))
+- ByteDance ([#5909](https://github.com/simple-icons/simple-icons/pull/5909))
+- Cloud Foundry ([#5841](https://github.com/simple-icons/simple-icons/pull/5841))
+- dbt ([#5492](https://github.com/simple-icons/simple-icons/pull/5492))
+- Foursquare City Guide ([#5989](https://github.com/simple-icons/simple-icons/pull/5989))
+- Icons8 ([#5924](https://github.com/simple-icons/simple-icons/pull/5924))
+- Polywork ([#5806](https://github.com/simple-icons/simple-icons/pull/5806))
+- Portainer ([#5868](https://github.com/simple-icons/simple-icons/pull/5868))
+- Pytest ([#5871](https://github.com/simple-icons/simple-icons/pull/5871))
+- Railway ([#5818](https://github.com/simple-icons/simple-icons/pull/5818))
+- Wallabag ([#5864](https://github.com/simple-icons/simple-icons/pull/5864))
+- Zig ([#5572](https://github.com/simple-icons/simple-icons/pull/5572))
+
+### Updated Icons
+
+- Battle.net ([#5986](https://github.com/simple-icons/simple-icons/pull/5986))
+- Beatport ([#5985](https://github.com/simple-icons/simple-icons/pull/5985))
+- Foursquare ([#5989](https://github.com/simple-icons/simple-icons/pull/5989))
+- Grubhub ([#5168](https://github.com/simple-icons/simple-icons/pull/5168))
+
+---
+
+:warning: The old `Foursquare` SVG can now be found as `Foursquare City Guide`, see #5989 for more info.
+
 ## [5.2.0] - auto_generated update
 [Changelog 5.2.0](https://github.com/simple-icons/simple-icons-font/releases/tag/5.2.0)
 
