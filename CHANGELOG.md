@@ -1,3 +1,27 @@
+## [5.4.0] - auto_generated update
+### New Icons
+
+- Adidas ([#5917](https://github.com/simple-icons/simple-icons/pull/5917))
+- AEW ([#5971](https://github.com/simple-icons/simple-icons/pull/5971))
+- App Annie ([#5353](https://github.com/simple-icons/simple-icons/pull/5353))
+- Cytoscape.js ([#5968](https://github.com/simple-icons/simple-icons/pull/5968))
+- ExpressVPN ([#6001](https://github.com/simple-icons/simple-icons/pull/6001))
+- Frontend Mentor ([#5746](https://github.com/simple-icons/simple-icons/pull/5746))
+- Jordan ([#5920](https://github.com/simple-icons/simple-icons/pull/5920))
+- KFC ([#6025](https://github.com/simple-icons/simple-icons/pull/6025))
+- Konva ([#5797](https://github.com/simple-icons/simple-icons/pull/5797))
+- Nette ([#5821](https://github.com/simple-icons/simple-icons/pull/5821))
+- Nike ([#5916](https://github.com/simple-icons/simple-icons/pull/5916))
+- NordVPN ([#5908](https://github.com/simple-icons/simple-icons/pull/5908))
+- Protractor ([#5999](https://github.com/simple-icons/simple-icons/pull/5999))
+- Puma ([#5919](https://github.com/simple-icons/simple-icons/pull/5919))
+- PyScaffold ([#5866](https://github.com/simple-icons/simple-icons/pull/5866))
+- React Table ([#5979](https://github.com/simple-icons/simple-icons/pull/5979))
+- Reebok ([#5921](https://github.com/simple-icons/simple-icons/pull/5921))
+- Sequelize ([#4539](https://github.com/simple-icons/simple-icons/pull/4539))
+- Spond ([#5995](https://github.com/simple-icons/simple-icons/pull/5995))
+- Starbucks ([#5910](https://github.com/simple-icons/simple-icons/pull/5910))
+
 ## [5.3.0] - auto_generated update
 ### New Icons
 
