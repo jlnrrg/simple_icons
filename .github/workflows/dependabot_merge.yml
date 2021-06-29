@@ -1,19 +1,25 @@
 name: "Dependabot Automerge - Action"
 
 on:
-  pull_request:
+  pull_request_target:
   workflow_dispatch:
 
 jobs:
   worker:
     runs-on: ubuntu-latest
-    # if: github.actor == 'dependabot[bot]'
+    if: |
+      (github.event_name == 'pull_request_target' && github.actor == 'dependabot[bot]') ||
+      (github.event_name != 'workflow_dispatch' && github.actor != 'dependabot[bot]')
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        if: ${{ github.event_name != 'pull_request_target' }}
+        uses: actions/checkout@v2
+
+      - name: Checkout PR
+        if: ${{ github.event_name == 'pull_request_target' }}
+        uses: actions/checkout@v2
         with:
-          ref: ${{ github.head_ref }}
-          repository: jlnrrg/simple_icons
-          token: ${{ secrets.PAT }}
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - uses: actions/setup-node@v2
         with:
