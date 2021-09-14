@@ -1,3 +1,10 @@
+## [5.14.0] - auto_generated update
+### New Icons
+
+- boulanger ([#6473](https://github.com/simple-icons/simple-icons/pull/6473))
+- Carrefour ([#6385](https://github.com/simple-icons/simple-icons/pull/6385))
+- Lodash ([#6365](https://github.com/simple-icons/simple-icons/pull/6365))
+
 ## [5.4.0] - auto_generated update
 ### New Icons
 
