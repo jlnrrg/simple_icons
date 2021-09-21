@@ -1,3 +1,21 @@
+## [5.15.0] - auto_generated update
+### New Icons
+
+- Autoprefixer (#6496, #6513)
+- Franprix ([#6539](https://github.com/simple-icons/simple-icons/pull/6539))
+- GoCD ([#6195](https://github.com/simple-icons/simple-icons/pull/6195))
+- Spring Security ([#6206](https://github.com/simple-icons/simple-icons/pull/6206))
+- Tesco ([#6431](https://github.com/simple-icons/simple-icons/pull/6431))
+
+### Updated Icons
+
+- Cytoscape.js ([#6513](https://github.com/simple-icons/simple-icons/pull/6513))
+- Equinix Metal ([#6513](https://github.com/simple-icons/simple-icons/pull/6513))
+- Nuxt.js ([#6540](https://github.com/simple-icons/simple-icons/pull/6540))
+- Semaphore CI ([#6513](https://github.com/simple-icons/simple-icons/pull/6513))
+- Tailwind CSS ([#6553](https://github.com/simple-icons/simple-icons/pull/6553))
+- TUI ([#6553](https://github.com/simple-icons/simple-icons/pull/6553))
+
 ## [5.14.0] - auto_generated update
 ### New Icons
 
