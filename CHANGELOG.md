@@ -1,3 +1,27 @@
+## [5.16.0] - auto_generated update
+### New Icons
+
+- Dataiku ([#6305](https://github.com/simple-icons/simple-icons/pull/6305))
+- MediaMarkt ([#6573](https://github.com/simple-icons/simple-icons/pull/6573))
+- phpMyAdmin ([#6579](https://github.com/simple-icons/simple-icons/pull/6579))
+- Pulumi ([#6547](https://github.com/simple-icons/simple-icons/pull/6547))
+- PWA ([#6031](https://github.com/simple-icons/simple-icons/pull/6031))
+- Skynet ([#6367](https://github.com/simple-icons/simple-icons/pull/6367))
+- Zcash ([#6312](https://github.com/simple-icons/simple-icons/pull/6312))
+- Zyte ([#6578](https://github.com/simple-icons/simple-icons/pull/6578))
+
+### Updated Icons
+
+- Kotlin ([#6577](https://github.com/simple-icons/simple-icons/pull/6577))
+- Talend ([#6568](https://github.com/simple-icons/simple-icons/pull/6568))
+- Tata ([#6554](https://github.com/simple-icons/simple-icons/pull/6554))
+- Tesla ([#6554](https://github.com/simple-icons/simple-icons/pull/6554))
+- Thunderbird ([#6554](https://github.com/simple-icons/simple-icons/pull/6554))
+- Thymeleaf ([#6554](https://github.com/simple-icons/simple-icons/pull/6554))
+- TinyLetter ([#6554](https://github.com/simple-icons/simple-icons/pull/6554))
+- Topcoder ([#6554](https://github.com/simple-icons/simple-icons/pull/6554))
+- TurboSquid ([#6554](https://github.com/simple-icons/simple-icons/pull/6554))
+
 ## [5.15.0] - auto_generated update
 ### New Icons
 
