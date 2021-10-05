@@ -1,3 +1,28 @@
+## [5.17.0] - auto_generated update
+### New Icons
+
+- Bio Link ([#6586](https://github.com/simple-icons/simple-icons/pull/6586))
+- GoLand ([#6630](https://github.com/simple-icons/simple-icons/pull/6630))
+- Koc ([#6331](https://github.com/simple-icons/simple-icons/pull/6331))
+- The North Face ([#6576](https://github.com/simple-icons/simple-icons/pull/6576))
+
+### Updated Icons
+
+- &#352;KODA ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Aerom&#233;xico ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- AlloCin&#233; ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Citro&#235;n ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Dassault Syst&#232;mes ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Let&#8217;s Encrypt ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- M&#233;tro de Paris ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Macy&#8217;s ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Metro de la Ciudad de M&#233;xico ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Pok&#233;mon ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- RT&#201; ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- S&#227;o Paulo Metro ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+- Starling Bank ([#6229](https://github.com/simple-icons/simple-icons/pull/6229))
+- tado&#176; ([#6522](https://github.com/simple-icons/simple-icons/pull/6522))
+
 ## [5.16.0] - auto_generated update
 ### New Icons
 
