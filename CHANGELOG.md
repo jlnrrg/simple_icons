@@ -1,3 +1,38 @@
+## [5.18.0] - auto_generated update
+### New Icons
+
+- Aldi Nord ([#6382](https://github.com/simple-icons/simple-icons/pull/6382))
+- Aldi S&#252;d ([#6380](https://github.com/simple-icons/simple-icons/pull/6380))
+- Allegro ([#6631](https://github.com/simple-icons/simple-icons/pull/6631))
+- Appwrite ([#6478](https://github.com/simple-icons/simple-icons/pull/6478))
+- Artifact Hub ([#6173](https://github.com/simple-icons/simple-icons/pull/6173))
+- Aston Martin ([#5502](https://github.com/simple-icons/simple-icons/pull/5502))
+- Avast ([#5850](https://github.com/simple-icons/simple-icons/pull/5850))
+- Coil ([#5870](https://github.com/simple-icons/simple-icons/pull/5870))
+- DataGrip ([#5858](https://github.com/simple-icons/simple-icons/pull/5858))
+- FiveM ([#6655](https://github.com/simple-icons/simple-icons/pull/6655))
+- Flyway ([#6204](https://github.com/simple-icons/simple-icons/pull/6204))
+- Framework7 ([#5851](https://github.com/simple-icons/simple-icons/pull/5851))
+- GitHub Pages ([#6209](https://github.com/simple-icons/simple-icons/pull/6209))
+- Globus ([#6564](https://github.com/simple-icons/simple-icons/pull/6564))
+- InteractJS ([#6207](https://github.com/simple-icons/simple-icons/pull/6207))
+- Koa ([#5905](https://github.com/simple-icons/simple-icons/pull/5905))
+- Livewire ([#5608](https://github.com/simple-icons/simple-icons/pull/5608))
+- NOW ([#6289](https://github.com/simple-icons/simple-icons/pull/6289))
+- NZXT ([#5899](https://github.com/simple-icons/simple-icons/pull/5899))
+- O'Reilly ([#6687](https://github.com/simple-icons/simple-icons/pull/6687))
+- Peak Design ([#6504](https://github.com/simple-icons/simple-icons/pull/6504))
+- Penny ([#6378](https://github.com/simple-icons/simple-icons/pull/6378))
+- Redmine ([#6326](https://github.com/simple-icons/simple-icons/pull/6326))
+- RescueTime ([#6301](https://github.com/simple-icons/simple-icons/pull/6301))
+- Rocky Linux ([#5881](https://github.com/simple-icons/simple-icons/pull/5881))
+- Rome ([#5973](https://github.com/simple-icons/simple-icons/pull/5973))
+- SCP Foundation ([#6212](https://github.com/simple-icons/simple-icons/pull/6212))
+- Snowpack ([#5978](https://github.com/simple-icons/simple-icons/pull/5978))
+- TestCafe ([#6650](https://github.com/simple-icons/simple-icons/pull/6650))
+- Welcome to the Jungle ([#6624](https://github.com/simple-icons/simple-icons/pull/6624))
+- Wiki.js ([#6676](https://github.com/simple-icons/simple-icons/pull/6676))
+
 ## [5.17.0] - auto_generated update
 ### New Icons
 
