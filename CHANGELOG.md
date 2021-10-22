@@ -1,3 +1,20 @@
+## [5.19.0] - auto_generated update
+### New Icons
+
+- Aqua ([#5993](https://github.com/simple-icons/simple-icons/pull/5993))
+- Backbone.js ([#6714](https://github.com/simple-icons/simple-icons/pull/6714))
+- Gunicorn ([#6720](https://github.com/simple-icons/simple-icons/pull/6720))
+- MSI ([#6710](https://github.com/simple-icons/simple-icons/pull/6710))
+- Percy ([#6677](https://github.com/simple-icons/simple-icons/pull/6677))
+- Personio ([#6700](https://github.com/simple-icons/simple-icons/pull/6700))
+- Sourcetree ([#6701](https://github.com/simple-icons/simple-icons/pull/6701))
+- Steelseries ([#6711](https://github.com/simple-icons/simple-icons/pull/6711))
+- Uptobox ([#6244](https://github.com/simple-icons/simple-icons/pull/6244))
+
+### Updated Icons
+
+- Samsung Pay ([#6234](https://github.com/simple-icons/simple-icons/pull/6234))
+
 ## [5.18.0] - auto_generated update
 ### New Icons
 
