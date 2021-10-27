@@ -1,3 +1,13 @@
+## [5.20.0] - auto_generated update
+### New Icons
+
+- 4chan ([#6682](https://github.com/simple-icons/simple-icons/pull/6682))
+- Arm ([#6480](https://github.com/simple-icons/simple-icons/pull/6480))
+- Create React App ([#6734](https://github.com/simple-icons/simple-icons/pull/6734))
+- i18next ([#6750](https://github.com/simple-icons/simple-icons/pull/6750))
+- Rotary International ([#6196](https://github.com/simple-icons/simple-icons/pull/6196))
+- Tether ([#6502](https://github.com/simple-icons/simple-icons/pull/6502))
+
 ## [5.19.0] - auto_generated update
 ### New Icons
 
