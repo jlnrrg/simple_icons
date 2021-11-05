@@ -1,3 +1,8 @@
+## [5.21.1] - auto_generated update
+### Fix
+
+- Remove `postinstall` script from package manifest.
+
 ## [5.20.0] - auto_generated update
 ### New Icons
 
