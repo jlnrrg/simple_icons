@@ -1,3 +1,28 @@
+## [5.22.0] - auto_generated update
+### Package
+
+- Improve performance of `icon.path` ([#6505](https://github.com/simple-icons/simple-icons/pull/6505))
+
+### New Icons
+
+- Abbott ([#6799](https://github.com/simple-icons/simple-icons/pull/6799))
+- Adyen ([#6766](https://github.com/simple-icons/simple-icons/pull/6766))
+- AMG ([#6335](https://github.com/simple-icons/simple-icons/pull/6335))
+- BEM ([#6732](https://github.com/simple-icons/simple-icons/pull/6732))
+- Bukalapak ([#6784](https://github.com/simple-icons/simple-icons/pull/6784))
+- Cockpit ([#6672](https://github.com/simple-icons/simple-icons/pull/6672))
+- Code Review ([#6668](https://github.com/simple-icons/simple-icons/pull/6668))
+- Comsol ([#6769](https://github.com/simple-icons/simple-icons/pull/6769))
+- Dlib ([#6663](https://github.com/simple-icons/simple-icons/pull/6663))
+- EDEKA ([#6375](https://github.com/simple-icons/simple-icons/pull/6375))
+- esbuild ([#5972](https://github.com/simple-icons/simple-icons/pull/5972))
+- Géant ([#6545](https://github.com/simple-icons/simple-icons/pull/6545))
+- Merck ([#5904](https://github.com/simple-icons/simple-icons/pull/5904))
+- Obsidian ([#5287](https://github.com/simple-icons/simple-icons/pull/5287))
+- Sabanci ([#6333](https://github.com/simple-icons/simple-icons/pull/6333))
+- Typeform ([#6765](https://github.com/simple-icons/simple-icons/pull/6765))
+- Underscore.js ([#6815](https://github.com/simple-icons/simple-icons/pull/6815))
+
 ## [5.21.1] - auto_generated update
 ### Fix
 
