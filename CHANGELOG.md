@@ -1,3 +1,13 @@
+## [5.24.0] - auto_generated update
+### New Icons
+
+- Anta ([#6869](https://github.com/simple-icons/simple-icons/pull/6869))
+- Flat ([#6822](https://github.com/simple-icons/simple-icons/pull/6822))
+- Lemmy ([#6857](https://github.com/simple-icons/simple-icons/pull/6857))
+- Polkadot ([#6863](https://github.com/simple-icons/simple-icons/pull/6863))
+- Schneider Electric ([#6855](https://github.com/simple-icons/simple-icons/pull/6855))
+- Tubi ([#6877](https://github.com/simple-icons/simple-icons/pull/6877))
+
 ## [5.22.0] - auto_generated update
 ### Package
 
