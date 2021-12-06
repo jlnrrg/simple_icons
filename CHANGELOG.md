@@ -1,3 +1,45 @@
+## [6.1.0] - auto_generated update
+### New Icons
+
+- ASDA ([#6390](https://github.com/simple-icons/simple-icons/pull/6390))
+- Boots ([#6392](https://github.com/simple-icons/simple-icons/pull/6392))
+- Microsoft Translator ([#6841](https://github.com/simple-icons/simple-icons/pull/6841))
+- Octane Render ([#6909](https://github.com/simple-icons/simple-icons/pull/6909))
+- Solid ([#6595](https://github.com/simple-icons/simple-icons/pull/6595))
+- Talenthouse ([#6929](https://github.com/simple-icons/simple-icons/pull/6929))
+
+### Updated Icons
+
+- arXiv ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Avast ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Backbone.js ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- BEM ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Bio Link ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Cockpit ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Code Review ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Coil ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- DataGrip ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Dlib ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- esbuild ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- FiveM ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Foursquare ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Framework7 ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- GoLand ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Kaggle ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Koa ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Kotlin ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Lerna ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Merck ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- NZXT ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- OpenMined ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- phpMyAdmin ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Qualys ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- ReactiveX ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Rome ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Salt Project ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Snowpack ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+- Tether ([#6930](https://github.com/simple-icons/simple-icons/pull/6930))
+
 ## [5.24.0] - auto_generated update
 ### New Icons
 
