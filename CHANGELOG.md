@@ -1,3 +1,29 @@
+## [6.11.0] - auto_generated update
+### Package
+- update xml dependency
+### New Icons
+
+- Cora ([#6409](https://github.com/simple-icons/simple-icons/pull/6409))
+- Leader Price ([#6406](https://github.com/simple-icons/simple-icons/pull/6406))
+- Picard Surgel&#233;s ([#6488](https://github.com/simple-icons/simple-icons/pull/6488))
+- Social Blade ([#7152](https://github.com/simple-icons/simple-icons/pull/7152))
+
+### Updated Icons
+
+- CodeNewbie ([#7156](https://github.com/simple-icons/simple-icons/pull/7156))
+- Fandom ([#6281](https://github.com/simple-icons/simple-icons/pull/6281))
+- WhatsApp ([#7155](https://github.com/simple-icons/simple-icons/pull/7155))
+
+## [6.9.0] - auto_generated update
+### New Icons
+
+- Credly ([#7032](https://github.com/simple-icons/simple-icons/pull/7032))
+- Linkfire ([#6620](https://github.com/simple-icons/simple-icons/pull/6620))
+- pkgsrc ([#7061](https://github.com/simple-icons/simple-icons/pull/7061))
+- ReScript ([#7108](https://github.com/simple-icons/simple-icons/pull/7108))
+- Tauri ([#7094](https://github.com/simple-icons/simple-icons/pull/7094))
+- Traefik Mesh ([#7102](https://github.com/simple-icons/simple-icons/pull/7102))
+
 ## [6.1.0] - auto_generated update
 ### New Icons
 

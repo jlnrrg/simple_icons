@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_brand_icons/flutter_brand_icons.dart';
 import 'package:simple_icons/simple_icons.dart';
 
 void main() {
@@ -20,6 +21,24 @@ class MyHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(body: Center(child: Icon(SimpleIcons.github)));
+    const double iconSize = 400;
+    return MaterialApp(
+      home: Scaffold(
+        body: Stack(
+          children: [
+            Icon(
+              SimpleIcons.apple,
+              color: Colors.red,
+              size: iconSize,
+            ),
+            Icon(
+              BrandIcons.apple,
+              color: Colors.blue,
+              size: iconSize,
+            ),
+          ],
+        ),
+      ),
+    );
   }
 }
