@@ -1,4 +1,6 @@
 ## [6.13.0] - auto_generated update
+### Package
+- bugfix: icons under the wrong name [issue #61](https://github.com/jlnrrg/simple_icons/issues/61)
 ### New Icons
 
 - AJV ([#7183](https://github.com/simple-icons/simple-icons/pull/7183))
