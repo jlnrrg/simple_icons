@@ -1,3 +1,13 @@
+## [6.13.0] - auto_generated update
+### New Icons
+
+- AJV ([#7183](https://github.com/simple-icons/simple-icons/pull/7183))
+- data.ai ([#7181](https://github.com/simple-icons/simple-icons/pull/7181))
+- Konami ([#7120](https://github.com/simple-icons/simple-icons/pull/7120))
+- OpenZFS ([#7052](https://github.com/simple-icons/simple-icons/pull/7052))
+- Simplenote ([#7170](https://github.com/simple-icons/simple-icons/pull/7170))
+- YOLO ([#7040](https://github.com/simple-icons/simple-icons/pull/7040))
+
 ## [6.11.0] - auto_generated update
 ### Package
 - update xml dependency

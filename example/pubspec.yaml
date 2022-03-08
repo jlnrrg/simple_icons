@@ -10,8 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_brand_icons:
-    path: ../../flutter_brand_icons
   simple_icons:
     path: ../
 
