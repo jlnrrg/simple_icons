@@ -69,5 +69,6 @@ ${DARTSDK}/dart "./tool/generate_fonts.dart" "./fonts/SimpleIcons.ttx"
 
 echo "formatting dart file"
 ${DARTSDK}/dart format "./lib/src/flutter_simple_icons.g.dart"
+${DARTSDK}/dart format "./lib/src/flutter_simple_icons_map.g.dart"
 
 echo "build process done"

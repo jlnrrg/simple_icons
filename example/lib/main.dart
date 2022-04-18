@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
         child: Column(
           children: [
             Icon(
-              SimpleIcons.apple,
+              SimpleIconsMap()["apple"] ?? SimpleIcons.apple,
               color: Colors.red,
               size: iconSize,
             ),
