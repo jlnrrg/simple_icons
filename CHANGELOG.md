@@ -1,3 +1,13 @@
+## [7.1.0] - auto_generated update
+### New Icons
+
+- k6 ([#7485](https://github.com/simple-icons/simple-icons/pull/7485))
+- OpenZeppelin ([#7426](https://github.com/simple-icons/simple-icons/pull/7426))
+
+### Updated Icons
+
+- Amazon ([#7492](https://github.com/simple-icons/simple-icons/pull/7492))
+
 ## [6.13.0] - auto_generated update
 ### Package
 - bugfix: icons under the wrong name [issue #61](https://github.com/jlnrrg/simple_icons/issues/61)
