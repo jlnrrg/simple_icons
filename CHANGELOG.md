@@ -1,3 +1,14 @@
+## [7.10.0] - auto_generated update
+### New Icons
+
+- Bun ([#7731](https://github.com/simple-icons/simple-icons/pull/7731))
+- NextBillion.ai ([#7734](https://github.com/simple-icons/simple-icons/pull/7734))
+- OpenProject ([#7741](https://github.com/simple-icons/simple-icons/pull/7741))
+- QMK ([#7725](https://github.com/simple-icons/simple-icons/pull/7725))
+- V2EX ([#5839](https://github.com/simple-icons/simple-icons/pull/5839))
+- Wasmer ([#7646](https://github.com/simple-icons/simple-icons/pull/7646))
+- Windows 11 ([#7707](https://github.com/simple-icons/simple-icons/pull/7707))
+
 ## [7.1.0] - auto_generated update
 ### New Icons
 
