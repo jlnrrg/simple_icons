@@ -1,3 +1,6 @@
+## [10.1.1] - Add screenshot
+- add a screenshot for the display on pub.dev
+
 ## [10.1.0] - Implement Map
 ### New Features
 - lookup icons by String using the SimpleIcons.values map
