@@ -1,6 +1,6 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # dependencies: 
-# sudo snap install yq
+# sudo snap install yq, jq
 
 # Absolute path to this script, e.g. /home/user/bin/foo.sh
 SCRIPT=$(readlink -f "$0")

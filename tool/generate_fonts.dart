@@ -36,8 +36,21 @@ void main(List<String> args) {
         static const IconData ${ReCase(iconName).camelCase} = SimpleIconData($iconUnicode);\n''');
   });
 
+  generatedOutput.add('''\n\n
+        /// [values] offers the [Map<String, IconData>] of [https://simpleicons.org/]
+        static const Map<String, IconData> values = {\n
+  ''');
+
+  icons.forEach((String iconName, String iconUnicode) {
+    iconName = validateVariableName(iconName);
+    generatedOutput.add('''
+        "${ReCase(iconName).camelCase}": SimpleIcons.${ReCase(iconName).camelCase},''');
+  });
+
+  generatedOutput.add('};\n\n');
+
   generatedOutput.add('}\n');
 
-  final File output = File('./lib/src/flutter_simple_icons.g.dart');
-  output.writeAsStringSync(generatedOutput.join());
+  final File fontFile = File('./lib/src/flutter_simple_icons.g.dart');
+  fontFile.writeAsStringSync(generatedOutput.join());
 }

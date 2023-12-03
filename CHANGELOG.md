@@ -1,3 +1,63 @@
+## [10.1.0] - Implement Map
+### New Features
+- lookup icons by String using the SimpleIcons.values map
+- simplify the build scripts
+
+### New Icons
+
+- 99designs ([#9987](https://github.com/simple-icons/simple-icons/pull/9987))
+- 9GAG ([#8329](https://github.com/simple-icons/simple-icons/pull/8329))
+- Amazon Music ([#9942](https://github.com/simple-icons/simple-icons/pull/9942))
+- APM Terminals ([#9984](https://github.com/simple-icons/simple-icons/pull/9984))
+- AutoCAD ([#9920](https://github.com/simple-icons/simple-icons/pull/9920))
+- Autodesk Maya ([#9919](https://github.com/simple-icons/simple-icons/pull/9919))
+- CCleaner ([#9971](https://github.com/simple-icons/simple-icons/pull/9971))
+- Cloudinary ([#9930](https://github.com/simple-icons/simple-icons/pull/9930))
+- Codementor ([#9967](https://github.com/simple-icons/simple-icons/pull/9967))
+- Coggle ([#9947](https://github.com/simple-icons/simple-icons/pull/9947))
+- Contentstack ([#9935](https://github.com/simple-icons/simple-icons/pull/9935))
+- Coppel ([#9960](https://github.com/simple-icons/simple-icons/pull/9960))
+- Doxygen ([#9735](https://github.com/simple-icons/simple-icons/pull/9735))
+- EJS ([#9325](https://github.com/simple-icons/simple-icons/pull/9325))
+- GetX ([#9901](https://github.com/simple-icons/simple-icons/pull/9901))
+- Gin ([#9961](https://github.com/simple-icons/simple-icons/pull/9961))
+- Glovo ([#9989](https://github.com/simple-icons/simple-icons/pull/9989))
+- HDFC Bank ([#9945](https://github.com/simple-icons/simple-icons/pull/9945))
+- ICICI Bank ([#6021](https://github.com/simple-icons/simple-icons/pull/6021))
+- INSPIRE ([#9991](https://github.com/simple-icons/simple-icons/pull/9991))
+- LibreOffice Draw ([#9924](https://github.com/simple-icons/simple-icons/pull/9924))
+- LibreOffice Impress ([#9925](https://github.com/simple-icons/simple-icons/pull/9925))
+- LibreOffice Math ([#9926](https://github.com/simple-icons/simple-icons/pull/9926))
+- LibreOffice Writer ([#9927](https://github.com/simple-icons/simple-icons/pull/9927))
+- Linux Professional Institute ([#9957](https://github.com/simple-icons/simple-icons/pull/9957))
+- MentorCruise ([#9968](https://github.com/simple-icons/simple-icons/pull/9968))
+- Moqups ([#9943](https://github.com/simple-icons/simple-icons/pull/9943))
+- MyGet ([#9975](https://github.com/simple-icons/simple-icons/pull/9975))
+- netcup ([#9352](https://github.com/simple-icons/simple-icons/pull/9352))
+- PDQ ([#9944](https://github.com/simple-icons/simple-icons/pull/9944))
+- Pond5 ([#9720](https://github.com/simple-icons/simple-icons/pull/9720))
+- quicktype ([#9966](https://github.com/simple-icons/simple-icons/pull/9966))
+- Rapid ([#9992](https://github.com/simple-icons/simple-icons/pull/9992))
+- Raylib ([#9895](https://github.com/simple-icons/simple-icons/pull/9895))
+- Ritz Carlton ([#9872](https://github.com/simple-icons/simple-icons/pull/9872))
+- Scrapy ([#9983](https://github.com/simple-icons/simple-icons/pull/9983))
+- shadcn/ui ([#9918](https://github.com/simple-icons/simple-icons/pull/9918))
+- Soriana ([#9567](https://github.com/simple-icons/simple-icons/pull/9567))
+- Streamlabs ([#9917](https://github.com/simple-icons/simple-icons/pull/9917))
+- Tabelog ([#9990](https://github.com/simple-icons/simple-icons/pull/9990))
+- VEGAS ([#9986](https://github.com/simple-icons/simple-icons/pull/9986))
+- Visual Studio App Center ([#9874](https://github.com/simple-icons/simple-icons/pull/9874))
+- YouTube Kids ([#9454](https://github.com/simple-icons/simple-icons/pull/9454))
+- Yr ([#8216](https://github.com/simple-icons/simple-icons/pull/8216))
+- Ziggo ([#9974](https://github.com/simple-icons/simple-icons/pull/9974))
+
+### Updated Icons
+
+- HelloFresh ([#9962](https://github.com/simple-icons/simple-icons/pull/9962))
+- Quantcast ([#9959](https://github.com/simple-icons/simple-icons/pull/9959))
+- Webex ([#9936](https://github.com/simple-icons/simple-icons/pull/9936))
+- Webflow ([#9982](https://github.com/simple-icons/simple-icons/pull/9982))
+
 ## [7.10.0] - auto_generated update
 ### New Icons
 

@@ -1,3 +1,7 @@
+# Own
+fonts
+node_modules/
+
 # Miscellaneous
 *.class
 *.log
