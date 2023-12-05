@@ -21,8 +21,14 @@ echo "starting the build process"
 
 echo "get latest ttf"
 cd "$WORKSPACEPATH/vendor"
+# download font
 npm install --force simple-icons-font@latest
 /bin/cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
+
+# download json
+npm install --force simple-icons@latest
+/bin/cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons/_data/simple-icons.json" "$WORKSPACEPATH/fonts/"
+
 cd "$WORKSPACEPATH/fonts"
 
 
@@ -32,9 +38,12 @@ ttx -t cmap SimpleIcons.ttf
 
 cd "$WORKSPACEPATH"
 echo "generating dart file"
-dart "./tool/generate_fonts.dart" "./fonts/SimpleIcons.ttx"
+dart "./tool/generate_fonts.dart"
 
-echo "formatting dart file"
-dart format "./lib/src/flutter_simple_icons.g.dart"
+echo "formatting dart files"
+dart format "./lib/src/icon_data.g.dart"
+dart format "./lib/src/icon_color.g.dart"
+
+/bin/rm "$WORKSPACEPATH/fonts/simple-icons.json"
 
 echo "build process done"

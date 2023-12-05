@@ -1,4 +1,5 @@
 import 'dart:collection';
+import "package:unorm_dart/unorm_dart.dart" as unorm;
 
 String validateVariableName(String name) {
   // adds 'Icon' behind variables consistent out of locked dart keywords
@@ -11,6 +12,29 @@ String validateVariableName(String name) {
     name = 'n' + name;
   }
   return name;
+}
+
+const _replacementMap = {
+  '+': 'plus',
+  '#': 'sharp',
+  '.': 'dot',
+  '&': 'and',
+  'đ': 'd',
+  'ħ': 'h',
+  'ı': 'i',
+  'ĸ': 'k',
+  'ŀ': 'l',
+  'ł': 'l',
+  'ß': 'ss',
+  'ŧ': 't',
+};
+
+String nameToSlug(String name) {
+  name = name.toLowerCase();
+  for (final e in _replacementMap.entries) {
+    name = name.replaceAll(e.key, e.value);
+  }
+  return unorm.nfd(name).replaceAll(RegExp('[^a-z0-9]'), '');
 }
 
 // source: https://pub.dev/documentation/exception_templates/latest/exception_templates/dartKeywords.html

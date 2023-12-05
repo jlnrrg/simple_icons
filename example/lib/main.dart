@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatelessWidget {
-  const MyHomePage({Key key}) : super(key: key);
+  const MyHomePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -28,22 +28,22 @@ class MyHomePage extends StatelessWidget {
           children: [
             Icon(
               SimpleIcons.apple,
-              color: Colors.red,
+              color: SimpleIconColors.apple,
               size: iconSize,
             ),
             Icon(
               SimpleIcons.trakt,
-              color: Colors.blue,
+              color: SimpleIconColors.trakt,
               size: iconSize,
             ),
             Icon(
               SimpleIcons.themoviedatabase,
-              color: Colors.blue,
+              color: SimpleIconColors.themoviedatabase,
               size: iconSize,
             ),
             Icon(
               SimpleIcons.imdb,
-              color: Colors.blue,
+              color: SimpleIconColors.imdb,
               size: iconSize,
             ),
           ],

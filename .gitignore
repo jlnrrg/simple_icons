@@ -1,6 +1,6 @@
 # Own
-fonts
 node_modules/
+flutter_sdk
 
 # Miscellaneous
 *.class

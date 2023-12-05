@@ -1,3 +1,4 @@
 library simple_icons;
 
-export './src/flutter_simple_icons.g.dart';
+export './src/icon_color.g.dart';
+export './src/icon_data.g.dart';

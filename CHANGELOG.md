@@ -1,7 +1,14 @@
-## [10.1.1] - Add screenshot
+## [10.1.2] - Breaking Change
+- change file paths
+- add SimpleIconColors, (not every icon has a color) (#102)
+- add values map
+- overwork the build script
+- reupload font file (#104)
+
+## [10.1.1] - BROKEN, Add screenshot
 - add a screenshot for the display on pub.dev
 
-## [10.1.0] - Implement Map
+## [10.1.0] - BROKEN, Implement Map
 ### New Features
 - lookup icons by String using the SimpleIcons.values map
 - simplify the build scripts

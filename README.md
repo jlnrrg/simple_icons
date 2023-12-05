@@ -29,7 +29,12 @@ Apple Pay ➔ applepay
 abstract ➔ abstracticon
 ```
 
-## 
+
+## SimpleIconColors
+
+As of version 10.1.2 the SimpleIconColors exists, which holds the brands hex color. </br>
+Some brands did not receive a color. This is a known error in the build script. <br>
+If you find any icon which you like to have color support for, feel free to open an issue.
 
 ## Installation
 
@@ -48,7 +53,7 @@ import "package:simple_icons/simple_icons.dart";
 class MyAwesomeWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
-      icon: Icon(SimpleIcons.github),
+      icon: Icon(SimpleIcons.github, color: SimpleIconColors.github),
       onPressed: () {
           print("awesome platform to share code and ideas");
       }
