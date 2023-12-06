@@ -1,4 +1,4 @@
-## [10.1.2] - Remove SimpleIconColors Opacity
+## [10.1.3] - Remove SimpleIconColors Opacity
 - add golden tests for colors
 - add golden tests for icon data (not yet working)
 
