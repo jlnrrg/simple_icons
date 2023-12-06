@@ -26,8 +26,9 @@ class MyHomePage extends StatelessWidget {
           body: SingleChildScrollView(
         child: Column(
           children: [
+            Text('Here you should see some icons'),
             Icon(
-              SimpleIcons.apple,
+              Icons.calendar_month,
               color: SimpleIconColors.apple,
               size: iconSize,
             ),
@@ -38,7 +39,7 @@ class MyHomePage extends StatelessWidget {
             ),
             Icon(
               SimpleIcons.themoviedatabase,
-              color: SimpleIconColors.themoviedatabase,
+              color: Colors.blue,
               size: iconSize,
             ),
             Icon(

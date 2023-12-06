@@ -5,8509 +5,8509 @@ import 'package:flutter/widgets.dart';
 /// [SimpleIconColors] offers the [Color] of [https://simpleicons.org/]'s icons
 class SimpleIconColors {
   /// SimpleIcons dotenv [Color] from Hex ecd53f
-  static const Color dotenv = Color(0xecd53f);
+  static const Color dotenv = Color(0xffecd53f);
 
   /// SimpleIcons dotnet [Color] from Hex 512bd4
-  static const Color dotnet = Color(0x512bd4);
+  static const Color dotnet = Color(0xff512bd4);
 
   /// SimpleIcons e [Color] from Hex 000000
-  static const Color e = Color(0x000000);
+  static const Color e = Color(0xff000000);
 
   /// SimpleIcons n1001tracklists [Color] from Hex 40aef0
-  static const Color n1001tracklists = Color(0x40aef0);
+  static const Color n1001tracklists = Color(0xff40aef0);
 
   /// SimpleIcons n1password [Color] from Hex 1a285f
-  static const Color n1password = Color(0x1a285f);
+  static const Color n1password = Color(0xff1a285f);
 
   /// SimpleIcons n3m [Color] from Hex ff0000
-  static const Color n3m = Color(0xff0000);
+  static const Color n3m = Color(0xffff0000);
 
   /// SimpleIcons n42 [Color] from Hex 000000
-  static const Color n42 = Color(0x000000);
+  static const Color n42 = Color(0xff000000);
 
   /// SimpleIcons n4chan [Color] from Hex 006600
-  static const Color n4chan = Color(0x006600);
+  static const Color n4chan = Color(0xff006600);
 
   /// SimpleIcons n4d [Color] from Hex 004088
-  static const Color n4d = Color(0x004088);
+  static const Color n4d = Color(0xff004088);
 
   /// SimpleIcons n500px [Color] from Hex 0099e5
-  static const Color n500px = Color(0x0099e5);
+  static const Color n500px = Color(0xff0099e5);
 
   /// SimpleIcons n99designs [Color] from Hex fe5f50
-  static const Color n99designs = Color(0xfe5f50);
+  static const Color n99designs = Color(0xfffe5f50);
 
   /// SimpleIcons n9gag [Color] from Hex 000000
-  static const Color n9gag = Color(0x000000);
+  static const Color n9gag = Color(0xff000000);
 
   /// SimpleIcons aframe [Color] from Hex ef2d5e
-  static const Color aframe = Color(0xef2d5e);
+  static const Color aframe = Color(0xffef2d5e);
 
   /// SimpleIcons abbrobotstudio [Color] from Hex ff9e0f
-  static const Color abbrobotstudio = Color(0xff9e0f);
+  static const Color abbrobotstudio = Color(0xffff9e0f);
 
   /// SimpleIcons abbott [Color] from Hex 008fc7
-  static const Color abbott = Color(0x008fc7);
+  static const Color abbott = Color(0xff008fc7);
 
   /// SimpleIcons abbvie [Color] from Hex 071d49
-  static const Color abbvie = Color(0x071d49);
+  static const Color abbvie = Color(0xff071d49);
 
   /// SimpleIcons aboutdotme [Color] from Hex 333333
-  static const Color aboutdotme = Color(0x333333);
+  static const Color aboutdotme = Color(0xff333333);
 
   /// SimpleIcons abstracticon [Color] from Hex 191a1b
-  static const Color abstracticon = Color(0x191a1b);
+  static const Color abstracticon = Color(0xff191a1b);
 
   /// SimpleIcons academia [Color] from Hex 41454a
-  static const Color academia = Color(0x41454a);
+  static const Color academia = Color(0xff41454a);
 
   /// SimpleIcons accenture [Color] from Hex a100ff
-  static const Color accenture = Color(0xa100ff);
+  static const Color accenture = Color(0xffa100ff);
 
   /// SimpleIcons accusoft [Color] from Hex a9225c
-  static const Color accusoft = Color(0xa9225c);
+  static const Color accusoft = Color(0xffa9225c);
 
   /// SimpleIcons acer [Color] from Hex 83b81a
-  static const Color acer = Color(0x83b81a);
+  static const Color acer = Color(0xff83b81a);
 
   /// SimpleIcons acm [Color] from Hex 0085ca
-  static const Color acm = Color(0x0085ca);
+  static const Color acm = Color(0xff0085ca);
 
   /// SimpleIcons actigraph [Color] from Hex 0b2c4a
-  static const Color actigraph = Color(0x0b2c4a);
+  static const Color actigraph = Color(0xff0b2c4a);
 
   /// SimpleIcons activision [Color] from Hex 000000
-  static const Color activision = Color(0x000000);
+  static const Color activision = Color(0xff000000);
 
   /// SimpleIcons activitypub [Color] from Hex f1007e
-  static const Color activitypub = Color(0xf1007e);
+  static const Color activitypub = Color(0xfff1007e);
 
   /// SimpleIcons acura [Color] from Hex 000000
-  static const Color acura = Color(0x000000);
+  static const Color acura = Color(0xff000000);
 
   /// SimpleIcons adafruit [Color] from Hex 000000
-  static const Color adafruit = Color(0x000000);
+  static const Color adafruit = Color(0xff000000);
 
   /// SimpleIcons adblock [Color] from Hex f40d12
-  static const Color adblock = Color(0xf40d12);
+  static const Color adblock = Color(0xfff40d12);
 
   /// SimpleIcons adblockplus [Color] from Hex c70d2c
-  static const Color adblockplus = Color(0xc70d2c);
+  static const Color adblockplus = Color(0xffc70d2c);
 
   /// SimpleIcons adguard [Color] from Hex 68bc71
-  static const Color adguard = Color(0x68bc71);
+  static const Color adguard = Color(0xff68bc71);
 
   /// SimpleIcons adidas [Color] from Hex 000000
-  static const Color adidas = Color(0x000000);
+  static const Color adidas = Color(0xff000000);
 
   /// SimpleIcons adminer [Color] from Hex 34567c
-  static const Color adminer = Color(0x34567c);
+  static const Color adminer = Color(0xff34567c);
 
   /// SimpleIcons adobe [Color] from Hex ff0000
-  static const Color adobe = Color(0xff0000);
+  static const Color adobe = Color(0xffff0000);
 
   /// SimpleIcons adobeacrobatreader [Color] from Hex ec1c24
-  static const Color adobeacrobatreader = Color(0xec1c24);
+  static const Color adobeacrobatreader = Color(0xffec1c24);
 
   /// SimpleIcons adobeaftereffects [Color] from Hex 9999ff
-  static const Color adobeaftereffects = Color(0x9999ff);
+  static const Color adobeaftereffects = Color(0xff9999ff);
 
   /// SimpleIcons adobeaudition [Color] from Hex 9999ff
-  static const Color adobeaudition = Color(0x9999ff);
+  static const Color adobeaudition = Color(0xff9999ff);
 
   /// SimpleIcons adobecreativecloud [Color] from Hex da1f26
-  static const Color adobecreativecloud = Color(0xda1f26);
+  static const Color adobecreativecloud = Color(0xffda1f26);
 
   /// SimpleIcons adobedreamweaver [Color] from Hex ff61f6
-  static const Color adobedreamweaver = Color(0xff61f6);
+  static const Color adobedreamweaver = Color(0xffff61f6);
 
   /// SimpleIcons adobefonts [Color] from Hex 000b1d
-  static const Color adobefonts = Color(0x000b1d);
+  static const Color adobefonts = Color(0xff000b1d);
 
   /// SimpleIcons adobeillustrator [Color] from Hex ff9a00
-  static const Color adobeillustrator = Color(0xff9a00);
+  static const Color adobeillustrator = Color(0xffff9a00);
 
   /// SimpleIcons adobeindesign [Color] from Hex ff3366
-  static const Color adobeindesign = Color(0xff3366);
+  static const Color adobeindesign = Color(0xffff3366);
 
   /// SimpleIcons adobelightroom [Color] from Hex 31a8ff
-  static const Color adobelightroom = Color(0x31a8ff);
+  static const Color adobelightroom = Color(0xff31a8ff);
 
   /// SimpleIcons adobelightroomclassic [Color] from Hex 31a8ff
-  static const Color adobelightroomclassic = Color(0x31a8ff);
+  static const Color adobelightroomclassic = Color(0xff31a8ff);
 
   /// SimpleIcons adobephotoshop [Color] from Hex 31a8ff
-  static const Color adobephotoshop = Color(0x31a8ff);
+  static const Color adobephotoshop = Color(0xff31a8ff);
 
   /// SimpleIcons adobepremierepro [Color] from Hex 9999ff
-  static const Color adobepremierepro = Color(0x9999ff);
+  static const Color adobepremierepro = Color(0xff9999ff);
 
   /// SimpleIcons adobexd [Color] from Hex ff61f6
-  static const Color adobexd = Color(0xff61f6);
+  static const Color adobexd = Color(0xffff61f6);
 
   /// SimpleIcons adonisjs [Color] from Hex 5a45ff
-  static const Color adonisjs = Color(0x5a45ff);
+  static const Color adonisjs = Color(0xff5a45ff);
 
   /// SimpleIcons adp [Color] from Hex d0271d
-  static const Color adp = Color(0xd0271d);
+  static const Color adp = Color(0xffd0271d);
 
   /// SimpleIcons adroll [Color] from Hex 0dbdff
-  static const Color adroll = Color(0x0dbdff);
+  static const Color adroll = Color(0xff0dbdff);
 
   /// SimpleIcons adventofcode [Color] from Hex ffff66
-  static const Color adventofcode = Color(0xffff66);
+  static const Color adventofcode = Color(0xffffff66);
 
   /// SimpleIcons adyen [Color] from Hex 0abf53
-  static const Color adyen = Color(0x0abf53);
+  static const Color adyen = Color(0xff0abf53);
 
   /// SimpleIcons aerlingus [Color] from Hex 006272
-  static const Color aerlingus = Color(0x006272);
+  static const Color aerlingus = Color(0xff006272);
 
   /// SimpleIcons aeroflot [Color] from Hex 02458d
-  static const Color aeroflot = Color(0x02458d);
+  static const Color aeroflot = Color(0xff02458d);
 
   /// SimpleIcons aeromexico [Color] from Hex 0b2343
-  static const Color aeromexico = Color(0x0b2343);
+  static const Color aeromexico = Color(0xff0b2343);
 
   /// SimpleIcons aerospike [Color] from Hex c22127
-  static const Color aerospike = Color(0xc22127);
+  static const Color aerospike = Color(0xffc22127);
 
   /// SimpleIcons aew [Color] from Hex 000000
-  static const Color aew = Color(0x000000);
+  static const Color aew = Color(0xff000000);
 
   /// SimpleIcons affine [Color] from Hex 1e96eb
-  static const Color affine = Color(0x1e96eb);
+  static const Color affine = Color(0xff1e96eb);
 
   /// SimpleIcons affinity [Color] from Hex 222324
-  static const Color affinity = Color(0x222324);
+  static const Color affinity = Color(0xff222324);
 
   /// SimpleIcons affinitydesigner [Color] from Hex 1b72be
-  static const Color affinitydesigner = Color(0x1b72be);
+  static const Color affinitydesigner = Color(0xff1b72be);
 
   /// SimpleIcons affinityphoto [Color] from Hex 7e4dd2
-  static const Color affinityphoto = Color(0x7e4dd2);
+  static const Color affinityphoto = Color(0xff7e4dd2);
 
   /// SimpleIcons affinitypublisher [Color] from Hex c9284d
-  static const Color affinitypublisher = Color(0xc9284d);
+  static const Color affinitypublisher = Color(0xffc9284d);
 
   /// SimpleIcons agora [Color] from Hex 099dfd
-  static const Color agora = Color(0x099dfd);
+  static const Color agora = Color(0xff099dfd);
 
   /// SimpleIcons aidungeon [Color] from Hex 000000
-  static const Color aidungeon = Color(0x000000);
+  static const Color aidungeon = Color(0xff000000);
 
   /// SimpleIcons aib [Color] from Hex 7f2b7b
-  static const Color aib = Color(0x7f2b7b);
+  static const Color aib = Color(0xff7f2b7b);
 
   /// SimpleIcons aiohttp [Color] from Hex 2c5bb4
-  static const Color aiohttp = Color(0x2c5bb4);
+  static const Color aiohttp = Color(0xff2c5bb4);
 
   /// SimpleIcons aiqfome [Color] from Hex 7a1fa2
-  static const Color aiqfome = Color(0x7a1fa2);
+  static const Color aiqfome = Color(0xff7a1fa2);
 
   /// SimpleIcons aircanada [Color] from Hex f01428
-  static const Color aircanada = Color(0xf01428);
+  static const Color aircanada = Color(0xfff01428);
 
   /// SimpleIcons airchina [Color] from Hex e30e17
-  static const Color airchina = Color(0xe30e17);
+  static const Color airchina = Color(0xffe30e17);
 
   /// SimpleIcons airfrance [Color] from Hex 002157
-  static const Color airfrance = Color(0x002157);
+  static const Color airfrance = Color(0xff002157);
 
   /// SimpleIcons airindia [Color] from Hex d9000d
-  static const Color airindia = Color(0xd9000d);
+  static const Color airindia = Color(0xffd9000d);
 
   /// SimpleIcons airasia [Color] from Hex ff0000
-  static const Color airasia = Color(0xff0000);
+  static const Color airasia = Color(0xffff0000);
 
   /// SimpleIcons airbnb [Color] from Hex ff5a5f
-  static const Color airbnb = Color(0xff5a5f);
+  static const Color airbnb = Color(0xffff5a5f);
 
   /// SimpleIcons airbrakedotio [Color] from Hex ffa500
-  static const Color airbrakedotio = Color(0xffa500);
+  static const Color airbrakedotio = Color(0xffffa500);
 
   /// SimpleIcons airbus [Color] from Hex 00205b
-  static const Color airbus = Color(0x00205b);
+  static const Color airbus = Color(0xff00205b);
 
   /// SimpleIcons airbyte [Color] from Hex 615eff
-  static const Color airbyte = Color(0x615eff);
+  static const Color airbyte = Color(0xff615eff);
 
   /// SimpleIcons aircall [Color] from Hex 00b388
-  static const Color aircall = Color(0x00b388);
+  static const Color aircall = Color(0xff00b388);
 
   /// SimpleIcons airplayaudio [Color] from Hex 000000
-  static const Color airplayaudio = Color(0x000000);
+  static const Color airplayaudio = Color(0xff000000);
 
   /// SimpleIcons airplayvideo [Color] from Hex 000000
-  static const Color airplayvideo = Color(0x000000);
+  static const Color airplayvideo = Color(0xff000000);
 
   /// SimpleIcons airtable [Color] from Hex 18bfff
-  static const Color airtable = Color(0x18bfff);
+  static const Color airtable = Color(0xff18bfff);
 
   /// SimpleIcons ajv [Color] from Hex 23c8d2
-  static const Color ajv = Color(0x23c8d2);
+  static const Color ajv = Color(0xff23c8d2);
 
   /// SimpleIcons akamai [Color] from Hex 0096d6
-  static const Color akamai = Color(0x0096d6);
+  static const Color akamai = Color(0xff0096d6);
 
   /// SimpleIcons akaunting [Color] from Hex 6da252
-  static const Color akaunting = Color(0x6da252);
+  static const Color akaunting = Color(0xff6da252);
 
   /// SimpleIcons alacritty [Color] from Hex f46d01
-  static const Color alacritty = Color(0xf46d01);
+  static const Color alacritty = Color(0xfff46d01);
 
   /// SimpleIcons alamy [Color] from Hex 00ff7b
-  static const Color alamy = Color(0x00ff7b);
+  static const Color alamy = Color(0xff00ff7b);
 
   /// SimpleIcons albertheijn [Color] from Hex 04ace6
-  static const Color albertheijn = Color(0x04ace6);
+  static const Color albertheijn = Color(0xff04ace6);
 
   /// SimpleIcons alby [Color] from Hex ffdf6f
-  static const Color alby = Color(0xffdf6f);
+  static const Color alby = Color(0xffffdf6f);
 
   /// SimpleIcons alchemy [Color] from Hex 0c0c0e
-  static const Color alchemy = Color(0x0c0c0e);
+  static const Color alchemy = Color(0xff0c0c0e);
 
   /// SimpleIcons aldinord [Color] from Hex 2490d7
-  static const Color aldinord = Color(0x2490d7);
+  static const Color aldinord = Color(0xff2490d7);
 
   /// SimpleIcons aldisud [Color] from Hex 00005f
-  static const Color aldisud = Color(0x00005f);
+  static const Color aldisud = Color(0xff00005f);
 
   /// SimpleIcons alfaromeo [Color] from Hex 981e32
-  static const Color alfaromeo = Color(0x981e32);
+  static const Color alfaromeo = Color(0xff981e32);
 
   /// SimpleIcons alfred [Color] from Hex 5c1f87
-  static const Color alfred = Color(0x5c1f87);
+  static const Color alfred = Color(0xff5c1f87);
 
   /// SimpleIcons algolia [Color] from Hex 003dff
-  static const Color algolia = Color(0x003dff);
+  static const Color algolia = Color(0xff003dff);
 
   /// SimpleIcons algorand [Color] from Hex 000000
-  static const Color algorand = Color(0x000000);
+  static const Color algorand = Color(0xff000000);
 
   /// SimpleIcons alibabacloud [Color] from Hex ff6a00
-  static const Color alibabacloud = Color(0xff6a00);
+  static const Color alibabacloud = Color(0xffff6a00);
 
   /// SimpleIcons alibabadotcom [Color] from Hex ff6a00
-  static const Color alibabadotcom = Color(0xff6a00);
+  static const Color alibabadotcom = Color(0xffff6a00);
 
   /// SimpleIcons alienware [Color] from Hex 541bae
-  static const Color alienware = Color(0x541bae);
+  static const Color alienware = Color(0xff541bae);
 
   /// SimpleIcons aliexpress [Color] from Hex ff4747
-  static const Color aliexpress = Color(0xff4747);
+  static const Color aliexpress = Color(0xffff4747);
 
   /// SimpleIcons alipay [Color] from Hex 1890ff
-  static const Color alipay = Color(0x1890ff);
+  static const Color alipay = Color(0xff1890ff);
 
   /// SimpleIcons allegro [Color] from Hex ff5a00
-  static const Color allegro = Color(0xff5a00);
+  static const Color allegro = Color(0xffff5a00);
 
   /// SimpleIcons alliedmodders [Color] from Hex 1578d3
-  static const Color alliedmodders = Color(0x1578d3);
+  static const Color alliedmodders = Color(0xff1578d3);
 
   /// SimpleIcons allocine [Color] from Hex fecc00
-  static const Color allocine = Color(0xfecc00);
+  static const Color allocine = Color(0xfffecc00);
 
   /// SimpleIcons alltrails [Color] from Hex 428813
-  static const Color alltrails = Color(0x428813);
+  static const Color alltrails = Color(0xff428813);
 
   /// SimpleIcons almalinux [Color] from Hex 000000
-  static const Color almalinux = Color(0x000000);
+  static const Color almalinux = Color(0xff000000);
 
   /// SimpleIcons alpinelinux [Color] from Hex 0d597f
-  static const Color alpinelinux = Color(0x0d597f);
+  static const Color alpinelinux = Color(0xff0d597f);
 
   /// SimpleIcons alpinedotjs [Color] from Hex 8bc0d0
-  static const Color alpinedotjs = Color(0x8bc0d0);
+  static const Color alpinedotjs = Color(0xff8bc0d0);
 
   /// SimpleIcons alteryx [Color] from Hex 0078c0
-  static const Color alteryx = Color(0x0078c0);
+  static const Color alteryx = Color(0xff0078c0);
 
   /// SimpleIcons altiumdesigner [Color] from Hex a5915f
-  static const Color altiumdesigner = Color(0xa5915f);
+  static const Color altiumdesigner = Color(0xffa5915f);
 
   /// SimpleIcons alwaysdata [Color] from Hex e9568e
-  static const Color alwaysdata = Color(0xe9568e);
+  static const Color alwaysdata = Color(0xffe9568e);
 
   /// SimpleIcons amazon [Color] from Hex ff9900
-  static const Color amazon = Color(0xff9900);
+  static const Color amazon = Color(0xffff9900);
 
   /// SimpleIcons amazonalexa [Color] from Hex 00caff
-  static const Color amazonalexa = Color(0x00caff);
+  static const Color amazonalexa = Color(0xff00caff);
 
   /// SimpleIcons amazonapigateway [Color] from Hex ff4f8b
-  static const Color amazonapigateway = Color(0xff4f8b);
+  static const Color amazonapigateway = Color(0xffff4f8b);
 
   /// SimpleIcons amazonaws [Color] from Hex 232f3e
-  static const Color amazonaws = Color(0x232f3e);
+  static const Color amazonaws = Color(0xff232f3e);
 
   /// SimpleIcons amazoncloudwatch [Color] from Hex ff4f8b
-  static const Color amazoncloudwatch = Color(0xff4f8b);
+  static const Color amazoncloudwatch = Color(0xffff4f8b);
 
   /// SimpleIcons amazondocumentdb [Color] from Hex c925d1
-  static const Color amazondocumentdb = Color(0xc925d1);
+  static const Color amazondocumentdb = Color(0xffc925d1);
 
   /// SimpleIcons amazondynamodb [Color] from Hex 4053d6
-  static const Color amazondynamodb = Color(0x4053d6);
+  static const Color amazondynamodb = Color(0xff4053d6);
 
   /// SimpleIcons amazonec2 [Color] from Hex ff9900
-  static const Color amazonec2 = Color(0xff9900);
+  static const Color amazonec2 = Color(0xffff9900);
 
   /// SimpleIcons amazonecs [Color] from Hex ff9900
-  static const Color amazonecs = Color(0xff9900);
+  static const Color amazonecs = Color(0xffff9900);
 
   /// SimpleIcons amazoneks [Color] from Hex ff9900
-  static const Color amazoneks = Color(0xff9900);
+  static const Color amazoneks = Color(0xffff9900);
 
   /// SimpleIcons amazonfiretv [Color] from Hex fc4c02
-  static const Color amazonfiretv = Color(0xfc4c02);
+  static const Color amazonfiretv = Color(0xfffc4c02);
 
   /// SimpleIcons amazongames [Color] from Hex ff9900
-  static const Color amazongames = Color(0xff9900);
+  static const Color amazongames = Color(0xffff9900);
 
   /// SimpleIcons amazonidentityaccessmanagement [Color] from Hex dd344c
-  static const Color amazonidentityaccessmanagement = Color(0xdd344c);
+  static const Color amazonidentityaccessmanagement = Color(0xffdd344c);
 
   /// SimpleIcons amazonlumberyard [Color] from Hex 66459b
-  static const Color amazonlumberyard = Color(0x66459b);
+  static const Color amazonlumberyard = Color(0xff66459b);
 
   /// SimpleIcons amazonluna [Color] from Hex 9146ff
-  static const Color amazonluna = Color(0x9146ff);
+  static const Color amazonluna = Color(0xff9146ff);
 
   /// SimpleIcons amazonmusic [Color] from Hex 46c3d0
-  static const Color amazonmusic = Color(0x46c3d0);
+  static const Color amazonmusic = Color(0xff46c3d0);
 
   /// SimpleIcons amazonpay [Color] from Hex ff9900
-  static const Color amazonpay = Color(0xff9900);
+  static const Color amazonpay = Color(0xffff9900);
 
   /// SimpleIcons amazonprime [Color] from Hex 00a8e1
-  static const Color amazonprime = Color(0x00a8e1);
+  static const Color amazonprime = Color(0xff00a8e1);
 
   /// SimpleIcons amazonrds [Color] from Hex 527fff
-  static const Color amazonrds = Color(0x527fff);
+  static const Color amazonrds = Color(0xff527fff);
 
   /// SimpleIcons amazonredshift [Color] from Hex 8c4fff
-  static const Color amazonredshift = Color(0x8c4fff);
+  static const Color amazonredshift = Color(0xff8c4fff);
 
   /// SimpleIcons amazonroute53 [Color] from Hex 8c4fff
-  static const Color amazonroute53 = Color(0x8c4fff);
+  static const Color amazonroute53 = Color(0xff8c4fff);
 
   /// SimpleIcons amazons3 [Color] from Hex 569a31
-  static const Color amazons3 = Color(0x569a31);
+  static const Color amazons3 = Color(0xff569a31);
 
   /// SimpleIcons amazonsimpleemailservice [Color] from Hex dd344c
-  static const Color amazonsimpleemailservice = Color(0xdd344c);
+  static const Color amazonsimpleemailservice = Color(0xffdd344c);
 
   /// SimpleIcons amazonsqs [Color] from Hex ff4f8b
-  static const Color amazonsqs = Color(0xff4f8b);
+  static const Color amazonsqs = Color(0xffff4f8b);
 
   /// SimpleIcons amd [Color] from Hex ed1c24
-  static const Color amd = Color(0xed1c24);
+  static const Color amd = Color(0xffed1c24);
 
   /// SimpleIcons ameba [Color] from Hex 2d8c3c
-  static const Color ameba = Color(0x2d8c3c);
+  static const Color ameba = Color(0xff2d8c3c);
 
   /// SimpleIcons americanairlines [Color] from Hex 0078d2
-  static const Color americanairlines = Color(0x0078d2);
+  static const Color americanairlines = Color(0xff0078d2);
 
   /// SimpleIcons americanexpress [Color] from Hex 2e77bc
-  static const Color americanexpress = Color(0x2e77bc);
+  static const Color americanexpress = Color(0xff2e77bc);
 
   /// SimpleIcons amg [Color] from Hex 000000
-  static const Color amg = Color(0x000000);
+  static const Color amg = Color(0xff000000);
 
   /// SimpleIcons amp [Color] from Hex 005af0
-  static const Color amp = Color(0x005af0);
+  static const Color amp = Color(0xff005af0);
 
   /// SimpleIcons amul [Color] from Hex ed1d24
-  static const Color amul = Color(0xed1d24);
+  static const Color amul = Color(0xffed1d24);
 
   /// SimpleIcons ana [Color] from Hex 13448f
-  static const Color ana = Color(0x13448f);
+  static const Color ana = Color(0xff13448f);
 
   /// SimpleIcons anaconda [Color] from Hex 44a833
-  static const Color anaconda = Color(0x44a833);
+  static const Color anaconda = Color(0xff44a833);
 
   /// SimpleIcons analogue [Color] from Hex 1a1a1a
-  static const Color analogue = Color(0x1a1a1a);
+  static const Color analogue = Color(0xff1a1a1a);
 
   /// SimpleIcons andela [Color] from Hex 173b3f
-  static const Color andela = Color(0x173b3f);
+  static const Color andela = Color(0xff173b3f);
 
   /// SimpleIcons android [Color] from Hex 3ddc84
-  static const Color android = Color(0x3ddc84);
+  static const Color android = Color(0xff3ddc84);
 
   /// SimpleIcons androidauto [Color] from Hex 3ddc84
-  static const Color androidauto = Color(0x3ddc84);
+  static const Color androidauto = Color(0xff3ddc84);
 
   /// SimpleIcons androidstudio [Color] from Hex 3ddc84
-  static const Color androidstudio = Color(0x3ddc84);
+  static const Color androidstudio = Color(0xff3ddc84);
 
   /// SimpleIcons angular [Color] from Hex 0f0f11
-  static const Color angular = Color(0x0f0f11);
+  static const Color angular = Color(0xff0f0f11);
 
   /// SimpleIcons anilist [Color] from Hex 02a9ff
-  static const Color anilist = Color(0x02a9ff);
+  static const Color anilist = Color(0xff02a9ff);
 
   /// SimpleIcons ansible [Color] from Hex ee0000
-  static const Color ansible = Color(0xee0000);
+  static const Color ansible = Color(0xffee0000);
 
   /// SimpleIcons answer [Color] from Hex 0033ff
-  static const Color answer = Color(0x0033ff);
+  static const Color answer = Color(0xff0033ff);
 
   /// SimpleIcons ansys [Color] from Hex ffb71b
-  static const Color ansys = Color(0xffb71b);
+  static const Color ansys = Color(0xffffb71b);
 
   /// SimpleIcons antdesign [Color] from Hex 0170fe
-  static const Color antdesign = Color(0x0170fe);
+  static const Color antdesign = Color(0xff0170fe);
 
   /// SimpleIcons anta [Color] from Hex d70010
-  static const Color anta = Color(0xd70010);
+  static const Color anta = Color(0xffd70010);
 
   /// SimpleIcons antena3 [Color] from Hex ff7328
-  static const Color antena3 = Color(0xff7328);
+  static const Color antena3 = Color(0xffff7328);
 
   /// SimpleIcons anydesk [Color] from Hex ef443b
-  static const Color anydesk = Color(0xef443b);
+  static const Color anydesk = Color(0xffef443b);
 
   /// SimpleIcons aol [Color] from Hex 3399ff
-  static const Color aol = Color(0x3399ff);
+  static const Color aol = Color(0xff3399ff);
 
   /// SimpleIcons apache [Color] from Hex d22128
-  static const Color apache = Color(0xd22128);
+  static const Color apache = Color(0xffd22128);
 
   /// SimpleIcons apacheairflow [Color] from Hex 017cee
-  static const Color apacheairflow = Color(0x017cee);
+  static const Color apacheairflow = Color(0xff017cee);
 
   /// SimpleIcons apacheant [Color] from Hex a81c7d
-  static const Color apacheant = Color(0xa81c7d);
+  static const Color apacheant = Color(0xffa81c7d);
 
   /// SimpleIcons apachecassandra [Color] from Hex 1287b1
-  static const Color apachecassandra = Color(0x1287b1);
+  static const Color apachecassandra = Color(0xff1287b1);
 
   /// SimpleIcons apachecloudstack [Color] from Hex 2aa5dc
-  static const Color apachecloudstack = Color(0x2aa5dc);
+  static const Color apachecloudstack = Color(0xff2aa5dc);
 
   /// SimpleIcons apachecordova [Color] from Hex e8e8e8
-  static const Color apachecordova = Color(0xe8e8e8);
+  static const Color apachecordova = Color(0xffe8e8e8);
 
   /// SimpleIcons apachecouchdb [Color] from Hex e42528
-  static const Color apachecouchdb = Color(0xe42528);
+  static const Color apachecouchdb = Color(0xffe42528);
 
   /// SimpleIcons apachedruid [Color] from Hex 29f1fb
-  static const Color apachedruid = Color(0x29f1fb);
+  static const Color apachedruid = Color(0xff29f1fb);
 
   /// SimpleIcons apacheecharts [Color] from Hex aa344d
-  static const Color apacheecharts = Color(0xaa344d);
+  static const Color apacheecharts = Color(0xffaa344d);
 
   /// SimpleIcons apacheflink [Color] from Hex e6526f
-  static const Color apacheflink = Color(0xe6526f);
+  static const Color apacheflink = Color(0xffe6526f);
 
   /// SimpleIcons apachegroovy [Color] from Hex 4298b8
-  static const Color apachegroovy = Color(0x4298b8);
+  static const Color apachegroovy = Color(0xff4298b8);
 
   /// SimpleIcons apacheguacamole [Color] from Hex 578b34
-  static const Color apacheguacamole = Color(0x578b34);
+  static const Color apacheguacamole = Color(0xff578b34);
 
   /// SimpleIcons apachehadoop [Color] from Hex 66ccff
-  static const Color apachehadoop = Color(0x66ccff);
+  static const Color apachehadoop = Color(0xff66ccff);
 
   /// SimpleIcons apachehive [Color] from Hex fdee21
-  static const Color apachehive = Color(0xfdee21);
+  static const Color apachehive = Color(0xfffdee21);
 
   /// SimpleIcons apachejmeter [Color] from Hex d22128
-  static const Color apachejmeter = Color(0xd22128);
+  static const Color apachejmeter = Color(0xffd22128);
 
   /// SimpleIcons apachekafka [Color] from Hex 231f20
-  static const Color apachekafka = Color(0x231f20);
+  static const Color apachekafka = Color(0xff231f20);
 
   /// SimpleIcons apachekylin [Color] from Hex f09d13
-  static const Color apachekylin = Color(0xf09d13);
+  static const Color apachekylin = Color(0xfff09d13);
 
   /// SimpleIcons apachemaven [Color] from Hex c71a36
-  static const Color apachemaven = Color(0xc71a36);
+  static const Color apachemaven = Color(0xffc71a36);
 
   /// SimpleIcons apachenetbeanside [Color] from Hex 1b6ac6
-  static const Color apachenetbeanside = Color(0x1b6ac6);
+  static const Color apachenetbeanside = Color(0xff1b6ac6);
 
   /// SimpleIcons apacheopenoffice [Color] from Hex 0e85cd
-  static const Color apacheopenoffice = Color(0x0e85cd);
+  static const Color apacheopenoffice = Color(0xff0e85cd);
 
   /// SimpleIcons apacheparquet [Color] from Hex 50abf1
-  static const Color apacheparquet = Color(0x50abf1);
+  static const Color apacheparquet = Color(0xff50abf1);
 
   /// SimpleIcons apachepulsar [Color] from Hex 188fff
-  static const Color apachepulsar = Color(0x188fff);
+  static const Color apachepulsar = Color(0xff188fff);
 
   /// SimpleIcons apacherocketmq [Color] from Hex d77310
-  static const Color apacherocketmq = Color(0xd77310);
+  static const Color apacherocketmq = Color(0xffd77310);
 
   /// SimpleIcons apachesolr [Color] from Hex d9411e
-  static const Color apachesolr = Color(0xd9411e);
+  static const Color apachesolr = Color(0xffd9411e);
 
   /// SimpleIcons apachespark [Color] from Hex e25a1c
-  static const Color apachespark = Color(0xe25a1c);
+  static const Color apachespark = Color(0xffe25a1c);
 
   /// SimpleIcons apachestorm [Color] from Hex 225593
-  static const Color apachestorm = Color(0x225593);
+  static const Color apachestorm = Color(0xff225593);
 
   /// SimpleIcons apachetomcat [Color] from Hex f8dc75
-  static const Color apachetomcat = Color(0xf8dc75);
+  static const Color apachetomcat = Color(0xfff8dc75);
 
   /// SimpleIcons aparat [Color] from Hex ed145b
-  static const Color aparat = Color(0xed145b);
+  static const Color aparat = Color(0xffed145b);
 
   /// SimpleIcons apifox [Color] from Hex f44a53
-  static const Color apifox = Color(0xf44a53);
+  static const Color apifox = Color(0xfff44a53);
 
   /// SimpleIcons apmterminals [Color] from Hex ff6441
-  static const Color apmterminals = Color(0xff6441);
+  static const Color apmterminals = Color(0xffff6441);
 
   /// SimpleIcons apollographql [Color] from Hex 311c87
-  static const Color apollographql = Color(0x311c87);
+  static const Color apollographql = Color(0xff311c87);
 
   /// SimpleIcons apostrophe [Color] from Hex 6236ff
-  static const Color apostrophe = Color(0x6236ff);
+  static const Color apostrophe = Color(0xff6236ff);
 
   /// SimpleIcons appstore [Color] from Hex 0d96f6
-  static const Color appstore = Color(0x0d96f6);
+  static const Color appstore = Color(0xff0d96f6);
 
   /// SimpleIcons appian [Color] from Hex 2322f0
-  static const Color appian = Color(0x2322f0);
+  static const Color appian = Color(0xff2322f0);
 
   /// SimpleIcons apple [Color] from Hex 000000
-  static const Color apple = Color(0x000000);
+  static const Color apple = Color(0xff000000);
 
   /// SimpleIcons applearcade [Color] from Hex 000000
-  static const Color applearcade = Color(0x000000);
+  static const Color applearcade = Color(0xff000000);
 
   /// SimpleIcons applemusic [Color] from Hex fa243c
-  static const Color applemusic = Color(0xfa243c);
+  static const Color applemusic = Color(0xfffa243c);
 
   /// SimpleIcons applenews [Color] from Hex fd415e
-  static const Color applenews = Color(0xfd415e);
+  static const Color applenews = Color(0xfffd415e);
 
   /// SimpleIcons applepay [Color] from Hex 000000
-  static const Color applepay = Color(0x000000);
+  static const Color applepay = Color(0xff000000);
 
   /// SimpleIcons applepodcasts [Color] from Hex 9933cc
-  static const Color applepodcasts = Color(0x9933cc);
+  static const Color applepodcasts = Color(0xff9933cc);
 
   /// SimpleIcons appletv [Color] from Hex 000000
-  static const Color appletv = Color(0x000000);
+  static const Color appletv = Color(0xff000000);
 
   /// SimpleIcons appsignal [Color] from Hex 21375a
-  static const Color appsignal = Color(0x21375a);
+  static const Color appsignal = Color(0xff21375a);
 
   /// SimpleIcons appsmith [Color] from Hex 2a2f3d
-  static const Color appsmith = Color(0x2a2f3d);
+  static const Color appsmith = Color(0xff2a2f3d);
 
   /// SimpleIcons appveyor [Color] from Hex 00b3e0
-  static const Color appveyor = Color(0x00b3e0);
+  static const Color appveyor = Color(0xff00b3e0);
 
   /// SimpleIcons appwrite [Color] from Hex fd366e
-  static const Color appwrite = Color(0xfd366e);
+  static const Color appwrite = Color(0xfffd366e);
 
   /// SimpleIcons aqua [Color] from Hex 1904da
-  static const Color aqua = Color(0x1904da);
+  static const Color aqua = Color(0xff1904da);
 
   /// SimpleIcons aral [Color] from Hex 0063cb
-  static const Color aral = Color(0x0063cb);
+  static const Color aral = Color(0xff0063cb);
 
   /// SimpleIcons arangodb [Color] from Hex dde072
-  static const Color arangodb = Color(0xdde072);
+  static const Color arangodb = Color(0xffdde072);
 
   /// SimpleIcons arc [Color] from Hex fcbfbd
-  static const Color arc = Color(0xfcbfbd);
+  static const Color arc = Color(0xfffcbfbd);
 
   /// SimpleIcons arcgis [Color] from Hex 2c7ac3
-  static const Color arcgis = Color(0x2c7ac3);
+  static const Color arcgis = Color(0xff2c7ac3);
 
   /// SimpleIcons archlinux [Color] from Hex 1793d1
-  static const Color archlinux = Color(0x1793d1);
+  static const Color archlinux = Color(0xff1793d1);
 
   /// SimpleIcons archicad [Color] from Hex 2d50a5
-  static const Color archicad = Color(0x2d50a5);
+  static const Color archicad = Color(0xff2d50a5);
 
   /// SimpleIcons archiveofourown [Color] from Hex 990000
-  static const Color archiveofourown = Color(0x990000);
+  static const Color archiveofourown = Color(0xff990000);
 
   /// SimpleIcons ardour [Color] from Hex c61c3e
-  static const Color ardour = Color(0xc61c3e);
+  static const Color ardour = Color(0xffc61c3e);
 
   /// SimpleIcons arduino [Color] from Hex 00878f
-  static const Color arduino = Color(0x00878f);
+  static const Color arduino = Color(0xff00878f);
 
   /// SimpleIcons argo [Color] from Hex ef7b4d
-  static const Color argo = Color(0xef7b4d);
+  static const Color argo = Color(0xffef7b4d);
 
   /// SimpleIcons argos [Color] from Hex da291c
-  static const Color argos = Color(0xda291c);
+  static const Color argos = Color(0xffda291c);
 
   /// SimpleIcons ariakit [Color] from Hex 007acc
-  static const Color ariakit = Color(0x007acc);
+  static const Color ariakit = Color(0xff007acc);
 
   /// SimpleIcons arkecosystem [Color] from Hex c9292c
-  static const Color arkecosystem = Color(0xc9292c);
+  static const Color arkecosystem = Color(0xffc9292c);
 
   /// SimpleIcons arlo [Color] from Hex 49b48a
-  static const Color arlo = Color(0x49b48a);
+  static const Color arlo = Color(0xff49b48a);
 
   /// SimpleIcons arm [Color] from Hex 0091bd
-  static const Color arm = Color(0x0091bd);
+  static const Color arm = Color(0xff0091bd);
 
   /// SimpleIcons armkeil [Color] from Hex 394049
-  static const Color armkeil = Color(0x394049);
+  static const Color armkeil = Color(0xff394049);
 
   /// SimpleIcons arstechnica [Color] from Hex ff4e00
-  static const Color arstechnica = Color(0xff4e00);
+  static const Color arstechnica = Color(0xffff4e00);
 
   /// SimpleIcons artifacthub [Color] from Hex 417598
-  static const Color artifacthub = Color(0x417598);
+  static const Color artifacthub = Color(0xff417598);
 
   /// SimpleIcons artixlinux [Color] from Hex 10a0cc
-  static const Color artixlinux = Color(0x10a0cc);
+  static const Color artixlinux = Color(0xff10a0cc);
 
   /// SimpleIcons artstation [Color] from Hex 13aff0
-  static const Color artstation = Color(0x13aff0);
+  static const Color artstation = Color(0xff13aff0);
 
   /// SimpleIcons arxiv [Color] from Hex b31b1b
-  static const Color arxiv = Color(0xb31b1b);
+  static const Color arxiv = Color(0xffb31b1b);
 
   /// SimpleIcons asana [Color] from Hex f06a6a
-  static const Color asana = Color(0xf06a6a);
+  static const Color asana = Color(0xfff06a6a);
 
   /// SimpleIcons asciidoctor [Color] from Hex e40046
-  static const Color asciidoctor = Color(0xe40046);
+  static const Color asciidoctor = Color(0xffe40046);
 
   /// SimpleIcons asciinema [Color] from Hex d40000
-  static const Color asciinema = Color(0xd40000);
+  static const Color asciinema = Color(0xffd40000);
 
   /// SimpleIcons asda [Color] from Hex 68a51c
-  static const Color asda = Color(0x68a51c);
+  static const Color asda = Color(0xff68a51c);
 
   /// SimpleIcons aseprite [Color] from Hex 7d929e
-  static const Color aseprite = Color(0x7d929e);
+  static const Color aseprite = Color(0xff7d929e);
 
   /// SimpleIcons askfm [Color] from Hex db3552
-  static const Color askfm = Color(0xdb3552);
+  static const Color askfm = Color(0xffdb3552);
 
   /// SimpleIcons assemblyscript [Color] from Hex 007aac
-  static const Color assemblyscript = Color(0x007aac);
+  static const Color assemblyscript = Color(0xff007aac);
 
   /// SimpleIcons astonmartin [Color] from Hex 000000
-  static const Color astonmartin = Color(0x000000);
+  static const Color astonmartin = Color(0xff000000);
 
   /// SimpleIcons astro [Color] from Hex bc52ee
-  static const Color astro = Color(0xbc52ee);
+  static const Color astro = Color(0xffbc52ee);
 
   /// SimpleIcons asus [Color] from Hex 000000
-  static const Color asus = Color(0x000000);
+  static const Color asus = Color(0xff000000);
 
   /// SimpleIcons atandt [Color] from Hex 009fdb
-  static const Color atandt = Color(0x009fdb);
+  static const Color atandt = Color(0xff009fdb);
 
   /// SimpleIcons atari [Color] from Hex e4202e
-  static const Color atari = Color(0xe4202e);
+  static const Color atari = Color(0xffe4202e);
 
   /// SimpleIcons atlassian [Color] from Hex 0052cc
-  static const Color atlassian = Color(0x0052cc);
+  static const Color atlassian = Color(0xff0052cc);
 
   /// SimpleIcons auchan [Color] from Hex d6180b
-  static const Color auchan = Color(0xd6180b);
+  static const Color auchan = Color(0xffd6180b);
 
   /// SimpleIcons audacity [Color] from Hex 0000cc
-  static const Color audacity = Color(0x0000cc);
+  static const Color audacity = Color(0xff0000cc);
 
   /// SimpleIcons audi [Color] from Hex bb0a30
-  static const Color audi = Color(0xbb0a30);
+  static const Color audi = Color(0xffbb0a30);
 
   /// SimpleIcons audible [Color] from Hex f8991c
-  static const Color audible = Color(0xf8991c);
+  static const Color audible = Color(0xfff8991c);
 
   /// SimpleIcons audiotechnica [Color] from Hex 000000
-  static const Color audiotechnica = Color(0x000000);
+  static const Color audiotechnica = Color(0xff000000);
 
   /// SimpleIcons audioboom [Color] from Hex 007ce2
-  static const Color audioboom = Color(0x007ce2);
+  static const Color audioboom = Color(0xff007ce2);
 
   /// SimpleIcons audiomack [Color] from Hex ffa200
-  static const Color audiomack = Color(0xffa200);
+  static const Color audiomack = Color(0xffffa200);
 
   /// SimpleIcons aurelia [Color] from Hex ed2b88
-  static const Color aurelia = Color(0xed2b88);
+  static const Color aurelia = Color(0xffed2b88);
 
   /// SimpleIcons auth0 [Color] from Hex eb5424
-  static const Color auth0 = Color(0xeb5424);
+  static const Color auth0 = Color(0xffeb5424);
 
   /// SimpleIcons authelia [Color] from Hex 113155
-  static const Color authelia = Color(0x113155);
+  static const Color authelia = Color(0xff113155);
 
   /// SimpleIcons authy [Color] from Hex ec1c24
-  static const Color authy = Color(0xec1c24);
+  static const Color authy = Color(0xffec1c24);
 
   /// SimpleIcons autocad [Color] from Hex e51050
-  static const Color autocad = Color(0xe51050);
+  static const Color autocad = Color(0xffe51050);
 
   /// SimpleIcons autodesk [Color] from Hex 000000
-  static const Color autodesk = Color(0x000000);
+  static const Color autodesk = Color(0xff000000);
 
   /// SimpleIcons autodeskmaya [Color] from Hex 37a5cc
-  static const Color autodeskmaya = Color(0x37a5cc);
+  static const Color autodeskmaya = Color(0xff37a5cc);
 
   /// SimpleIcons autodeskrevit [Color] from Hex 186bff
-  static const Color autodeskrevit = Color(0x186bff);
+  static const Color autodeskrevit = Color(0xff186bff);
 
   /// SimpleIcons autohotkey [Color] from Hex 334455
-  static const Color autohotkey = Color(0x334455);
+  static const Color autohotkey = Color(0xff334455);
 
   /// SimpleIcons automattic [Color] from Hex 3499cd
-  static const Color automattic = Color(0x3499cd);
+  static const Color automattic = Color(0xff3499cd);
 
   /// SimpleIcons autoprefixer [Color] from Hex dd3735
-  static const Color autoprefixer = Color(0xdd3735);
+  static const Color autoprefixer = Color(0xffdd3735);
 
   /// SimpleIcons avajs [Color] from Hex 4b4b77
-  static const Color avajs = Color(0x4b4b77);
+  static const Color avajs = Color(0xff4b4b77);
 
   /// SimpleIcons avast [Color] from Hex ff7800
-  static const Color avast = Color(0xff7800);
+  static const Color avast = Color(0xffff7800);
 
   /// SimpleIcons avianca [Color] from Hex ff0000
-  static const Color avianca = Color(0xff0000);
+  static const Color avianca = Color(0xffff0000);
 
   /// SimpleIcons avira [Color] from Hex e02027
-  static const Color avira = Color(0xe02027);
+  static const Color avira = Color(0xffe02027);
 
   /// SimpleIcons awesomelists [Color] from Hex fc60a8
-  static const Color awesomelists = Color(0xfc60a8);
+  static const Color awesomelists = Color(0xfffc60a8);
 
   /// SimpleIcons awesomewm [Color] from Hex 535d6c
-  static const Color awesomewm = Color(0x535d6c);
+  static const Color awesomewm = Color(0xff535d6c);
 
   /// SimpleIcons awsamplify [Color] from Hex ff9900
-  static const Color awsamplify = Color(0xff9900);
+  static const Color awsamplify = Color(0xffff9900);
 
   /// SimpleIcons awsfargate [Color] from Hex ff9900
-  static const Color awsfargate = Color(0xff9900);
+  static const Color awsfargate = Color(0xffff9900);
 
   /// SimpleIcons awslambda [Color] from Hex ff9900
-  static const Color awslambda = Color(0xff9900);
+  static const Color awslambda = Color(0xffff9900);
 
   /// SimpleIcons awsorganizations [Color] from Hex e7157b
-  static const Color awsorganizations = Color(0xe7157b);
+  static const Color awsorganizations = Color(0xffe7157b);
 
   /// SimpleIcons axios [Color] from Hex 5a29e4
-  static const Color axios = Color(0x5a29e4);
+  static const Color axios = Color(0xff5a29e4);
 
   /// SimpleIcons azureartifacts [Color] from Hex cb2e6d
-  static const Color azureartifacts = Color(0xcb2e6d);
+  static const Color azureartifacts = Color(0xffcb2e6d);
 
   /// SimpleIcons azuredataexplorer [Color] from Hex 0078d4
-  static const Color azuredataexplorer = Color(0x0078d4);
+  static const Color azuredataexplorer = Color(0xff0078d4);
 
   /// SimpleIcons azuredevops [Color] from Hex 0078d7
-  static const Color azuredevops = Color(0x0078d7);
+  static const Color azuredevops = Color(0xff0078d7);
 
   /// SimpleIcons azurefunctions [Color] from Hex 0062ad
-  static const Color azurefunctions = Color(0x0062ad);
+  static const Color azurefunctions = Color(0xff0062ad);
 
   /// SimpleIcons azurepipelines [Color] from Hex 2560e0
-  static const Color azurepipelines = Color(0x2560e0);
+  static const Color azurepipelines = Color(0xff2560e0);
 
   /// SimpleIcons bandrautomation [Color] from Hex ff8800
-  static const Color bandrautomation = Color(0xff8800);
+  static const Color bandrautomation = Color(0xffff8800);
 
   /// SimpleIcons babel [Color] from Hex f9dc3e
-  static const Color babel = Color(0xf9dc3e);
+  static const Color babel = Color(0xfff9dc3e);
 
   /// SimpleIcons babylondotjs [Color] from Hex bb464b
-  static const Color babylondotjs = Color(0xbb464b);
+  static const Color babylondotjs = Color(0xffbb464b);
 
   /// SimpleIcons backblaze [Color] from Hex e21e29
-  static const Color backblaze = Color(0xe21e29);
+  static const Color backblaze = Color(0xffe21e29);
 
   /// SimpleIcons backbonedotjs [Color] from Hex 0071b5
-  static const Color backbonedotjs = Color(0x0071b5);
+  static const Color backbonedotjs = Color(0xff0071b5);
 
   /// SimpleIcons backendless [Color] from Hex 5056e5
-  static const Color backendless = Color(0x5056e5);
+  static const Color backendless = Color(0xff5056e5);
 
   /// SimpleIcons backstage [Color] from Hex 9bf0e1
-  static const Color backstage = Color(0x9bf0e1);
+  static const Color backstage = Color(0xff9bf0e1);
 
   /// SimpleIcons badoo [Color] from Hex 783bf9
-  static const Color badoo = Color(0x783bf9);
+  static const Color badoo = Color(0xff783bf9);
 
   /// SimpleIcons baidu [Color] from Hex 2932e1
-  static const Color baidu = Color(0x2932e1);
+  static const Color baidu = Color(0xff2932e1);
 
   /// SimpleIcons bamboo [Color] from Hex 0052cc
-  static const Color bamboo = Color(0x0052cc);
+  static const Color bamboo = Color(0xff0052cc);
 
   /// SimpleIcons bandcamp [Color] from Hex 408294
-  static const Color bandcamp = Color(0x408294);
+  static const Color bandcamp = Color(0xff408294);
 
   /// SimpleIcons bandlab [Color] from Hex f12c18
-  static const Color bandlab = Color(0xf12c18);
+  static const Color bandlab = Color(0xfff12c18);
 
   /// SimpleIcons bandsintown [Color] from Hex 00cec8
-  static const Color bandsintown = Color(0x00cec8);
+  static const Color bandsintown = Color(0xff00cec8);
 
   /// SimpleIcons bankofamerica [Color] from Hex 012169
-  static const Color bankofamerica = Color(0x012169);
+  static const Color bankofamerica = Color(0xff012169);
 
   /// SimpleIcons barclays [Color] from Hex 00aeef
-  static const Color barclays = Color(0x00aeef);
+  static const Color barclays = Color(0xff00aeef);
 
   /// SimpleIcons baremetrics [Color] from Hex 6078ff
-  static const Color baremetrics = Color(0x6078ff);
+  static const Color baremetrics = Color(0xff6078ff);
 
   /// SimpleIcons basecamp [Color] from Hex 1d2d35
-  static const Color basecamp = Color(0x1d2d35);
+  static const Color basecamp = Color(0xff1d2d35);
 
   /// SimpleIcons basicattentiontoken [Color] from Hex 80247b
-  static const Color basicattentiontoken = Color(0x80247b);
+  static const Color basicattentiontoken = Color(0xff80247b);
 
   /// SimpleIcons bastyon [Color] from Hex 00a4ff
-  static const Color bastyon = Color(0x00a4ff);
+  static const Color bastyon = Color(0xff00a4ff);
 
   /// SimpleIcons bata [Color] from Hex dd282e
-  static const Color bata = Color(0xdd282e);
+  static const Color bata = Color(0xffdd282e);
 
   /// SimpleIcons battledotnet [Color] from Hex 4381c3
-  static const Color battledotnet = Color(0x4381c3);
+  static const Color battledotnet = Color(0xff4381c3);
 
   /// SimpleIcons beatport [Color] from Hex 01ff95
-  static const Color beatport = Color(0x01ff95);
+  static const Color beatport = Color(0xff01ff95);
 
   /// SimpleIcons beats [Color] from Hex 005571
-  static const Color beats = Color(0x005571);
+  static const Color beats = Color(0xff005571);
 
   /// SimpleIcons beatsbydre [Color] from Hex e01f3d
-  static const Color beatsbydre = Color(0xe01f3d);
+  static const Color beatsbydre = Color(0xffe01f3d);
 
   /// SimpleIcons behance [Color] from Hex 1769ff
-  static const Color behance = Color(0x1769ff);
+  static const Color behance = Color(0xff1769ff);
 
   /// SimpleIcons beijingsubway [Color] from Hex 004a9d
-  static const Color beijingsubway = Color(0x004a9d);
+  static const Color beijingsubway = Color(0xff004a9d);
 
   /// SimpleIcons bem [Color] from Hex 000000
-  static const Color bem = Color(0x000000);
+  static const Color bem = Color(0xff000000);
 
   /// SimpleIcons bentley [Color] from Hex 333333
-  static const Color bentley = Color(0x333333);
+  static const Color bentley = Color(0xff333333);
 
   /// SimpleIcons bento [Color] from Hex 768cff
-  static const Color bento = Color(0x768cff);
+  static const Color bento = Color(0xff768cff);
 
   /// SimpleIcons bentoml [Color] from Hex 000000
-  static const Color bentoml = Color(0x000000);
+  static const Color bentoml = Color(0xff000000);
 
   /// SimpleIcons bereal [Color] from Hex 000000
-  static const Color bereal = Color(0x000000);
+  static const Color bereal = Color(0xff000000);
 
   /// SimpleIcons betfair [Color] from Hex ffb80b
-  static const Color betfair = Color(0xffb80b);
+  static const Color betfair = Color(0xffffb80b);
 
   /// SimpleIcons bevy [Color] from Hex 232326
-  static const Color bevy = Color(0x232326);
+  static const Color bevy = Color(0xff232326);
 
   /// SimpleIcons bigcartel [Color] from Hex 222222
-  static const Color bigcartel = Color(0x222222);
+  static const Color bigcartel = Color(0xff222222);
 
   /// SimpleIcons bigbasket [Color] from Hex a5cd39
-  static const Color bigbasket = Color(0xa5cd39);
+  static const Color bigbasket = Color(0xffa5cd39);
 
   /// SimpleIcons bigbluebutton [Color] from Hex 283274
-  static const Color bigbluebutton = Color(0x283274);
+  static const Color bigbluebutton = Color(0xff283274);
 
   /// SimpleIcons bigcommerce [Color] from Hex 121118
-  static const Color bigcommerce = Color(0x121118);
+  static const Color bigcommerce = Color(0xff121118);
 
   /// SimpleIcons bilibili [Color] from Hex 00a1d6
-  static const Color bilibili = Color(0x00a1d6);
+  static const Color bilibili = Color(0xff00a1d6);
 
   /// SimpleIcons billboard [Color] from Hex 000000
-  static const Color billboard = Color(0x000000);
+  static const Color billboard = Color(0xff000000);
 
   /// SimpleIcons bim [Color] from Hex eb1928
-  static const Color bim = Color(0xeb1928);
+  static const Color bim = Color(0xffeb1928);
 
   /// SimpleIcons binance [Color] from Hex f0b90b
-  static const Color binance = Color(0xf0b90b);
+  static const Color binance = Color(0xfff0b90b);
 
   /// SimpleIcons biolink [Color] from Hex 000000
-  static const Color biolink = Color(0x000000);
+  static const Color biolink = Color(0xff000000);
 
   /// SimpleIcons bisecthosting [Color] from Hex 0d1129
-  static const Color bisecthosting = Color(0x0d1129);
+  static const Color bisecthosting = Color(0xff0d1129);
 
   /// SimpleIcons bit [Color] from Hex 592ec1
-  static const Color bit = Color(0x592ec1);
+  static const Color bit = Color(0xff592ec1);
 
   /// SimpleIcons bitbucket [Color] from Hex 0052cc
-  static const Color bitbucket = Color(0x0052cc);
+  static const Color bitbucket = Color(0xff0052cc);
 
   /// SimpleIcons bitcoin [Color] from Hex f7931a
-  static const Color bitcoin = Color(0xf7931a);
+  static const Color bitcoin = Color(0xfff7931a);
 
   /// SimpleIcons bitcoincash [Color] from Hex 0ac18e
-  static const Color bitcoincash = Color(0x0ac18e);
+  static const Color bitcoincash = Color(0xff0ac18e);
 
   /// SimpleIcons bitcoinsv [Color] from Hex eab300
-  static const Color bitcoinsv = Color(0xeab300);
+  static const Color bitcoinsv = Color(0xffeab300);
 
   /// SimpleIcons bitcomet [Color] from Hex f49923
-  static const Color bitcomet = Color(0xf49923);
+  static const Color bitcomet = Color(0xfff49923);
 
   /// SimpleIcons bitdefender [Color] from Hex ed1c24
-  static const Color bitdefender = Color(0xed1c24);
+  static const Color bitdefender = Color(0xffed1c24);
 
   /// SimpleIcons bitly [Color] from Hex ee6123
-  static const Color bitly = Color(0xee6123);
+  static const Color bitly = Color(0xffee6123);
 
   /// SimpleIcons bitrise [Color] from Hex 683d87
-  static const Color bitrise = Color(0x683d87);
+  static const Color bitrise = Color(0xff683d87);
 
   /// SimpleIcons bitwarden [Color] from Hex 175ddc
-  static const Color bitwarden = Color(0x175ddc);
+  static const Color bitwarden = Color(0xff175ddc);
 
   /// SimpleIcons bitwig [Color] from Hex ff5a00
-  static const Color bitwig = Color(0xff5a00);
+  static const Color bitwig = Color(0xffff5a00);
 
   /// SimpleIcons blackberry [Color] from Hex 000000
-  static const Color blackberry = Color(0x000000);
+  static const Color blackberry = Color(0xff000000);
 
   /// SimpleIcons blackmagicdesign [Color] from Hex ffa200
-  static const Color blackmagicdesign = Color(0xffa200);
+  static const Color blackmagicdesign = Color(0xffffa200);
 
   /// SimpleIcons blazemeter [Color] from Hex ca2133
-  static const Color blazemeter = Color(0xca2133);
+  static const Color blazemeter = Color(0xffca2133);
 
   /// SimpleIcons blazor [Color] from Hex 512bd4
-  static const Color blazor = Color(0x512bd4);
+  static const Color blazor = Color(0xff512bd4);
 
   /// SimpleIcons blender [Color] from Hex e87d0d
-  static const Color blender = Color(0xe87d0d);
+  static const Color blender = Color(0xffe87d0d);
 
   /// SimpleIcons blockbench [Color] from Hex 1e93d9
-  static const Color blockbench = Color(0x1e93d9);
+  static const Color blockbench = Color(0xff1e93d9);
 
   /// SimpleIcons blockchaindotcom [Color] from Hex 121d33
-  static const Color blockchaindotcom = Color(0x121d33);
+  static const Color blockchaindotcom = Color(0xff121d33);
 
   /// SimpleIcons blogger [Color] from Hex ff5722
-  static const Color blogger = Color(0xff5722);
+  static const Color blogger = Color(0xffff5722);
 
   /// SimpleIcons bloglovin [Color] from Hex 000000
-  static const Color bloglovin = Color(0x000000);
+  static const Color bloglovin = Color(0xff000000);
 
   /// SimpleIcons blueprint [Color] from Hex 137cbd
-  static const Color blueprint = Color(0x137cbd);
+  static const Color blueprint = Color(0xff137cbd);
 
   /// SimpleIcons bluetooth [Color] from Hex 0082fc
-  static const Color bluetooth = Color(0x0082fc);
+  static const Color bluetooth = Color(0xff0082fc);
 
   /// SimpleIcons bmcsoftware [Color] from Hex fe5000
-  static const Color bmcsoftware = Color(0xfe5000);
+  static const Color bmcsoftware = Color(0xfffe5000);
 
   /// SimpleIcons bmw [Color] from Hex 0066b1
-  static const Color bmw = Color(0x0066b1);
+  static const Color bmw = Color(0xff0066b1);
 
   /// SimpleIcons bnbchain [Color] from Hex f0b90b
-  static const Color bnbchain = Color(0xf0b90b);
+  static const Color bnbchain = Color(0xfff0b90b);
 
   /// SimpleIcons boardgamegeek [Color] from Hex ff5100
-  static const Color boardgamegeek = Color(0xff5100);
+  static const Color boardgamegeek = Color(0xffff5100);
 
   /// SimpleIcons boehringeringelheim [Color] from Hex 00e47c
-  static const Color boehringeringelheim = Color(0x00e47c);
+  static const Color boehringeringelheim = Color(0xff00e47c);
 
   /// SimpleIcons boeing [Color] from Hex 1d439c
-  static const Color boeing = Color(0x1d439c);
+  static const Color boeing = Color(0xff1d439c);
 
   /// SimpleIcons bombardier [Color] from Hex 020203
-  static const Color bombardier = Color(0x020203);
+  static const Color bombardier = Color(0xff020203);
 
   /// SimpleIcons bookalope [Color] from Hex dc2829
-  static const Color bookalope = Color(0xdc2829);
+  static const Color bookalope = Color(0xffdc2829);
 
   /// SimpleIcons bookbub [Color] from Hex f44336
-  static const Color bookbub = Color(0xf44336);
+  static const Color bookbub = Color(0xfff44336);
 
   /// SimpleIcons bookmeter [Color] from Hex 64bc4b
-  static const Color bookmeter = Color(0x64bc4b);
+  static const Color bookmeter = Color(0xff64bc4b);
 
   /// SimpleIcons bookmyshow [Color] from Hex c4242b
-  static const Color bookmyshow = Color(0xc4242b);
+  static const Color bookmyshow = Color(0xffc4242b);
 
   /// SimpleIcons bookstack [Color] from Hex 0288d1
-  static const Color bookstack = Color(0x0288d1);
+  static const Color bookstack = Color(0xff0288d1);
 
   /// SimpleIcons boost [Color] from Hex f7901e
-  static const Color boost = Color(0xf7901e);
+  static const Color boost = Color(0xfff7901e);
 
   /// SimpleIcons boosty [Color] from Hex f15f2c
-  static const Color boosty = Color(0xf15f2c);
+  static const Color boosty = Color(0xfff15f2c);
 
   /// SimpleIcons boots [Color] from Hex 05054b
-  static const Color boots = Color(0x05054b);
+  static const Color boots = Color(0xff05054b);
 
   /// SimpleIcons bootstrap [Color] from Hex 7952b3
-  static const Color bootstrap = Color(0x7952b3);
+  static const Color bootstrap = Color(0xff7952b3);
 
   /// SimpleIcons borgbackup [Color] from Hex 00dd00
-  static const Color borgbackup = Color(0x00dd00);
+  static const Color borgbackup = Color(0xff00dd00);
 
   /// SimpleIcons bosch [Color] from Hex ea0016
-  static const Color bosch = Color(0xea0016);
+  static const Color bosch = Color(0xffea0016);
 
   /// SimpleIcons bose [Color] from Hex 000000
-  static const Color bose = Color(0x000000);
+  static const Color bose = Color(0xff000000);
 
   /// SimpleIcons botblecms [Color] from Hex 205081
-  static const Color botblecms = Color(0x205081);
+  static const Color botblecms = Color(0xff205081);
 
   /// SimpleIcons boulanger [Color] from Hex fd5300
-  static const Color boulanger = Color(0xfd5300);
+  static const Color boulanger = Color(0xfffd5300);
 
   /// SimpleIcons bower [Color] from Hex ef5734
-  static const Color bower = Color(0xef5734);
+  static const Color bower = Color(0xffef5734);
 
   /// SimpleIcons box [Color] from Hex 0061d5
-  static const Color box = Color(0x0061d5);
+  static const Color box = Color(0xff0061d5);
 
   /// SimpleIcons boxysvg [Color] from Hex 3584e3
-  static const Color boxysvg = Color(0x3584e3);
+  static const Color boxysvg = Color(0xff3584e3);
 
   /// SimpleIcons brandfolder [Color] from Hex 40d1f5
-  static const Color brandfolder = Color(0x40d1f5);
+  static const Color brandfolder = Color(0xff40d1f5);
 
   /// SimpleIcons brave [Color] from Hex fb542b
-  static const Color brave = Color(0xfb542b);
+  static const Color brave = Color(0xfffb542b);
 
   /// SimpleIcons breaker [Color] from Hex 003dad
-  static const Color breaker = Color(0x003dad);
+  static const Color breaker = Color(0xff003dad);
 
   /// SimpleIcons brevo [Color] from Hex 0b996e
-  static const Color brevo = Color(0x0b996e);
+  static const Color brevo = Color(0xff0b996e);
 
   /// SimpleIcons britishairways [Color] from Hex 2e5c99
-  static const Color britishairways = Color(0x2e5c99);
+  static const Color britishairways = Color(0xff2e5c99);
 
   /// SimpleIcons broadcom [Color] from Hex e31837
-  static const Color broadcom = Color(0xe31837);
+  static const Color broadcom = Color(0xffe31837);
 
   /// SimpleIcons bsd [Color] from Hex ab2b28
-  static const Color bsd = Color(0xab2b28);
+  static const Color bsd = Color(0xffab2b28);
 
   /// SimpleIcons bspwm [Color] from Hex 2e2e2e
-  static const Color bspwm = Color(0x2e2e2e);
+  static const Color bspwm = Color(0xff2e2e2e);
 
   /// SimpleIcons bt [Color] from Hex 6400aa
-  static const Color bt = Color(0x6400aa);
+  static const Color bt = Color(0xff6400aa);
 
   /// SimpleIcons buddy [Color] from Hex 1a86fd
-  static const Color buddy = Color(0x1a86fd);
+  static const Color buddy = Color(0xff1a86fd);
 
   /// SimpleIcons budibase [Color] from Hex 000000
-  static const Color budibase = Color(0x000000);
+  static const Color budibase = Color(0xff000000);
 
   /// SimpleIcons buefy [Color] from Hex 7957d5
-  static const Color buefy = Color(0x7957d5);
+  static const Color buefy = Color(0xff7957d5);
 
   /// SimpleIcons buffer [Color] from Hex 231f20
-  static const Color buffer = Color(0x231f20);
+  static const Color buffer = Color(0xff231f20);
 
   /// SimpleIcons bugatti [Color] from Hex be0030
-  static const Color bugatti = Color(0xbe0030);
+  static const Color bugatti = Color(0xffbe0030);
 
   /// SimpleIcons bugcrowd [Color] from Hex f26822
-  static const Color bugcrowd = Color(0xf26822);
+  static const Color bugcrowd = Color(0xfff26822);
 
   /// SimpleIcons bugsnag [Color] from Hex 4949e4
-  static const Color bugsnag = Color(0x4949e4);
+  static const Color bugsnag = Color(0xff4949e4);
 
   /// SimpleIcons buildkite [Color] from Hex 14cc80
-  static const Color buildkite = Color(0x14cc80);
+  static const Color buildkite = Color(0xff14cc80);
 
   /// SimpleIcons bukalapak [Color] from Hex e31e52
-  static const Color bukalapak = Color(0xe31e52);
+  static const Color bukalapak = Color(0xffe31e52);
 
   /// SimpleIcons bulma [Color] from Hex 00d1b2
-  static const Color bulma = Color(0x00d1b2);
+  static const Color bulma = Color(0xff00d1b2);
 
   /// SimpleIcons bun [Color] from Hex 000000
-  static const Color bun = Color(0x000000);
+  static const Color bun = Color(0xff000000);
 
   /// SimpleIcons bunq [Color] from Hex 3394d7
-  static const Color bunq = Color(0x3394d7);
+  static const Color bunq = Color(0xff3394d7);
 
   /// SimpleIcons burgerking [Color] from Hex d62300
-  static const Color burgerking = Color(0xd62300);
+  static const Color burgerking = Color(0xffd62300);
 
   /// SimpleIcons burton [Color] from Hex 000000
-  static const Color burton = Color(0x000000);
+  static const Color burton = Color(0xff000000);
 
   /// SimpleIcons buymeacoffee [Color] from Hex ffdd00
-  static const Color buymeacoffee = Color(0xffdd00);
+  static const Color buymeacoffee = Color(0xffffdd00);
 
   /// SimpleIcons buzzfeed [Color] from Hex ee3322
-  static const Color buzzfeed = Color(0xee3322);
+  static const Color buzzfeed = Color(0xffee3322);
 
   /// SimpleIcons bvg [Color] from Hex f0d722
-  static const Color bvg = Color(0xf0d722);
+  static const Color bvg = Color(0xfff0d722);
 
   /// SimpleIcons byjus [Color] from Hex 813588
-  static const Color byjus = Color(0x813588);
+  static const Color byjus = Color(0xff813588);
 
   /// SimpleIcons bytedance [Color] from Hex 3c8cff
-  static const Color bytedance = Color(0x3c8cff);
+  static const Color bytedance = Color(0xff3c8cff);
 
   /// SimpleIcons c [Color] from Hex a8b9cc
-  static const Color c = Color(0xa8b9cc);
+  static const Color c = Color(0xffa8b9cc);
 
   /// SimpleIcons csharp [Color] from Hex 512bd4
-  static const Color csharp = Color(0x512bd4);
+  static const Color csharp = Color(0xff512bd4);
 
   /// SimpleIcons cplusplus [Color] from Hex 00599c
-  static const Color cplusplus = Color(0x00599c);
+  static const Color cplusplus = Color(0xff00599c);
 
   /// SimpleIcons cplusplusbuilder [Color] from Hex e62431
-  static const Color cplusplusbuilder = Color(0xe62431);
+  static const Color cplusplusbuilder = Color(0xffe62431);
 
   /// SimpleIcons cachet [Color] from Hex 7ed321
-  static const Color cachet = Color(0x7ed321);
+  static const Color cachet = Color(0xff7ed321);
 
   /// SimpleIcons caddy [Color] from Hex 1f88c0
-  static const Color caddy = Color(0x1f88c0);
+  static const Color caddy = Color(0xff1f88c0);
 
   /// SimpleIcons cadillac [Color] from Hex 000000
-  static const Color cadillac = Color(0x000000);
+  static const Color cadillac = Color(0xff000000);
 
   /// SimpleIcons cafepress [Color] from Hex 58a616
-  static const Color cafepress = Color(0x58a616);
+  static const Color cafepress = Color(0xff58a616);
 
   /// SimpleIcons caffeine [Color] from Hex 0000ff
-  static const Color caffeine = Color(0x0000ff);
+  static const Color caffeine = Color(0xff0000ff);
 
   /// SimpleIcons cairographics [Color] from Hex f39914
-  static const Color cairographics = Color(0xf39914);
+  static const Color cairographics = Color(0xfff39914);
 
   /// SimpleIcons cairometro [Color] from Hex c10c0c
-  static const Color cairometro = Color(0xc10c0c);
+  static const Color cairometro = Color(0xffc10c0c);
 
   /// SimpleIcons cakephp [Color] from Hex d33c43
-  static const Color cakephp = Color(0xd33c43);
+  static const Color cakephp = Color(0xffd33c43);
 
   /// SimpleIcons campaignmonitor [Color] from Hex 111324
-  static const Color campaignmonitor = Color(0x111324);
+  static const Color campaignmonitor = Color(0xff111324);
 
   /// SimpleIcons canonical [Color] from Hex e95420
-  static const Color canonical = Color(0xe95420);
+  static const Color canonical = Color(0xffe95420);
 
   /// SimpleIcons canva [Color] from Hex 00c4cc
-  static const Color canva = Color(0x00c4cc);
+  static const Color canva = Color(0xff00c4cc);
 
   /// SimpleIcons canvas [Color] from Hex e72429
-  static const Color canvas = Color(0xe72429);
+  static const Color canvas = Color(0xffe72429);
 
   /// SimpleIcons capacitor [Color] from Hex 119eff
-  static const Color capacitor = Color(0x119eff);
+  static const Color capacitor = Color(0xff119eff);
 
   /// SimpleIcons carthrottle [Color] from Hex ff9c42
-  static const Color carthrottle = Color(0xff9c42);
+  static const Color carthrottle = Color(0xffff9c42);
 
   /// SimpleIcons cardano [Color] from Hex 0133ad
-  static const Color cardano = Color(0x0133ad);
+  static const Color cardano = Color(0xff0133ad);
 
   /// SimpleIcons carrd [Color] from Hex 596caf
-  static const Color carrd = Color(0x596caf);
+  static const Color carrd = Color(0xff596caf);
 
   /// SimpleIcons carrefour [Color] from Hex 004e9f
-  static const Color carrefour = Color(0x004e9f);
+  static const Color carrefour = Color(0xff004e9f);
 
   /// SimpleIcons carto [Color] from Hex eb1510
-  static const Color carto = Color(0xeb1510);
+  static const Color carto = Color(0xffeb1510);
 
   /// SimpleIcons cashapp [Color] from Hex 00c244
-  static const Color cashapp = Color(0x00c244);
+  static const Color cashapp = Color(0xff00c244);
 
   /// SimpleIcons castbox [Color] from Hex f55b23
-  static const Color castbox = Color(0xf55b23);
+  static const Color castbox = Color(0xfff55b23);
 
   /// SimpleIcons castorama [Color] from Hex 0078d7
-  static const Color castorama = Color(0x0078d7);
+  static const Color castorama = Color(0xff0078d7);
 
   /// SimpleIcons castro [Color] from Hex 00b265
-  static const Color castro = Color(0x00b265);
+  static const Color castro = Color(0xff00b265);
 
   /// SimpleIcons caterpillar [Color] from Hex ffcd11
-  static const Color caterpillar = Color(0xffcd11);
+  static const Color caterpillar = Color(0xffffcd11);
 
   /// SimpleIcons cbc [Color] from Hex e60505
-  static const Color cbc = Color(0xe60505);
+  static const Color cbc = Color(0xffe60505);
 
   /// SimpleIcons cbs [Color] from Hex 033963
-  static const Color cbs = Color(0x033963);
+  static const Color cbs = Color(0xff033963);
 
   /// SimpleIcons ccleaner [Color] from Hex cb2d29
-  static const Color ccleaner = Color(0xcb2d29);
+  static const Color ccleaner = Color(0xffcb2d29);
 
   /// SimpleIcons cdprojekt [Color] from Hex dc0d15
-  static const Color cdprojekt = Color(0xdc0d15);
+  static const Color cdprojekt = Color(0xffdc0d15);
 
   /// SimpleIcons celery [Color] from Hex 37814a
-  static const Color celery = Color(0x37814a);
+  static const Color celery = Color(0xff37814a);
 
   /// SimpleIcons celestron [Color] from Hex f47216
-  static const Color celestron = Color(0xf47216);
+  static const Color celestron = Color(0xfff47216);
 
   /// SimpleIcons centos [Color] from Hex 262577
-  static const Color centos = Color(0x262577);
+  static const Color centos = Color(0xff262577);
 
   /// SimpleIcons ceph [Color] from Hex ef5c55
-  static const Color ceph = Color(0xef5c55);
+  static const Color ceph = Color(0xffef5c55);
 
   /// SimpleIcons cesium [Color] from Hex 6caddf
-  static const Color cesium = Color(0x6caddf);
+  static const Color cesium = Color(0xff6caddf);
 
   /// SimpleIcons chai [Color] from Hex a30701
-  static const Color chai = Color(0xa30701);
+  static const Color chai = Color(0xffa30701);
 
   /// SimpleIcons chainguard [Color] from Hex 4445e7
-  static const Color chainguard = Color(0x4445e7);
+  static const Color chainguard = Color(0xff4445e7);
 
   /// SimpleIcons chainlink [Color] from Hex 375bd2
-  static const Color chainlink = Color(0x375bd2);
+  static const Color chainlink = Color(0xff375bd2);
 
   /// SimpleIcons chakraui [Color] from Hex 319795
-  static const Color chakraui = Color(0x319795);
+  static const Color chakraui = Color(0xff319795);
 
   /// SimpleIcons channel4 [Color] from Hex aaff89
-  static const Color channel4 = Color(0xaaff89);
+  static const Color channel4 = Color(0xffaaff89);
 
   /// SimpleIcons chartdotjs [Color] from Hex ff6384
-  static const Color chartdotjs = Color(0xff6384);
+  static const Color chartdotjs = Color(0xffff6384);
 
   /// SimpleIcons chartmogul [Color] from Hex 13324b
-  static const Color chartmogul = Color(0x13324b);
+  static const Color chartmogul = Color(0xff13324b);
 
   /// SimpleIcons chase [Color] from Hex 117aca
-  static const Color chase = Color(0x117aca);
+  static const Color chase = Color(0xff117aca);
 
   /// SimpleIcons chatbot [Color] from Hex 0066ff
-  static const Color chatbot = Color(0x0066ff);
+  static const Color chatbot = Color(0xff0066ff);
 
   /// SimpleIcons chatwoot [Color] from Hex 1f93ff
-  static const Color chatwoot = Color(0x1f93ff);
+  static const Color chatwoot = Color(0xff1f93ff);
 
   /// SimpleIcons checkio [Color] from Hex 008db6
-  static const Color checkio = Color(0x008db6);
+  static const Color checkio = Color(0xff008db6);
 
   /// SimpleIcons checkmarx [Color] from Hex 54b848
-  static const Color checkmarx = Color(0x54b848);
+  static const Color checkmarx = Color(0xff54b848);
 
   /// SimpleIcons checkmk [Color] from Hex 15d1a0
-  static const Color checkmk = Color(0x15d1a0);
+  static const Color checkmk = Color(0xff15d1a0);
 
   /// SimpleIcons chedraui [Color] from Hex e0832f
-  static const Color chedraui = Color(0xe0832f);
+  static const Color chedraui = Color(0xffe0832f);
 
   /// SimpleIcons chef [Color] from Hex f09820
-  static const Color chef = Color(0xf09820);
+  static const Color chef = Color(0xfff09820);
 
   /// SimpleIcons chemex [Color] from Hex 4d2b1a
-  static const Color chemex = Color(0x4d2b1a);
+  static const Color chemex = Color(0xff4d2b1a);
 
   /// SimpleIcons chevrolet [Color] from Hex cd9834
-  static const Color chevrolet = Color(0xcd9834);
+  static const Color chevrolet = Color(0xffcd9834);
 
   /// SimpleIcons chianetwork [Color] from Hex 5ece71
-  static const Color chianetwork = Color(0x5ece71);
+  static const Color chianetwork = Color(0xff5ece71);
 
   /// SimpleIcons chinaeasternairlines [Color] from Hex 1a2477
-  static const Color chinaeasternairlines = Color(0x1a2477);
+  static const Color chinaeasternairlines = Color(0xff1a2477);
 
   /// SimpleIcons chinasouthernairlines [Color] from Hex 008bcb
-  static const Color chinasouthernairlines = Color(0x008bcb);
+  static const Color chinasouthernairlines = Color(0xff008bcb);
 
   /// SimpleIcons chocolatey [Color] from Hex 80b5e3
-  static const Color chocolatey = Color(0x80b5e3);
+  static const Color chocolatey = Color(0xff80b5e3);
 
   /// SimpleIcons chromatic [Color] from Hex fc521f
-  static const Color chromatic = Color(0xfc521f);
+  static const Color chromatic = Color(0xfffc521f);
 
   /// SimpleIcons chromecast [Color] from Hex 999999
-  static const Color chromecast = Color(0x999999);
+  static const Color chromecast = Color(0xff999999);
 
   /// SimpleIcons chrysler [Color] from Hex 000000
-  static const Color chrysler = Color(0x000000);
+  static const Color chrysler = Color(0xff000000);
 
   /// SimpleIcons chupachups [Color] from Hex cf103e
-  static const Color chupachups = Color(0xcf103e);
+  static const Color chupachups = Color(0xffcf103e);
 
   /// SimpleIcons cilium [Color] from Hex f8c517
-  static const Color cilium = Color(0xf8c517);
+  static const Color cilium = Color(0xfff8c517);
 
   /// SimpleIcons cinema4d [Color] from Hex 011a6a
-  static const Color cinema4d = Color(0x011a6a);
+  static const Color cinema4d = Color(0xff011a6a);
 
   /// SimpleIcons circle [Color] from Hex 8669ae
-  static const Color circle = Color(0x8669ae);
+  static const Color circle = Color(0xff8669ae);
 
   /// SimpleIcons circleci [Color] from Hex 343434
-  static const Color circleci = Color(0x343434);
+  static const Color circleci = Color(0xff343434);
 
   /// SimpleIcons circuitverse [Color] from Hex 42b883
-  static const Color circuitverse = Color(0x42b883);
+  static const Color circuitverse = Color(0xff42b883);
 
   /// SimpleIcons cirrusci [Color] from Hex 4051b5
-  static const Color cirrusci = Color(0x4051b5);
+  static const Color cirrusci = Color(0xff4051b5);
 
   /// SimpleIcons cisco [Color] from Hex 1ba0d7
-  static const Color cisco = Color(0x1ba0d7);
+  static const Color cisco = Color(0xff1ba0d7);
 
   /// SimpleIcons citrix [Color] from Hex 452170
-  static const Color citrix = Color(0x452170);
+  static const Color citrix = Color(0xff452170);
 
   /// SimpleIcons citroen [Color] from Hex 6e6e6e
-  static const Color citroen = Color(0x6e6e6e);
+  static const Color citroen = Color(0xff6e6e6e);
 
   /// SimpleIcons civicrm [Color] from Hex 81c459
-  static const Color civicrm = Color(0x81c459);
+  static const Color civicrm = Color(0xff81c459);
 
   /// SimpleIcons civo [Color] from Hex 239dff
-  static const Color civo = Color(0x239dff);
+  static const Color civo = Color(0xff239dff);
 
   /// SimpleIcons ckeditor4 [Color] from Hex 0287d0
-  static const Color ckeditor4 = Color(0x0287d0);
+  static const Color ckeditor4 = Color(0xff0287d0);
 
   /// SimpleIcons clarifai [Color] from Hex 1955ff
-  static const Color clarifai = Color(0x1955ff);
+  static const Color clarifai = Color(0xff1955ff);
 
   /// SimpleIcons claris [Color] from Hex 000000
-  static const Color claris = Color(0x000000);
+  static const Color claris = Color(0xff000000);
 
   /// SimpleIcons clarivate [Color] from Hex 000000
-  static const Color clarivate = Color(0x000000);
+  static const Color clarivate = Color(0xff000000);
 
   /// SimpleIcons clerk [Color] from Hex 6c47ff
-  static const Color clerk = Color(0x6c47ff);
+  static const Color clerk = Color(0xff6c47ff);
 
   /// SimpleIcons clickhouse [Color] from Hex ffcc01
-  static const Color clickhouse = Color(0xffcc01);
+  static const Color clickhouse = Color(0xffffcc01);
 
   /// SimpleIcons clickup [Color] from Hex 7b68ee
-  static const Color clickup = Color(0x7b68ee);
+  static const Color clickup = Color(0xff7b68ee);
 
   /// SimpleIcons clion [Color] from Hex 000000
-  static const Color clion = Color(0x000000);
+  static const Color clion = Color(0xff000000);
 
   /// SimpleIcons cliqz [Color] from Hex 00aef0
-  static const Color cliqz = Color(0x00aef0);
+  static const Color cliqz = Color(0xff00aef0);
 
   /// SimpleIcons clockify [Color] from Hex 03a9f4
-  static const Color clockify = Color(0x03a9f4);
+  static const Color clockify = Color(0xff03a9f4);
 
   /// SimpleIcons clojure [Color] from Hex 5881d8
-  static const Color clojure = Color(0x5881d8);
+  static const Color clojure = Color(0xff5881d8);
 
   /// SimpleIcons cloud66 [Color] from Hex 3c72b9
-  static const Color cloud66 = Color(0x3c72b9);
+  static const Color cloud66 = Color(0xff3c72b9);
 
   /// SimpleIcons cloudfoundry [Color] from Hex 0c9ed5
-  static const Color cloudfoundry = Color(0x0c9ed5);
+  static const Color cloudfoundry = Color(0xff0c9ed5);
 
   /// SimpleIcons cloudbees [Color] from Hex 1997b5
-  static const Color cloudbees = Color(0x1997b5);
+  static const Color cloudbees = Color(0xff1997b5);
 
   /// SimpleIcons cloudcannon [Color] from Hex 407afc
-  static const Color cloudcannon = Color(0x407afc);
+  static const Color cloudcannon = Color(0xff407afc);
 
   /// SimpleIcons cloudera [Color] from Hex f96702
-  static const Color cloudera = Color(0xf96702);
+  static const Color cloudera = Color(0xfff96702);
 
   /// SimpleIcons cloudflare [Color] from Hex f38020
-  static const Color cloudflare = Color(0xf38020);
+  static const Color cloudflare = Color(0xfff38020);
 
   /// SimpleIcons cloudflarepages [Color] from Hex f38020
-  static const Color cloudflarepages = Color(0xf38020);
+  static const Color cloudflarepages = Color(0xfff38020);
 
   /// SimpleIcons cloudinary [Color] from Hex 3448c5
-  static const Color cloudinary = Color(0x3448c5);
+  static const Color cloudinary = Color(0xff3448c5);
 
   /// SimpleIcons cloudsmith [Color] from Hex 2a6fe1
-  static const Color cloudsmith = Color(0x2a6fe1);
+  static const Color cloudsmith = Color(0xff2a6fe1);
 
   /// SimpleIcons cloudways [Color] from Hex 2c39bd
-  static const Color cloudways = Color(0x2c39bd);
+  static const Color cloudways = Color(0xff2c39bd);
 
   /// SimpleIcons clubhouse [Color] from Hex ffe450
-  static const Color clubhouse = Color(0xffe450);
+  static const Color clubhouse = Color(0xffffe450);
 
   /// SimpleIcons clyp [Color] from Hex 3cbdb1
-  static const Color clyp = Color(0x3cbdb1);
+  static const Color clyp = Color(0xff3cbdb1);
 
   /// SimpleIcons cmake [Color] from Hex 064f8c
-  static const Color cmake = Color(0x064f8c);
+  static const Color cmake = Color(0xff064f8c);
 
   /// SimpleIcons cncf [Color] from Hex 231f20
-  static const Color cncf = Color(0x231f20);
+  static const Color cncf = Color(0xff231f20);
 
   /// SimpleIcons cnn [Color] from Hex cc0000
-  static const Color cnn = Color(0xcc0000);
+  static const Color cnn = Color(0xffcc0000);
 
   /// SimpleIcons coop [Color] from Hex 00b1e7
-  static const Color coop = Color(0x00b1e7);
+  static const Color coop = Color(0xff00b1e7);
 
   /// SimpleIcons cocacola [Color] from Hex d00013
-  static const Color cocacola = Color(0xd00013);
+  static const Color cocacola = Color(0xffd00013);
 
   /// SimpleIcons cockpit [Color] from Hex 0066cc
-  static const Color cockpit = Color(0x0066cc);
+  static const Color cockpit = Color(0xff0066cc);
 
   /// SimpleIcons cockroachlabs [Color] from Hex 6933ff
-  static const Color cockroachlabs = Color(0x6933ff);
+  static const Color cockroachlabs = Color(0xff6933ff);
 
   /// SimpleIcons cocoapods [Color] from Hex ee3322
-  static const Color cocoapods = Color(0xee3322);
+  static const Color cocoapods = Color(0xffee3322);
 
   /// SimpleIcons cocos [Color] from Hex 55c2e1
-  static const Color cocos = Color(0x55c2e1);
+  static const Color cocos = Color(0xff55c2e1);
 
   /// SimpleIcons coda [Color] from Hex f46a54
-  static const Color coda = Color(0xf46a54);
+  static const Color coda = Color(0xfff46a54);
 
   /// SimpleIcons codacy [Color] from Hex 222f29
-  static const Color codacy = Color(0x222f29);
+  static const Color codacy = Color(0xff222f29);
 
   /// SimpleIcons codeclimate [Color] from Hex 000000
-  static const Color codeclimate = Color(0x000000);
+  static const Color codeclimate = Color(0xff000000);
 
   /// SimpleIcons codeberg [Color] from Hex 2185d0
-  static const Color codeberg = Color(0x2185d0);
+  static const Color codeberg = Color(0xff2185d0);
 
   /// SimpleIcons codecademy [Color] from Hex 1f4056
-  static const Color codecademy = Color(0x1f4056);
+  static const Color codecademy = Color(0xff1f4056);
 
   /// SimpleIcons codeceptjs [Color] from Hex f6e05e
-  static const Color codeceptjs = Color(0xf6e05e);
+  static const Color codeceptjs = Color(0xfff6e05e);
 
   /// SimpleIcons codechef [Color] from Hex 5b4638
-  static const Color codechef = Color(0x5b4638);
+  static const Color codechef = Color(0xff5b4638);
 
   /// SimpleIcons codecov [Color] from Hex f01f7a
-  static const Color codecov = Color(0xf01f7a);
+  static const Color codecov = Color(0xfff01f7a);
 
   /// SimpleIcons codefactor [Color] from Hex f44a6a
-  static const Color codefactor = Color(0xf44a6a);
+  static const Color codefactor = Color(0xfff44a6a);
 
   /// SimpleIcons codeforces [Color] from Hex 1f8acb
-  static const Color codeforces = Color(0x1f8acb);
+  static const Color codeforces = Color(0xff1f8acb);
 
   /// SimpleIcons codeigniter [Color] from Hex ef4223
-  static const Color codeigniter = Color(0xef4223);
+  static const Color codeigniter = Color(0xffef4223);
 
   /// SimpleIcons codeium [Color] from Hex 09b6a2
-  static const Color codeium = Color(0x09b6a2);
+  static const Color codeium = Color(0xff09b6a2);
 
   /// SimpleIcons codemagic [Color] from Hex f45e3f
-  static const Color codemagic = Color(0xf45e3f);
+  static const Color codemagic = Color(0xfff45e3f);
 
   /// SimpleIcons codementor [Color] from Hex 003648
-  static const Color codementor = Color(0x003648);
+  static const Color codementor = Color(0xff003648);
 
   /// SimpleIcons codemirror [Color] from Hex d30707
-  static const Color codemirror = Color(0xd30707);
+  static const Color codemirror = Color(0xffd30707);
 
   /// SimpleIcons codenewbie [Color] from Hex 9013fe
-  static const Color codenewbie = Color(0x9013fe);
+  static const Color codenewbie = Color(0xff9013fe);
 
   /// SimpleIcons codepen [Color] from Hex 000000
-  static const Color codepen = Color(0x000000);
+  static const Color codepen = Color(0xff000000);
 
   /// SimpleIcons codeproject [Color] from Hex ff9900
-  static const Color codeproject = Color(0xff9900);
+  static const Color codeproject = Color(0xffff9900);
 
   /// SimpleIcons codersrank [Color] from Hex 67a4ac
-  static const Color codersrank = Color(0x67a4ac);
+  static const Color codersrank = Color(0xff67a4ac);
 
   /// SimpleIcons coderwall [Color] from Hex 3e8dcc
-  static const Color coderwall = Color(0x3e8dcc);
+  static const Color coderwall = Color(0xff3e8dcc);
 
   /// SimpleIcons codesandbox [Color] from Hex 151515
-  static const Color codesandbox = Color(0x151515);
+  static const Color codesandbox = Color(0xff151515);
 
   /// SimpleIcons codeship [Color] from Hex 004466
-  static const Color codeship = Color(0x004466);
+  static const Color codeship = Color(0xff004466);
 
   /// SimpleIcons codesignal [Color] from Hex 1062fb
-  static const Color codesignal = Color(0x1062fb);
+  static const Color codesignal = Color(0xff1062fb);
 
   /// SimpleIcons codestream [Color] from Hex 008c99
-  static const Color codestream = Color(0x008c99);
+  static const Color codestream = Color(0xff008c99);
 
   /// SimpleIcons codewars [Color] from Hex b1361e
-  static const Color codewars = Color(0xb1361e);
+  static const Color codewars = Color(0xffb1361e);
 
   /// SimpleIcons codingninjas [Color] from Hex dd6620
-  static const Color codingninjas = Color(0xdd6620);
+  static const Color codingninjas = Color(0xffdd6620);
 
   /// SimpleIcons codingame [Color] from Hex f2bb13
-  static const Color codingame = Color(0xf2bb13);
+  static const Color codingame = Color(0xfff2bb13);
 
   /// SimpleIcons codio [Color] from Hex 4574e0
-  static const Color codio = Color(0x4574e0);
+  static const Color codio = Color(0xff4574e0);
 
   /// SimpleIcons coffeescript [Color] from Hex 2f2625
-  static const Color coffeescript = Color(0x2f2625);
+  static const Color coffeescript = Color(0xff2f2625);
 
   /// SimpleIcons coggle [Color] from Hex 9ed56b
-  static const Color coggle = Color(0x9ed56b);
+  static const Color coggle = Color(0xff9ed56b);
 
   /// SimpleIcons cognizant [Color] from Hex 1a4ca1
-  static const Color cognizant = Color(0x1a4ca1);
+  static const Color cognizant = Color(0xff1a4ca1);
 
   /// SimpleIcons coil [Color] from Hex 000000
-  static const Color coil = Color(0x000000);
+  static const Color coil = Color(0xff000000);
 
   /// SimpleIcons coinbase [Color] from Hex 0052ff
-  static const Color coinbase = Color(0x0052ff);
+  static const Color coinbase = Color(0xff0052ff);
 
   /// SimpleIcons coinmarketcap [Color] from Hex 17181b
-  static const Color coinmarketcap = Color(0x17181b);
+  static const Color coinmarketcap = Color(0xff17181b);
 
   /// SimpleIcons commerzbank [Color] from Hex ffcc33
-  static const Color commerzbank = Color(0xffcc33);
+  static const Color commerzbank = Color(0xffffcc33);
 
   /// SimpleIcons commitlint [Color] from Hex 000000
-  static const Color commitlint = Color(0x000000);
+  static const Color commitlint = Color(0xff000000);
 
   /// SimpleIcons commodore [Color] from Hex 1e2a4e
-  static const Color commodore = Color(0x1e2a4e);
+  static const Color commodore = Color(0xff1e2a4e);
 
   /// SimpleIcons commonworkflowlanguage [Color] from Hex b5314c
-  static const Color commonworkflowlanguage = Color(0xb5314c);
+  static const Color commonworkflowlanguage = Color(0xffb5314c);
 
   /// SimpleIcons compilerexplorer [Color] from Hex 67c52a
-  static const Color compilerexplorer = Color(0x67c52a);
+  static const Color compilerexplorer = Color(0xff67c52a);
 
   /// SimpleIcons composer [Color] from Hex 885630
-  static const Color composer = Color(0x885630);
+  static const Color composer = Color(0xff885630);
 
   /// SimpleIcons comptia [Color] from Hex c8202f
-  static const Color comptia = Color(0xc8202f);
+  static const Color comptia = Color(0xffc8202f);
 
   /// SimpleIcons comsol [Color] from Hex 368ccb
-  static const Color comsol = Color(0x368ccb);
+  static const Color comsol = Color(0xff368ccb);
 
   /// SimpleIcons conan [Color] from Hex 6699cb
-  static const Color conan = Color(0x6699cb);
+  static const Color conan = Color(0xff6699cb);
 
   /// SimpleIcons concourse [Color] from Hex 3398dc
-  static const Color concourse = Color(0x3398dc);
+  static const Color concourse = Color(0xff3398dc);
 
   /// SimpleIcons condaforge [Color] from Hex 000000
-  static const Color condaforge = Color(0x000000);
+  static const Color condaforge = Color(0xff000000);
 
   /// SimpleIcons conekta [Color] from Hex 0a1837
-  static const Color conekta = Color(0x0a1837);
+  static const Color conekta = Color(0xff0a1837);
 
   /// SimpleIcons confluence [Color] from Hex 172b4d
-  static const Color confluence = Color(0x172b4d);
+  static const Color confluence = Color(0xff172b4d);
 
   /// SimpleIcons construct3 [Color] from Hex 00ffda
-  static const Color construct3 = Color(0x00ffda);
+  static const Color construct3 = Color(0xff00ffda);
 
   /// SimpleIcons consul [Color] from Hex f24c53
-  static const Color consul = Color(0xf24c53);
+  static const Color consul = Color(0xfff24c53);
 
   /// SimpleIcons contactlesspayment [Color] from Hex 000000
-  static const Color contactlesspayment = Color(0x000000);
+  static const Color contactlesspayment = Color(0xff000000);
 
   /// SimpleIcons containerd [Color] from Hex 575757
-  static const Color containerd = Color(0x575757);
+  static const Color containerd = Color(0xff575757);
 
   /// SimpleIcons contao [Color] from Hex f47c00
-  static const Color contao = Color(0xf47c00);
+  static const Color contao = Color(0xfff47c00);
 
   /// SimpleIcons contentful [Color] from Hex 2478cc
-  static const Color contentful = Color(0x2478cc);
+  static const Color contentful = Color(0xff2478cc);
 
   /// SimpleIcons contentstack [Color] from Hex e74c3d
-  static const Color contentstack = Color(0xe74c3d);
+  static const Color contentstack = Color(0xffe74c3d);
 
   /// SimpleIcons conventionalcommits [Color] from Hex fe5196
-  static const Color conventionalcommits = Color(0xfe5196);
+  static const Color conventionalcommits = Color(0xfffe5196);
 
   /// SimpleIcons convertio [Color] from Hex ff3333
-  static const Color convertio = Color(0xff3333);
+  static const Color convertio = Color(0xffff3333);
 
   /// SimpleIcons cookiecutter [Color] from Hex d4aa00
-  static const Color cookiecutter = Color(0xd4aa00);
+  static const Color cookiecutter = Color(0xffd4aa00);
 
   /// SimpleIcons coppel [Color] from Hex 0266ae
-  static const Color coppel = Color(0x0266ae);
+  static const Color coppel = Color(0xff0266ae);
 
   /// SimpleIcons cora [Color] from Hex e61845
-  static const Color cora = Color(0xe61845);
+  static const Color cora = Color(0xffe61845);
 
   /// SimpleIcons coronaengine [Color] from Hex f96f29
-  static const Color coronaengine = Color(0xf96f29);
+  static const Color coronaengine = Color(0xfff96f29);
 
   /// SimpleIcons coronarenderer [Color] from Hex e6502a
-  static const Color coronarenderer = Color(0xe6502a);
+  static const Color coronarenderer = Color(0xffe6502a);
 
   /// SimpleIcons corsair [Color] from Hex 000000
-  static const Color corsair = Color(0x000000);
+  static const Color corsair = Color(0xff000000);
 
   /// SimpleIcons couchbase [Color] from Hex ea2328
-  static const Color couchbase = Color(0xea2328);
+  static const Color couchbase = Color(0xffea2328);
 
   /// SimpleIcons counterstrike [Color] from Hex 000000
-  static const Color counterstrike = Color(0x000000);
+  static const Color counterstrike = Color(0xff000000);
 
   /// SimpleIcons countingworkspro [Color] from Hex 2e3084
-  static const Color countingworkspro = Color(0x2e3084);
+  static const Color countingworkspro = Color(0xff2e3084);
 
   /// SimpleIcons coursera [Color] from Hex 0056d2
-  static const Color coursera = Color(0x0056d2);
+  static const Color coursera = Color(0xff0056d2);
 
   /// SimpleIcons coveralls [Color] from Hex 3f5767
-  static const Color coveralls = Color(0x3f5767);
+  static const Color coveralls = Color(0xff3f5767);
 
   /// SimpleIcons cpanel [Color] from Hex ff6c2c
-  static const Color cpanel = Color(0xff6c2c);
+  static const Color cpanel = Color(0xffff6c2c);
 
   /// SimpleIcons craftcms [Color] from Hex e5422b
-  static const Color craftcms = Color(0xe5422b);
+  static const Color craftcms = Color(0xffe5422b);
 
   /// SimpleIcons craftsman [Color] from Hex d6001c
-  static const Color craftsman = Color(0xd6001c);
+  static const Color craftsman = Color(0xffd6001c);
 
   /// SimpleIcons cratedb [Color] from Hex 009dc7
-  static const Color cratedb = Color(0x009dc7);
+  static const Color cratedb = Color(0xff009dc7);
 
   /// SimpleIcons crayon [Color] from Hex ff6a4c
-  static const Color crayon = Color(0xff6a4c);
+  static const Color crayon = Color(0xffff6a4c);
 
   /// SimpleIcons creality [Color] from Hex 000000
-  static const Color creality = Color(0x000000);
+  static const Color creality = Color(0xff000000);
 
   /// SimpleIcons createreactapp [Color] from Hex 09d3ac
-  static const Color createreactapp = Color(0x09d3ac);
+  static const Color createreactapp = Color(0xff09d3ac);
 
   /// SimpleIcons creativecommons [Color] from Hex ef9421
-  static const Color creativecommons = Color(0xef9421);
+  static const Color creativecommons = Color(0xffef9421);
 
   /// SimpleIcons creativetechnology [Color] from Hex 000000
-  static const Color creativetechnology = Color(0x000000);
+  static const Color creativetechnology = Color(0xff000000);
 
   /// SimpleIcons credly [Color] from Hex ff6b00
-  static const Color credly = Color(0xff6b00);
+  static const Color credly = Color(0xffff6b00);
 
   /// SimpleIcons crehana [Color] from Hex 4b22f4
-  static const Color crehana = Color(0x4b22f4);
+  static const Color crehana = Color(0xff4b22f4);
 
   /// SimpleIcons crewunited [Color] from Hex 000000
-  static const Color crewunited = Color(0x000000);
+  static const Color crewunited = Color(0xff000000);
 
   /// SimpleIcons criticalrole [Color] from Hex 000000
-  static const Color criticalrole = Color(0x000000);
+  static const Color criticalrole = Color(0xff000000);
 
   /// SimpleIcons crowdin [Color] from Hex 2e3340
-  static const Color crowdin = Color(0x2e3340);
+  static const Color crowdin = Color(0xff2e3340);
 
   /// SimpleIcons crowdsource [Color] from Hex 4285f4
-  static const Color crowdsource = Color(0x4285f4);
+  static const Color crowdsource = Color(0xff4285f4);
 
   /// SimpleIcons crunchbase [Color] from Hex 0288d1
-  static const Color crunchbase = Color(0x0288d1);
+  static const Color crunchbase = Color(0xff0288d1);
 
   /// SimpleIcons crunchyroll [Color] from Hex f47521
-  static const Color crunchyroll = Color(0xf47521);
+  static const Color crunchyroll = Color(0xfff47521);
 
   /// SimpleIcons cryengine [Color] from Hex 000000
-  static const Color cryengine = Color(0x000000);
+  static const Color cryengine = Color(0xff000000);
 
   /// SimpleIcons crystal [Color] from Hex 000000
-  static const Color crystal = Color(0x000000);
+  static const Color crystal = Color(0xff000000);
 
   /// SimpleIcons cssmodules [Color] from Hex 000000
-  static const Color cssmodules = Color(0x000000);
+  static const Color cssmodules = Color(0xff000000);
 
   /// SimpleIcons csswizardry [Color] from Hex f43059
-  static const Color csswizardry = Color(0xf43059);
+  static const Color csswizardry = Color(0xfff43059);
 
   /// SimpleIcons css3 [Color] from Hex 1572b6
-  static const Color css3 = Color(0x1572b6);
+  static const Color css3 = Color(0xff1572b6);
 
   /// SimpleIcons cts [Color] from Hex e53236
-  static const Color cts = Color(0xe53236);
+  static const Color cts = Color(0xffe53236);
 
   /// SimpleIcons cucumber [Color] from Hex 23d96c
-  static const Color cucumber = Color(0x23d96c);
+  static const Color cucumber = Color(0xff23d96c);
 
   /// SimpleIcons cultura [Color] from Hex 1d2c54
-  static const Color cultura = Color(0x1d2c54);
+  static const Color cultura = Color(0xff1d2c54);
 
   /// SimpleIcons curl [Color] from Hex 073551
-  static const Color curl = Color(0x073551);
+  static const Color curl = Color(0xff073551);
 
   /// SimpleIcons curseforge [Color] from Hex f16436
-  static const Color curseforge = Color(0xf16436);
+  static const Color curseforge = Color(0xfff16436);
 
   /// SimpleIcons customink [Color] from Hex 4051b5
-  static const Color customink = Color(0x4051b5);
+  static const Color customink = Color(0xff4051b5);
 
   /// SimpleIcons cyberdefenders [Color] from Hex 335eea
-  static const Color cyberdefenders = Color(0x335eea);
+  static const Color cyberdefenders = Color(0xff335eea);
 
   /// SimpleIcons cycling74 [Color] from Hex 111111
-  static const Color cycling74 = Color(0x111111);
+  static const Color cycling74 = Color(0xff111111);
 
   /// SimpleIcons cypress [Color] from Hex 17202c
-  static const Color cypress = Color(0x17202c);
+  static const Color cypress = Color(0xff17202c);
 
   /// SimpleIcons cytoscapedotjs [Color] from Hex f7df1e
-  static const Color cytoscapedotjs = Color(0xf7df1e);
+  static const Color cytoscapedotjs = Color(0xfff7df1e);
 
   /// SimpleIcons d [Color] from Hex b03931
-  static const Color d = Color(0xb03931);
+  static const Color d = Color(0xffb03931);
 
   /// SimpleIcons dedge [Color] from Hex 432975
-  static const Color dedge = Color(0x432975);
+  static const Color dedge = Color(0xff432975);
 
   /// SimpleIcons dwavesystems [Color] from Hex 008cd7
-  static const Color dwavesystems = Color(0x008cd7);
+  static const Color dwavesystems = Color(0xff008cd7);
 
   /// SimpleIcons d3dotjs [Color] from Hex f9a03c
-  static const Color d3dotjs = Color(0xf9a03c);
+  static const Color d3dotjs = Color(0xfff9a03c);
 
   /// SimpleIcons dacia [Color] from Hex 646b52
-  static const Color dacia = Color(0x646b52);
+  static const Color dacia = Color(0xff646b52);
 
   /// SimpleIcons daf [Color] from Hex 00529b
-  static const Color daf = Color(0x00529b);
+  static const Color daf = Color(0xff00529b);
 
   /// SimpleIcons dailymotion [Color] from Hex 0d0d0d
-  static const Color dailymotion = Color(0x0d0d0d);
+  static const Color dailymotion = Color(0xff0d0d0d);
 
   /// SimpleIcons daimler [Color] from Hex e6e6e6
-  static const Color daimler = Color(0xe6e6e6);
+  static const Color daimler = Color(0xffe6e6e6);
 
   /// SimpleIcons daisyui [Color] from Hex 5a0ef8
-  static const Color daisyui = Color(0x5a0ef8);
+  static const Color daisyui = Color(0xff5a0ef8);
 
   /// SimpleIcons dapr [Color] from Hex 0d2192
-  static const Color dapr = Color(0x0d2192);
+  static const Color dapr = Color(0xff0d2192);
 
   /// SimpleIcons darkreader [Color] from Hex 141e24
-  static const Color darkreader = Color(0x141e24);
+  static const Color darkreader = Color(0xff141e24);
 
   /// SimpleIcons dart [Color] from Hex 0175c2
-  static const Color dart = Color(0x0175c2);
+  static const Color dart = Color(0xff0175c2);
 
   /// SimpleIcons darty [Color] from Hex eb1b23
-  static const Color darty = Color(0xeb1b23);
+  static const Color darty = Color(0xffeb1b23);
 
   /// SimpleIcons daserste [Color] from Hex 001a4b
-  static const Color daserste = Color(0x001a4b);
+  static const Color daserste = Color(0xff001a4b);
 
   /// SimpleIcons dash [Color] from Hex 008de4
-  static const Color dash = Color(0x008de4);
+  static const Color dash = Color(0xff008de4);
 
   /// SimpleIcons dashlane [Color] from Hex 0e353d
-  static const Color dashlane = Color(0x0e353d);
+  static const Color dashlane = Color(0xff0e353d);
 
   /// SimpleIcons dask [Color] from Hex fc6e6b
-  static const Color dask = Color(0xfc6e6b);
+  static const Color dask = Color(0xfffc6e6b);
 
   /// SimpleIcons dassaultsystemes [Color] from Hex 005386
-  static const Color dassaultsystemes = Color(0x005386);
+  static const Color dassaultsystemes = Color(0xff005386);
 
   /// SimpleIcons datadotai [Color] from Hex 000000
-  static const Color datadotai = Color(0x000000);
+  static const Color datadotai = Color(0xff000000);
 
   /// SimpleIcons databricks [Color] from Hex ff3621
-  static const Color databricks = Color(0xff3621);
+  static const Color databricks = Color(0xffff3621);
 
   /// SimpleIcons datacamp [Color] from Hex 03ef62
-  static const Color datacamp = Color(0x03ef62);
+  static const Color datacamp = Color(0xff03ef62);
 
   /// SimpleIcons datadog [Color] from Hex 632ca6
-  static const Color datadog = Color(0x632ca6);
+  static const Color datadog = Color(0xff632ca6);
 
   /// SimpleIcons datagrip [Color] from Hex 000000
-  static const Color datagrip = Color(0x000000);
+  static const Color datagrip = Color(0xff000000);
 
   /// SimpleIcons dataiku [Color] from Hex 2ab1ac
-  static const Color dataiku = Color(0x2ab1ac);
+  static const Color dataiku = Color(0xff2ab1ac);
 
   /// SimpleIcons datastax [Color] from Hex 3a3a42
-  static const Color datastax = Color(0x3a3a42);
+  static const Color datastax = Color(0xff3a3a42);
 
   /// SimpleIcons dataverse [Color] from Hex 088142
-  static const Color dataverse = Color(0x088142);
+  static const Color dataverse = Color(0xff088142);
 
   /// SimpleIcons datocms [Color] from Hex ff7751
-  static const Color datocms = Color(0xff7751);
+  static const Color datocms = Color(0xffff7751);
 
   /// SimpleIcons datto [Color] from Hex 199ed9
-  static const Color datto = Color(0x199ed9);
+  static const Color datto = Color(0xff199ed9);
 
   /// SimpleIcons dazn [Color] from Hex f8f8f5
-  static const Color dazn = Color(0xf8f8f5);
+  static const Color dazn = Color(0xfff8f8f5);
 
   /// SimpleIcons dblp [Color] from Hex 004f9f
-  static const Color dblp = Color(0x004f9f);
+  static const Color dblp = Color(0xff004f9f);
 
   /// SimpleIcons dbt [Color] from Hex ff694b
-  static const Color dbt = Color(0xff694b);
+  static const Color dbt = Color(0xffff694b);
 
   /// SimpleIcons dcentertainment [Color] from Hex 0078f0
-  static const Color dcentertainment = Color(0x0078f0);
+  static const Color dcentertainment = Color(0xff0078f0);
 
   /// SimpleIcons delonghi [Color] from Hex 072240
-  static const Color delonghi = Color(0x072240);
+  static const Color delonghi = Color(0xff072240);
 
   /// SimpleIcons debian [Color] from Hex a81d33
-  static const Color debian = Color(0xa81d33);
+  static const Color debian = Color(0xffa81d33);
 
   /// SimpleIcons decapcms [Color] from Hex ff0082
-  static const Color decapcms = Color(0xff0082);
+  static const Color decapcms = Color(0xffff0082);
 
   /// SimpleIcons deepin [Color] from Hex 007cff
-  static const Color deepin = Color(0x007cff);
+  static const Color deepin = Color(0xff007cff);
 
   /// SimpleIcons deepnote [Color] from Hex 3793ef
-  static const Color deepnote = Color(0x3793ef);
+  static const Color deepnote = Color(0xff3793ef);
 
   /// SimpleIcons deldoticiodotus [Color] from Hex 0000ff
-  static const Color deldoticiodotus = Color(0x0000ff);
+  static const Color deldoticiodotus = Color(0xff0000ff);
 
   /// SimpleIcons deliveroo [Color] from Hex 00ccbc
-  static const Color deliveroo = Color(0x00ccbc);
+  static const Color deliveroo = Color(0xff00ccbc);
 
   /// SimpleIcons dell [Color] from Hex 007db8
-  static const Color dell = Color(0x007db8);
+  static const Color dell = Color(0xff007db8);
 
   /// SimpleIcons delphi [Color] from Hex e62431
-  static const Color delphi = Color(0xe62431);
+  static const Color delphi = Color(0xffe62431);
 
   /// SimpleIcons delta [Color] from Hex 003366
-  static const Color delta = Color(0x003366);
+  static const Color delta = Color(0xff003366);
 
   /// SimpleIcons deluge [Color] from Hex 094491
-  static const Color deluge = Color(0x094491);
+  static const Color deluge = Color(0xff094491);
 
   /// SimpleIcons deno [Color] from Hex 000000
-  static const Color deno = Color(0x000000);
+  static const Color deno = Color(0xff000000);
 
   /// SimpleIcons denon [Color] from Hex 0b131a
-  static const Color denon = Color(0x0b131a);
+  static const Color denon = Color(0xff0b131a);
 
   /// SimpleIcons dependabot [Color] from Hex 025e8c
-  static const Color dependabot = Color(0x025e8c);
+  static const Color dependabot = Color(0xff025e8c);
 
   /// SimpleIcons depositphotos [Color] from Hex 000000
-  static const Color depositphotos = Color(0x000000);
+  static const Color depositphotos = Color(0xff000000);
 
   /// SimpleIcons derspiegel [Color] from Hex e64415
-  static const Color derspiegel = Color(0xe64415);
+  static const Color derspiegel = Color(0xffe64415);
 
   /// SimpleIcons designernews [Color] from Hex 2d72d9
-  static const Color designernews = Color(0x2d72d9);
+  static const Color designernews = Color(0xff2d72d9);
 
   /// SimpleIcons deutschebahn [Color] from Hex f01414
-  static const Color deutschebahn = Color(0xf01414);
+  static const Color deutschebahn = Color(0xfff01414);
 
   /// SimpleIcons deutschebank [Color] from Hex 0018a8
-  static const Color deutschebank = Color(0x0018a8);
+  static const Color deutschebank = Color(0xff0018a8);
 
   /// SimpleIcons devdotto [Color] from Hex 0a0a0a
-  static const Color devdotto = Color(0x0a0a0a);
+  static const Color devdotto = Color(0xff0a0a0a);
 
   /// SimpleIcons devexpress [Color] from Hex ff7200
-  static const Color devexpress = Color(0xff7200);
+  static const Color devexpress = Color(0xffff7200);
 
   /// SimpleIcons deviantart [Color] from Hex 05cc47
-  static const Color deviantart = Color(0x05cc47);
+  static const Color deviantart = Color(0xff05cc47);
 
   /// SimpleIcons devpost [Color] from Hex 003e54
-  static const Color devpost = Color(0x003e54);
+  static const Color devpost = Color(0xff003e54);
 
   /// SimpleIcons devrant [Color] from Hex f99a66
-  static const Color devrant = Color(0xf99a66);
+  static const Color devrant = Color(0xfff99a66);
 
   /// SimpleIcons dgraph [Color] from Hex e50695
-  static const Color dgraph = Color(0xe50695);
+  static const Color dgraph = Color(0xffe50695);
 
   /// SimpleIcons dhl [Color] from Hex ffcc00
-  static const Color dhl = Color(0xffcc00);
+  static const Color dhl = Color(0xffffcc00);
 
   /// SimpleIcons diagramsdotnet [Color] from Hex f08705
-  static const Color diagramsdotnet = Color(0xf08705);
+  static const Color diagramsdotnet = Color(0xfff08705);
 
   /// SimpleIcons dialogflow [Color] from Hex ff9800
-  static const Color dialogflow = Color(0xff9800);
+  static const Color dialogflow = Color(0xffff9800);
 
   /// SimpleIcons diaspora [Color] from Hex 000000
-  static const Color diaspora = Color(0x000000);
+  static const Color diaspora = Color(0xff000000);
 
   /// SimpleIcons digg [Color] from Hex 000000
-  static const Color digg = Color(0x000000);
+  static const Color digg = Color(0xff000000);
 
   /// SimpleIcons digikeyelectronics [Color] from Hex cc0000
-  static const Color digikeyelectronics = Color(0xcc0000);
+  static const Color digikeyelectronics = Color(0xffcc0000);
 
   /// SimpleIcons digitalocean [Color] from Hex 0080ff
-  static const Color digitalocean = Color(0x0080ff);
+  static const Color digitalocean = Color(0xff0080ff);
 
   /// SimpleIcons dinersclub [Color] from Hex 004c97
-  static const Color dinersclub = Color(0x004c97);
+  static const Color dinersclub = Color(0xff004c97);
 
   /// SimpleIcons dior [Color] from Hex 000000
-  static const Color dior = Color(0x000000);
+  static const Color dior = Color(0xff000000);
 
   /// SimpleIcons directus [Color] from Hex 263238
-  static const Color directus = Color(0x263238);
+  static const Color directus = Color(0xff263238);
 
   /// SimpleIcons discogs [Color] from Hex 333333
-  static const Color discogs = Color(0x333333);
+  static const Color discogs = Color(0xff333333);
 
   /// SimpleIcons discord [Color] from Hex 5865f2
-  static const Color discord = Color(0x5865f2);
+  static const Color discord = Color(0xff5865f2);
 
   /// SimpleIcons discourse [Color] from Hex 000000
-  static const Color discourse = Color(0x000000);
+  static const Color discourse = Color(0xff000000);
 
   /// SimpleIcons discover [Color] from Hex ff6000
-  static const Color discover = Color(0xff6000);
+  static const Color discover = Color(0xffff6000);
 
   /// SimpleIcons disqus [Color] from Hex 2e9fff
-  static const Color disqus = Color(0x2e9fff);
+  static const Color disqus = Color(0xff2e9fff);
 
   /// SimpleIcons disroot [Color] from Hex 50162d
-  static const Color disroot = Color(0x50162d);
+  static const Color disroot = Color(0xff50162d);
 
   /// SimpleIcons distrokid [Color] from Hex 231f20
-  static const Color distrokid = Color(0x231f20);
+  static const Color distrokid = Color(0xff231f20);
 
   /// SimpleIcons django [Color] from Hex 092e20
-  static const Color django = Color(0x092e20);
+  static const Color django = Color(0xff092e20);
 
   /// SimpleIcons dji [Color] from Hex 000000
-  static const Color dji = Color(0x000000);
+  static const Color dji = Color(0xff000000);
 
   /// SimpleIcons dlib [Color] from Hex 008000
-  static const Color dlib = Color(0x008000);
+  static const Color dlib = Color(0xff008000);
 
   /// SimpleIcons dlna [Color] from Hex 48a842
-  static const Color dlna = Color(0x48a842);
+  static const Color dlna = Color(0xff48a842);
 
   /// SimpleIcons dm [Color] from Hex 002878
-  static const Color dm = Color(0x002878);
+  static const Color dm = Color(0xff002878);
 
   /// SimpleIcons docker [Color] from Hex 2496ed
-  static const Color docker = Color(0x2496ed);
+  static const Color docker = Color(0xff2496ed);
 
   /// SimpleIcons docsdotrs [Color] from Hex 000000
-  static const Color docsdotrs = Color(0x000000);
+  static const Color docsdotrs = Color(0xff000000);
 
   /// SimpleIcons docsify [Color] from Hex 2ece53
-  static const Color docsify = Color(0x2ece53);
+  static const Color docsify = Color(0xff2ece53);
 
   /// SimpleIcons docusaurus [Color] from Hex 3ecc5f
-  static const Color docusaurus = Color(0x3ecc5f);
+  static const Color docusaurus = Color(0xff3ecc5f);
 
   /// SimpleIcons docusign [Color] from Hex ffcc22
-  static const Color docusign = Color(0xffcc22);
+  static const Color docusign = Color(0xffffcc22);
 
   /// SimpleIcons dogecoin [Color] from Hex c2a633
-  static const Color dogecoin = Color(0xc2a633);
+  static const Color dogecoin = Color(0xffc2a633);
 
   /// SimpleIcons doi [Color] from Hex fab70c
-  static const Color doi = Color(0xfab70c);
+  static const Color doi = Color(0xfffab70c);
 
   /// SimpleIcons dolby [Color] from Hex 000000
-  static const Color dolby = Color(0x000000);
+  static const Color dolby = Color(0xff000000);
 
   /// SimpleIcons doordash [Color] from Hex ff3008
-  static const Color doordash = Color(0xff3008);
+  static const Color doordash = Color(0xffff3008);
 
   /// SimpleIcons douban [Color] from Hex 2d963d
-  static const Color douban = Color(0x2d963d);
+  static const Color douban = Color(0xff2d963d);
 
   /// SimpleIcons doubanread [Color] from Hex 389eac
-  static const Color doubanread = Color(0x389eac);
+  static const Color doubanread = Color(0xff389eac);
 
   /// SimpleIcons dovecot [Color] from Hex 54bcab
-  static const Color dovecot = Color(0x54bcab);
+  static const Color dovecot = Color(0xff54bcab);
 
   /// SimpleIcons doxygen [Color] from Hex 2c4aa8
-  static const Color doxygen = Color(0x2c4aa8);
+  static const Color doxygen = Color(0xff2c4aa8);
 
   /// SimpleIcons dpd [Color] from Hex dc0032
-  static const Color dpd = Color(0xdc0032);
+  static const Color dpd = Color(0xffdc0032);
 
   /// SimpleIcons dragonframe [Color] from Hex d4911e
-  static const Color dragonframe = Color(0xd4911e);
+  static const Color dragonframe = Color(0xffd4911e);
 
   /// SimpleIcons draugiemdotlv [Color] from Hex ff6600
-  static const Color draugiemdotlv = Color(0xff6600);
+  static const Color draugiemdotlv = Color(0xffff6600);
 
   /// SimpleIcons dreamstime [Color] from Hex 50a901
-  static const Color dreamstime = Color(0x50a901);
+  static const Color dreamstime = Color(0xff50a901);
 
   /// SimpleIcons dribbble [Color] from Hex ea4c89
-  static const Color dribbble = Color(0xea4c89);
+  static const Color dribbble = Color(0xffea4c89);
 
   /// SimpleIcons drizzle [Color] from Hex c5f74f
-  static const Color drizzle = Color(0xc5f74f);
+  static const Color drizzle = Color(0xffc5f74f);
 
   /// SimpleIcons drone [Color] from Hex 212121
-  static const Color drone = Color(0x212121);
+  static const Color drone = Color(0xff212121);
 
   /// SimpleIcons drooble [Color] from Hex 19c4be
-  static const Color drooble = Color(0x19c4be);
+  static const Color drooble = Color(0xff19c4be);
 
   /// SimpleIcons dropbox [Color] from Hex 0061ff
-  static const Color dropbox = Color(0x0061ff);
+  static const Color dropbox = Color(0xff0061ff);
 
   /// SimpleIcons drupal [Color] from Hex 0678be
-  static const Color drupal = Color(0x0678be);
+  static const Color drupal = Color(0xff0678be);
 
   /// SimpleIcons dsautomobiles [Color] from Hex 1d1717
-  static const Color dsautomobiles = Color(0x1d1717);
+  static const Color dsautomobiles = Color(0xff1d1717);
 
   /// SimpleIcons dts [Color] from Hex f98b2b
-  static const Color dts = Color(0xf98b2b);
+  static const Color dts = Color(0xfff98b2b);
 
   /// SimpleIcons dtube [Color] from Hex f01a30
-  static const Color dtube = Color(0xf01a30);
+  static const Color dtube = Color(0xfff01a30);
 
   /// SimpleIcons ducati [Color] from Hex cc0000
-  static const Color ducati = Color(0xcc0000);
+  static const Color ducati = Color(0xffcc0000);
 
   /// SimpleIcons duckdb [Color] from Hex fff000
-  static const Color duckdb = Color(0xfff000);
+  static const Color duckdb = Color(0xfffff000);
 
   /// SimpleIcons duckduckgo [Color] from Hex de5833
-  static const Color duckduckgo = Color(0xde5833);
+  static const Color duckduckgo = Color(0xffde5833);
 
   /// SimpleIcons dungeonsanddragons [Color] from Hex ed1c24
-  static const Color dungeonsanddragons = Color(0xed1c24);
+  static const Color dungeonsanddragons = Color(0xffed1c24);
 
   /// SimpleIcons dunked [Color] from Hex 2da9d7
-  static const Color dunked = Color(0x2da9d7);
+  static const Color dunked = Color(0xff2da9d7);
 
   /// SimpleIcons duolingo [Color] from Hex 58cc02
-  static const Color duolingo = Color(0x58cc02);
+  static const Color duolingo = Color(0xff58cc02);
 
   /// SimpleIcons dvc [Color] from Hex 13adc7
-  static const Color dvc = Color(0x13adc7);
+  static const Color dvc = Color(0xff13adc7);
 
   /// SimpleIcons dwm [Color] from Hex 1177aa
-  static const Color dwm = Color(0x1177aa);
+  static const Color dwm = Color(0xff1177aa);
 
   /// SimpleIcons dynamics365 [Color] from Hex 0b53ce
-  static const Color dynamics365 = Color(0x0b53ce);
+  static const Color dynamics365 = Color(0xff0b53ce);
 
   /// SimpleIcons dynatrace [Color] from Hex 1496ff
-  static const Color dynatrace = Color(0x1496ff);
+  static const Color dynatrace = Color(0xff1496ff);
 
   /// SimpleIcons edotleclerc [Color] from Hex 0066cc
-  static const Color edotleclerc = Color(0x0066cc);
+  static const Color edotleclerc = Color(0xff0066cc);
 
   /// SimpleIcons e3 [Color] from Hex e73d2f
-  static const Color e3 = Color(0xe73d2f);
+  static const Color e3 = Color(0xffe73d2f);
 
   /// SimpleIcons ea [Color] from Hex 000000
-  static const Color ea = Color(0x000000);
+  static const Color ea = Color(0xff000000);
 
   /// SimpleIcons eagle [Color] from Hex 0072ef
-  static const Color eagle = Color(0x0072ef);
+  static const Color eagle = Color(0xff0072ef);
 
   /// SimpleIcons easyeda [Color] from Hex 1765f6
-  static const Color easyeda = Color(0x1765f6);
+  static const Color easyeda = Color(0xff1765f6);
 
   /// SimpleIcons easyjet [Color] from Hex ff6600
-  static const Color easyjet = Color(0xff6600);
+  static const Color easyjet = Color(0xffff6600);
 
   /// SimpleIcons ebay [Color] from Hex e53238
-  static const Color ebay = Color(0xe53238);
+  static const Color ebay = Color(0xffe53238);
 
   /// SimpleIcons ebox [Color] from Hex be2323
-  static const Color ebox = Color(0xbe2323);
+  static const Color ebox = Color(0xffbe2323);
 
   /// SimpleIcons eclipseadoptium [Color] from Hex ff1464
-  static const Color eclipseadoptium = Color(0xff1464);
+  static const Color eclipseadoptium = Color(0xffff1464);
 
   /// SimpleIcons eclipseche [Color] from Hex 525c86
-  static const Color eclipseche = Color(0x525c86);
+  static const Color eclipseche = Color(0xff525c86);
 
   /// SimpleIcons eclipseide [Color] from Hex 2c2255
-  static const Color eclipseide = Color(0x2c2255);
+  static const Color eclipseide = Color(0xff2c2255);
 
   /// SimpleIcons eclipsejetty [Color] from Hex fc390e
-  static const Color eclipsejetty = Color(0xfc390e);
+  static const Color eclipsejetty = Color(0xfffc390e);
 
   /// SimpleIcons eclipsemosquitto [Color] from Hex 3c5280
-  static const Color eclipsemosquitto = Color(0x3c5280);
+  static const Color eclipsemosquitto = Color(0xff3c5280);
 
   /// SimpleIcons eclipsevertdotx [Color] from Hex 782a90
-  static const Color eclipsevertdotx = Color(0x782a90);
+  static const Color eclipsevertdotx = Color(0xff782a90);
 
   /// SimpleIcons edeka [Color] from Hex 1b66b3
-  static const Color edeka = Color(0x1b66b3);
+  static const Color edeka = Color(0xff1b66b3);
 
   /// SimpleIcons editorconfig [Color] from Hex fefefe
-  static const Color editorconfig = Color(0xfefefe);
+  static const Color editorconfig = Color(0xfffefefe);
 
   /// SimpleIcons edx [Color] from Hex 02262b
-  static const Color edx = Color(0x02262b);
+  static const Color edx = Color(0xff02262b);
 
   /// SimpleIcons egghead [Color] from Hex fcfbfa
-  static const Color egghead = Color(0xfcfbfa);
+  static const Color egghead = Color(0xfffcfbfa);
 
   /// SimpleIcons egnyte [Color] from Hex 00968f
-  static const Color egnyte = Color(0x00968f);
+  static const Color egnyte = Color(0xff00968f);
 
   /// SimpleIcons eightsleep [Color] from Hex 262729
-  static const Color eightsleep = Color(0x262729);
+  static const Color eightsleep = Color(0xff262729);
 
   /// SimpleIcons ejs [Color] from Hex b4ca65
-  static const Color ejs = Color(0xb4ca65);
+  static const Color ejs = Color(0xffb4ca65);
 
   /// SimpleIcons eljueves [Color] from Hex be312e
-  static const Color eljueves = Color(0xbe312e);
+  static const Color eljueves = Color(0xffbe312e);
 
   /// SimpleIcons elastic [Color] from Hex 005571
-  static const Color elastic = Color(0x005571);
+  static const Color elastic = Color(0xff005571);
 
   /// SimpleIcons elasticcloud [Color] from Hex 005571
-  static const Color elasticcloud = Color(0x005571);
+  static const Color elasticcloud = Color(0xff005571);
 
   /// SimpleIcons elasticstack [Color] from Hex 005571
-  static const Color elasticstack = Color(0x005571);
+  static const Color elasticstack = Color(0xff005571);
 
   /// SimpleIcons elasticsearch [Color] from Hex 005571
-  static const Color elasticsearch = Color(0x005571);
+  static const Color elasticsearch = Color(0xff005571);
 
   /// SimpleIcons elavon [Color] from Hex 0c2074
-  static const Color elavon = Color(0x0c2074);
+  static const Color elavon = Color(0xff0c2074);
 
   /// SimpleIcons electron [Color] from Hex 47848f
-  static const Color electron = Color(0x47848f);
+  static const Color electron = Color(0xff47848f);
 
   /// SimpleIcons electronfiddle [Color] from Hex e79537
-  static const Color electronfiddle = Color(0xe79537);
+  static const Color electronfiddle = Color(0xffe79537);
 
   /// SimpleIcons electronbuilder [Color] from Hex 000000
-  static const Color electronbuilder = Color(0x000000);
+  static const Color electronbuilder = Color(0xff000000);
 
   /// SimpleIcons element [Color] from Hex 0dbd8b
-  static const Color element = Color(0x0dbd8b);
+  static const Color element = Color(0xff0dbd8b);
 
   /// SimpleIcons elementary [Color] from Hex 64baff
-  static const Color elementary = Color(0x64baff);
+  static const Color elementary = Color(0xff64baff);
 
   /// SimpleIcons elementor [Color] from Hex 92003b
-  static const Color elementor = Color(0x92003b);
+  static const Color elementor = Color(0xff92003b);
 
   /// SimpleIcons eleventy [Color] from Hex 000000
-  static const Color eleventy = Color(0x000000);
+  static const Color eleventy = Color(0xff000000);
 
   /// SimpleIcons elgato [Color] from Hex 101010
-  static const Color elgato = Color(0x101010);
+  static const Color elgato = Color(0xff101010);
 
   /// SimpleIcons elixir [Color] from Hex 4b275f
-  static const Color elixir = Color(0x4b275f);
+  static const Color elixir = Color(0xff4b275f);
 
   /// SimpleIcons ello [Color] from Hex 000000
-  static const Color ello = Color(0x000000);
+  static const Color ello = Color(0xff000000);
 
   /// SimpleIcons elm [Color] from Hex 1293d8
-  static const Color elm = Color(0x1293d8);
+  static const Color elm = Color(0xff1293d8);
 
   /// SimpleIcons elsevier [Color] from Hex ff6c00
-  static const Color elsevier = Color(0xff6c00);
+  static const Color elsevier = Color(0xffff6c00);
 
   /// SimpleIcons embarcadero [Color] from Hex ed1f35
-  static const Color embarcadero = Color(0xed1f35);
+  static const Color embarcadero = Color(0xffed1f35);
 
   /// SimpleIcons emberdotjs [Color] from Hex e04e39
-  static const Color emberdotjs = Color(0xe04e39);
+  static const Color emberdotjs = Color(0xffe04e39);
 
   /// SimpleIcons emby [Color] from Hex 52b54b
-  static const Color emby = Color(0x52b54b);
+  static const Color emby = Color(0xff52b54b);
 
   /// SimpleIcons emirates [Color] from Hex d71921
-  static const Color emirates = Color(0xd71921);
+  static const Color emirates = Color(0xffd71921);
 
   /// SimpleIcons emlakjet [Color] from Hex 0ae524
-  static const Color emlakjet = Color(0x0ae524);
+  static const Color emlakjet = Color(0xff0ae524);
 
   /// SimpleIcons empirekred [Color] from Hex 72be50
-  static const Color empirekred = Color(0x72be50);
+  static const Color empirekred = Color(0xff72be50);
 
   /// SimpleIcons engadget [Color] from Hex 000000
-  static const Color engadget = Color(0x000000);
+  static const Color engadget = Color(0xff000000);
 
   /// SimpleIcons enpass [Color] from Hex 0d47a1
-  static const Color enpass = Color(0x0d47a1);
+  static const Color enpass = Color(0xff0d47a1);
 
   /// SimpleIcons enterprisedb [Color] from Hex ff3e00
-  static const Color enterprisedb = Color(0xff3e00);
+  static const Color enterprisedb = Color(0xffff3e00);
 
   /// SimpleIcons envato [Color] from Hex 81b441
-  static const Color envato = Color(0x81b441);
+  static const Color envato = Color(0xff81b441);
 
   /// SimpleIcons envoyproxy [Color] from Hex ac6199
-  static const Color envoyproxy = Color(0xac6199);
+  static const Color envoyproxy = Color(0xffac6199);
 
   /// SimpleIcons epel [Color] from Hex fc0000
-  static const Color epel = Color(0xfc0000);
+  static const Color epel = Color(0xfffc0000);
 
   /// SimpleIcons epicgames [Color] from Hex 313131
-  static const Color epicgames = Color(0x313131);
+  static const Color epicgames = Color(0xff313131);
 
   /// SimpleIcons epson [Color] from Hex 003399
-  static const Color epson = Color(0x003399);
+  static const Color epson = Color(0xff003399);
 
   /// SimpleIcons equinixmetal [Color] from Hex ed2224
-  static const Color equinixmetal = Color(0xed2224);
+  static const Color equinixmetal = Color(0xffed2224);
 
   /// SimpleIcons ericsson [Color] from Hex 0082f0
-  static const Color ericsson = Color(0x0082f0);
+  static const Color ericsson = Color(0xff0082f0);
 
   /// SimpleIcons erlang [Color] from Hex a90533
-  static const Color erlang = Color(0xa90533);
+  static const Color erlang = Color(0xffa90533);
 
   /// SimpleIcons esbuild [Color] from Hex ffcf00
-  static const Color esbuild = Color(0xffcf00);
+  static const Color esbuild = Color(0xffffcf00);
 
   /// SimpleIcons esea [Color] from Hex 0e9648
-  static const Color esea = Color(0x0e9648);
+  static const Color esea = Color(0xff0e9648);
 
   /// SimpleIcons eslgaming [Color] from Hex ffff09
-  static const Color eslgaming = Color(0xffff09);
+  static const Color eslgaming = Color(0xffffff09);
 
   /// SimpleIcons eslint [Color] from Hex 4b32c3
-  static const Color eslint = Color(0x4b32c3);
+  static const Color eslint = Color(0xff4b32c3);
 
   /// SimpleIcons esphome [Color] from Hex 000000
-  static const Color esphome = Color(0x000000);
+  static const Color esphome = Color(0xff000000);
 
   /// SimpleIcons espressif [Color] from Hex e7352c
-  static const Color espressif = Color(0xe7352c);
+  static const Color espressif = Color(0xffe7352c);
 
   /// SimpleIcons esri [Color] from Hex 000000
-  static const Color esri = Color(0x000000);
+  static const Color esri = Color(0xff000000);
 
   /// SimpleIcons etcd [Color] from Hex 419eda
-  static const Color etcd = Color(0x419eda);
+  static const Color etcd = Color(0xff419eda);
 
   /// SimpleIcons ethereum [Color] from Hex 3c3c3d
-  static const Color ethereum = Color(0x3c3c3d);
+  static const Color ethereum = Color(0xff3c3c3d);
 
   /// SimpleIcons ethiopianairlines [Color] from Hex 648b1a
-  static const Color ethiopianairlines = Color(0x648b1a);
+  static const Color ethiopianairlines = Color(0xff648b1a);
 
   /// SimpleIcons etihadairways [Color] from Hex bd8b13
-  static const Color etihadairways = Color(0xbd8b13);
+  static const Color etihadairways = Color(0xffbd8b13);
 
   /// SimpleIcons etsy [Color] from Hex f16521
-  static const Color etsy = Color(0xf16521);
+  static const Color etsy = Color(0xfff16521);
 
   /// SimpleIcons eventstore [Color] from Hex 5ab552
-  static const Color eventstore = Color(0x5ab552);
+  static const Color eventstore = Color(0xff5ab552);
 
   /// SimpleIcons eventbrite [Color] from Hex f05537
-  static const Color eventbrite = Color(0xf05537);
+  static const Color eventbrite = Color(0xfff05537);
 
   /// SimpleIcons evernote [Color] from Hex 00a82d
-  static const Color evernote = Color(0x00a82d);
+  static const Color evernote = Color(0xff00a82d);
 
   /// SimpleIcons exercism [Color] from Hex 009cab
-  static const Color exercism = Color(0x009cab);
+  static const Color exercism = Color(0xff009cab);
 
   /// SimpleIcons exordo [Color] from Hex daa449
-  static const Color exordo = Color(0xdaa449);
+  static const Color exordo = Color(0xffdaa449);
 
   /// SimpleIcons exoscale [Color] from Hex da291c
-  static const Color exoscale = Color(0xda291c);
+  static const Color exoscale = Color(0xffda291c);
 
   /// SimpleIcons expedia [Color] from Hex 191e3b
-  static const Color expedia = Color(0x191e3b);
+  static const Color expedia = Color(0xff191e3b);
 
   /// SimpleIcons expensify [Color] from Hex 0185ff
-  static const Color expensify = Color(0x0185ff);
+  static const Color expensify = Color(0xff0185ff);
 
   /// SimpleIcons expertsexchange [Color] from Hex 00aae7
-  static const Color expertsexchange = Color(0x00aae7);
+  static const Color expertsexchange = Color(0xff00aae7);
 
   /// SimpleIcons expo [Color] from Hex 000020
-  static const Color expo = Color(0x000020);
+  static const Color expo = Color(0xff000020);
 
   /// SimpleIcons express [Color] from Hex 000000
-  static const Color express = Color(0x000000);
+  static const Color express = Color(0xff000000);
 
   /// SimpleIcons expressvpn [Color] from Hex da3940
-  static const Color expressvpn = Color(0xda3940);
+  static const Color expressvpn = Color(0xffda3940);
 
   /// SimpleIcons eyeem [Color] from Hex 000000
-  static const Color eyeem = Color(0x000000);
+  static const Color eyeem = Color(0xff000000);
 
   /// SimpleIcons fdroid [Color] from Hex 1976d2
-  static const Color fdroid = Color(0x1976d2);
+  static const Color fdroid = Color(0xff1976d2);
 
   /// SimpleIcons fsecure [Color] from Hex 00baff
-  static const Color fsecure = Color(0x00baff);
+  static const Color fsecure = Color(0xff00baff);
 
   /// SimpleIcons fsharp [Color] from Hex 378bba
-  static const Color fsharp = Color(0x378bba);
+  static const Color fsharp = Color(0xff378bba);
 
   /// SimpleIcons f1 [Color] from Hex e10600
-  static const Color f1 = Color(0xe10600);
+  static const Color f1 = Color(0xffe10600);
 
   /// SimpleIcons f5 [Color] from Hex e4002b
-  static const Color f5 = Color(0xe4002b);
+  static const Color f5 = Color(0xffe4002b);
 
   /// SimpleIcons facebook [Color] from Hex 0866ff
-  static const Color facebook = Color(0x0866ff);
+  static const Color facebook = Color(0xff0866ff);
 
   /// SimpleIcons facebookgaming [Color] from Hex 005fed
-  static const Color facebookgaming = Color(0x005fed);
+  static const Color facebookgaming = Color(0xff005fed);
 
   /// SimpleIcons facebooklive [Color] from Hex ed4242
-  static const Color facebooklive = Color(0xed4242);
+  static const Color facebooklive = Color(0xffed4242);
 
   /// SimpleIcons faceit [Color] from Hex ff5500
-  static const Color faceit = Color(0xff5500);
+  static const Color faceit = Color(0xffff5500);
 
   /// SimpleIcons facepunch [Color] from Hex ec1c24
-  static const Color facepunch = Color(0xec1c24);
+  static const Color facepunch = Color(0xffec1c24);
 
   /// SimpleIcons fairphone [Color] from Hex 4495d1
-  static const Color fairphone = Color(0x4495d1);
+  static const Color fairphone = Color(0xff4495d1);
 
   /// SimpleIcons falco [Color] from Hex 00aec7
-  static const Color falco = Color(0x00aec7);
+  static const Color falco = Color(0xff00aec7);
 
   /// SimpleIcons falcon [Color] from Hex f0ad4e
-  static const Color falcon = Color(0xf0ad4e);
+  static const Color falcon = Color(0xfff0ad4e);
 
   /// SimpleIcons fampay [Color] from Hex ffad00
-  static const Color fampay = Color(0xffad00);
+  static const Color fampay = Color(0xffffad00);
 
   /// SimpleIcons fandango [Color] from Hex ff7300
-  static const Color fandango = Color(0xff7300);
+  static const Color fandango = Color(0xffff7300);
 
   /// SimpleIcons fandom [Color] from Hex fa005a
-  static const Color fandom = Color(0xfa005a);
+  static const Color fandom = Color(0xfffa005a);
 
   /// SimpleIcons fanfou [Color] from Hex 00ccff
-  static const Color fanfou = Color(0x00ccff);
+  static const Color fanfou = Color(0xff00ccff);
 
   /// SimpleIcons fantom [Color] from Hex 0928ff
-  static const Color fantom = Color(0x0928ff);
+  static const Color fantom = Color(0xff0928ff);
 
   /// SimpleIcons fareharbor [Color] from Hex 0a6ece
-  static const Color fareharbor = Color(0x0a6ece);
+  static const Color fareharbor = Color(0xff0a6ece);
 
   /// SimpleIcons farfetch [Color] from Hex 000000
-  static const Color farfetch = Color(0x000000);
+  static const Color farfetch = Color(0xff000000);
 
   /// SimpleIcons fastapi [Color] from Hex 009688
-  static const Color fastapi = Color(0x009688);
+  static const Color fastapi = Color(0xff009688);
 
   /// SimpleIcons fastify [Color] from Hex 000000
-  static const Color fastify = Color(0x000000);
+  static const Color fastify = Color(0xff000000);
 
   /// SimpleIcons fastlane [Color] from Hex 00f200
-  static const Color fastlane = Color(0x00f200);
+  static const Color fastlane = Color(0xff00f200);
 
   /// SimpleIcons fastly [Color] from Hex ff282d
-  static const Color fastly = Color(0xff282d);
+  static const Color fastly = Color(0xffff282d);
 
   /// SimpleIcons fathom [Color] from Hex 9187ff
-  static const Color fathom = Color(0x9187ff);
+  static const Color fathom = Color(0xff9187ff);
 
   /// SimpleIcons fauna [Color] from Hex 3a1ab6
-  static const Color fauna = Color(0x3a1ab6);
+  static const Color fauna = Color(0xff3a1ab6);
 
   /// SimpleIcons favro [Color] from Hex 512da8
-  static const Color favro = Color(0x512da8);
+  static const Color favro = Color(0xff512da8);
 
   /// SimpleIcons feathub [Color] from Hex 9b9b9b
-  static const Color feathub = Color(0x9b9b9b);
+  static const Color feathub = Color(0xff9b9b9b);
 
   /// SimpleIcons fedex [Color] from Hex 4d148c
-  static const Color fedex = Color(0x4d148c);
+  static const Color fedex = Color(0xff4d148c);
 
   /// SimpleIcons fedora [Color] from Hex 51a2da
-  static const Color fedora = Color(0x51a2da);
+  static const Color fedora = Color(0xff51a2da);
 
   /// SimpleIcons feedly [Color] from Hex 2bb24c
-  static const Color feedly = Color(0x2bb24c);
+  static const Color feedly = Color(0xff2bb24c);
 
   /// SimpleIcons ferrari [Color] from Hex d40000
-  static const Color ferrari = Color(0xd40000);
+  static const Color ferrari = Color(0xffd40000);
 
   /// SimpleIcons ferrarindotvdot [Color] from Hex eb2e2c
-  static const Color ferrarindotvdot = Color(0xeb2e2c);
+  static const Color ferrarindotvdot = Color(0xffeb2e2c);
 
   /// SimpleIcons ferretdb [Color] from Hex 042133
-  static const Color ferretdb = Color(0x042133);
+  static const Color ferretdb = Color(0xff042133);
 
   /// SimpleIcons ffmpeg [Color] from Hex 007808
-  static const Color ffmpeg = Color(0x007808);
+  static const Color ffmpeg = Color(0xff007808);
 
   /// SimpleIcons fi [Color] from Hex 00b899
-  static const Color fi = Color(0x00b899);
+  static const Color fi = Color(0xff00b899);
 
   /// SimpleIcons fiat [Color] from Hex 941711
-  static const Color fiat = Color(0x941711);
+  static const Color fiat = Color(0xff941711);
 
   /// SimpleIcons fidoalliance [Color] from Hex ffbf3b
-  static const Color fidoalliance = Color(0xffbf3b);
+  static const Color fidoalliance = Color(0xffffbf3b);
 
   /// SimpleIcons fifa [Color] from Hex 326295
-  static const Color fifa = Color(0x326295);
+  static const Color fifa = Color(0xff326295);
 
   /// SimpleIcons fig [Color] from Hex 000000
-  static const Color fig = Color(0x000000);
+  static const Color fig = Color(0xff000000);
 
   /// SimpleIcons figma [Color] from Hex f24e1e
-  static const Color figma = Color(0xf24e1e);
+  static const Color figma = Color(0xfff24e1e);
 
   /// SimpleIcons figshare [Color] from Hex 556472
-  static const Color figshare = Color(0x556472);
+  static const Color figshare = Color(0xff556472);
 
   /// SimpleIcons fila [Color] from Hex 002d62
-  static const Color fila = Color(0x002d62);
+  static const Color fila = Color(0xff002d62);
 
   /// SimpleIcons files [Color] from Hex 4285f4
-  static const Color files = Color(0x4285f4);
+  static const Color files = Color(0xff4285f4);
 
   /// SimpleIcons filezilla [Color] from Hex bf0000
-  static const Color filezilla = Color(0xbf0000);
+  static const Color filezilla = Color(0xffbf0000);
 
   /// SimpleIcons fineco [Color] from Hex 00549f
-  static const Color fineco = Color(0x00549f);
+  static const Color fineco = Color(0xff00549f);
 
   /// SimpleIcons fing [Color] from Hex 009aee
-  static const Color fing = Color(0x009aee);
+  static const Color fing = Color(0xff009aee);
 
   /// SimpleIcons firebase [Color] from Hex ffca28
-  static const Color firebase = Color(0xffca28);
+  static const Color firebase = Color(0xffffca28);
 
   /// SimpleIcons firefish [Color] from Hex f07a5b
-  static const Color firefish = Color(0xf07a5b);
+  static const Color firefish = Color(0xfff07a5b);
 
   /// SimpleIcons fireflyiii [Color] from Hex cd5029
-  static const Color fireflyiii = Color(0xcd5029);
+  static const Color fireflyiii = Color(0xffcd5029);
 
   /// SimpleIcons firefox [Color] from Hex ff7139
-  static const Color firefox = Color(0xff7139);
+  static const Color firefox = Color(0xffff7139);
 
   /// SimpleIcons firefoxbrowser [Color] from Hex ff7139
-  static const Color firefoxbrowser = Color(0xff7139);
+  static const Color firefoxbrowser = Color(0xffff7139);
 
   /// SimpleIcons fireship [Color] from Hex eb844e
-  static const Color fireship = Color(0xeb844e);
+  static const Color fireship = Color(0xffeb844e);
 
   /// SimpleIcons firewalla [Color] from Hex c8332d
-  static const Color firewalla = Color(0xc8332d);
+  static const Color firewalla = Color(0xffc8332d);
 
   /// SimpleIcons first [Color] from Hex 0066b3
-  static const Color first = Color(0x0066b3);
+  static const Color first = Color(0xff0066b3);
 
   /// SimpleIcons fitbit [Color] from Hex 00b0b9
-  static const Color fitbit = Color(0x00b0b9);
+  static const Color fitbit = Color(0xff00b0b9);
 
   /// SimpleIcons fite [Color] from Hex ca0404
-  static const Color fite = Color(0xca0404);
+  static const Color fite = Color(0xffca0404);
 
   /// SimpleIcons fivem [Color] from Hex f40552
-  static const Color fivem = Color(0xf40552);
+  static const Color fivem = Color(0xfff40552);
 
   /// SimpleIcons fiverr [Color] from Hex 1dbf73
-  static const Color fiverr = Color(0x1dbf73);
+  static const Color fiverr = Color(0xff1dbf73);
 
   /// SimpleIcons flask [Color] from Hex 000000
-  static const Color flask = Color(0x000000);
+  static const Color flask = Color(0xff000000);
 
   /// SimpleIcons flat [Color] from Hex 3481fe
-  static const Color flat = Color(0x3481fe);
+  static const Color flat = Color(0xff3481fe);
 
   /// SimpleIcons flathub [Color] from Hex 000000
-  static const Color flathub = Color(0x000000);
+  static const Color flathub = Color(0xff000000);
 
   /// SimpleIcons flatpak [Color] from Hex 4a90d9
-  static const Color flatpak = Color(0x4a90d9);
+  static const Color flatpak = Color(0xff4a90d9);
 
   /// SimpleIcons flattr [Color] from Hex 000000
-  static const Color flattr = Color(0x000000);
+  static const Color flattr = Color(0xff000000);
 
   /// SimpleIcons flickr [Color] from Hex 0063dc
-  static const Color flickr = Color(0x0063dc);
+  static const Color flickr = Color(0xff0063dc);
 
   /// SimpleIcons flightaware [Color] from Hex 19315b
-  static const Color flightaware = Color(0x19315b);
+  static const Color flightaware = Color(0xff19315b);
 
   /// SimpleIcons flipboard [Color] from Hex e12828
-  static const Color flipboard = Color(0xe12828);
+  static const Color flipboard = Color(0xffe12828);
 
   /// SimpleIcons flipkart [Color] from Hex 2874f0
-  static const Color flipkart = Color(0x2874f0);
+  static const Color flipkart = Color(0xff2874f0);
 
   /// SimpleIcons floatplane [Color] from Hex 00aeef
-  static const Color floatplane = Color(0x00aeef);
+  static const Color floatplane = Color(0xff00aeef);
 
   /// SimpleIcons flood [Color] from Hex 4285f4
-  static const Color flood = Color(0x4285f4);
+  static const Color flood = Color(0xff4285f4);
 
   /// SimpleIcons fluentbit [Color] from Hex 49bda5
-  static const Color fluentbit = Color(0x49bda5);
+  static const Color fluentbit = Color(0xff49bda5);
 
   /// SimpleIcons fluentd [Color] from Hex 0e83c8
-  static const Color fluentd = Color(0x0e83c8);
+  static const Color fluentd = Color(0xff0e83c8);
 
   /// SimpleIcons fluke [Color] from Hex ffc20e
-  static const Color fluke = Color(0xffc20e);
+  static const Color fluke = Color(0xffffc20e);
 
   /// SimpleIcons flutter [Color] from Hex 02569b
-  static const Color flutter = Color(0x02569b);
+  static const Color flutter = Color(0xff02569b);
 
   /// SimpleIcons flux [Color] from Hex 5468ff
-  static const Color flux = Color(0x5468ff);
+  static const Color flux = Color(0xff5468ff);
 
   /// SimpleIcons fluxus [Color] from Hex 8d73b0
-  static const Color fluxus = Color(0x8d73b0);
+  static const Color fluxus = Color(0xff8d73b0);
 
   /// SimpleIcons flyway [Color] from Hex cc0200
-  static const Color flyway = Color(0xcc0200);
+  static const Color flyway = Color(0xffcc0200);
 
   /// SimpleIcons fmod [Color] from Hex 000000
-  static const Color fmod = Color(0x000000);
+  static const Color fmod = Color(0xff000000);
 
   /// SimpleIcons fnac [Color] from Hex e1a925
-  static const Color fnac = Color(0xe1a925);
+  static const Color fnac = Color(0xffe1a925);
 
   /// SimpleIcons folium [Color] from Hex 77b829
-  static const Color folium = Color(0x77b829);
+  static const Color folium = Color(0xff77b829);
 
   /// SimpleIcons fonoma [Color] from Hex 02b78f
-  static const Color fonoma = Color(0x02b78f);
+  static const Color fonoma = Color(0xff02b78f);
 
   /// SimpleIcons fontawesome [Color] from Hex 528dd7
-  static const Color fontawesome = Color(0x528dd7);
+  static const Color fontawesome = Color(0xff528dd7);
 
   /// SimpleIcons fontbase [Color] from Hex 3d03a7
-  static const Color fontbase = Color(0x3d03a7);
+  static const Color fontbase = Color(0xff3d03a7);
 
   /// SimpleIcons fontforge [Color] from Hex f2712b
-  static const Color fontforge = Color(0xf2712b);
+  static const Color fontforge = Color(0xfff2712b);
 
   /// SimpleIcons foodpanda [Color] from Hex d70f64
-  static const Color foodpanda = Color(0xd70f64);
+  static const Color foodpanda = Color(0xffd70f64);
 
   /// SimpleIcons ford [Color] from Hex 00274e
-  static const Color ford = Color(0x00274e);
+  static const Color ford = Color(0xff00274e);
 
   /// SimpleIcons forgejo [Color] from Hex fb923c
-  static const Color forgejo = Color(0xfb923c);
+  static const Color forgejo = Color(0xfffb923c);
 
   /// SimpleIcons formstack [Color] from Hex 21b573
-  static const Color formstack = Color(0x21b573);
+  static const Color formstack = Color(0xff21b573);
 
   /// SimpleIcons fortinet [Color] from Hex ee3124
-  static const Color fortinet = Color(0xee3124);
+  static const Color fortinet = Color(0xffee3124);
 
   /// SimpleIcons fortran [Color] from Hex 734f96
-  static const Color fortran = Color(0x734f96);
+  static const Color fortran = Color(0xff734f96);
 
   /// SimpleIcons fossa [Color] from Hex 289e6d
-  static const Color fossa = Color(0x289e6d);
+  static const Color fossa = Color(0xff289e6d);
 
   /// SimpleIcons fossilscm [Color] from Hex 548294
-  static const Color fossilscm = Color(0x548294);
+  static const Color fossilscm = Color(0xff548294);
 
   /// SimpleIcons foursquare [Color] from Hex 3333ff
-  static const Color foursquare = Color(0x3333ff);
+  static const Color foursquare = Color(0xff3333ff);
 
   /// SimpleIcons foursquarecityguide [Color] from Hex f94877
-  static const Color foursquarecityguide = Color(0xf94877);
+  static const Color foursquarecityguide = Color(0xfff94877);
 
   /// SimpleIcons fox [Color] from Hex 000000
-  static const Color fox = Color(0x000000);
+  static const Color fox = Color(0xff000000);
 
   /// SimpleIcons foxtel [Color] from Hex eb5205
-  static const Color foxtel = Color(0xeb5205);
+  static const Color foxtel = Color(0xffeb5205);
 
   /// SimpleIcons fozzy [Color] from Hex f15b29
-  static const Color fozzy = Color(0xf15b29);
+  static const Color fozzy = Color(0xfff15b29);
 
   /// SimpleIcons framer [Color] from Hex 0055ff
-  static const Color framer = Color(0x0055ff);
+  static const Color framer = Color(0xff0055ff);
 
   /// SimpleIcons framework [Color] from Hex 000000
-  static const Color framework = Color(0x000000);
+  static const Color framework = Color(0xff000000);
 
   /// SimpleIcons framework7 [Color] from Hex ee350f
-  static const Color framework7 = Color(0xee350f);
+  static const Color framework7 = Color(0xffee350f);
 
   /// SimpleIcons franprix [Color] from Hex ec6237
-  static const Color franprix = Color(0xec6237);
+  static const Color franprix = Color(0xffec6237);
 
   /// SimpleIcons fraunhofergesellschaft [Color] from Hex 179c7d
-  static const Color fraunhofergesellschaft = Color(0x179c7d);
+  static const Color fraunhofergesellschaft = Color(0xff179c7d);
 
   /// SimpleIcons freebsd [Color] from Hex ab2b28
-  static const Color freebsd = Color(0xab2b28);
+  static const Color freebsd = Color(0xffab2b28);
 
   /// SimpleIcons freecodecamp [Color] from Hex 0a0a23
-  static const Color freecodecamp = Color(0x0a0a23);
+  static const Color freecodecamp = Color(0xff0a0a23);
 
   /// SimpleIcons freedesktopdotorg [Color] from Hex 3b80ae
-  static const Color freedesktopdotorg = Color(0x3b80ae);
+  static const Color freedesktopdotorg = Color(0xff3b80ae);
 
   /// SimpleIcons freelancer [Color] from Hex 29b2fe
-  static const Color freelancer = Color(0x29b2fe);
+  static const Color freelancer = Color(0xff29b2fe);
 
   /// SimpleIcons freenas [Color] from Hex 343434
-  static const Color freenas = Color(0x343434);
+  static const Color freenas = Color(0xff343434);
 
   /// SimpleIcons freepik [Color] from Hex 1273eb
-  static const Color freepik = Color(0x1273eb);
+  static const Color freepik = Color(0xff1273eb);
 
   /// SimpleIcons frontendmentor [Color] from Hex 3f54a3
-  static const Color frontendmentor = Color(0x3f54a3);
+  static const Color frontendmentor = Color(0xff3f54a3);
 
   /// SimpleIcons frontify [Color] from Hex 2d3232
-  static const Color frontify = Color(0x2d3232);
+  static const Color frontify = Color(0xff2d3232);
 
   /// SimpleIcons fugacloud [Color] from Hex 242f4b
-  static const Color fugacloud = Color(0x242f4b);
+  static const Color fugacloud = Color(0xff242f4b);
 
   /// SimpleIcons fujifilm [Color] from Hex fb0020
-  static const Color fujifilm = Color(0xfb0020);
+  static const Color fujifilm = Color(0xfffb0020);
 
   /// SimpleIcons fujitsu [Color] from Hex ff0000
-  static const Color fujitsu = Color(0xff0000);
+  static const Color fujitsu = Color(0xffff0000);
 
   /// SimpleIcons funimation [Color] from Hex 5b0bb5
-  static const Color funimation = Color(0x5b0bb5);
+  static const Color funimation = Color(0xff5b0bb5);
 
   /// SimpleIcons furaffinity [Color] from Hex 36566f
-  static const Color furaffinity = Color(0x36566f);
+  static const Color furaffinity = Color(0xff36566f);
 
   /// SimpleIcons furrynetwork [Color] from Hex 2e75b4
-  static const Color furrynetwork = Color(0x2e75b4);
+  static const Color furrynetwork = Color(0xff2e75b4);
 
   /// SimpleIcons futurelearn [Color] from Hex de00a5
-  static const Color futurelearn = Color(0xde00a5);
+  static const Color futurelearn = Color(0xffde00a5);
 
   /// SimpleIcons g2 [Color] from Hex ff492c
-  static const Color g2 = Color(0xff492c);
+  static const Color g2 = Color(0xffff492c);
 
   /// SimpleIcons g2a [Color] from Hex f05f00
-  static const Color g2a = Color(0xf05f00);
+  static const Color g2a = Color(0xfff05f00);
 
   /// SimpleIcons gameandwatch [Color] from Hex 000000
-  static const Color gameandwatch = Color(0x000000);
+  static const Color gameandwatch = Color(0xff000000);
 
   /// SimpleIcons gamedeveloper [Color] from Hex e60012
-  static const Color gamedeveloper = Color(0xe60012);
+  static const Color gamedeveloper = Color(0xffe60012);
 
   /// SimpleIcons gamejolt [Color] from Hex ccff00
-  static const Color gamejolt = Color(0xccff00);
+  static const Color gamejolt = Color(0xffccff00);
 
   /// SimpleIcons gamebanana [Color] from Hex fcef40
-  static const Color gamebanana = Color(0xfcef40);
+  static const Color gamebanana = Color(0xfffcef40);
 
   /// SimpleIcons gamemaker [Color] from Hex 000000
-  static const Color gamemaker = Color(0x000000);
+  static const Color gamemaker = Color(0xff000000);
 
   /// SimpleIcons garmin [Color] from Hex 000000
-  static const Color garmin = Color(0x000000);
+  static const Color garmin = Color(0xff000000);
 
   /// SimpleIcons gatling [Color] from Hex ff9e2a
-  static const Color gatling = Color(0xff9e2a);
+  static const Color gatling = Color(0xffff9e2a);
 
   /// SimpleIcons gatsby [Color] from Hex 663399
-  static const Color gatsby = Color(0x663399);
+  static const Color gatsby = Color(0xff663399);
 
   /// SimpleIcons gdal [Color] from Hex 5cae58
-  static const Color gdal = Color(0x5cae58);
+  static const Color gdal = Color(0xff5cae58);
 
   /// SimpleIcons geant [Color] from Hex dd1f26
-  static const Color geant = Color(0xdd1f26);
+  static const Color geant = Color(0xffdd1f26);
 
   /// SimpleIcons geeksforgeeks [Color] from Hex 2f8d46
-  static const Color geeksforgeeks = Color(0x2f8d46);
+  static const Color geeksforgeeks = Color(0xff2f8d46);
 
   /// SimpleIcons generalelectric [Color] from Hex 0870d8
-  static const Color generalelectric = Color(0x0870d8);
+  static const Color generalelectric = Color(0xff0870d8);
 
   /// SimpleIcons generalmotors [Color] from Hex 0170ce
-  static const Color generalmotors = Color(0x0170ce);
+  static const Color generalmotors = Color(0xff0170ce);
 
   /// SimpleIcons genius [Color] from Hex ffff64
-  static const Color genius = Color(0xffff64);
+  static const Color genius = Color(0xffffff64);
 
   /// SimpleIcons gentoo [Color] from Hex 54487a
-  static const Color gentoo = Color(0x54487a);
+  static const Color gentoo = Color(0xff54487a);
 
   /// SimpleIcons geocaching [Color] from Hex 00874d
-  static const Color geocaching = Color(0x00874d);
+  static const Color geocaching = Color(0xff00874d);
 
   /// SimpleIcons gerrit [Color] from Hex eeeeee
-  static const Color gerrit = Color(0xeeeeee);
+  static const Color gerrit = Color(0xffeeeeee);
 
   /// SimpleIcons getx [Color] from Hex 8a2be2
-  static const Color getx = Color(0x8a2be2);
+  static const Color getx = Color(0xff8a2be2);
 
   /// SimpleIcons ghost [Color] from Hex 15171a
-  static const Color ghost = Color(0x15171a);
+  static const Color ghost = Color(0xff15171a);
 
   /// SimpleIcons ghostery [Color] from Hex 00aef0
-  static const Color ghostery = Color(0x00aef0);
+  static const Color ghostery = Color(0xff00aef0);
 
   /// SimpleIcons gimp [Color] from Hex 5c5543
-  static const Color gimp = Color(0x5c5543);
+  static const Color gimp = Color(0xff5c5543);
 
   /// SimpleIcons gin [Color] from Hex 008ecf
-  static const Color gin = Color(0x008ecf);
+  static const Color gin = Color(0xff008ecf);
 
   /// SimpleIcons giphy [Color] from Hex ff6666
-  static const Color giphy = Color(0xff6666);
+  static const Color giphy = Color(0xffff6666);
 
   /// SimpleIcons git [Color] from Hex f05032
-  static const Color git = Color(0xf05032);
+  static const Color git = Color(0xfff05032);
 
   /// SimpleIcons gitextensions [Color] from Hex 212121
-  static const Color gitextensions = Color(0x212121);
+  static const Color gitextensions = Color(0xff212121);
 
   /// SimpleIcons gitlfs [Color] from Hex f64935
-  static const Color gitlfs = Color(0xf64935);
+  static const Color gitlfs = Color(0xfff64935);
 
   /// SimpleIcons gitbook [Color] from Hex 3884ff
-  static const Color gitbook = Color(0x3884ff);
+  static const Color gitbook = Color(0xff3884ff);
 
   /// SimpleIcons gitea [Color] from Hex 609926
-  static const Color gitea = Color(0x609926);
+  static const Color gitea = Color(0xff609926);
 
   /// SimpleIcons gitee [Color] from Hex c71d23
-  static const Color gitee = Color(0xc71d23);
+  static const Color gitee = Color(0xffc71d23);
 
   /// SimpleIcons github [Color] from Hex 181717
-  static const Color github = Color(0x181717);
+  static const Color github = Color(0xff181717);
 
   /// SimpleIcons githubactions [Color] from Hex 2088ff
-  static const Color githubactions = Color(0x2088ff);
+  static const Color githubactions = Color(0xff2088ff);
 
   /// SimpleIcons githubpages [Color] from Hex 222222
-  static const Color githubpages = Color(0x222222);
+  static const Color githubpages = Color(0xff222222);
 
   /// SimpleIcons githubsponsors [Color] from Hex ea4aaa
-  static const Color githubsponsors = Color(0xea4aaa);
+  static const Color githubsponsors = Color(0xffea4aaa);
 
   /// SimpleIcons gitignoredotio [Color] from Hex 204ecf
-  static const Color gitignoredotio = Color(0x204ecf);
+  static const Color gitignoredotio = Color(0xff204ecf);
 
   /// SimpleIcons gitkraken [Color] from Hex 179287
-  static const Color gitkraken = Color(0x179287);
+  static const Color gitkraken = Color(0xff179287);
 
   /// SimpleIcons gitlab [Color] from Hex fc6d26
-  static const Color gitlab = Color(0xfc6d26);
+  static const Color gitlab = Color(0xfffc6d26);
 
   /// SimpleIcons gitpod [Color] from Hex ffae33
-  static const Color gitpod = Color(0xffae33);
+  static const Color gitpod = Color(0xffffae33);
 
   /// SimpleIcons gitter [Color] from Hex ed1965
-  static const Color gitter = Color(0xed1965);
+  static const Color gitter = Color(0xffed1965);
 
   /// SimpleIcons glassdoor [Color] from Hex 0caa41
-  static const Color glassdoor = Color(0x0caa41);
+  static const Color glassdoor = Color(0xff0caa41);
 
   /// SimpleIcons glitch [Color] from Hex 3333ff
-  static const Color glitch = Color(0x3333ff);
+  static const Color glitch = Color(0xff3333ff);
 
   /// SimpleIcons globus [Color] from Hex ca6201
-  static const Color globus = Color(0xca6201);
+  static const Color globus = Color(0xffca6201);
 
   /// SimpleIcons glovo [Color] from Hex f2cc38
-  static const Color glovo = Color(0xf2cc38);
+  static const Color glovo = Color(0xfff2cc38);
 
   /// SimpleIcons gmail [Color] from Hex ea4335
-  static const Color gmail = Color(0xea4335);
+  static const Color gmail = Color(0xffea4335);
 
   /// SimpleIcons gnome [Color] from Hex 4a86cf
-  static const Color gnome = Color(0x4a86cf);
+  static const Color gnome = Color(0xff4a86cf);
 
   /// SimpleIcons gnometerminal [Color] from Hex 241f31
-  static const Color gnometerminal = Color(0x241f31);
+  static const Color gnometerminal = Color(0xff241f31);
 
   /// SimpleIcons gnu [Color] from Hex a42e2b
-  static const Color gnu = Color(0xa42e2b);
+  static const Color gnu = Color(0xffa42e2b);
 
   /// SimpleIcons gnubash [Color] from Hex 4eaa25
-  static const Color gnubash = Color(0x4eaa25);
+  static const Color gnubash = Color(0xff4eaa25);
 
   /// SimpleIcons gnuemacs [Color] from Hex 7f5ab6
-  static const Color gnuemacs = Color(0x7f5ab6);
+  static const Color gnuemacs = Color(0xff7f5ab6);
 
   /// SimpleIcons gnuicecat [Color] from Hex 002f5b
-  static const Color gnuicecat = Color(0x002f5b);
+  static const Color gnuicecat = Color(0xff002f5b);
 
   /// SimpleIcons gnuprivacyguard [Color] from Hex 0093dd
-  static const Color gnuprivacyguard = Color(0x0093dd);
+  static const Color gnuprivacyguard = Color(0xff0093dd);
 
   /// SimpleIcons gnusocial [Color] from Hex a22430
-  static const Color gnusocial = Color(0xa22430);
+  static const Color gnusocial = Color(0xffa22430);
 
   /// SimpleIcons go [Color] from Hex 00add8
-  static const Color go = Color(0x00add8);
+  static const Color go = Color(0xff00add8);
 
   /// SimpleIcons gocd [Color] from Hex 94399e
-  static const Color gocd = Color(0x94399e);
+  static const Color gocd = Color(0xff94399e);
 
   /// SimpleIcons godaddy [Color] from Hex 1bdbdb
-  static const Color godaddy = Color(0x1bdbdb);
+  static const Color godaddy = Color(0xff1bdbdb);
 
   /// SimpleIcons godotengine [Color] from Hex 478cbf
-  static const Color godotengine = Color(0x478cbf);
+  static const Color godotengine = Color(0xff478cbf);
 
   /// SimpleIcons gofundme [Color] from Hex 00b964
-  static const Color gofundme = Color(0x00b964);
+  static const Color gofundme = Color(0xff00b964);
 
   /// SimpleIcons gogdotcom [Color] from Hex 86328a
-  static const Color gogdotcom = Color(0x86328a);
+  static const Color gogdotcom = Color(0xff86328a);
 
   /// SimpleIcons goland [Color] from Hex 000000
-  static const Color goland = Color(0x000000);
+  static const Color goland = Color(0xff000000);
 
   /// SimpleIcons goldenline [Color] from Hex ffe005
-  static const Color goldenline = Color(0xffe005);
+  static const Color goldenline = Color(0xffffe005);
 
   /// SimpleIcons goodreads [Color] from Hex 372213
-  static const Color goodreads = Color(0x372213);
+  static const Color goodreads = Color(0xff372213);
 
   /// SimpleIcons google [Color] from Hex 4285f4
-  static const Color google = Color(0x4285f4);
+  static const Color google = Color(0xff4285f4);
 
   /// SimpleIcons googleadmob [Color] from Hex ea4335
-  static const Color googleadmob = Color(0xea4335);
+  static const Color googleadmob = Color(0xffea4335);
 
   /// SimpleIcons googleads [Color] from Hex 4285f4
-  static const Color googleads = Color(0x4285f4);
+  static const Color googleads = Color(0xff4285f4);
 
   /// SimpleIcons googleadsense [Color] from Hex 4285f4
-  static const Color googleadsense = Color(0x4285f4);
+  static const Color googleadsense = Color(0xff4285f4);
 
   /// SimpleIcons googleanalytics [Color] from Hex e37400
-  static const Color googleanalytics = Color(0xe37400);
+  static const Color googleanalytics = Color(0xffe37400);
 
   /// SimpleIcons googleappsscript [Color] from Hex 4285f4
-  static const Color googleappsscript = Color(0x4285f4);
+  static const Color googleappsscript = Color(0xff4285f4);
 
   /// SimpleIcons googleassistant [Color] from Hex 4285f4
-  static const Color googleassistant = Color(0x4285f4);
+  static const Color googleassistant = Color(0xff4285f4);
 
   /// SimpleIcons googlebard [Color] from Hex 886fbf
-  static const Color googlebard = Color(0x886fbf);
+  static const Color googlebard = Color(0xff886fbf);
 
   /// SimpleIcons googlebigquery [Color] from Hex 669df6
-  static const Color googlebigquery = Color(0x669df6);
+  static const Color googlebigquery = Color(0xff669df6);
 
   /// SimpleIcons googlecalendar [Color] from Hex 4285f4
-  static const Color googlecalendar = Color(0x4285f4);
+  static const Color googlecalendar = Color(0xff4285f4);
 
   /// SimpleIcons googlecardboard [Color] from Hex ff7143
-  static const Color googlecardboard = Color(0xff7143);
+  static const Color googlecardboard = Color(0xffff7143);
 
   /// SimpleIcons googlechat [Color] from Hex 00ac47
-  static const Color googlechat = Color(0x00ac47);
+  static const Color googlechat = Color(0xff00ac47);
 
   /// SimpleIcons googlechrome [Color] from Hex 4285f4
-  static const Color googlechrome = Color(0x4285f4);
+  static const Color googlechrome = Color(0xff4285f4);
 
   /// SimpleIcons googleclassroom [Color] from Hex 0f9d58
-  static const Color googleclassroom = Color(0x0f9d58);
+  static const Color googleclassroom = Color(0xff0f9d58);
 
   /// SimpleIcons googlecloud [Color] from Hex 4285f4
-  static const Color googlecloud = Color(0x4285f4);
+  static const Color googlecloud = Color(0xff4285f4);
 
   /// SimpleIcons googlecloudcomposer [Color] from Hex 4285f4
-  static const Color googlecloudcomposer = Color(0x4285f4);
+  static const Color googlecloudcomposer = Color(0xff4285f4);
 
   /// SimpleIcons googlecloudspanner [Color] from Hex 4285f4
-  static const Color googlecloudspanner = Color(0x4285f4);
+  static const Color googlecloudspanner = Color(0xff4285f4);
 
   /// SimpleIcons googlecolab [Color] from Hex f9ab00
-  static const Color googlecolab = Color(0xf9ab00);
+  static const Color googlecolab = Color(0xfff9ab00);
 
   /// SimpleIcons googlecontaineroptimizedos [Color] from Hex 4285f4
-  static const Color googlecontaineroptimizedos = Color(0x4285f4);
+  static const Color googlecontaineroptimizedos = Color(0xff4285f4);
 
   /// SimpleIcons googledatastudio [Color] from Hex 669df6
-  static const Color googledatastudio = Color(0x669df6);
+  static const Color googledatastudio = Color(0xff669df6);
 
   /// SimpleIcons googledataflow [Color] from Hex aecbfa
-  static const Color googledataflow = Color(0xaecbfa);
+  static const Color googledataflow = Color(0xffaecbfa);
 
   /// SimpleIcons googledataproc [Color] from Hex aecbfa
-  static const Color googledataproc = Color(0xaecbfa);
+  static const Color googledataproc = Color(0xffaecbfa);
 
   /// SimpleIcons googledocs [Color] from Hex 4285f4
-  static const Color googledocs = Color(0x4285f4);
+  static const Color googledocs = Color(0xff4285f4);
 
   /// SimpleIcons googledomains [Color] from Hex 4285f4
-  static const Color googledomains = Color(0x4285f4);
+  static const Color googledomains = Color(0xff4285f4);
 
   /// SimpleIcons googledrive [Color] from Hex 4285f4
-  static const Color googledrive = Color(0x4285f4);
+  static const Color googledrive = Color(0xff4285f4);
 
   /// SimpleIcons googleearth [Color] from Hex 4285f4
-  static const Color googleearth = Color(0x4285f4);
+  static const Color googleearth = Color(0xff4285f4);
 
   /// SimpleIcons googleearthengine [Color] from Hex 4285f4
-  static const Color googleearthengine = Color(0x4285f4);
+  static const Color googleearthengine = Color(0xff4285f4);
 
   /// SimpleIcons googlefit [Color] from Hex 4285f4
-  static const Color googlefit = Color(0x4285f4);
+  static const Color googlefit = Color(0xff4285f4);
 
   /// SimpleIcons googlefonts [Color] from Hex 4285f4
-  static const Color googlefonts = Color(0x4285f4);
+  static const Color googlefonts = Color(0xff4285f4);
 
   /// SimpleIcons googleforms [Color] from Hex 7248b9
-  static const Color googleforms = Color(0x7248b9);
+  static const Color googleforms = Color(0xff7248b9);
 
   /// SimpleIcons googlehangouts [Color] from Hex 0c9d58
-  static const Color googlehangouts = Color(0x0c9d58);
+  static const Color googlehangouts = Color(0xff0c9d58);
 
   /// SimpleIcons googlehome [Color] from Hex 4285f4
-  static const Color googlehome = Color(0x4285f4);
+  static const Color googlehome = Color(0xff4285f4);
 
   /// SimpleIcons googlekeep [Color] from Hex ffbb00
-  static const Color googlekeep = Color(0xffbb00);
+  static const Color googlekeep = Color(0xffffbb00);
 
   /// SimpleIcons googlelens [Color] from Hex 4285f4
-  static const Color googlelens = Color(0x4285f4);
+  static const Color googlelens = Color(0xff4285f4);
 
   /// SimpleIcons googlemaps [Color] from Hex 4285f4
-  static const Color googlemaps = Color(0x4285f4);
+  static const Color googlemaps = Color(0xff4285f4);
 
   /// SimpleIcons googlemarketingplatform [Color] from Hex 4285f4
-  static const Color googlemarketingplatform = Color(0x4285f4);
+  static const Color googlemarketingplatform = Color(0xff4285f4);
 
   /// SimpleIcons googlemeet [Color] from Hex 00897b
-  static const Color googlemeet = Color(0x00897b);
+  static const Color googlemeet = Color(0xff00897b);
 
   /// SimpleIcons googlemessages [Color] from Hex 1a73e8
-  static const Color googlemessages = Color(0x1a73e8);
+  static const Color googlemessages = Color(0xff1a73e8);
 
   /// SimpleIcons googlemybusiness [Color] from Hex 4285f4
-  static const Color googlemybusiness = Color(0x4285f4);
+  static const Color googlemybusiness = Color(0xff4285f4);
 
   /// SimpleIcons googlenearby [Color] from Hex 4285f4
-  static const Color googlenearby = Color(0x4285f4);
+  static const Color googlenearby = Color(0xff4285f4);
 
   /// SimpleIcons googlenews [Color] from Hex 174ea6
-  static const Color googlenews = Color(0x174ea6);
+  static const Color googlenews = Color(0xff174ea6);
 
   /// SimpleIcons googleoptimize [Color] from Hex b366f6
-  static const Color googleoptimize = Color(0xb366f6);
+  static const Color googleoptimize = Color(0xffb366f6);
 
   /// SimpleIcons googlepay [Color] from Hex 4285f4
-  static const Color googlepay = Color(0x4285f4);
+  static const Color googlepay = Color(0xff4285f4);
 
   /// SimpleIcons googlephotos [Color] from Hex 4285f4
-  static const Color googlephotos = Color(0x4285f4);
+  static const Color googlephotos = Color(0xff4285f4);
 
   /// SimpleIcons googleplay [Color] from Hex 414141
-  static const Color googleplay = Color(0x414141);
+  static const Color googleplay = Color(0xff414141);
 
   /// SimpleIcons googlepodcasts [Color] from Hex 4285f4
-  static const Color googlepodcasts = Color(0x4285f4);
+  static const Color googlepodcasts = Color(0xff4285f4);
 
   /// SimpleIcons googlepubsub [Color] from Hex aecbfa
-  static const Color googlepubsub = Color(0xaecbfa);
+  static const Color googlepubsub = Color(0xffaecbfa);
 
   /// SimpleIcons googlescholar [Color] from Hex 4285f4
-  static const Color googlescholar = Color(0x4285f4);
+  static const Color googlescholar = Color(0xff4285f4);
 
   /// SimpleIcons googlesearchconsole [Color] from Hex 458cf5
-  static const Color googlesearchconsole = Color(0x458cf5);
+  static const Color googlesearchconsole = Color(0xff458cf5);
 
   /// SimpleIcons googlesheets [Color] from Hex 34a853
-  static const Color googlesheets = Color(0x34a853);
+  static const Color googlesheets = Color(0xff34a853);
 
   /// SimpleIcons googleslides [Color] from Hex fbbc04
-  static const Color googleslides = Color(0xfbbc04);
+  static const Color googleslides = Color(0xfffbbc04);
 
   /// SimpleIcons googlestreetview [Color] from Hex fec111
-  static const Color googlestreetview = Color(0xfec111);
+  static const Color googlestreetview = Color(0xfffec111);
 
   /// SimpleIcons googletagmanager [Color] from Hex 246fdb
-  static const Color googletagmanager = Color(0x246fdb);
+  static const Color googletagmanager = Color(0xff246fdb);
 
   /// SimpleIcons googletasks [Color] from Hex 2684fc
-  static const Color googletasks = Color(0x2684fc);
+  static const Color googletasks = Color(0xff2684fc);
 
   /// SimpleIcons googletranslate [Color] from Hex 4285f4
-  static const Color googletranslate = Color(0x4285f4);
+  static const Color googletranslate = Color(0xff4285f4);
 
   /// SimpleIcons gotomeeting [Color] from Hex f68d2e
-  static const Color gotomeeting = Color(0xf68d2e);
+  static const Color gotomeeting = Color(0xfff68d2e);
 
   /// SimpleIcons grab [Color] from Hex 00b14f
-  static const Color grab = Color(0x00b14f);
+  static const Color grab = Color(0xff00b14f);
 
   /// SimpleIcons gradle [Color] from Hex 02303a
-  static const Color gradle = Color(0x02303a);
+  static const Color gradle = Color(0xff02303a);
 
   /// SimpleIcons gradleplaypublisher [Color] from Hex 82b816
-  static const Color gradleplaypublisher = Color(0x82b816);
+  static const Color gradleplaypublisher = Color(0xff82b816);
 
   /// SimpleIcons grafana [Color] from Hex f46800
-  static const Color grafana = Color(0xf46800);
+  static const Color grafana = Color(0xfff46800);
 
   /// SimpleIcons grammarly [Color] from Hex 15c39a
-  static const Color grammarly = Color(0x15c39a);
+  static const Color grammarly = Color(0xff15c39a);
 
   /// SimpleIcons grandfrais [Color] from Hex ed2d2f
-  static const Color grandfrais = Color(0xed2d2f);
+  static const Color grandfrais = Color(0xffed2d2f);
 
   /// SimpleIcons graphql [Color] from Hex e10098
-  static const Color graphql = Color(0xe10098);
+  static const Color graphql = Color(0xffe10098);
 
   /// SimpleIcons grav [Color] from Hex 221e1f
-  static const Color grav = Color(0x221e1f);
+  static const Color grav = Color(0xff221e1f);
 
   /// SimpleIcons gravatar [Color] from Hex 1e8cbe
-  static const Color gravatar = Color(0x1e8cbe);
+  static const Color gravatar = Color(0xff1e8cbe);
 
   /// SimpleIcons graylog [Color] from Hex ff3633
-  static const Color graylog = Color(0xff3633);
+  static const Color graylog = Color(0xffff3633);
 
   /// SimpleIcons greenhouse [Color] from Hex 24a47f
-  static const Color greenhouse = Color(0x24a47f);
+  static const Color greenhouse = Color(0xff24a47f);
 
   /// SimpleIcons greensock [Color] from Hex 88ce02
-  static const Color greensock = Color(0x88ce02);
+  static const Color greensock = Color(0xff88ce02);
 
   /// SimpleIcons griddotai [Color] from Hex 78ff96
-  static const Color griddotai = Color(0x78ff96);
+  static const Color griddotai = Color(0xff78ff96);
 
   /// SimpleIcons gridsome [Color] from Hex 00a672
-  static const Color gridsome = Color(0x00a672);
+  static const Color gridsome = Color(0xff00a672);
 
   /// SimpleIcons groupme [Color] from Hex 00aff0
-  static const Color groupme = Color(0x00aff0);
+  static const Color groupme = Color(0xff00aff0);
 
   /// SimpleIcons groupon [Color] from Hex 53a318
-  static const Color groupon = Color(0x53a318);
+  static const Color groupon = Color(0xff53a318);
 
   /// SimpleIcons grubhub [Color] from Hex f63440
-  static const Color grubhub = Color(0xf63440);
+  static const Color grubhub = Color(0xfff63440);
 
   /// SimpleIcons grunt [Color] from Hex faa918
-  static const Color grunt = Color(0xfaa918);
+  static const Color grunt = Color(0xfffaa918);
 
   /// SimpleIcons gsk [Color] from Hex f36633
-  static const Color gsk = Color(0xf36633);
+  static const Color gsk = Color(0xfff36633);
 
   /// SimpleIcons gsmarenadotcom [Color] from Hex d50000
-  static const Color gsmarenadotcom = Color(0xd50000);
+  static const Color gsmarenadotcom = Color(0xffd50000);
 
   /// SimpleIcons gstreamer [Color] from Hex ff3131
-  static const Color gstreamer = Color(0xff3131);
+  static const Color gstreamer = Color(0xffff3131);
 
   /// SimpleIcons gtk [Color] from Hex 7fe719
-  static const Color gtk = Color(0x7fe719);
+  static const Color gtk = Color(0xff7fe719);
 
   /// SimpleIcons guangzhoumetro [Color] from Hex c51935
-  static const Color guangzhoumetro = Color(0xc51935);
+  static const Color guangzhoumetro = Color(0xffc51935);
 
   /// SimpleIcons guilded [Color] from Hex f5c400
-  static const Color guilded = Color(0xf5c400);
+  static const Color guilded = Color(0xfff5c400);
 
   /// SimpleIcons gulp [Color] from Hex cf4647
-  static const Color gulp = Color(0xcf4647);
+  static const Color gulp = Color(0xffcf4647);
 
   /// SimpleIcons gumroad [Color] from Hex ff90e8
-  static const Color gumroad = Color(0xff90e8);
+  static const Color gumroad = Color(0xffff90e8);
 
   /// SimpleIcons gumtree [Color] from Hex 72ef36
-  static const Color gumtree = Color(0x72ef36);
+  static const Color gumtree = Color(0xff72ef36);
 
   /// SimpleIcons gunicorn [Color] from Hex 499848
-  static const Color gunicorn = Color(0x499848);
+  static const Color gunicorn = Color(0xff499848);
 
   /// SimpleIcons gurobi [Color] from Hex ee3524
-  static const Color gurobi = Color(0xee3524);
+  static const Color gurobi = Color(0xffee3524);
 
   /// SimpleIcons gutenberg [Color] from Hex 000000
-  static const Color gutenberg = Color(0x000000);
+  static const Color gutenberg = Color(0xff000000);
 
   /// SimpleIcons handm [Color] from Hex e50010
-  static const Color handm = Color(0xe50010);
+  static const Color handm = Color(0xffe50010);
 
   /// SimpleIcons h3 [Color] from Hex 1e54b7
-  static const Color h3 = Color(0x1e54b7);
+  static const Color h3 = Color(0xff1e54b7);
 
   /// SimpleIcons habr [Color] from Hex 65a3be
-  static const Color habr = Color(0x65a3be);
+  static const Color habr = Color(0xff65a3be);
 
   /// SimpleIcons hackclub [Color] from Hex ec3750
-  static const Color hackclub = Color(0xec3750);
+  static const Color hackclub = Color(0xffec3750);
 
   /// SimpleIcons hackthebox [Color] from Hex 9fef00
-  static const Color hackthebox = Color(0x9fef00);
+  static const Color hackthebox = Color(0xff9fef00);
 
   /// SimpleIcons hackaday [Color] from Hex 1a1a1a
-  static const Color hackaday = Color(0x1a1a1a);
+  static const Color hackaday = Color(0xff1a1a1a);
 
   /// SimpleIcons hackernoon [Color] from Hex 00fe00
-  static const Color hackernoon = Color(0x00fe00);
+  static const Color hackernoon = Color(0xff00fe00);
 
   /// SimpleIcons hackerearth [Color] from Hex 2c3454
-  static const Color hackerearth = Color(0x2c3454);
+  static const Color hackerearth = Color(0xff2c3454);
 
   /// SimpleIcons hackerone [Color] from Hex 494649
-  static const Color hackerone = Color(0x494649);
+  static const Color hackerone = Color(0xff494649);
 
   /// SimpleIcons hackerrank [Color] from Hex 00ea64
-  static const Color hackerrank = Color(0x00ea64);
+  static const Color hackerrank = Color(0xff00ea64);
 
   /// SimpleIcons hackster [Color] from Hex 2e9fe6
-  static const Color hackster = Color(0x2e9fe6);
+  static const Color hackster = Color(0xff2e9fe6);
 
   /// SimpleIcons hal [Color] from Hex b03532
-  static const Color hal = Color(0xb03532);
+  static const Color hal = Color(0xffb03532);
 
   /// SimpleIcons handlebarsdotjs [Color] from Hex 000000
-  static const Color handlebarsdotjs = Color(0x000000);
+  static const Color handlebarsdotjs = Color(0xff000000);
 
   /// SimpleIcons handshake [Color] from Hex 000000
-  static const Color handshake = Color(0x000000);
+  static const Color handshake = Color(0xff000000);
 
   /// SimpleIcons happycow [Color] from Hex 7c4ec4
-  static const Color happycow = Color(0x7c4ec4);
+  static const Color happycow = Color(0xff7c4ec4);
 
   /// SimpleIcons harbor [Color] from Hex 60b932
-  static const Color harbor = Color(0x60b932);
+  static const Color harbor = Color(0xff60b932);
 
   /// SimpleIcons harmonyos [Color] from Hex 000000
-  static const Color harmonyos = Color(0x000000);
+  static const Color harmonyos = Color(0xff000000);
 
   /// SimpleIcons hashicorp [Color] from Hex 000000
-  static const Color hashicorp = Color(0x000000);
+  static const Color hashicorp = Color(0xff000000);
 
   /// SimpleIcons hashnode [Color] from Hex 2962ff
-  static const Color hashnode = Color(0x2962ff);
+  static const Color hashnode = Color(0xff2962ff);
 
   /// SimpleIcons haskell [Color] from Hex 5d4f85
-  static const Color haskell = Color(0x5d4f85);
+  static const Color haskell = Color(0xff5d4f85);
 
   /// SimpleIcons hasura [Color] from Hex 1eb4d4
-  static const Color hasura = Color(0x1eb4d4);
+  static const Color hasura = Color(0xff1eb4d4);
 
   /// SimpleIcons hatenabookmark [Color] from Hex 00a4de
-  static const Color hatenabookmark = Color(0x00a4de);
+  static const Color hatenabookmark = Color(0xff00a4de);
 
   /// SimpleIcons haveibeenpwned [Color] from Hex 2a6379
-  static const Color haveibeenpwned = Color(0x2a6379);
+  static const Color haveibeenpwned = Color(0xff2a6379);
 
   /// SimpleIcons haxe [Color] from Hex ea8220
-  static const Color haxe = Color(0xea8220);
+  static const Color haxe = Color(0xffea8220);
 
   /// SimpleIcons hbo [Color] from Hex 000000
-  static const Color hbo = Color(0x000000);
+  static const Color hbo = Color(0xff000000);
 
   /// SimpleIcons hcl [Color] from Hex 006bb6
-  static const Color hcl = Color(0x006bb6);
+  static const Color hcl = Color(0xff006bb6);
 
   /// SimpleIcons hdfcbank [Color] from Hex 004b8d
-  static const Color hdfcbank = Color(0x004b8d);
+  static const Color hdfcbank = Color(0xff004b8d);
 
   /// SimpleIcons headlessui [Color] from Hex 66e3ff
-  static const Color headlessui = Color(0x66e3ff);
+  static const Color headlessui = Color(0xff66e3ff);
 
   /// SimpleIcons headphonezone [Color] from Hex 3c07ff
-  static const Color headphonezone = Color(0x3c07ff);
+  static const Color headphonezone = Color(0xff3c07ff);
 
   /// SimpleIcons headspace [Color] from Hex f47d31
-  static const Color headspace = Color(0xf47d31);
+  static const Color headspace = Color(0xfff47d31);
 
   /// SimpleIcons hearth [Color] from Hex a33035
-  static const Color hearth = Color(0xa33035);
+  static const Color hearth = Color(0xffa33035);
 
   /// SimpleIcons hearthisdotat [Color] from Hex 000000
-  static const Color hearthisdotat = Color(0x000000);
+  static const Color hearthisdotat = Color(0xff000000);
 
   /// SimpleIcons hedera [Color] from Hex 222222
-  static const Color hedera = Color(0x222222);
+  static const Color hedera = Color(0xff222222);
 
   /// SimpleIcons hellofresh [Color] from Hex 99cc33
-  static const Color hellofresh = Color(0x99cc33);
+  static const Color hellofresh = Color(0xff99cc33);
 
   /// SimpleIcons hellyhansen [Color] from Hex da2128
-  static const Color hellyhansen = Color(0xda2128);
+  static const Color hellyhansen = Color(0xffda2128);
 
   /// SimpleIcons helm [Color] from Hex 0f1689
-  static const Color helm = Color(0x0f1689);
+  static const Color helm = Color(0xff0f1689);
 
   /// SimpleIcons helpscout [Color] from Hex 1292ee
-  static const Color helpscout = Color(0x1292ee);
+  static const Color helpscout = Color(0xff1292ee);
 
   /// SimpleIcons helpdesk [Color] from Hex 2fc774
-  static const Color helpdesk = Color(0x2fc774);
+  static const Color helpdesk = Color(0xff2fc774);
 
   /// SimpleIcons here [Color] from Hex 00afaa
-  static const Color here = Color(0x00afaa);
+  static const Color here = Color(0xff00afaa);
 
   /// SimpleIcons heroku [Color] from Hex 430098
-  static const Color heroku = Color(0x430098);
+  static const Color heroku = Color(0xff430098);
 
   /// SimpleIcons hetzner [Color] from Hex d50c2d
-  static const Color hetzner = Color(0xd50c2d);
+  static const Color hetzner = Color(0xffd50c2d);
 
   /// SimpleIcons hexlet [Color] from Hex 116ef5
-  static const Color hexlet = Color(0x116ef5);
+  static const Color hexlet = Color(0xff116ef5);
 
   /// SimpleIcons hexo [Color] from Hex 0e83cd
-  static const Color hexo = Color(0x0e83cd);
+  static const Color hexo = Color(0xff0e83cd);
 
   /// SimpleIcons hey [Color] from Hex 5522fa
-  static const Color hey = Color(0x5522fa);
+  static const Color hey = Color(0xff5522fa);
 
   /// SimpleIcons hibob [Color] from Hex e42c51
-  static const Color hibob = Color(0xe42c51);
+  static const Color hibob = Color(0xffe42c51);
 
   /// SimpleIcons hibernate [Color] from Hex 59666c
-  static const Color hibernate = Color(0x59666c);
+  static const Color hibernate = Color(0xff59666c);
 
   /// SimpleIcons hilton [Color] from Hex 231f20
-  static const Color hilton = Color(0x231f20);
+  static const Color hilton = Color(0xff231f20);
 
   /// SimpleIcons hiltonhotelsandresorts [Color] from Hex 1e4380
-  static const Color hiltonhotelsandresorts = Color(0x1e4380);
+  static const Color hiltonhotelsandresorts = Color(0xff1e4380);
 
   /// SimpleIcons hitachi [Color] from Hex e60027
-  static const Color hitachi = Color(0xe60027);
+  static const Color hitachi = Color(0xffe60027);
 
   /// SimpleIcons hive [Color] from Hex e31337
-  static const Color hive = Color(0xe31337);
+  static const Color hive = Color(0xffe31337);
 
   /// SimpleIcons homeassistant [Color] from Hex 18bcf2
-  static const Color homeassistant = Color(0x18bcf2);
+  static const Color homeassistant = Color(0xff18bcf2);
 
   /// SimpleIcons homeassistantcommunitystore [Color] from Hex 41bdf5
-  static const Color homeassistantcommunitystore = Color(0x41bdf5);
+  static const Color homeassistantcommunitystore = Color(0xff41bdf5);
 
   /// SimpleIcons homeadvisor [Color] from Hex f68315
-  static const Color homeadvisor = Color(0xf68315);
+  static const Color homeadvisor = Color(0xfff68315);
 
   /// SimpleIcons homebrew [Color] from Hex fbb040
-  static const Color homebrew = Color(0xfbb040);
+  static const Color homebrew = Color(0xfffbb040);
 
   /// SimpleIcons homebridge [Color] from Hex 491f59
-  static const Color homebridge = Color(0x491f59);
+  static const Color homebridge = Color(0xff491f59);
 
   /// SimpleIcons homify [Color] from Hex 7dcda3
-  static const Color homify = Color(0x7dcda3);
+  static const Color homify = Color(0xff7dcda3);
 
   /// SimpleIcons honda [Color] from Hex e40521
-  static const Color honda = Color(0xe40521);
+  static const Color honda = Color(0xffe40521);
 
   /// SimpleIcons honey [Color] from Hex ff6801
-  static const Color honey = Color(0xff6801);
+  static const Color honey = Color(0xffff6801);
 
   /// SimpleIcons honor [Color] from Hex 000000
-  static const Color honor = Color(0x000000);
+  static const Color honor = Color(0xff000000);
 
   /// SimpleIcons hootsuite [Color] from Hex ff4c46
-  static const Color hootsuite = Color(0xff4c46);
+  static const Color hootsuite = Color(0xffff4c46);
 
   /// SimpleIcons hoppscotch [Color] from Hex 10b981
-  static const Color hoppscotch = Color(0x10b981);
+  static const Color hoppscotch = Color(0xff10b981);
 
   /// SimpleIcons hotelsdotcom [Color] from Hex ef3346
-  static const Color hotelsdotcom = Color(0xef3346);
+  static const Color hotelsdotcom = Color(0xffef3346);
 
   /// SimpleIcons hotjar [Color] from Hex ff3c00
-  static const Color hotjar = Color(0xff3c00);
+  static const Color hotjar = Color(0xffff3c00);
 
   /// SimpleIcons hotwire [Color] from Hex ffe801
-  static const Color hotwire = Color(0xffe801);
+  static const Color hotwire = Color(0xffffe801);
 
   /// SimpleIcons houdini [Color] from Hex ff4713
-  static const Color houdini = Color(0xff4713);
+  static const Color houdini = Color(0xffff4713);
 
   /// SimpleIcons houzz [Color] from Hex 4dbc15
-  static const Color houzz = Color(0x4dbc15);
+  static const Color houzz = Color(0xff4dbc15);
 
   /// SimpleIcons hp [Color] from Hex 0096d6
-  static const Color hp = Color(0x0096d6);
+  static const Color hp = Color(0xff0096d6);
 
   /// SimpleIcons hsbc [Color] from Hex db0011
-  static const Color hsbc = Color(0xdb0011);
+  static const Color hsbc = Color(0xffdb0011);
 
   /// SimpleIcons htmlacademy [Color] from Hex 302683
-  static const Color htmlacademy = Color(0x302683);
+  static const Color htmlacademy = Color(0xff302683);
 
   /// SimpleIcons html5 [Color] from Hex e34f26
-  static const Color html5 = Color(0xe34f26);
+  static const Color html5 = Color(0xffe34f26);
 
   /// SimpleIcons htop [Color] from Hex 009020
-  static const Color htop = Color(0x009020);
+  static const Color htop = Color(0xff009020);
 
   /// SimpleIcons httpie [Color] from Hex 73dc8c
-  static const Color httpie = Color(0x73dc8c);
+  static const Color httpie = Color(0xff73dc8c);
 
   /// SimpleIcons huawei [Color] from Hex ff0000
-  static const Color huawei = Color(0xff0000);
+  static const Color huawei = Color(0xffff0000);
 
   /// SimpleIcons hubspot [Color] from Hex ff7a59
-  static const Color hubspot = Color(0xff7a59);
+  static const Color hubspot = Color(0xffff7a59);
 
   /// SimpleIcons hugo [Color] from Hex ff4088
-  static const Color hugo = Color(0xff4088);
+  static const Color hugo = Color(0xffff4088);
 
   /// SimpleIcons hulu [Color] from Hex 1ce783
-  static const Color hulu = Color(0x1ce783);
+  static const Color hulu = Color(0xff1ce783);
 
   /// SimpleIcons humblebundle [Color] from Hex cc2929
-  static const Color humblebundle = Color(0xcc2929);
+  static const Color humblebundle = Color(0xffcc2929);
 
   /// SimpleIcons hungryjacks [Color] from Hex d0021b
-  static const Color hungryjacks = Color(0xd0021b);
+  static const Color hungryjacks = Color(0xffd0021b);
 
   /// SimpleIcons husqvarna [Color] from Hex 273a60
-  static const Color husqvarna = Color(0x273a60);
+  static const Color husqvarna = Color(0xff273a60);
 
   /// SimpleIcons hyper [Color] from Hex 000000
-  static const Color hyper = Color(0x000000);
+  static const Color hyper = Color(0xff000000);
 
   /// SimpleIcons hypothesis [Color] from Hex bd1c2b
-  static const Color hypothesis = Color(0xbd1c2b);
+  static const Color hypothesis = Color(0xffbd1c2b);
 
   /// SimpleIcons hyundai [Color] from Hex 002c5e
-  static const Color hyundai = Color(0x002c5e);
+  static const Color hyundai = Color(0xff002c5e);
 
   /// SimpleIcons i18next [Color] from Hex 26a69a
-  static const Color i18next = Color(0x26a69a);
+  static const Color i18next = Color(0xff26a69a);
 
   /// SimpleIcons i3 [Color] from Hex 52c0ff
-  static const Color i3 = Color(0x52c0ff);
+  static const Color i3 = Color(0xff52c0ff);
 
   /// SimpleIcons iata [Color] from Hex 004e81
-  static const Color iata = Color(0x004e81);
+  static const Color iata = Color(0xff004e81);
 
   /// SimpleIcons ibeacon [Color] from Hex 3d7ebb
-  static const Color ibeacon = Color(0x3d7ebb);
+  static const Color ibeacon = Color(0xff3d7ebb);
 
   /// SimpleIcons ibm [Color] from Hex 052fad
-  static const Color ibm = Color(0x052fad);
+  static const Color ibm = Color(0xff052fad);
 
   /// SimpleIcons ibmcloud [Color] from Hex 1261fe
-  static const Color ibmcloud = Color(0x1261fe);
+  static const Color ibmcloud = Color(0xff1261fe);
 
   /// SimpleIcons ibmwatson [Color] from Hex be95ff
-  static const Color ibmwatson = Color(0xbe95ff);
+  static const Color ibmwatson = Color(0xffbe95ff);
 
   /// SimpleIcons iced [Color] from Hex 3645ff
-  static const Color iced = Color(0x3645ff);
+  static const Color iced = Color(0xff3645ff);
 
   /// SimpleIcons iceland [Color] from Hex cc092f
-  static const Color iceland = Color(0xcc092f);
+  static const Color iceland = Color(0xffcc092f);
 
   /// SimpleIcons icicibank [Color] from Hex ae282e
-  static const Color icicibank = Color(0xae282e);
+  static const Color icicibank = Color(0xffae282e);
 
   /// SimpleIcons icinga [Color] from Hex 06062c
-  static const Color icinga = Color(0x06062c);
+  static const Color icinga = Color(0xff06062c);
 
   /// SimpleIcons icloud [Color] from Hex 3693f3
-  static const Color icloud = Color(0x3693f3);
+  static const Color icloud = Color(0xff3693f3);
 
   /// SimpleIcons icomoon [Color] from Hex 825794
-  static const Color icomoon = Color(0x825794);
+  static const Color icomoon = Color(0xff825794);
 
   /// SimpleIcons icon [Color] from Hex 31b8bb
-  static const Color icon = Color(0x31b8bb);
+  static const Color icon = Color(0xff31b8bb);
 
   /// SimpleIcons iconfinder [Color] from Hex 1a1b1f
-  static const Color iconfinder = Color(0x1a1b1f);
+  static const Color iconfinder = Color(0xff1a1b1f);
 
   /// SimpleIcons iconify [Color] from Hex 1769aa
-  static const Color iconify = Color(0x1769aa);
+  static const Color iconify = Color(0xff1769aa);
 
   /// SimpleIcons iconjar [Color] from Hex 16a5f3
-  static const Color iconjar = Color(0x16a5f3);
+  static const Color iconjar = Color(0xff16a5f3);
 
   /// SimpleIcons icons8 [Color] from Hex 1fb141
-  static const Color icons8 = Color(0x1fb141);
+  static const Color icons8 = Color(0xff1fb141);
 
   /// SimpleIcons icq [Color] from Hex 24ff00
-  static const Color icq = Color(0x24ff00);
+  static const Color icq = Color(0xff24ff00);
 
   /// SimpleIcons ieee [Color] from Hex 00629b
-  static const Color ieee = Color(0x00629b);
+  static const Color ieee = Color(0xff00629b);
 
   /// SimpleIcons ifixit [Color] from Hex 0071ce
-  static const Color ifixit = Color(0x0071ce);
+  static const Color ifixit = Color(0xff0071ce);
 
   /// SimpleIcons ifood [Color] from Hex ea1d2c
-  static const Color ifood = Color(0xea1d2c);
+  static const Color ifood = Color(0xffea1d2c);
 
   /// SimpleIcons ifttt [Color] from Hex 000000
-  static const Color ifttt = Color(0x000000);
+  static const Color ifttt = Color(0xff000000);
 
   /// SimpleIcons igdb [Color] from Hex 9147ff
-  static const Color igdb = Color(0x9147ff);
+  static const Color igdb = Color(0xff9147ff);
 
   /// SimpleIcons iheartradio [Color] from Hex c6002b
-  static const Color iheartradio = Color(0xc6002b);
+  static const Color iheartradio = Color(0xffc6002b);
 
   /// SimpleIcons ikea [Color] from Hex 0058a3
-  static const Color ikea = Color(0x0058a3);
+  static const Color ikea = Color(0xff0058a3);
 
   /// SimpleIcons iledefrancemobilites [Color] from Hex 67b4e7
-  static const Color iledefrancemobilites = Color(0x67b4e7);
+  static const Color iledefrancemobilites = Color(0xff67b4e7);
 
   /// SimpleIcons imagej [Color] from Hex 00d8e0
-  static const Color imagej = Color(0x00d8e0);
+  static const Color imagej = Color(0xff00d8e0);
 
   /// SimpleIcons imdb [Color] from Hex f5c518
-  static const Color imdb = Color(0xf5c518);
+  static const Color imdb = Color(0xfff5c518);
 
   /// SimpleIcons imgur [Color] from Hex 1bb76e
-  static const Color imgur = Color(0x1bb76e);
+  static const Color imgur = Color(0xff1bb76e);
 
   /// SimpleIcons immer [Color] from Hex 00e7c3
-  static const Color immer = Color(0x00e7c3);
+  static const Color immer = Color(0xff00e7c3);
 
   /// SimpleIcons immich [Color] from Hex 4250af
-  static const Color immich = Color(0x4250af);
+  static const Color immich = Color(0xff4250af);
 
   /// SimpleIcons imou [Color] from Hex e89313
-  static const Color imou = Color(0xe89313);
+  static const Color imou = Color(0xffe89313);
 
   /// SimpleIcons improvmx [Color] from Hex 2fbeff
-  static const Color improvmx = Color(0x2fbeff);
+  static const Color improvmx = Color(0xff2fbeff);
 
   /// SimpleIcons indeed [Color] from Hex 003a9b
-  static const Color indeed = Color(0x003a9b);
+  static const Color indeed = Color(0xff003a9b);
 
   /// SimpleIcons indigo [Color] from Hex 09009b
-  static const Color indigo = Color(0x09009b);
+  static const Color indigo = Color(0xff09009b);
 
   /// SimpleIcons inertia [Color] from Hex 9553e9
-  static const Color inertia = Color(0x9553e9);
+  static const Color inertia = Color(0xff9553e9);
 
   /// SimpleIcons infiniti [Color] from Hex 000000
-  static const Color infiniti = Color(0x000000);
+  static const Color infiniti = Color(0xff000000);
 
   /// SimpleIcons influxdb [Color] from Hex 22adf6
-  static const Color influxdb = Color(0x22adf6);
+  static const Color influxdb = Color(0xff22adf6);
 
   /// SimpleIcons infoq [Color] from Hex 2c6caf
-  static const Color infoq = Color(0x2c6caf);
+  static const Color infoq = Color(0xff2c6caf);
 
   /// SimpleIcons informatica [Color] from Hex ff4d00
-  static const Color informatica = Color(0xff4d00);
+  static const Color informatica = Color(0xffff4d00);
 
   /// SimpleIcons infosys [Color] from Hex 007cc3
-  static const Color infosys = Color(0x007cc3);
+  static const Color infosys = Color(0xff007cc3);
 
   /// SimpleIcons infracost [Color] from Hex db44b8
-  static const Color infracost = Color(0xdb44b8);
+  static const Color infracost = Color(0xffdb44b8);
 
   /// SimpleIcons ingress [Color] from Hex 783cbd
-  static const Color ingress = Color(0x783cbd);
+  static const Color ingress = Color(0xff783cbd);
 
   /// SimpleIcons inkdrop [Color] from Hex 7a78d7
-  static const Color inkdrop = Color(0x7a78d7);
+  static const Color inkdrop = Color(0xff7a78d7);
 
   /// SimpleIcons inkscape [Color] from Hex 000000
-  static const Color inkscape = Color(0x000000);
+  static const Color inkscape = Color(0xff000000);
 
   /// SimpleIcons insomnia [Color] from Hex 4000bf
-  static const Color insomnia = Color(0x4000bf);
+  static const Color insomnia = Color(0xff4000bf);
 
   /// SimpleIcons inspire [Color] from Hex 00e5ff
-  static const Color inspire = Color(0x00e5ff);
+  static const Color inspire = Color(0xff00e5ff);
 
   /// SimpleIcons insta360 [Color] from Hex ffee00
-  static const Color insta360 = Color(0xffee00);
+  static const Color insta360 = Color(0xffffee00);
 
   /// SimpleIcons instacart [Color] from Hex 43b02a
-  static const Color instacart = Color(0x43b02a);
+  static const Color instacart = Color(0xff43b02a);
 
   /// SimpleIcons instagram [Color] from Hex e4405f
-  static const Color instagram = Color(0xe4405f);
+  static const Color instagram = Color(0xffe4405f);
 
   /// SimpleIcons instapaper [Color] from Hex 1f1f1f
-  static const Color instapaper = Color(0x1f1f1f);
+  static const Color instapaper = Color(0xff1f1f1f);
 
   /// SimpleIcons instatus [Color] from Hex 4ee3c2
-  static const Color instatus = Color(0x4ee3c2);
+  static const Color instatus = Color(0xff4ee3c2);
 
   /// SimpleIcons instructables [Color] from Hex fabf15
-  static const Color instructables = Color(0xfabf15);
+  static const Color instructables = Color(0xfffabf15);
 
   /// SimpleIcons instructure [Color] from Hex 2a7ba0
-  static const Color instructure = Color(0x2a7ba0);
+  static const Color instructure = Color(0xff2a7ba0);
 
   /// SimpleIcons integromat [Color] from Hex 2f8cbb
-  static const Color integromat = Color(0x2f8cbb);
+  static const Color integromat = Color(0xff2f8cbb);
 
   /// SimpleIcons intel [Color] from Hex 0071c5
-  static const Color intel = Color(0x0071c5);
+  static const Color intel = Color(0xff0071c5);
 
   /// SimpleIcons intellijidea [Color] from Hex 000000
-  static const Color intellijidea = Color(0x000000);
+  static const Color intellijidea = Color(0xff000000);
 
   /// SimpleIcons interactiondesignfoundation [Color] from Hex 2b2b2b
-  static const Color interactiondesignfoundation = Color(0x2b2b2b);
+  static const Color interactiondesignfoundation = Color(0xff2b2b2b);
 
   /// SimpleIcons interactjs [Color] from Hex 2599ed
-  static const Color interactjs = Color(0x2599ed);
+  static const Color interactjs = Color(0xff2599ed);
 
   /// SimpleIcons interbase [Color] from Hex e62431
-  static const Color interbase = Color(0xe62431);
+  static const Color interbase = Color(0xffe62431);
 
   /// SimpleIcons intercom [Color] from Hex 6afdef
-  static const Color intercom = Color(0x6afdef);
+  static const Color intercom = Color(0xff6afdef);
 
   /// SimpleIcons intermarche [Color] from Hex e2001a
-  static const Color intermarche = Color(0xe2001a);
+  static const Color intermarche = Color(0xffe2001a);
 
   /// SimpleIcons internetarchive [Color] from Hex 666666
-  static const Color internetarchive = Color(0x666666);
+  static const Color internetarchive = Color(0xff666666);
 
   /// SimpleIcons internetcomputer [Color] from Hex 3b00b9
-  static const Color internetcomputer = Color(0x3b00b9);
+  static const Color internetcomputer = Color(0xff3b00b9);
 
   /// SimpleIcons internetexplorer [Color] from Hex 0076d6
-  static const Color internetexplorer = Color(0x0076d6);
+  static const Color internetexplorer = Color(0xff0076d6);
 
   /// SimpleIcons intigriti [Color] from Hex 161a36
-  static const Color intigriti = Color(0x161a36);
+  static const Color intigriti = Color(0xff161a36);
 
   /// SimpleIcons intuit [Color] from Hex 236cff
-  static const Color intuit = Color(0x236cff);
+  static const Color intuit = Color(0xff236cff);
 
   /// SimpleIcons invision [Color] from Hex ff3366
-  static const Color invision = Color(0xff3366);
+  static const Color invision = Color(0xffff3366);
 
   /// SimpleIcons invoiceninja [Color] from Hex 000000
-  static const Color invoiceninja = Color(0x000000);
+  static const Color invoiceninja = Color(0xff000000);
 
   /// SimpleIcons iobroker [Color] from Hex 3399cc
-  static const Color iobroker = Color(0x3399cc);
+  static const Color iobroker = Color(0xff3399cc);
 
   /// SimpleIcons ionic [Color] from Hex 3880ff
-  static const Color ionic = Color(0x3880ff);
+  static const Color ionic = Color(0xff3880ff);
 
   /// SimpleIcons ionos [Color] from Hex 003d8f
-  static const Color ionos = Color(0x003d8f);
+  static const Color ionos = Color(0xff003d8f);
 
   /// SimpleIcons ios [Color] from Hex 000000
-  static const Color ios = Color(0x000000);
+  static const Color ios = Color(0xff000000);
 
   /// SimpleIcons iota [Color] from Hex 131f37
-  static const Color iota = Color(0x131f37);
+  static const Color iota = Color(0xff131f37);
 
   /// SimpleIcons ipfs [Color] from Hex 65c2cb
-  static const Color ipfs = Color(0x65c2cb);
+  static const Color ipfs = Color(0xff65c2cb);
 
   /// SimpleIcons iris [Color] from Hex 25313c
-  static const Color iris = Color(0x25313c);
+  static const Color iris = Color(0xff25313c);
 
   /// SimpleIcons isc2 [Color] from Hex 468145
-  static const Color isc2 = Color(0x468145);
+  static const Color isc2 = Color(0xff468145);
 
   /// SimpleIcons issuu [Color] from Hex f36d5d
-  static const Color issuu = Color(0xf36d5d);
+  static const Color issuu = Color(0xfff36d5d);
 
   /// SimpleIcons istio [Color] from Hex 466bb0
-  static const Color istio = Color(0x466bb0);
+  static const Color istio = Color(0xff466bb0);
 
   /// SimpleIcons itchdotio [Color] from Hex fa5c5c
-  static const Color itchdotio = Color(0xfa5c5c);
+  static const Color itchdotio = Color(0xfffa5c5c);
 
   /// SimpleIcons iterm2 [Color] from Hex 000000
-  static const Color iterm2 = Color(0x000000);
+  static const Color iterm2 = Color(0xff000000);
 
   /// SimpleIcons itunes [Color] from Hex fb5bc5
-  static const Color itunes = Color(0xfb5bc5);
+  static const Color itunes = Color(0xfffb5bc5);
 
   /// SimpleIcons itvx [Color] from Hex deeb52
-  static const Color itvx = Color(0xdeeb52);
+  static const Color itvx = Color(0xffdeeb52);
 
   /// SimpleIcons iveco [Color] from Hex 004994
-  static const Color iveco = Color(0x004994);
+  static const Color iveco = Color(0xff004994);
 
   /// SimpleIcons jabber [Color] from Hex cc0000
-  static const Color jabber = Color(0xcc0000);
+  static const Color jabber = Color(0xffcc0000);
 
   /// SimpleIcons jaeger [Color] from Hex 66cfe3
-  static const Color jaeger = Color(0x66cfe3);
+  static const Color jaeger = Color(0xff66cfe3);
 
   /// SimpleIcons jaguar [Color] from Hex 000000
-  static const Color jaguar = Color(0x000000);
+  static const Color jaguar = Color(0xff000000);
 
   /// SimpleIcons jamboard [Color] from Hex f37c20
-  static const Color jamboard = Color(0xf37c20);
+  static const Color jamboard = Color(0xfff37c20);
 
   /// SimpleIcons jameson [Color] from Hex 004027
-  static const Color jameson = Color(0x004027);
+  static const Color jameson = Color(0xff004027);
 
   /// SimpleIcons jamstack [Color] from Hex f0047f
-  static const Color jamstack = Color(0xf0047f);
+  static const Color jamstack = Color(0xfff0047f);
 
   /// SimpleIcons jasmine [Color] from Hex 8a4182
-  static const Color jasmine = Color(0x8a4182);
+  static const Color jasmine = Color(0xff8a4182);
 
   /// SimpleIcons javascript [Color] from Hex f7df1e
-  static const Color javascript = Color(0xf7df1e);
+  static const Color javascript = Color(0xfff7df1e);
 
   /// SimpleIcons jbl [Color] from Hex ff3300
-  static const Color jbl = Color(0xff3300);
+  static const Color jbl = Color(0xffff3300);
 
   /// SimpleIcons jcb [Color] from Hex 0b4ea2
-  static const Color jcb = Color(0x0b4ea2);
+  static const Color jcb = Color(0xff0b4ea2);
 
   /// SimpleIcons jeep [Color] from Hex 000000
-  static const Color jeep = Color(0x000000);
+  static const Color jeep = Color(0xff000000);
 
   /// SimpleIcons jekyll [Color] from Hex cc0000
-  static const Color jekyll = Color(0xcc0000);
+  static const Color jekyll = Color(0xffcc0000);
 
   /// SimpleIcons jellyfin [Color] from Hex 00a4dc
-  static const Color jellyfin = Color(0x00a4dc);
+  static const Color jellyfin = Color(0xff00a4dc);
 
   /// SimpleIcons jenkins [Color] from Hex d24939
-  static const Color jenkins = Color(0xd24939);
+  static const Color jenkins = Color(0xffd24939);
 
   /// SimpleIcons jest [Color] from Hex c21325
-  static const Color jest = Color(0xc21325);
+  static const Color jest = Color(0xffc21325);
 
   /// SimpleIcons jet [Color] from Hex fbba00
-  static const Color jet = Color(0xfbba00);
+  static const Color jet = Color(0xfffbba00);
 
   /// SimpleIcons jetblue [Color] from Hex 001e59
-  static const Color jetblue = Color(0x001e59);
+  static const Color jetblue = Color(0xff001e59);
 
   /// SimpleIcons jetbrains [Color] from Hex 000000
-  static const Color jetbrains = Color(0x000000);
+  static const Color jetbrains = Color(0xff000000);
 
   /// SimpleIcons jetpackcompose [Color] from Hex 4285f4
-  static const Color jetpackcompose = Color(0x4285f4);
+  static const Color jetpackcompose = Color(0xff4285f4);
 
   /// SimpleIcons jfrog [Color] from Hex 40be46
-  static const Color jfrog = Color(0x40be46);
+  static const Color jfrog = Color(0xff40be46);
 
   /// SimpleIcons jfrogpipelines [Color] from Hex 40be46
-  static const Color jfrogpipelines = Color(0x40be46);
+  static const Color jfrogpipelines = Color(0xff40be46);
 
   /// SimpleIcons jinja [Color] from Hex b41717
-  static const Color jinja = Color(0xb41717);
+  static const Color jinja = Color(0xffb41717);
 
   /// SimpleIcons jira [Color] from Hex 0052cc
-  static const Color jira = Color(0x0052cc);
+  static const Color jira = Color(0xff0052cc);
 
   /// SimpleIcons jirasoftware [Color] from Hex 0052cc
-  static const Color jirasoftware = Color(0x0052cc);
+  static const Color jirasoftware = Color(0xff0052cc);
 
   /// SimpleIcons jitpack [Color] from Hex 000000
-  static const Color jitpack = Color(0x000000);
+  static const Color jitpack = Color(0xff000000);
 
   /// SimpleIcons jitsi [Color] from Hex 97979a
-  static const Color jitsi = Color(0x97979a);
+  static const Color jitsi = Color(0xff97979a);
 
   /// SimpleIcons johndeere [Color] from Hex 367c2b
-  static const Color johndeere = Color(0x367c2b);
+  static const Color johndeere = Color(0xff367c2b);
 
   /// SimpleIcons joomla [Color] from Hex 5091cd
-  static const Color joomla = Color(0x5091cd);
+  static const Color joomla = Color(0xff5091cd);
 
   /// SimpleIcons joplin [Color] from Hex 1071d3
-  static const Color joplin = Color(0x1071d3);
+  static const Color joplin = Color(0xff1071d3);
 
   /// SimpleIcons jordan [Color] from Hex 000000
-  static const Color jordan = Color(0x000000);
+  static const Color jordan = Color(0xff000000);
 
   /// SimpleIcons jovian [Color] from Hex 0d61ff
-  static const Color jovian = Color(0x0d61ff);
+  static const Color jovian = Color(0xff0d61ff);
 
   /// SimpleIcons jpeg [Color] from Hex 8a8a8a
-  static const Color jpeg = Color(0x8a8a8a);
+  static const Color jpeg = Color(0xff8a8a8a);
 
   /// SimpleIcons jquery [Color] from Hex 0769ad
-  static const Color jquery = Color(0x0769ad);
+  static const Color jquery = Color(0xff0769ad);
 
   /// SimpleIcons jrgroup [Color] from Hex 44af35
-  static const Color jrgroup = Color(0x44af35);
+  static const Color jrgroup = Color(0xff44af35);
 
   /// SimpleIcons jsdelivr [Color] from Hex e84d3d
-  static const Color jsdelivr = Color(0xe84d3d);
+  static const Color jsdelivr = Color(0xffe84d3d);
 
   /// SimpleIcons jsfiddle [Color] from Hex 0084ff
-  static const Color jsfiddle = Color(0x0084ff);
+  static const Color jsfiddle = Color(0xff0084ff);
 
   /// SimpleIcons json [Color] from Hex 000000
-  static const Color json = Color(0x000000);
+  static const Color json = Color(0xff000000);
 
   /// SimpleIcons jsonwebtokens [Color] from Hex 000000
-  static const Color jsonwebtokens = Color(0x000000);
+  static const Color jsonwebtokens = Color(0xff000000);
 
   /// SimpleIcons jss [Color] from Hex f7df1e
-  static const Color jss = Color(0xf7df1e);
+  static const Color jss = Color(0xfff7df1e);
 
   /// SimpleIcons juce [Color] from Hex 8dc63f
-  static const Color juce = Color(0x8dc63f);
+  static const Color juce = Color(0xff8dc63f);
 
   /// SimpleIcons juejin [Color] from Hex 007fff
-  static const Color juejin = Color(0x007fff);
+  static const Color juejin = Color(0xff007fff);
 
   /// SimpleIcons juke [Color] from Hex 6cd74a
-  static const Color juke = Color(0x6cd74a);
+  static const Color juke = Color(0xff6cd74a);
 
   /// SimpleIcons julia [Color] from Hex 9558b2
-  static const Color julia = Color(0x9558b2);
+  static const Color julia = Color(0xff9558b2);
 
   /// SimpleIcons junipernetworks [Color] from Hex 84b135
-  static const Color junipernetworks = Color(0x84b135);
+  static const Color junipernetworks = Color(0xff84b135);
 
   /// SimpleIcons junit5 [Color] from Hex 25a162
-  static const Color junit5 = Color(0x25a162);
+  static const Color junit5 = Color(0xff25a162);
 
   /// SimpleIcons jupyter [Color] from Hex f37626
-  static const Color jupyter = Color(0xf37626);
+  static const Color jupyter = Color(0xfff37626);
 
   /// SimpleIcons justeat [Color] from Hex f36d00
-  static const Color justeat = Color(0xf36d00);
+  static const Color justeat = Color(0xfff36d00);
 
   /// SimpleIcons justgiving [Color] from Hex ad29b6
-  static const Color justgiving = Color(0xad29b6);
+  static const Color justgiving = Color(0xffad29b6);
 
   /// SimpleIcons k3s [Color] from Hex ffc61c
-  static const Color k3s = Color(0xffc61c);
+  static const Color k3s = Color(0xffffc61c);
 
   /// SimpleIcons k6 [Color] from Hex 7d64ff
-  static const Color k6 = Color(0x7d64ff);
+  static const Color k6 = Color(0xff7d64ff);
 
   /// SimpleIcons kaggle [Color] from Hex 20beff
-  static const Color kaggle = Color(0x20beff);
+  static const Color kaggle = Color(0xff20beff);
 
   /// SimpleIcons kahoot [Color] from Hex 46178f
-  static const Color kahoot = Color(0x46178f);
+  static const Color kahoot = Color(0xff46178f);
 
   /// SimpleIcons kaios [Color] from Hex 6f02b5
-  static const Color kaios = Color(0x6f02b5);
+  static const Color kaios = Color(0xff6f02b5);
 
   /// SimpleIcons kakao [Color] from Hex ffcd00
-  static const Color kakao = Color(0xffcd00);
+  static const Color kakao = Color(0xffffcd00);
 
   /// SimpleIcons kakaotalk [Color] from Hex ffcd00
-  static const Color kakaotalk = Color(0xffcd00);
+  static const Color kakaotalk = Color(0xffffcd00);
 
   /// SimpleIcons kalilinux [Color] from Hex 557c94
-  static const Color kalilinux = Color(0x557c94);
+  static const Color kalilinux = Color(0xff557c94);
 
   /// SimpleIcons kamailio [Color] from Hex 506365
-  static const Color kamailio = Color(0x506365);
+  static const Color kamailio = Color(0xff506365);
 
   /// SimpleIcons kaniko [Color] from Hex ffa600
-  static const Color kaniko = Color(0xffa600);
+  static const Color kaniko = Color(0xffffa600);
 
   /// SimpleIcons karlsruherverkehrsverbund [Color] from Hex 9b2321
-  static const Color karlsruherverkehrsverbund = Color(0x9b2321);
+  static const Color karlsruherverkehrsverbund = Color(0xff9b2321);
 
   /// SimpleIcons kasasmart [Color] from Hex 4acbd6
-  static const Color kasasmart = Color(0x4acbd6);
+  static const Color kasasmart = Color(0xff4acbd6);
 
   /// SimpleIcons kashflow [Color] from Hex e5426e
-  static const Color kashflow = Color(0xe5426e);
+  static const Color kashflow = Color(0xffe5426e);
 
   /// SimpleIcons kaspersky [Color] from Hex 006d5c
-  static const Color kaspersky = Color(0x006d5c);
+  static const Color kaspersky = Color(0xff006d5c);
 
   /// SimpleIcons katacoda [Color] from Hex f48220
-  static const Color katacoda = Color(0xf48220);
+  static const Color katacoda = Color(0xfff48220);
 
   /// SimpleIcons katana [Color] from Hex 000000
-  static const Color katana = Color(0x000000);
+  static const Color katana = Color(0xff000000);
 
   /// SimpleIcons kaufland [Color] from Hex e10915
-  static const Color kaufland = Color(0xe10915);
+  static const Color kaufland = Color(0xffe10915);
 
   /// SimpleIcons kde [Color] from Hex 1d99f3
-  static const Color kde = Color(0x1d99f3);
+  static const Color kde = Color(0xff1d99f3);
 
   /// SimpleIcons kdenlive [Color] from Hex 527eb2
-  static const Color kdenlive = Color(0x527eb2);
+  static const Color kdenlive = Color(0xff527eb2);
 
   /// SimpleIcons kedro [Color] from Hex ffc900
-  static const Color kedro = Color(0xffc900);
+  static const Color kedro = Color(0xffffc900);
 
   /// SimpleIcons keepachangelog [Color] from Hex e05735
-  static const Color keepachangelog = Color(0xe05735);
+  static const Color keepachangelog = Color(0xffe05735);
 
   /// SimpleIcons keepassxc [Color] from Hex 6cac4d
-  static const Color keepassxc = Color(0x6cac4d);
+  static const Color keepassxc = Color(0xff6cac4d);
 
   /// SimpleIcons kentico [Color] from Hex f05a22
-  static const Color kentico = Color(0xf05a22);
+  static const Color kentico = Color(0xfff05a22);
 
   /// SimpleIcons keras [Color] from Hex d00000
-  static const Color keras = Color(0xd00000);
+  static const Color keras = Color(0xffd00000);
 
   /// SimpleIcons keybase [Color] from Hex 33a0ff
-  static const Color keybase = Color(0x33a0ff);
+  static const Color keybase = Color(0xff33a0ff);
 
   /// SimpleIcons keycdn [Color] from Hex 047aed
-  static const Color keycdn = Color(0x047aed);
+  static const Color keycdn = Color(0xff047aed);
 
   /// SimpleIcons keystone [Color] from Hex 166bff
-  static const Color keystone = Color(0x166bff);
+  static const Color keystone = Color(0xff166bff);
 
   /// SimpleIcons kfc [Color] from Hex f40027
-  static const Color kfc = Color(0xf40027);
+  static const Color kfc = Color(0xfff40027);
 
   /// SimpleIcons khanacademy [Color] from Hex 14bf96
-  static const Color khanacademy = Color(0x14bf96);
+  static const Color khanacademy = Color(0xff14bf96);
 
   /// SimpleIcons khronosgroup [Color] from Hex cc3333
-  static const Color khronosgroup = Color(0xcc3333);
+  static const Color khronosgroup = Color(0xffcc3333);
 
   /// SimpleIcons kia [Color] from Hex 05141f
-  static const Color kia = Color(0x05141f);
+  static const Color kia = Color(0xff05141f);
 
   /// SimpleIcons kibana [Color] from Hex 005571
-  static const Color kibana = Color(0x005571);
+  static const Color kibana = Color(0xff005571);
 
   /// SimpleIcons kicad [Color] from Hex 314cb0
-  static const Color kicad = Color(0x314cb0);
+  static const Color kicad = Color(0xff314cb0);
 
   /// SimpleIcons kick [Color] from Hex 53fc19
-  static const Color kick = Color(0x53fc19);
+  static const Color kick = Color(0xff53fc19);
 
   /// SimpleIcons kickstarter [Color] from Hex 05ce78
-  static const Color kickstarter = Color(0x05ce78);
+  static const Color kickstarter = Color(0xff05ce78);
 
   /// SimpleIcons kik [Color] from Hex 82bc23
-  static const Color kik = Color(0x82bc23);
+  static const Color kik = Color(0xff82bc23);
 
   /// SimpleIcons kingstontechnology [Color] from Hex 000000
-  static const Color kingstontechnology = Color(0x000000);
+  static const Color kingstontechnology = Color(0xff000000);
 
   /// SimpleIcons kinopoisk [Color] from Hex ff6600
-  static const Color kinopoisk = Color(0xff6600);
+  static const Color kinopoisk = Color(0xffff6600);
 
   /// SimpleIcons kinsta [Color] from Hex 5333ed
-  static const Color kinsta = Color(0x5333ed);
+  static const Color kinsta = Color(0xff5333ed);
 
   /// SimpleIcons kirby [Color] from Hex 000000
-  static const Color kirby = Color(0x000000);
+  static const Color kirby = Color(0xff000000);
 
   /// SimpleIcons kit [Color] from Hex 000000
-  static const Color kit = Color(0x000000);
+  static const Color kit = Color(0xff000000);
 
   /// SimpleIcons kitsu [Color] from Hex fd755c
-  static const Color kitsu = Color(0xfd755c);
+  static const Color kitsu = Color(0xfffd755c);
 
   /// SimpleIcons klarna [Color] from Hex ffb3c7
-  static const Color klarna = Color(0xffb3c7);
+  static const Color klarna = Color(0xffffb3c7);
 
   /// SimpleIcons klm [Color] from Hex 00a1de
-  static const Color klm = Color(0x00a1de);
+  static const Color klm = Color(0xff00a1de);
 
   /// SimpleIcons klook [Color] from Hex ff5722
-  static const Color klook = Color(0xff5722);
+  static const Color klook = Color(0xffff5722);
 
   /// SimpleIcons knative [Color] from Hex 0865ad
-  static const Color knative = Color(0x0865ad);
+  static const Color knative = Color(0xff0865ad);
 
   /// SimpleIcons knowledgebase [Color] from Hex 9146ff
-  static const Color knowledgebase = Color(0x9146ff);
+  static const Color knowledgebase = Color(0xff9146ff);
 
   /// SimpleIcons known [Color] from Hex 333333
-  static const Color known = Color(0x333333);
+  static const Color known = Color(0xff333333);
 
   /// SimpleIcons kofi [Color] from Hex ff5e5b
-  static const Color kofi = Color(0xff5e5b);
+  static const Color kofi = Color(0xffff5e5b);
 
   /// SimpleIcons koa [Color] from Hex 33333d
-  static const Color koa = Color(0x33333d);
+  static const Color koa = Color(0xff33333d);
 
   /// SimpleIcons koc [Color] from Hex f9423a
-  static const Color koc = Color(0xf9423a);
+  static const Color koc = Color(0xfff9423a);
 
   /// SimpleIcons kodak [Color] from Hex ed0000
-  static const Color kodak = Color(0xed0000);
+  static const Color kodak = Color(0xffed0000);
 
   /// SimpleIcons kodi [Color] from Hex 17b2e7
-  static const Color kodi = Color(0x17b2e7);
+  static const Color kodi = Color(0xff17b2e7);
 
   /// SimpleIcons kofax [Color] from Hex 00558c
-  static const Color kofax = Color(0x00558c);
+  static const Color kofax = Color(0xff00558c);
 
   /// SimpleIcons komoot [Color] from Hex 6aa127
-  static const Color komoot = Color(0x6aa127);
+  static const Color komoot = Color(0xff6aa127);
 
   /// SimpleIcons konami [Color] from Hex b60014
-  static const Color konami = Color(0xb60014);
+  static const Color konami = Color(0xffb60014);
 
   /// SimpleIcons kong [Color] from Hex 003459
-  static const Color kong = Color(0x003459);
+  static const Color kong = Color(0xff003459);
 
   /// SimpleIcons kongregate [Color] from Hex 990000
-  static const Color kongregate = Color(0x990000);
+  static const Color kongregate = Color(0xff990000);
 
   /// SimpleIcons konva [Color] from Hex 0d83cd
-  static const Color konva = Color(0x0d83cd);
+  static const Color konva = Color(0xff0d83cd);
 
   /// SimpleIcons kotlin [Color] from Hex 7f52ff
-  static const Color kotlin = Color(0x7f52ff);
+  static const Color kotlin = Color(0xff7f52ff);
 
   /// SimpleIcons koyeb [Color] from Hex 121212
-  static const Color koyeb = Color(0x121212);
+  static const Color koyeb = Color(0xff121212);
 
   /// SimpleIcons krita [Color] from Hex 3babff
-  static const Color krita = Color(0x3babff);
+  static const Color krita = Color(0xff3babff);
 
   /// SimpleIcons ktm [Color] from Hex ff6600
-  static const Color ktm = Color(0xff6600);
+  static const Color ktm = Color(0xffff6600);
 
   /// SimpleIcons kuaishou [Color] from Hex ff4906
-  static const Color kuaishou = Color(0xff4906);
+  static const Color kuaishou = Color(0xffff4906);
 
   /// SimpleIcons kubernetes [Color] from Hex 326ce5
-  static const Color kubernetes = Color(0x326ce5);
+  static const Color kubernetes = Color(0xff326ce5);
 
   /// SimpleIcons kubuntu [Color] from Hex 0079c1
-  static const Color kubuntu = Color(0x0079c1);
+  static const Color kubuntu = Color(0xff0079c1);
 
   /// SimpleIcons kuma [Color] from Hex 290b53
-  static const Color kuma = Color(0x290b53);
+  static const Color kuma = Color(0xff290b53);
 
   /// SimpleIcons kuula [Color] from Hex 4092b4
-  static const Color kuula = Color(0x4092b4);
+  static const Color kuula = Color(0xff4092b4);
 
   /// SimpleIcons kyocera [Color] from Hex df0522
-  static const Color kyocera = Color(0xdf0522);
+  static const Color kyocera = Color(0xffdf0522);
 
   /// SimpleIcons lequipe [Color] from Hex e42829
-  static const Color lequipe = Color(0xe42829);
+  static const Color lequipe = Color(0xffe42829);
 
   /// SimpleIcons labview [Color] from Hex ffdb00
-  static const Color labview = Color(0xffdb00);
+  static const Color labview = Color(0xffffdb00);
 
   /// SimpleIcons lada [Color] from Hex ed6b21
-  static const Color lada = Color(0xed6b21);
+  static const Color lada = Color(0xffed6b21);
 
   /// SimpleIcons lamborghini [Color] from Hex ddb320
-  static const Color lamborghini = Color(0xddb320);
+  static const Color lamborghini = Color(0xffddb320);
 
   /// SimpleIcons landrover [Color] from Hex 005a2b
-  static const Color landrover = Color(0x005a2b);
+  static const Color landrover = Color(0xff005a2b);
 
   /// SimpleIcons lapce [Color] from Hex 3b82f6
-  static const Color lapce = Color(0x3b82f6);
+  static const Color lapce = Color(0xff3b82f6);
 
   /// SimpleIcons laragon [Color] from Hex 0e83cd
-  static const Color laragon = Color(0x0e83cd);
+  static const Color laragon = Color(0xff0e83cd);
 
   /// SimpleIcons laravel [Color] from Hex ff2d20
-  static const Color laravel = Color(0xff2d20);
+  static const Color laravel = Color(0xffff2d20);
 
   /// SimpleIcons laravelhorizon [Color] from Hex 405263
-  static const Color laravelhorizon = Color(0x405263);
+  static const Color laravelhorizon = Color(0xff405263);
 
   /// SimpleIcons laravelnova [Color] from Hex 252d37
-  static const Color laravelnova = Color(0x252d37);
+  static const Color laravelnova = Color(0xff252d37);
 
   /// SimpleIcons lastdotfm [Color] from Hex d51007
-  static const Color lastdotfm = Color(0xd51007);
+  static const Color lastdotfm = Color(0xffd51007);
 
   /// SimpleIcons lastpass [Color] from Hex d32d27
-  static const Color lastpass = Color(0xd32d27);
+  static const Color lastpass = Color(0xffd32d27);
 
   /// SimpleIcons latex [Color] from Hex 008080
-  static const Color latex = Color(0x008080);
+  static const Color latex = Color(0xff008080);
 
   /// SimpleIcons launchpad [Color] from Hex f8c300
-  static const Color launchpad = Color(0xf8c300);
+  static const Color launchpad = Color(0xfff8c300);
 
   /// SimpleIcons lazarus [Color] from Hex 000000
-  static const Color lazarus = Color(0x000000);
+  static const Color lazarus = Color(0xff000000);
 
   /// SimpleIcons lbry [Color] from Hex 2f9176
-  static const Color lbry = Color(0x2f9176);
+  static const Color lbry = Color(0xff2f9176);
 
   /// SimpleIcons leaderprice [Color] from Hex e50005
-  static const Color leaderprice = Color(0xe50005);
+  static const Color leaderprice = Color(0xffe50005);
 
   /// SimpleIcons leaflet [Color] from Hex 199900
-  static const Color leaflet = Color(0x199900);
+  static const Color leaflet = Color(0xff199900);
 
   /// SimpleIcons leagueoflegends [Color] from Hex c28f2c
-  static const Color leagueoflegends = Color(0xc28f2c);
+  static const Color leagueoflegends = Color(0xffc28f2c);
 
   /// SimpleIcons leanpub [Color] from Hex 222222
-  static const Color leanpub = Color(0x222222);
+  static const Color leanpub = Color(0xff222222);
 
   /// SimpleIcons leetcode [Color] from Hex ffa116
-  static const Color leetcode = Color(0xffa116);
+  static const Color leetcode = Color(0xffffa116);
 
   /// SimpleIcons legacygames [Color] from Hex 144b9e
-  static const Color legacygames = Color(0x144b9e);
+  static const Color legacygames = Color(0xff144b9e);
 
   /// SimpleIcons leica [Color] from Hex e20612
-  static const Color leica = Color(0xe20612);
+  static const Color leica = Color(0xffe20612);
 
   /// SimpleIcons lemmy [Color] from Hex 14854f
-  static const Color lemmy = Color(0x14854f);
+  static const Color lemmy = Color(0xff14854f);
 
   /// SimpleIcons lenovo [Color] from Hex e2231a
-  static const Color lenovo = Color(0xe2231a);
+  static const Color lenovo = Color(0xffe2231a);
 
   /// SimpleIcons lens [Color] from Hex 3d90ce
-  static const Color lens = Color(0x3d90ce);
+  static const Color lens = Color(0xff3d90ce);
 
   /// SimpleIcons leptos [Color] from Hex ef3939
-  static const Color leptos = Color(0xef3939);
+  static const Color leptos = Color(0xffef3939);
 
   /// SimpleIcons lerna [Color] from Hex 9333ea
-  static const Color lerna = Color(0x9333ea);
+  static const Color lerna = Color(0xff9333ea);
 
   /// SimpleIcons leroymerlin [Color] from Hex 78be20
-  static const Color leroymerlin = Color(0x78be20);
+  static const Color leroymerlin = Color(0xff78be20);
 
   /// SimpleIcons less [Color] from Hex 1d365d
-  static const Color less = Color(0x1d365d);
+  static const Color less = Color(0xff1d365d);
 
   /// SimpleIcons letsencrypt [Color] from Hex 003a70
-  static const Color letsencrypt = Color(0x003a70);
+  static const Color letsencrypt = Color(0xff003a70);
 
   /// SimpleIcons letterboxd [Color] from Hex 202830
-  static const Color letterboxd = Color(0x202830);
+  static const Color letterboxd = Color(0xff202830);
 
   /// SimpleIcons levelsdotfyi [Color] from Hex 788b95
-  static const Color levelsdotfyi = Color(0x788b95);
+  static const Color levelsdotfyi = Color(0xff788b95);
 
   /// SimpleIcons lg [Color] from Hex a50034
-  static const Color lg = Color(0xa50034);
+  static const Color lg = Color(0xffa50034);
 
   /// SimpleIcons liberadotchat [Color] from Hex ff55dd
-  static const Color liberadotchat = Color(0xff55dd);
+  static const Color liberadotchat = Color(0xffff55dd);
 
   /// SimpleIcons liberapay [Color] from Hex f6c915
-  static const Color liberapay = Color(0xf6c915);
+  static const Color liberapay = Color(0xfff6c915);
 
   /// SimpleIcons librariesdotio [Color] from Hex 337ab7
-  static const Color librariesdotio = Color(0x337ab7);
+  static const Color librariesdotio = Color(0xff337ab7);
 
   /// SimpleIcons librarything [Color] from Hex 251a15
-  static const Color librarything = Color(0x251a15);
+  static const Color librarything = Color(0xff251a15);
 
   /// SimpleIcons libreoffice [Color] from Hex 18a303
-  static const Color libreoffice = Color(0x18a303);
+  static const Color libreoffice = Color(0xff18a303);
 
   /// SimpleIcons libreofficebase [Color] from Hex b63ad3
-  static const Color libreofficebase = Color(0xb63ad3);
+  static const Color libreofficebase = Color(0xffb63ad3);
 
   /// SimpleIcons libreofficedraw [Color] from Hex cb6d30
-  static const Color libreofficedraw = Color(0xcb6d30);
+  static const Color libreofficedraw = Color(0xffcb6d30);
 
   /// SimpleIcons libreofficeimpress [Color] from Hex d0120d
-  static const Color libreofficeimpress = Color(0xd0120d);
+  static const Color libreofficeimpress = Color(0xffd0120d);
 
   /// SimpleIcons libreofficemath [Color] from Hex c10018
-  static const Color libreofficemath = Color(0xc10018);
+  static const Color libreofficemath = Color(0xffc10018);
 
   /// SimpleIcons libreofficewriter [Color] from Hex 083fa6
-  static const Color libreofficewriter = Color(0x083fa6);
+  static const Color libreofficewriter = Color(0xff083fa6);
 
   /// SimpleIcons libuv [Color] from Hex 403c3d
-  static const Color libuv = Color(0x403c3d);
+  static const Color libuv = Color(0xff403c3d);
 
   /// SimpleIcons lichess [Color] from Hex 000000
-  static const Color lichess = Color(0x000000);
+  static const Color lichess = Color(0xff000000);
 
   /// SimpleIcons lidl [Color] from Hex 0050aa
-  static const Color lidl = Color(0x0050aa);
+  static const Color lidl = Color(0xff0050aa);
 
   /// SimpleIcons lifx [Color] from Hex 000000
-  static const Color lifx = Color(0x000000);
+  static const Color lifx = Color(0xff000000);
 
   /// SimpleIcons lightburn [Color] from Hex 57182d
-  static const Color lightburn = Color(0x57182d);
+  static const Color lightburn = Color(0xff57182d);
 
   /// SimpleIcons lighthouse [Color] from Hex f44b21
-  static const Color lighthouse = Color(0xf44b21);
+  static const Color lighthouse = Color(0xfff44b21);
 
   /// SimpleIcons lightning [Color] from Hex 792ee5
-  static const Color lightning = Color(0x792ee5);
+  static const Color lightning = Color(0xff792ee5);
 
   /// SimpleIcons line [Color] from Hex 00c300
-  static const Color line = Color(0x00c300);
+  static const Color line = Color(0xff00c300);
 
   /// SimpleIcons lineageos [Color] from Hex 167c80
-  static const Color lineageos = Color(0x167c80);
+  static const Color lineageos = Color(0xff167c80);
 
   /// SimpleIcons linear [Color] from Hex 5e6ad2
-  static const Color linear = Color(0x5e6ad2);
+  static const Color linear = Color(0xff5e6ad2);
 
   /// SimpleIcons linkedin [Color] from Hex 0a66c2
-  static const Color linkedin = Color(0x0a66c2);
+  static const Color linkedin = Color(0xff0a66c2);
 
   /// SimpleIcons linkerd [Color] from Hex 2beda7
-  static const Color linkerd = Color(0x2beda7);
+  static const Color linkerd = Color(0xff2beda7);
 
   /// SimpleIcons linkfire [Color] from Hex ff3850
-  static const Color linkfire = Color(0xff3850);
+  static const Color linkfire = Color(0xffff3850);
 
   /// SimpleIcons linktree [Color] from Hex 43e55e
-  static const Color linktree = Color(0x43e55e);
+  static const Color linktree = Color(0xff43e55e);
 
   /// SimpleIcons linux [Color] from Hex fcc624
-  static const Color linux = Color(0xfcc624);
+  static const Color linux = Color(0xfffcc624);
 
   /// SimpleIcons linuxcontainers [Color] from Hex 333333
-  static const Color linuxcontainers = Color(0x333333);
+  static const Color linuxcontainers = Color(0xff333333);
 
   /// SimpleIcons linuxfoundation [Color] from Hex 003366
-  static const Color linuxfoundation = Color(0x003366);
+  static const Color linuxfoundation = Color(0xff003366);
 
   /// SimpleIcons linuxmint [Color] from Hex 87cf3e
-  static const Color linuxmint = Color(0x87cf3e);
+  static const Color linuxmint = Color(0xff87cf3e);
 
   /// SimpleIcons linuxprofessionalinstitute [Color] from Hex fdc300
-  static const Color linuxprofessionalinstitute = Color(0xfdc300);
+  static const Color linuxprofessionalinstitute = Color(0xfffdc300);
 
   /// SimpleIcons lionair [Color] from Hex ed3237
-  static const Color lionair = Color(0xed3237);
+  static const Color lionair = Color(0xffed3237);
 
   /// SimpleIcons liquibase [Color] from Hex 2962ff
-  static const Color liquibase = Color(0x2962ff);
+  static const Color liquibase = Color(0xff2962ff);
 
   /// SimpleIcons lit [Color] from Hex 324fff
-  static const Color lit = Color(0x324fff);
+  static const Color lit = Color(0xff324fff);
 
   /// SimpleIcons litecoin [Color] from Hex a6a9aa
-  static const Color litecoin = Color(0xa6a9aa);
+  static const Color litecoin = Color(0xffa6a9aa);
 
   /// SimpleIcons litiengine [Color] from Hex 00a5bc
-  static const Color litiengine = Color(0x00a5bc);
+  static const Color litiengine = Color(0xff00a5bc);
 
   /// SimpleIcons livechat [Color] from Hex ff5100
-  static const Color livechat = Color(0xff5100);
+  static const Color livechat = Color(0xffff5100);
 
   /// SimpleIcons livejournal [Color] from Hex 00b0ea
-  static const Color livejournal = Color(0x00b0ea);
+  static const Color livejournal = Color(0xff00b0ea);
 
   /// SimpleIcons livewire [Color] from Hex 4e56a6
-  static const Color livewire = Color(0x4e56a6);
+  static const Color livewire = Color(0xff4e56a6);
 
   /// SimpleIcons llvm [Color] from Hex 262d3a
-  static const Color llvm = Color(0x262d3a);
+  static const Color llvm = Color(0xff262d3a);
 
   /// SimpleIcons lmms [Color] from Hex 10b146
-  static const Color lmms = Color(0x10b146);
+  static const Color lmms = Color(0xff10b146);
 
   /// SimpleIcons local [Color] from Hex 51bb7b
-  static const Color local = Color(0x51bb7b);
+  static const Color local = Color(0xff51bb7b);
 
   /// SimpleIcons lodash [Color] from Hex 3492ff
-  static const Color lodash = Color(0x3492ff);
+  static const Color lodash = Color(0xff3492ff);
 
   /// SimpleIcons logitech [Color] from Hex 00b8fc
-  static const Color logitech = Color(0x00b8fc);
+  static const Color logitech = Color(0xff00b8fc);
 
   /// SimpleIcons logmein [Color] from Hex 45b6f2
-  static const Color logmein = Color(0x45b6f2);
+  static const Color logmein = Color(0xff45b6f2);
 
   /// SimpleIcons logseq [Color] from Hex 85c8c8
-  static const Color logseq = Color(0x85c8c8);
+  static const Color logseq = Color(0xff85c8c8);
 
   /// SimpleIcons logstash [Color] from Hex 005571
-  static const Color logstash = Color(0x005571);
+  static const Color logstash = Color(0xff005571);
 
   /// SimpleIcons looker [Color] from Hex 4285f4
-  static const Color looker = Color(0x4285f4);
+  static const Color looker = Color(0xff4285f4);
 
   /// SimpleIcons loom [Color] from Hex 625df5
-  static const Color loom = Color(0x625df5);
+  static const Color loom = Color(0xff625df5);
 
   /// SimpleIcons loop [Color] from Hex f29400
-  static const Color loop = Color(0xf29400);
+  static const Color loop = Color(0xfff29400);
 
   /// SimpleIcons loopback [Color] from Hex 3f5dff
-  static const Color loopback = Color(0x3f5dff);
+  static const Color loopback = Color(0xff3f5dff);
 
   /// SimpleIcons lootcrate [Color] from Hex 1e1e1e
-  static const Color lootcrate = Color(0x1e1e1e);
+  static const Color lootcrate = Color(0xff1e1e1e);
 
   /// SimpleIcons lospec [Color] from Hex eaeaea
-  static const Color lospec = Color(0xeaeaea);
+  static const Color lospec = Color(0xffeaeaea);
 
   /// SimpleIcons lotpolishairlines [Color] from Hex 11397e
-  static const Color lotpolishairlines = Color(0x11397e);
+  static const Color lotpolishairlines = Color(0xff11397e);
 
   /// SimpleIcons ltspice [Color] from Hex 900028
-  static const Color ltspice = Color(0x900028);
+  static const Color ltspice = Color(0xff900028);
 
   /// SimpleIcons lua [Color] from Hex 2c2d72
-  static const Color lua = Color(0x2c2d72);
+  static const Color lua = Color(0xff2c2d72);
 
   /// SimpleIcons lubuntu [Color] from Hex 0068c8
-  static const Color lubuntu = Color(0x0068c8);
+  static const Color lubuntu = Color(0xff0068c8);
 
   /// SimpleIcons ludwig [Color] from Hex 000000
-  static const Color ludwig = Color(0x000000);
+  static const Color ludwig = Color(0xff000000);
 
   /// SimpleIcons lufthansa [Color] from Hex 05164d
-  static const Color lufthansa = Color(0x05164d);
+  static const Color lufthansa = Color(0xff05164d);
 
   /// SimpleIcons lumen [Color] from Hex e74430
-  static const Color lumen = Color(0xe74430);
+  static const Color lumen = Color(0xffe74430);
 
   /// SimpleIcons lunacy [Color] from Hex 179de3
-  static const Color lunacy = Color(0x179de3);
+  static const Color lunacy = Color(0xff179de3);
 
   /// SimpleIcons lutris [Color] from Hex ff9900
-  static const Color lutris = Color(0xff9900);
+  static const Color lutris = Color(0xffff9900);
 
   /// SimpleIcons lydia [Color] from Hex 0180ff
-  static const Color lydia = Color(0x0180ff);
+  static const Color lydia = Color(0xff0180ff);
 
   /// SimpleIcons lyft [Color] from Hex ff00bf
-  static const Color lyft = Color(0xff00bf);
+  static const Color lyft = Color(0xffff00bf);
 
   /// SimpleIcons maas [Color] from Hex e95420
-  static const Color maas = Color(0xe95420);
+  static const Color maas = Color(0xffe95420);
 
   /// SimpleIcons macos [Color] from Hex 000000
-  static const Color macos = Color(0x000000);
+  static const Color macos = Color(0xff000000);
 
   /// SimpleIcons macpaw [Color] from Hex 000000
-  static const Color macpaw = Color(0x000000);
+  static const Color macpaw = Color(0xff000000);
 
   /// SimpleIcons macys [Color] from Hex e21a2c
-  static const Color macys = Color(0xe21a2c);
+  static const Color macys = Color(0xffe21a2c);
 
   /// SimpleIcons magasinsu [Color] from Hex e71b34
-  static const Color magasinsu = Color(0xe71b34);
+  static const Color magasinsu = Color(0xffe71b34);
 
   /// SimpleIcons magento [Color] from Hex ee672f
-  static const Color magento = Color(0xee672f);
+  static const Color magento = Color(0xffee672f);
 
   /// SimpleIcons magisk [Color] from Hex 00af9c
-  static const Color magisk = Color(0x00af9c);
+  static const Color magisk = Color(0xff00af9c);
 
   /// SimpleIcons mahindra [Color] from Hex dd052b
-  static const Color mahindra = Color(0xdd052b);
+  static const Color mahindra = Color(0xffdd052b);
 
   /// SimpleIcons maildotcom [Color] from Hex 004788
-  static const Color maildotcom = Color(0x004788);
+  static const Color maildotcom = Color(0xff004788);
 
   /// SimpleIcons maildotru [Color] from Hex 005ff9
-  static const Color maildotru = Color(0x005ff9);
+  static const Color maildotru = Color(0xff005ff9);
 
   /// SimpleIcons mailchimp [Color] from Hex ffe01b
-  static const Color mailchimp = Color(0xffe01b);
+  static const Color mailchimp = Color(0xffffe01b);
 
   /// SimpleIcons mailgun [Color] from Hex f06b66
-  static const Color mailgun = Color(0xf06b66);
+  static const Color mailgun = Color(0xfff06b66);
 
   /// SimpleIcons mailtrap [Color] from Hex 22d172
-  static const Color mailtrap = Color(0x22d172);
+  static const Color mailtrap = Color(0xff22d172);
 
   /// SimpleIcons majorleaguehacking [Color] from Hex 265a8f
-  static const Color majorleaguehacking = Color(0x265a8f);
+  static const Color majorleaguehacking = Color(0xff265a8f);
 
   /// SimpleIcons makerbot [Color] from Hex ff1e0d
-  static const Color makerbot = Color(0xff1e0d);
+  static const Color makerbot = Color(0xffff1e0d);
 
   /// SimpleIcons mambaui [Color] from Hex 6d28d9
-  static const Color mambaui = Color(0x6d28d9);
+  static const Color mambaui = Color(0xff6d28d9);
 
   /// SimpleIcons mamp [Color] from Hex 02749c
-  static const Color mamp = Color(0x02749c);
+  static const Color mamp = Color(0xff02749c);
 
   /// SimpleIcons man [Color] from Hex e40045
-  static const Color man = Color(0xe40045);
+  static const Color man = Color(0xffe40045);
 
   /// SimpleIcons manageiq [Color] from Hex ef2929
-  static const Color manageiq = Color(0xef2929);
+  static const Color manageiq = Color(0xffef2929);
 
   /// SimpleIcons manjaro [Color] from Hex 35bf5c
-  static const Color manjaro = Color(0x35bf5c);
+  static const Color manjaro = Color(0xff35bf5c);
 
   /// SimpleIcons mantine [Color] from Hex 339af0
-  static const Color mantine = Color(0x339af0);
+  static const Color mantine = Color(0xff339af0);
 
   /// SimpleIcons mapbox [Color] from Hex 000000
-  static const Color mapbox = Color(0x000000);
+  static const Color mapbox = Color(0xff000000);
 
   /// SimpleIcons maplibre [Color] from Hex 396cb2
-  static const Color maplibre = Color(0x396cb2);
+  static const Color maplibre = Color(0xff396cb2);
 
   /// SimpleIcons mariadb [Color] from Hex 003545
-  static const Color mariadb = Color(0x003545);
+  static const Color mariadb = Color(0xff003545);
 
   /// SimpleIcons mariadbfoundation [Color] from Hex 1f305f
-  static const Color mariadbfoundation = Color(0x1f305f);
+  static const Color mariadbfoundation = Color(0xff1f305f);
 
   /// SimpleIcons markdown [Color] from Hex 000000
-  static const Color markdown = Color(0x000000);
+  static const Color markdown = Color(0xff000000);
 
   /// SimpleIcons marketo [Color] from Hex 5c4c9f
-  static const Color marketo = Color(0x5c4c9f);
+  static const Color marketo = Color(0xff5c4c9f);
 
   /// SimpleIcons marko [Color] from Hex 2596be
-  static const Color marko = Color(0x2596be);
+  static const Color marko = Color(0xff2596be);
 
   /// SimpleIcons marriott [Color] from Hex a70023
-  static const Color marriott = Color(0xa70023);
+  static const Color marriott = Color(0xffa70023);
 
   /// SimpleIcons marvelapp [Color] from Hex 1fb6ff
-  static const Color marvelapp = Color(0x1fb6ff);
+  static const Color marvelapp = Color(0xff1fb6ff);
 
   /// SimpleIcons maserati [Color] from Hex 0c2340
-  static const Color maserati = Color(0x0c2340);
+  static const Color maserati = Color(0xff0c2340);
 
   /// SimpleIcons mastercard [Color] from Hex eb001b
-  static const Color mastercard = Color(0xeb001b);
+  static const Color mastercard = Color(0xffeb001b);
 
   /// SimpleIcons mastercomfig [Color] from Hex 009688
-  static const Color mastercomfig = Color(0x009688);
+  static const Color mastercomfig = Color(0xff009688);
 
   /// SimpleIcons mastodon [Color] from Hex 6364ff
-  static const Color mastodon = Color(0x6364ff);
+  static const Color mastodon = Color(0xff6364ff);
 
   /// SimpleIcons materialdesign [Color] from Hex 757575
-  static const Color materialdesign = Color(0x757575);
+  static const Color materialdesign = Color(0xff757575);
 
   /// SimpleIcons materialdesignicons [Color] from Hex 2196f3
-  static const Color materialdesignicons = Color(0x2196f3);
+  static const Color materialdesignicons = Color(0xff2196f3);
 
   /// SimpleIcons materialformkdocs [Color] from Hex 526cfe
-  static const Color materialformkdocs = Color(0x526cfe);
+  static const Color materialformkdocs = Color(0xff526cfe);
 
   /// SimpleIcons matillion [Color] from Hex 19e57f
-  static const Color matillion = Color(0x19e57f);
+  static const Color matillion = Color(0xff19e57f);
 
   /// SimpleIcons matomo [Color] from Hex 3152a0
-  static const Color matomo = Color(0x3152a0);
+  static const Color matomo = Color(0xff3152a0);
 
   /// SimpleIcons matrix [Color] from Hex 000000
-  static const Color matrix = Color(0x000000);
+  static const Color matrix = Color(0xff000000);
 
   /// SimpleIcons matterdotjs [Color] from Hex 4b5562
-  static const Color matterdotjs = Color(0x4b5562);
+  static const Color matterdotjs = Color(0xff4b5562);
 
   /// SimpleIcons mattermost [Color] from Hex 0058cc
-  static const Color mattermost = Color(0x0058cc);
+  static const Color mattermost = Color(0xff0058cc);
 
   /// SimpleIcons matternet [Color] from Hex 261c29
-  static const Color matternet = Color(0x261c29);
+  static const Color matternet = Color(0xff261c29);
 
   /// SimpleIcons mautic [Color] from Hex 4e5e9e
-  static const Color mautic = Color(0x4e5e9e);
+  static const Color mautic = Color(0xff4e5e9e);
 
   /// SimpleIcons max [Color] from Hex 525252
-  static const Color max = Color(0x525252);
+  static const Color max = Color(0xff525252);
 
   /// SimpleIcons maxplanckgesellschaft [Color] from Hex 006c66
-  static const Color maxplanckgesellschaft = Color(0x006c66);
+  static const Color maxplanckgesellschaft = Color(0xff006c66);
 
   /// SimpleIcons maytag [Color] from Hex 002e5f
-  static const Color maytag = Color(0x002e5f);
+  static const Color maytag = Color(0xff002e5f);
 
   /// SimpleIcons mazda [Color] from Hex 101010
-  static const Color mazda = Color(0x101010);
+  static const Color mazda = Color(0xff101010);
 
   /// SimpleIcons mcafee [Color] from Hex c01818
-  static const Color mcafee = Color(0xc01818);
+  static const Color mcafee = Color(0xffc01818);
 
   /// SimpleIcons mcdonalds [Color] from Hex fbc817
-  static const Color mcdonalds = Color(0xfbc817);
+  static const Color mcdonalds = Color(0xfffbc817);
 
   /// SimpleIcons mclaren [Color] from Hex ff0000
-  static const Color mclaren = Color(0xff0000);
+  static const Color mclaren = Color(0xffff0000);
 
   /// SimpleIcons mdbook [Color] from Hex 000000
-  static const Color mdbook = Color(0x000000);
+  static const Color mdbook = Color(0xff000000);
 
   /// SimpleIcons mdnwebdocs [Color] from Hex 000000
-  static const Color mdnwebdocs = Color(0x000000);
+  static const Color mdnwebdocs = Color(0xff000000);
 
   /// SimpleIcons mdx [Color] from Hex 1b1f24
-  static const Color mdx = Color(0x1b1f24);
+  static const Color mdx = Color(0xff1b1f24);
 
   /// SimpleIcons mediafire [Color] from Hex 1299f3
-  static const Color mediafire = Color(0x1299f3);
+  static const Color mediafire = Color(0xff1299f3);
 
   /// SimpleIcons mediamarkt [Color] from Hex df0000
-  static const Color mediamarkt = Color(0xdf0000);
+  static const Color mediamarkt = Color(0xffdf0000);
 
   /// SimpleIcons mediatek [Color] from Hex ec9430
-  static const Color mediatek = Color(0xec9430);
+  static const Color mediatek = Color(0xffec9430);
 
   /// SimpleIcons medibangpaint [Color] from Hex 00dbde
-  static const Color medibangpaint = Color(0x00dbde);
+  static const Color medibangpaint = Color(0xff00dbde);
 
   /// SimpleIcons medium [Color] from Hex 000000
-  static const Color medium = Color(0x000000);
+  static const Color medium = Color(0xff000000);
 
   /// SimpleIcons medusa [Color] from Hex 000000
-  static const Color medusa = Color(0x000000);
+  static const Color medusa = Color(0xff000000);
 
   /// SimpleIcons meetup [Color] from Hex ed1c40
-  static const Color meetup = Color(0xed1c40);
+  static const Color meetup = Color(0xffed1c40);
 
   /// SimpleIcons mega [Color] from Hex d9272e
-  static const Color mega = Color(0xd9272e);
+  static const Color mega = Color(0xffd9272e);
 
   /// SimpleIcons meilisearch [Color] from Hex ff5caa
-  static const Color meilisearch = Color(0xff5caa);
+  static const Color meilisearch = Color(0xffff5caa);
 
   /// SimpleIcons mendeley [Color] from Hex 9d1620
-  static const Color mendeley = Color(0x9d1620);
+  static const Color mendeley = Color(0xff9d1620);
 
   /// SimpleIcons mentorcruise [Color] from Hex 172e59
-  static const Color mentorcruise = Color(0x172e59);
+  static const Color mentorcruise = Color(0xff172e59);
 
   /// SimpleIcons mercadopago [Color] from Hex 00b1ea
-  static const Color mercadopago = Color(0x00b1ea);
+  static const Color mercadopago = Color(0xff00b1ea);
 
   /// SimpleIcons mercedes [Color] from Hex 242424
-  static const Color mercedes = Color(0x242424);
+  static const Color mercedes = Color(0xff242424);
 
   /// SimpleIcons merck [Color] from Hex 007a73
-  static const Color merck = Color(0x007a73);
+  static const Color merck = Color(0xff007a73);
 
   /// SimpleIcons mercurial [Color] from Hex 999999
-  static const Color mercurial = Color(0x999999);
+  static const Color mercurial = Color(0xff999999);
 
   /// SimpleIcons mermaid [Color] from Hex ff3670
-  static const Color mermaid = Color(0xff3670);
+  static const Color mermaid = Color(0xffff3670);
 
   /// SimpleIcons messenger [Color] from Hex 00b2ff
-  static const Color messenger = Color(0x00b2ff);
+  static const Color messenger = Color(0xff00b2ff);
 
   /// SimpleIcons meta [Color] from Hex 0467df
-  static const Color meta = Color(0x0467df);
+  static const Color meta = Color(0xff0467df);
 
   /// SimpleIcons metabase [Color] from Hex 509ee3
-  static const Color metabase = Color(0x509ee3);
+  static const Color metabase = Color(0xff509ee3);
 
   /// SimpleIcons metafilter [Color] from Hex 065a8f
-  static const Color metafilter = Color(0x065a8f);
+  static const Color metafilter = Color(0xff065a8f);
 
   /// SimpleIcons meteor [Color] from Hex de4f4f
-  static const Color meteor = Color(0xde4f4f);
+  static const Color meteor = Color(0xffde4f4f);
 
   /// SimpleIcons metro [Color] from Hex ef4242
-  static const Color metro = Color(0xef4242);
+  static const Color metro = Color(0xffef4242);
 
   /// SimpleIcons metrodelaciudaddemexico [Color] from Hex f77e1c
-  static const Color metrodelaciudaddemexico = Color(0xf77e1c);
+  static const Color metrodelaciudaddemexico = Color(0xfff77e1c);
 
   /// SimpleIcons metrodemadrid [Color] from Hex 255e9c
-  static const Color metrodemadrid = Color(0x255e9c);
+  static const Color metrodemadrid = Color(0xff255e9c);
 
   /// SimpleIcons metrodeparis [Color] from Hex 003e95
-  static const Color metrodeparis = Color(0x003e95);
+  static const Color metrodeparis = Color(0xff003e95);
 
   /// SimpleIcons mewe [Color] from Hex 17377f
-  static const Color mewe = Color(0x17377f);
+  static const Color mewe = Color(0xff17377f);
 
   /// SimpleIcons mg [Color] from Hex ff0000
-  static const Color mg = Color(0xff0000);
+  static const Color mg = Color(0xffff0000);
 
   /// SimpleIcons microeditor [Color] from Hex 2e3192
-  static const Color microeditor = Color(0x2e3192);
+  static const Color microeditor = Color(0xff2e3192);
 
   /// SimpleIcons microbit [Color] from Hex 00ed00
-  static const Color microbit = Color(0x00ed00);
+  static const Color microbit = Color(0xff00ed00);
 
   /// SimpleIcons microdotblog [Color] from Hex ff8800
-  static const Color microdotblog = Color(0xff8800);
+  static const Color microdotblog = Color(0xffff8800);
 
   /// SimpleIcons microgenetics [Color] from Hex ff0000
-  static const Color microgenetics = Color(0xff0000);
+  static const Color microgenetics = Color(0xffff0000);
 
   /// SimpleIcons micropython [Color] from Hex 2b2728
-  static const Color micropython = Color(0x2b2728);
+  static const Color micropython = Color(0xff2b2728);
 
   /// SimpleIcons microsoft [Color] from Hex 5e5e5e
-  static const Color microsoft = Color(0x5e5e5e);
+  static const Color microsoft = Color(0xff5e5e5e);
 
   /// SimpleIcons microsoftacademic [Color] from Hex 2d9fd9
-  static const Color microsoftacademic = Color(0x2d9fd9);
+  static const Color microsoftacademic = Color(0xff2d9fd9);
 
   /// SimpleIcons microsoftaccess [Color] from Hex a4373a
-  static const Color microsoftaccess = Color(0xa4373a);
+  static const Color microsoftaccess = Color(0xffa4373a);
 
   /// SimpleIcons microsoftazure [Color] from Hex 0078d4
-  static const Color microsoftazure = Color(0x0078d4);
+  static const Color microsoftazure = Color(0xff0078d4);
 
   /// SimpleIcons microsoftbing [Color] from Hex 258ffa
-  static const Color microsoftbing = Color(0x258ffa);
+  static const Color microsoftbing = Color(0xff258ffa);
 
   /// SimpleIcons microsoftedge [Color] from Hex 0078d7
-  static const Color microsoftedge = Color(0x0078d7);
+  static const Color microsoftedge = Color(0xff0078d7);
 
   /// SimpleIcons microsoftexcel [Color] from Hex 217346
-  static const Color microsoftexcel = Color(0x217346);
+  static const Color microsoftexcel = Color(0xff217346);
 
   /// SimpleIcons microsoftexchange [Color] from Hex 0078d4
-  static const Color microsoftexchange = Color(0x0078d4);
+  static const Color microsoftexchange = Color(0xff0078d4);
 
   /// SimpleIcons microsoftonedrive [Color] from Hex 0078d4
-  static const Color microsoftonedrive = Color(0x0078d4);
+  static const Color microsoftonedrive = Color(0xff0078d4);
 
   /// SimpleIcons microsoftonenote [Color] from Hex 7719aa
-  static const Color microsoftonenote = Color(0x7719aa);
+  static const Color microsoftonenote = Color(0xff7719aa);
 
   /// SimpleIcons microsoftoutlook [Color] from Hex 0078d4
-  static const Color microsoftoutlook = Color(0x0078d4);
+  static const Color microsoftoutlook = Color(0xff0078d4);
 
   /// SimpleIcons microsoftpowerpoint [Color] from Hex b7472a
-  static const Color microsoftpowerpoint = Color(0xb7472a);
+  static const Color microsoftpowerpoint = Color(0xffb7472a);
 
   /// SimpleIcons microsoftsharepoint [Color] from Hex 0078d4
-  static const Color microsoftsharepoint = Color(0x0078d4);
+  static const Color microsoftsharepoint = Color(0xff0078d4);
 
   /// SimpleIcons microsoftsqlserver [Color] from Hex cc2927
-  static const Color microsoftsqlserver = Color(0xcc2927);
+  static const Color microsoftsqlserver = Color(0xffcc2927);
 
   /// SimpleIcons microsoftstore [Color] from Hex 005fb8
-  static const Color microsoftstore = Color(0x005fb8);
+  static const Color microsoftstore = Color(0xff005fb8);
 
   /// SimpleIcons microsoftteams [Color] from Hex 6264a7
-  static const Color microsoftteams = Color(0x6264a7);
+  static const Color microsoftteams = Color(0xff6264a7);
 
   /// SimpleIcons microsofttranslator [Color] from Hex 057b00
-  static const Color microsofttranslator = Color(0x057b00);
+  static const Color microsofttranslator = Color(0xff057b00);
 
   /// SimpleIcons microsoftvisio [Color] from Hex 3955a3
-  static const Color microsoftvisio = Color(0x3955a3);
+  static const Color microsoftvisio = Color(0xff3955a3);
 
   /// SimpleIcons microsoftword [Color] from Hex 2b579a
-  static const Color microsoftword = Color(0x2b579a);
+  static const Color microsoftword = Color(0xff2b579a);
 
   /// SimpleIcons microstation [Color] from Hex 62bb47
-  static const Color microstation = Color(0x62bb47);
+  static const Color microstation = Color(0xff62bb47);
 
   /// SimpleIcons microstrategy [Color] from Hex d9232e
-  static const Color microstrategy = Color(0xd9232e);
+  static const Color microstrategy = Color(0xffd9232e);
 
   /// SimpleIcons midi [Color] from Hex 000000
-  static const Color midi = Color(0x000000);
+  static const Color midi = Color(0xff000000);
 
   /// SimpleIcons mikrotik [Color] from Hex 293239
-  static const Color mikrotik = Color(0x293239);
+  static const Color mikrotik = Color(0xff293239);
 
   /// SimpleIcons milvus [Color] from Hex 00a1ea
-  static const Color milvus = Color(0x00a1ea);
+  static const Color milvus = Color(0xff00a1ea);
 
   /// SimpleIcons minds [Color] from Hex fed12f
-  static const Color minds = Color(0xfed12f);
+  static const Color minds = Color(0xfffed12f);
 
   /// SimpleIcons minecraft [Color] from Hex 62b47a
-  static const Color minecraft = Color(0x62b47a);
+  static const Color minecraft = Color(0xff62b47a);
 
   /// SimpleIcons minetest [Color] from Hex 53ac56
-  static const Color minetest = Color(0x53ac56);
+  static const Color minetest = Color(0xff53ac56);
 
   /// SimpleIcons mini [Color] from Hex 000000
-  static const Color mini = Color(0x000000);
+  static const Color mini = Color(0xff000000);
 
   /// SimpleIcons minio [Color] from Hex c72e49
-  static const Color minio = Color(0xc72e49);
+  static const Color minio = Color(0xffc72e49);
 
   /// SimpleIcons minutemailer [Color] from Hex 30b980
-  static const Color minutemailer = Color(0x30b980);
+  static const Color minutemailer = Color(0xff30b980);
 
   /// SimpleIcons miraheze [Color] from Hex fffc00
-  static const Color miraheze = Color(0xfffc00);
+  static const Color miraheze = Color(0xfffffc00);
 
   /// SimpleIcons miro [Color] from Hex 050038
-  static const Color miro = Color(0x050038);
+  static const Color miro = Color(0xff050038);
 
   /// SimpleIcons misskey [Color] from Hex a1ca03
-  static const Color misskey = Color(0xa1ca03);
+  static const Color misskey = Color(0xffa1ca03);
 
   /// SimpleIcons mitsubishi [Color] from Hex e60012
-  static const Color mitsubishi = Color(0xe60012);
+  static const Color mitsubishi = Color(0xffe60012);
 
   /// SimpleIcons mix [Color] from Hex ff8126
-  static const Color mix = Color(0xff8126);
+  static const Color mix = Color(0xffff8126);
 
   /// SimpleIcons mixcloud [Color] from Hex 5000ff
-  static const Color mixcloud = Color(0x5000ff);
+  static const Color mixcloud = Color(0xff5000ff);
 
   /// SimpleIcons mixpanel [Color] from Hex 7856ff
-  static const Color mixpanel = Color(0x7856ff);
+  static const Color mixpanel = Color(0xff7856ff);
 
   /// SimpleIcons mlb [Color] from Hex 041e42
-  static const Color mlb = Color(0x041e42);
+  static const Color mlb = Color(0xff041e42);
 
   /// SimpleIcons mlflow [Color] from Hex 0194e2
-  static const Color mlflow = Color(0x0194e2);
+  static const Color mlflow = Color(0xff0194e2);
 
   /// SimpleIcons mobx [Color] from Hex ff9955
-  static const Color mobx = Color(0xff9955);
+  static const Color mobx = Color(0xffff9955);
 
   /// SimpleIcons mobxstatetree [Color] from Hex ff7102
-  static const Color mobxstatetree = Color(0xff7102);
+  static const Color mobxstatetree = Color(0xffff7102);
 
   /// SimpleIcons mocha [Color] from Hex 8d6748
-  static const Color mocha = Color(0x8d6748);
+  static const Color mocha = Color(0xff8d6748);
 
   /// SimpleIcons mockserviceworker [Color] from Hex ff6a33
-  static const Color mockserviceworker = Color(0xff6a33);
+  static const Color mockserviceworker = Color(0xffff6a33);
 
   /// SimpleIcons modin [Color] from Hex 001729
-  static const Color modin = Color(0x001729);
+  static const Color modin = Color(0xff001729);
 
   /// SimpleIcons modrinth [Color] from Hex 00af5c
-  static const Color modrinth = Color(0x00af5c);
+  static const Color modrinth = Color(0xff00af5c);
 
   /// SimpleIcons modx [Color] from Hex 102c53
-  static const Color modx = Color(0x102c53);
+  static const Color modx = Color(0xff102c53);
 
   /// SimpleIcons mojangstudios [Color] from Hex ef323d
-  static const Color mojangstudios = Color(0xef323d);
+  static const Color mojangstudios = Color(0xffef323d);
 
   /// SimpleIcons moleculer [Color] from Hex 3cafce
-  static const Color moleculer = Color(0x3cafce);
+  static const Color moleculer = Color(0xff3cafce);
 
   /// SimpleIcons momenteo [Color] from Hex 5a6ab1
-  static const Color momenteo = Color(0x5a6ab1);
+  static const Color momenteo = Color(0xff5a6ab1);
 
   /// SimpleIcons monero [Color] from Hex ff6600
-  static const Color monero = Color(0xff6600);
+  static const Color monero = Color(0xffff6600);
 
   /// SimpleIcons moneygram [Color] from Hex ff6600
-  static const Color moneygram = Color(0xff6600);
+  static const Color moneygram = Color(0xffff6600);
 
   /// SimpleIcons mongodb [Color] from Hex 47a248
-  static const Color mongodb = Color(0x47a248);
+  static const Color mongodb = Color(0xff47a248);
 
   /// SimpleIcons mongoose [Color] from Hex f04d35
-  static const Color mongoose = Color(0xf04d35);
+  static const Color mongoose = Color(0xfff04d35);
 
   /// SimpleIcons monica [Color] from Hex 2c2b29
-  static const Color monica = Color(0x2c2b29);
+  static const Color monica = Color(0xff2c2b29);
 
   /// SimpleIcons monkeytie [Color] from Hex 1a52c2
-  static const Color monkeytie = Color(0x1a52c2);
+  static const Color monkeytie = Color(0xff1a52c2);
 
   /// SimpleIcons monkeytype [Color] from Hex e2b714
-  static const Color monkeytype = Color(0xe2b714);
+  static const Color monkeytype = Color(0xffe2b714);
 
   /// SimpleIcons monogame [Color] from Hex e73c00
-  static const Color monogame = Color(0xe73c00);
+  static const Color monogame = Color(0xffe73c00);
 
   /// SimpleIcons monoprix [Color] from Hex fb1911
-  static const Color monoprix = Color(0xfb1911);
+  static const Color monoprix = Color(0xfffb1911);
 
   /// SimpleIcons monster [Color] from Hex 6d4c9f
-  static const Color monster = Color(0x6d4c9f);
+  static const Color monster = Color(0xff6d4c9f);
 
   /// SimpleIcons monzo [Color] from Hex 14233c
-  static const Color monzo = Color(0x14233c);
+  static const Color monzo = Color(0xff14233c);
 
   /// SimpleIcons moo [Color] from Hex 00945e
-  static const Color moo = Color(0x00945e);
+  static const Color moo = Color(0xff00945e);
 
   /// SimpleIcons moonrepo [Color] from Hex 6f53f3
-  static const Color moonrepo = Color(0x6f53f3);
+  static const Color moonrepo = Color(0xff6f53f3);
 
   /// SimpleIcons moqups [Color] from Hex 006be5
-  static const Color moqups = Color(0x006be5);
+  static const Color moqups = Color(0xff006be5);
 
   /// SimpleIcons morrisons [Color] from Hex 007531
-  static const Color morrisons = Color(0x007531);
+  static const Color morrisons = Color(0xff007531);
 
   /// SimpleIcons moscowmetro [Color] from Hex d9232e
-  static const Color moscowmetro = Color(0xd9232e);
+  static const Color moscowmetro = Color(0xffd9232e);
 
   /// SimpleIcons motorola [Color] from Hex e1140a
-  static const Color motorola = Color(0xe1140a);
+  static const Color motorola = Color(0xffe1140a);
 
   /// SimpleIcons mozilla [Color] from Hex 000000
-  static const Color mozilla = Color(0x000000);
+  static const Color mozilla = Color(0xff000000);
 
   /// SimpleIcons mpv [Color] from Hex 691f69
-  static const Color mpv = Color(0x691f69);
+  static const Color mpv = Color(0xff691f69);
 
   /// SimpleIcons mqtt [Color] from Hex 660066
-  static const Color mqtt = Color(0x660066);
+  static const Color mqtt = Color(0xff660066);
 
   /// SimpleIcons msi [Color] from Hex ff0000
-  static const Color msi = Color(0xff0000);
+  static const Color msi = Color(0xffff0000);
 
   /// SimpleIcons msibusiness [Color] from Hex 9a8555
-  static const Color msibusiness = Color(0x9a8555);
+  static const Color msibusiness = Color(0xff9a8555);
 
   /// SimpleIcons mta [Color] from Hex 0039a6
-  static const Color mta = Color(0x0039a6);
+  static const Color mta = Color(0xff0039a6);
 
   /// SimpleIcons mtr [Color] from Hex ac2e45
-  static const Color mtr = Color(0xac2e45);
+  static const Color mtr = Color(0xffac2e45);
 
   /// SimpleIcons mubi [Color] from Hex 000000
-  static const Color mubi = Color(0x000000);
+  static const Color mubi = Color(0xff000000);
 
   /// SimpleIcons mui [Color] from Hex 007fff
-  static const Color mui = Color(0x007fff);
+  static const Color mui = Color(0xff007fff);
 
   /// SimpleIcons mulesoft [Color] from Hex 00a0df
-  static const Color mulesoft = Color(0x00a0df);
+  static const Color mulesoft = Color(0xff00a0df);
 
   /// SimpleIcons muller [Color] from Hex f46519
-  static const Color muller = Color(0xf46519);
+  static const Color muller = Color(0xfff46519);
 
   /// SimpleIcons multisim [Color] from Hex 57b685
-  static const Color multisim = Color(0x57b685);
+  static const Color multisim = Color(0xff57b685);
 
   /// SimpleIcons mumble [Color] from Hex 000000
-  static const Color mumble = Color(0x000000);
+  static const Color mumble = Color(0xff000000);
 
   /// SimpleIcons mural [Color] from Hex ff4b4b
-  static const Color mural = Color(0xff4b4b);
+  static const Color mural = Color(0xffff4b4b);
 
   /// SimpleIcons musescore [Color] from Hex 1a70b8
-  static const Color musescore = Color(0x1a70b8);
+  static const Color musescore = Color(0xff1a70b8);
 
   /// SimpleIcons musicbrainz [Color] from Hex ba478f
-  static const Color musicbrainz = Color(0xba478f);
+  static const Color musicbrainz = Color(0xffba478f);
 
   /// SimpleIcons mxlinux [Color] from Hex 000000
-  static const Color mxlinux = Color(0x000000);
+  static const Color mxlinux = Color(0xff000000);
 
   /// SimpleIcons myanimelist [Color] from Hex 2e51a2
-  static const Color myanimelist = Color(0x2e51a2);
+  static const Color myanimelist = Color(0xff2e51a2);
 
   /// SimpleIcons myget [Color] from Hex 0c79ce
-  static const Color myget = Color(0x0c79ce);
+  static const Color myget = Color(0xff0c79ce);
 
   /// SimpleIcons myob [Color] from Hex 6100a5
-  static const Color myob = Color(0x6100a5);
+  static const Color myob = Color(0xff6100a5);
 
   /// SimpleIcons myspace [Color] from Hex 030303
-  static const Color myspace = Color(0x030303);
+  static const Color myspace = Color(0xff030303);
 
   /// SimpleIcons mysql [Color] from Hex 4479a1
-  static const Color mysql = Color(0x4479a1);
+  static const Color mysql = Color(0xff4479a1);
 
   /// SimpleIcons n26 [Color] from Hex 48ac98
-  static const Color n26 = Color(0x48ac98);
+  static const Color n26 = Color(0xff48ac98);
 
   /// SimpleIcons namebase [Color] from Hex 0068ff
-  static const Color namebase = Color(0x0068ff);
+  static const Color namebase = Color(0xff0068ff);
 
   /// SimpleIcons namecheap [Color] from Hex de3723
-  static const Color namecheap = Color(0xde3723);
+  static const Color namecheap = Color(0xffde3723);
 
   /// SimpleIcons nano [Color] from Hex 4a90e2
-  static const Color nano = Color(0x4a90e2);
+  static const Color nano = Color(0xff4a90e2);
 
   /// SimpleIcons nasa [Color] from Hex e03c31
-  static const Color nasa = Color(0xe03c31);
+  static const Color nasa = Color(0xffe03c31);
 
   /// SimpleIcons nationalgrid [Color] from Hex 00148c
-  static const Color nationalgrid = Color(0x00148c);
+  static const Color nationalgrid = Color(0xff00148c);
 
   /// SimpleIcons nativescript [Color] from Hex 65adf1
-  static const Color nativescript = Color(0x65adf1);
+  static const Color nativescript = Color(0xff65adf1);
 
   /// SimpleIcons natsdotio [Color] from Hex 27aae1
-  static const Color natsdotio = Color(0x27aae1);
+  static const Color natsdotio = Color(0xff27aae1);
 
   /// SimpleIcons naver [Color] from Hex 03c75a
-  static const Color naver = Color(0x03c75a);
+  static const Color naver = Color(0xff03c75a);
 
   /// SimpleIcons nba [Color] from Hex 253b73
-  static const Color nba = Color(0x253b73);
+  static const Color nba = Color(0xff253b73);
 
   /// SimpleIcons nbb [Color] from Hex ff7100
-  static const Color nbb = Color(0xff7100);
+  static const Color nbb = Color(0xffff7100);
 
   /// SimpleIcons nbc [Color] from Hex 222222
-  static const Color nbc = Color(0x222222);
+  static const Color nbc = Color(0xff222222);
 
   /// SimpleIcons ndr [Color] from Hex 0c1754
-  static const Color ndr = Color(0x0c1754);
+  static const Color ndr = Color(0xff0c1754);
 
   /// SimpleIcons near [Color] from Hex 000000
-  static const Color near = Color(0x000000);
+  static const Color near = Color(0xff000000);
 
   /// SimpleIcons nec [Color] from Hex 1414a0
-  static const Color nec = Color(0x1414a0);
+  static const Color nec = Color(0xff1414a0);
 
   /// SimpleIcons neo4j [Color] from Hex 4581c3
-  static const Color neo4j = Color(0x4581c3);
+  static const Color neo4j = Color(0xff4581c3);
 
   /// SimpleIcons neovim [Color] from Hex 57a143
-  static const Color neovim = Color(0x57a143);
+  static const Color neovim = Color(0xff57a143);
 
   /// SimpleIcons nestjs [Color] from Hex e0234e
-  static const Color nestjs = Color(0xe0234e);
+  static const Color nestjs = Color(0xffe0234e);
 
   /// SimpleIcons netapp [Color] from Hex 0067c5
-  static const Color netapp = Color(0x0067c5);
+  static const Color netapp = Color(0xff0067c5);
 
   /// SimpleIcons netbsd [Color] from Hex ff6600
-  static const Color netbsd = Color(0xff6600);
+  static const Color netbsd = Color(0xffff6600);
 
   /// SimpleIcons netcup [Color] from Hex 056473
-  static const Color netcup = Color(0x056473);
+  static const Color netcup = Color(0xff056473);
 
   /// SimpleIcons netflix [Color] from Hex e50914
-  static const Color netflix = Color(0xe50914);
+  static const Color netflix = Color(0xffe50914);
 
   /// SimpleIcons netlify [Color] from Hex 00c7b7
-  static const Color netlify = Color(0x00c7b7);
+  static const Color netlify = Color(0xff00c7b7);
 
   /// SimpleIcons nette [Color] from Hex 3484d2
-  static const Color nette = Color(0x3484d2);
+  static const Color nette = Color(0xff3484d2);
 
   /// SimpleIcons netto [Color] from Hex ffe500
-  static const Color netto = Color(0xffe500);
+  static const Color netto = Color(0xffffe500);
 
   /// SimpleIcons neutralinojs [Color] from Hex f89901
-  static const Color neutralinojs = Color(0xf89901);
+  static const Color neutralinojs = Color(0xfff89901);
 
   /// SimpleIcons newbalance [Color] from Hex cf0a2c
-  static const Color newbalance = Color(0xcf0a2c);
+  static const Color newbalance = Color(0xffcf0a2c);
 
   /// SimpleIcons newjapanprowrestling [Color] from Hex ff160b
-  static const Color newjapanprowrestling = Color(0xff160b);
+  static const Color newjapanprowrestling = Color(0xffff160b);
 
   /// SimpleIcons newrelic [Color] from Hex 1ce783
-  static const Color newrelic = Color(0x1ce783);
+  static const Color newrelic = Color(0xff1ce783);
 
   /// SimpleIcons newyorktimes [Color] from Hex 000000
-  static const Color newyorktimes = Color(0x000000);
+  static const Color newyorktimes = Color(0xff000000);
 
   /// SimpleIcons newegg [Color] from Hex e05e00
-  static const Color newegg = Color(0xe05e00);
+  static const Color newegg = Color(0xffe05e00);
 
   /// SimpleIcons nextdotjs [Color] from Hex 000000
-  static const Color nextdotjs = Color(0x000000);
+  static const Color nextdotjs = Color(0xff000000);
 
   /// SimpleIcons nextbilliondotai [Color] from Hex 8d5a9e
-  static const Color nextbilliondotai = Color(0x8d5a9e);
+  static const Color nextbilliondotai = Color(0xff8d5a9e);
 
   /// SimpleIcons nextcloud [Color] from Hex 0082c9
-  static const Color nextcloud = Color(0x0082c9);
+  static const Color nextcloud = Color(0xff0082c9);
 
   /// SimpleIcons nextdoor [Color] from Hex 8ed500
-  static const Color nextdoor = Color(0x8ed500);
+  static const Color nextdoor = Color(0xff8ed500);
 
   /// SimpleIcons nextra [Color] from Hex 000000
-  static const Color nextra = Color(0x000000);
+  static const Color nextra = Color(0xff000000);
 
   /// SimpleIcons nextui [Color] from Hex 000000
-  static const Color nextui = Color(0x000000);
+  static const Color nextui = Color(0xff000000);
 
   /// SimpleIcons nfc [Color] from Hex 002e5f
-  static const Color nfc = Color(0x002e5f);
+  static const Color nfc = Color(0xff002e5f);
 
   /// SimpleIcons nginx [Color] from Hex 009639
-  static const Color nginx = Color(0x009639);
+  static const Color nginx = Color(0xff009639);
 
   /// SimpleIcons nginxproxymanager [Color] from Hex f15833
-  static const Color nginxproxymanager = Color(0xf15833);
+  static const Color nginxproxymanager = Color(0xfff15833);
 
   /// SimpleIcons ngrok [Color] from Hex 1f1e37
-  static const Color ngrok = Color(0x1f1e37);
+  static const Color ngrok = Color(0xff1f1e37);
 
   /// SimpleIcons ngrx [Color] from Hex ba2bd2
-  static const Color ngrx = Color(0xba2bd2);
+  static const Color ngrx = Color(0xffba2bd2);
 
   /// SimpleIcons nhl [Color] from Hex 000000
-  static const Color nhl = Color(0x000000);
+  static const Color nhl = Color(0xff000000);
 
   /// SimpleIcons niconico [Color] from Hex 231815
-  static const Color niconico = Color(0x231815);
+  static const Color niconico = Color(0xff231815);
 
   /// SimpleIcons nike [Color] from Hex 111111
-  static const Color nike = Color(0x111111);
+  static const Color nike = Color(0xff111111);
 
   /// SimpleIcons nikon [Color] from Hex ffe100
-  static const Color nikon = Color(0xffe100);
+  static const Color nikon = Color(0xffffe100);
 
   /// SimpleIcons nim [Color] from Hex ffe953
-  static const Color nim = Color(0xffe953);
+  static const Color nim = Color(0xffffe953);
 
   /// SimpleIcons nintendo [Color] from Hex 8f8f8f
-  static const Color nintendo = Color(0x8f8f8f);
+  static const Color nintendo = Color(0xff8f8f8f);
 
   /// SimpleIcons nintendo3ds [Color] from Hex d12228
-  static const Color nintendo3ds = Color(0xd12228);
+  static const Color nintendo3ds = Color(0xffd12228);
 
   /// SimpleIcons nintendogamecube [Color] from Hex 6a5fbb
-  static const Color nintendogamecube = Color(0x6a5fbb);
+  static const Color nintendogamecube = Color(0xff6a5fbb);
 
   /// SimpleIcons nintendonetwork [Color] from Hex ff7d00
-  static const Color nintendonetwork = Color(0xff7d00);
+  static const Color nintendonetwork = Color(0xffff7d00);
 
   /// SimpleIcons nintendoswitch [Color] from Hex e60012
-  static const Color nintendoswitch = Color(0xe60012);
+  static const Color nintendoswitch = Color(0xffe60012);
 
   /// SimpleIcons nissan [Color] from Hex c3002f
-  static const Color nissan = Color(0xc3002f);
+  static const Color nissan = Color(0xffc3002f);
 
   /// SimpleIcons nixos [Color] from Hex 5277c3
-  static const Color nixos = Color(0x5277c3);
+  static const Color nixos = Color(0xff5277c3);
 
   /// SimpleIcons nodered [Color] from Hex 8f0000
-  static const Color nodered = Color(0x8f0000);
+  static const Color nodered = Color(0xff8f0000);
 
   /// SimpleIcons nodedotjs [Color] from Hex 339933
-  static const Color nodedotjs = Color(0x339933);
+  static const Color nodedotjs = Color(0xff339933);
 
   /// SimpleIcons nodemon [Color] from Hex 76d04b
-  static const Color nodemon = Color(0x76d04b);
+  static const Color nodemon = Color(0xff76d04b);
 
   /// SimpleIcons nokia [Color] from Hex 005aff
-  static const Color nokia = Color(0x005aff);
+  static const Color nokia = Color(0xff005aff);
 
   /// SimpleIcons norco [Color] from Hex 00ff00
-  static const Color norco = Color(0x00ff00);
+  static const Color norco = Color(0xff00ff00);
 
   /// SimpleIcons nordicsemiconductor [Color] from Hex 00a9ce
-  static const Color nordicsemiconductor = Color(0x00a9ce);
+  static const Color nordicsemiconductor = Color(0xff00a9ce);
 
   /// SimpleIcons nordvpn [Color] from Hex 4687ff
-  static const Color nordvpn = Color(0x4687ff);
+  static const Color nordvpn = Color(0xff4687ff);
 
   /// SimpleIcons normalizedotcss [Color] from Hex e3695f
-  static const Color normalizedotcss = Color(0xe3695f);
+  static const Color normalizedotcss = Color(0xffe3695f);
 
   /// SimpleIcons norton [Color] from Hex ffe01a
-  static const Color norton = Color(0xffe01a);
+  static const Color norton = Color(0xffffe01a);
 
   /// SimpleIcons norwegian [Color] from Hex d81939
-  static const Color norwegian = Color(0xd81939);
+  static const Color norwegian = Color(0xffd81939);
 
   /// SimpleIcons notepadplusplus [Color] from Hex 90e59a
-  static const Color notepadplusplus = Color(0x90e59a);
+  static const Color notepadplusplus = Color(0xff90e59a);
 
   /// SimpleIcons notion [Color] from Hex 000000
-  static const Color notion = Color(0x000000);
+  static const Color notion = Color(0xff000000);
 
   /// SimpleIcons notist [Color] from Hex 333333
-  static const Color notist = Color(0x333333);
+  static const Color notist = Color(0xff333333);
 
   /// SimpleIcons nounproject [Color] from Hex 000000
-  static const Color nounproject = Color(0x000000);
+  static const Color nounproject = Color(0xff000000);
 
   /// SimpleIcons novu [Color] from Hex 000000
-  static const Color novu = Color(0x000000);
+  static const Color novu = Color(0xff000000);
 
   /// SimpleIcons now [Color] from Hex 001211
-  static const Color now = Color(0x001211);
+  static const Color now = Color(0xff001211);
 
   /// SimpleIcons npm [Color] from Hex cb3837
-  static const Color npm = Color(0xcb3837);
+  static const Color npm = Color(0xffcb3837);
 
   /// SimpleIcons nrwl [Color] from Hex 96d7e8
-  static const Color nrwl = Color(0x96d7e8);
+  static const Color nrwl = Color(0xff96d7e8);
 
   /// SimpleIcons nsis [Color] from Hex 01b0f0
-  static const Color nsis = Color(0x01b0f0);
+  static const Color nsis = Color(0xff01b0f0);
 
   /// SimpleIcons nubank [Color] from Hex 820ad1
-  static const Color nubank = Color(0x820ad1);
+  static const Color nubank = Color(0xff820ad1);
 
   /// SimpleIcons nucleo [Color] from Hex 252b2d
-  static const Color nucleo = Color(0x252b2d);
+  static const Color nucleo = Color(0xff252b2d);
 
   /// SimpleIcons nuget [Color] from Hex 004880
-  static const Color nuget = Color(0x004880);
+  static const Color nuget = Color(0xff004880);
 
   /// SimpleIcons nuke [Color] from Hex 000000
-  static const Color nuke = Color(0x000000);
+  static const Color nuke = Color(0xff000000);
 
   /// SimpleIcons numba [Color] from Hex 00a3e0
-  static const Color numba = Color(0x00a3e0);
+  static const Color numba = Color(0xff00a3e0);
 
   /// SimpleIcons numpy [Color] from Hex 013243
-  static const Color numpy = Color(0x013243);
+  static const Color numpy = Color(0xff013243);
 
   /// SimpleIcons nunjucks [Color] from Hex 1c4913
-  static const Color nunjucks = Color(0x1c4913);
+  static const Color nunjucks = Color(0xff1c4913);
 
   /// SimpleIcons nutanix [Color] from Hex 024da1
-  static const Color nutanix = Color(0x024da1);
+  static const Color nutanix = Color(0xff024da1);
 
   /// SimpleIcons nuxtdotjs [Color] from Hex 00dc82
-  static const Color nuxtdotjs = Color(0x00dc82);
+  static const Color nuxtdotjs = Color(0xff00dc82);
 
   /// SimpleIcons nvidia [Color] from Hex 76b900
-  static const Color nvidia = Color(0x76b900);
+  static const Color nvidia = Color(0xff76b900);
 
   /// SimpleIcons nx [Color] from Hex 143055
-  static const Color nx = Color(0x143055);
+  static const Color nx = Color(0xff143055);
 
   /// SimpleIcons nxp [Color] from Hex 000000
-  static const Color nxp = Color(0x000000);
+  static const Color nxp = Color(0xff000000);
 
   /// SimpleIcons nzxt [Color] from Hex 000000
-  static const Color nzxt = Color(0x000000);
+  static const Color nzxt = Color(0xff000000);
 
   /// SimpleIcons oreilly [Color] from Hex d3002d
-  static const Color oreilly = Color(0xd3002d);
+  static const Color oreilly = Color(0xffd3002d);
 
   /// SimpleIcons obsstudio [Color] from Hex 302e31
-  static const Color obsstudio = Color(0x302e31);
+  static const Color obsstudio = Color(0xff302e31);
 
   /// SimpleIcons observable [Color] from Hex 353e58
-  static const Color observable = Color(0x353e58);
+  static const Color observable = Color(0xff353e58);
 
   /// SimpleIcons obsidian [Color] from Hex 7c3aed
-  static const Color obsidian = Color(0x7c3aed);
+  static const Color obsidian = Color(0xff7c3aed);
 
   /// SimpleIcons ocaml [Color] from Hex ec6813
-  static const Color ocaml = Color(0xec6813);
+  static const Color ocaml = Color(0xffec6813);
 
   /// SimpleIcons octanerender [Color] from Hex 000000
-  static const Color octanerender = Color(0x000000);
+  static const Color octanerender = Color(0xff000000);
 
   /// SimpleIcons octave [Color] from Hex 0790c0
-  static const Color octave = Color(0x0790c0);
+  static const Color octave = Color(0xff0790c0);
 
   /// SimpleIcons octobercms [Color] from Hex db6a26
-  static const Color octobercms = Color(0xdb6a26);
+  static const Color octobercms = Color(0xffdb6a26);
 
   /// SimpleIcons octoprint [Color] from Hex 13c100
-  static const Color octoprint = Color(0x13c100);
+  static const Color octoprint = Color(0xff13c100);
 
   /// SimpleIcons octopusdeploy [Color] from Hex 2f93e0
-  static const Color octopusdeploy = Color(0x2f93e0);
+  static const Color octopusdeploy = Color(0xff2f93e0);
 
   /// SimpleIcons oculus [Color] from Hex 1c1e20
-  static const Color oculus = Color(0x1c1e20);
+  static const Color oculus = Color(0xff1c1e20);
 
   /// SimpleIcons odnoklassniki [Color] from Hex ee8208
-  static const Color odnoklassniki = Color(0xee8208);
+  static const Color odnoklassniki = Color(0xffee8208);
 
   /// SimpleIcons odoo [Color] from Hex 714b67
-  static const Color odoo = Color(0x714b67);
+  static const Color odoo = Color(0xff714b67);
 
   /// SimpleIcons odysee [Color] from Hex ef1970
-  static const Color odysee = Color(0xef1970);
+  static const Color odysee = Color(0xffef1970);
 
   /// SimpleIcons ohdear [Color] from Hex ff3900
-  static const Color ohdear = Color(0xff3900);
+  static const Color ohdear = Color(0xffff3900);
 
   /// SimpleIcons okcupid [Color] from Hex 0500be
-  static const Color okcupid = Color(0x0500be);
+  static const Color okcupid = Color(0xff0500be);
 
   /// SimpleIcons okta [Color] from Hex 007dc1
-  static const Color okta = Color(0x007dc1);
+  static const Color okta = Color(0xff007dc1);
 
   /// SimpleIcons oneplus [Color] from Hex f5010c
-  static const Color oneplus = Color(0xf5010c);
+  static const Color oneplus = Color(0xfff5010c);
 
   /// SimpleIcons onlyfans [Color] from Hex 00aff0
-  static const Color onlyfans = Color(0x00aff0);
+  static const Color onlyfans = Color(0xff00aff0);
 
   /// SimpleIcons onlyoffice [Color] from Hex 444444
-  static const Color onlyoffice = Color(0x444444);
+  static const Color onlyoffice = Color(0xff444444);
 
   /// SimpleIcons onnx [Color] from Hex 005ced
-  static const Color onnx = Color(0x005ced);
+  static const Color onnx = Color(0xff005ced);
 
   /// SimpleIcons onstar [Color] from Hex 003d7d
-  static const Color onstar = Color(0x003d7d);
+  static const Color onstar = Color(0xff003d7d);
 
   /// SimpleIcons opel [Color] from Hex f7ff14
-  static const Color opel = Color(0xf7ff14);
+  static const Color opel = Color(0xfff7ff14);
 
   /// SimpleIcons openaccess [Color] from Hex f68212
-  static const Color openaccess = Color(0xf68212);
+  static const Color openaccess = Color(0xfff68212);
 
   /// SimpleIcons openbadges [Color] from Hex 073b5a
-  static const Color openbadges = Color(0x073b5a);
+  static const Color openbadges = Color(0xff073b5a);
 
   /// SimpleIcons openbugbounty [Color] from Hex f67909
-  static const Color openbugbounty = Color(0xf67909);
+  static const Color openbugbounty = Color(0xfff67909);
 
   /// SimpleIcons opencollective [Color] from Hex 7fadf2
-  static const Color opencollective = Color(0x7fadf2);
+  static const Color opencollective = Color(0xff7fadf2);
 
   /// SimpleIcons opencontainersinitiative [Color] from Hex 262261
-  static const Color opencontainersinitiative = Color(0x262261);
+  static const Color opencontainersinitiative = Color(0xff262261);
 
   /// SimpleIcons opensourcehardware [Color] from Hex 0099b0
-  static const Color opensourcehardware = Color(0x0099b0);
+  static const Color opensourcehardware = Color(0xff0099b0);
 
   /// SimpleIcons opensourceinitiative [Color] from Hex 3da639
-  static const Color opensourceinitiative = Color(0x3da639);
+  static const Color opensourceinitiative = Color(0xff3da639);
 
   /// SimpleIcons openai [Color] from Hex 412991
-  static const Color openai = Color(0x412991);
+  static const Color openai = Color(0xff412991);
 
   /// SimpleIcons openaigym [Color] from Hex 0081a5
-  static const Color openaigym = Color(0x0081a5);
+  static const Color openaigym = Color(0xff0081a5);
 
   /// SimpleIcons openapiinitiative [Color] from Hex 6ba539
-  static const Color openapiinitiative = Color(0x6ba539);
+  static const Color openapiinitiative = Color(0xff6ba539);
 
   /// SimpleIcons openbsd [Color] from Hex f2ca30
-  static const Color openbsd = Color(0xf2ca30);
+  static const Color openbsd = Color(0xfff2ca30);
 
   /// SimpleIcons opencv [Color] from Hex 5c3ee8
-  static const Color opencv = Color(0x5c3ee8);
+  static const Color opencv = Color(0xff5c3ee8);
 
   /// SimpleIcons openfaas [Color] from Hex 3b5ee9
-  static const Color openfaas = Color(0x3b5ee9);
+  static const Color openfaas = Color(0xff3b5ee9);
 
   /// SimpleIcons opengl [Color] from Hex 5586a4
-  static const Color opengl = Color(0x5586a4);
+  static const Color opengl = Color(0xff5586a4);
 
   /// SimpleIcons openhab [Color] from Hex e64a19
-  static const Color openhab = Color(0xe64a19);
+  static const Color openhab = Color(0xffe64a19);
 
   /// SimpleIcons openid [Color] from Hex f78c40
-  static const Color openid = Color(0xf78c40);
+  static const Color openid = Color(0xfff78c40);
 
   /// SimpleIcons openjdk [Color] from Hex 437291
-  static const Color openjdk = Color(0x437291);
+  static const Color openjdk = Color(0xff437291);
 
   /// SimpleIcons openlayers [Color] from Hex 1f6b75
-  static const Color openlayers = Color(0x1f6b75);
+  static const Color openlayers = Color(0xff1f6b75);
 
   /// SimpleIcons openmined [Color] from Hex ed986c
-  static const Color openmined = Color(0xed986c);
+  static const Color openmined = Color(0xffed986c);
 
   /// SimpleIcons opennebula [Color] from Hex 0097c2
-  static const Color opennebula = Color(0x0097c2);
+  static const Color opennebula = Color(0xff0097c2);
 
   /// SimpleIcons openproject [Color] from Hex 0770b8
-  static const Color openproject = Color(0x0770b8);
+  static const Color openproject = Color(0xff0770b8);
 
   /// SimpleIcons openscad [Color] from Hex f9d72c
-  static const Color openscad = Color(0xf9d72c);
+  static const Color openscad = Color(0xfff9d72c);
 
   /// SimpleIcons opensea [Color] from Hex 2081e2
-  static const Color opensea = Color(0x2081e2);
+  static const Color opensea = Color(0xff2081e2);
 
   /// SimpleIcons opensearch [Color] from Hex 005eb8
-  static const Color opensearch = Color(0x005eb8);
+  static const Color opensearch = Color(0xff005eb8);
 
   /// SimpleIcons openssl [Color] from Hex 721412
-  static const Color openssl = Color(0x721412);
+  static const Color openssl = Color(0xff721412);
 
   /// SimpleIcons openstack [Color] from Hex ed1944
-  static const Color openstack = Color(0xed1944);
+  static const Color openstack = Color(0xffed1944);
 
   /// SimpleIcons openstreetmap [Color] from Hex 7ebc6f
-  static const Color openstreetmap = Color(0x7ebc6f);
+  static const Color openstreetmap = Color(0xff7ebc6f);
 
   /// SimpleIcons opensuse [Color] from Hex 73ba25
-  static const Color opensuse = Color(0x73ba25);
+  static const Color opensuse = Color(0xff73ba25);
 
   /// SimpleIcons opentelemetry [Color] from Hex 000000
-  static const Color opentelemetry = Color(0x000000);
+  static const Color opentelemetry = Color(0xff000000);
 
   /// SimpleIcons opentext [Color] from Hex 000000
-  static const Color opentext = Color(0x000000);
+  static const Color opentext = Color(0xff000000);
 
   /// SimpleIcons opentofu [Color] from Hex ffda18
-  static const Color opentofu = Color(0xffda18);
+  static const Color opentofu = Color(0xffffda18);
 
   /// SimpleIcons openverse [Color] from Hex ffe033
-  static const Color openverse = Color(0xffe033);
+  static const Color openverse = Color(0xffffe033);
 
   /// SimpleIcons openvpn [Color] from Hex ea7e20
-  static const Color openvpn = Color(0xea7e20);
+  static const Color openvpn = Color(0xffea7e20);
 
   /// SimpleIcons openwrt [Color] from Hex 00b5e2
-  static const Color openwrt = Color(0x00b5e2);
+  static const Color openwrt = Color(0xff00b5e2);
 
   /// SimpleIcons openzeppelin [Color] from Hex 4e5ee4
-  static const Color openzeppelin = Color(0x4e5ee4);
+  static const Color openzeppelin = Color(0xff4e5ee4);
 
   /// SimpleIcons openzfs [Color] from Hex 2a667f
-  static const Color openzfs = Color(0x2a667f);
+  static const Color openzfs = Color(0xff2a667f);
 
   /// SimpleIcons opera [Color] from Hex ff1b2d
-  static const Color opera = Color(0xff1b2d);
+  static const Color opera = Color(0xffff1b2d);
 
   /// SimpleIcons operagx [Color] from Hex ee2950
-  static const Color operagx = Color(0xee2950);
+  static const Color operagx = Color(0xffee2950);
 
   /// SimpleIcons opnsense [Color] from Hex d94f00
-  static const Color opnsense = Color(0xd94f00);
+  static const Color opnsense = Color(0xffd94f00);
 
   /// SimpleIcons oppo [Color] from Hex 2d683d
-  static const Color oppo = Color(0x2d683d);
+  static const Color oppo = Color(0xff2d683d);
 
   /// SimpleIcons opsgenie [Color] from Hex 172b4d
-  static const Color opsgenie = Color(0x172b4d);
+  static const Color opsgenie = Color(0xff172b4d);
 
   /// SimpleIcons opslevel [Color] from Hex 0a53e0
-  static const Color opslevel = Color(0x0a53e0);
+  static const Color opslevel = Color(0xff0a53e0);
 
   /// SimpleIcons oracle [Color] from Hex f80000
-  static const Color oracle = Color(0xf80000);
+  static const Color oracle = Color(0xfff80000);
 
   /// SimpleIcons orcid [Color] from Hex a6ce39
-  static const Color orcid = Color(0xa6ce39);
+  static const Color orcid = Color(0xffa6ce39);
 
   /// SimpleIcons org [Color] from Hex 77aa99
-  static const Color org = Color(0x77aa99);
+  static const Color org = Color(0xff77aa99);
 
   /// SimpleIcons origin [Color] from Hex f56c2d
-  static const Color origin = Color(0xf56c2d);
+  static const Color origin = Color(0xfff56c2d);
 
   /// SimpleIcons osano [Color] from Hex 7764fa
-  static const Color osano = Color(0x7764fa);
+  static const Color osano = Color(0xff7764fa);
 
   /// SimpleIcons osgeo [Color] from Hex 5cae58
-  static const Color osgeo = Color(0x5cae58);
+  static const Color osgeo = Color(0xff5cae58);
 
   /// SimpleIcons oshkosh [Color] from Hex e6830f
-  static const Color oshkosh = Color(0xe6830f);
+  static const Color oshkosh = Color(0xffe6830f);
 
   /// SimpleIcons osmc [Color] from Hex 17394a
-  static const Color osmc = Color(0x17394a);
+  static const Color osmc = Color(0xff17394a);
 
   /// SimpleIcons osu [Color] from Hex ff66aa
-  static const Color osu = Color(0xff66aa);
+  static const Color osu = Color(0xffff66aa);
 
   /// SimpleIcons otto [Color] from Hex d4021d
-  static const Color otto = Color(0xd4021d);
+  static const Color otto = Color(0xffd4021d);
 
   /// SimpleIcons overcast [Color] from Hex fc7e0f
-  static const Color overcast = Color(0xfc7e0f);
+  static const Color overcast = Color(0xfffc7e0f);
 
   /// SimpleIcons overleaf [Color] from Hex 47a141
-  static const Color overleaf = Color(0x47a141);
+  static const Color overleaf = Color(0xff47a141);
 
   /// SimpleIcons ovh [Color] from Hex 123f6d
-  static const Color ovh = Color(0x123f6d);
+  static const Color ovh = Color(0xff123f6d);
 
   /// SimpleIcons owasp [Color] from Hex 000000
-  static const Color owasp = Color(0x000000);
+  static const Color owasp = Color(0xff000000);
 
   /// SimpleIcons owaspdependencycheck [Color] from Hex f78d0a
-  static const Color owaspdependencycheck = Color(0xf78d0a);
+  static const Color owaspdependencycheck = Color(0xfff78d0a);
 
   /// SimpleIcons owncloud [Color] from Hex 041e42
-  static const Color owncloud = Color(0x041e42);
+  static const Color owncloud = Color(0xff041e42);
 
   /// SimpleIcons oxygen [Color] from Hex 3a209e
-  static const Color oxygen = Color(0x3a209e);
+  static const Color oxygen = Color(0xff3a209e);
 
   /// SimpleIcons oyo [Color] from Hex ee2e24
-  static const Color oyo = Color(0xee2e24);
+  static const Color oyo = Color(0xffee2e24);
 
   /// SimpleIcons p5dotjs [Color] from Hex ed225d
-  static const Color p5dotjs = Color(0xed225d);
+  static const Color p5dotjs = Color(0xffed225d);
 
   /// SimpleIcons packagist [Color] from Hex f28d1a
-  static const Color packagist = Color(0xf28d1a);
+  static const Color packagist = Color(0xfff28d1a);
 
   /// SimpleIcons packer [Color] from Hex 02a8ef
-  static const Color packer = Color(0x02a8ef);
+  static const Color packer = Color(0xff02a8ef);
 
   /// SimpleIcons paddlepaddle [Color] from Hex 0062b0
-  static const Color paddlepaddle = Color(0x0062b0);
+  static const Color paddlepaddle = Color(0xff0062b0);
 
   /// SimpleIcons paddypower [Color] from Hex 004833
-  static const Color paddypower = Color(0x004833);
+  static const Color paddypower = Color(0xff004833);
 
   /// SimpleIcons pagekit [Color] from Hex 212121
-  static const Color pagekit = Color(0x212121);
+  static const Color pagekit = Color(0xff212121);
 
   /// SimpleIcons pagerduty [Color] from Hex 06ac38
-  static const Color pagerduty = Color(0x06ac38);
+  static const Color pagerduty = Color(0xff06ac38);
 
   /// SimpleIcons pagespeedinsights [Color] from Hex 4285f4
-  static const Color pagespeedinsights = Color(0x4285f4);
+  static const Color pagespeedinsights = Color(0xff4285f4);
 
   /// SimpleIcons pagseguro [Color] from Hex ffc801
-  static const Color pagseguro = Color(0xffc801);
+  static const Color pagseguro = Color(0xffffc801);
 
   /// SimpleIcons palantir [Color] from Hex 101113
-  static const Color palantir = Color(0x101113);
+  static const Color palantir = Color(0xff101113);
 
   /// SimpleIcons paloaltonetworks [Color] from Hex f04e23
-  static const Color paloaltonetworks = Color(0xf04e23);
+  static const Color paloaltonetworks = Color(0xfff04e23);
 
   /// SimpleIcons paloaltosoftware [Color] from Hex 83da77
-  static const Color paloaltosoftware = Color(0x83da77);
+  static const Color paloaltosoftware = Color(0xff83da77);
 
   /// SimpleIcons panasonic [Color] from Hex 0049ab
-  static const Color panasonic = Color(0x0049ab);
+  static const Color panasonic = Color(0xff0049ab);
 
   /// SimpleIcons pandas [Color] from Hex 150458
-  static const Color pandas = Color(0x150458);
+  static const Color pandas = Color(0xff150458);
 
   /// SimpleIcons pandora [Color] from Hex 224099
-  static const Color pandora = Color(0x224099);
+  static const Color pandora = Color(0xff224099);
 
   /// SimpleIcons pantheon [Color] from Hex ffdc28
-  static const Color pantheon = Color(0xffdc28);
+  static const Color pantheon = Color(0xffffdc28);
 
   /// SimpleIcons paperspace [Color] from Hex 000000
-  static const Color paperspace = Color(0x000000);
+  static const Color paperspace = Color(0xff000000);
 
   /// SimpleIcons paritysubstrate [Color] from Hex 282828
-  static const Color paritysubstrate = Color(0x282828);
+  static const Color paritysubstrate = Color(0xff282828);
 
   /// SimpleIcons parsedotly [Color] from Hex 5ba745
-  static const Color parsedotly = Color(0x5ba745);
+  static const Color parsedotly = Color(0xff5ba745);
 
   /// SimpleIcons passport [Color] from Hex 34e27a
-  static const Color passport = Color(0x34e27a);
+  static const Color passport = Color(0xff34e27a);
 
   /// SimpleIcons pastebin [Color] from Hex 02456c
-  static const Color pastebin = Color(0x02456c);
+  static const Color pastebin = Color(0xff02456c);
 
   /// SimpleIcons patreon [Color] from Hex 000000
-  static const Color patreon = Color(0x000000);
+  static const Color patreon = Color(0xff000000);
 
   /// SimpleIcons paychex [Color] from Hex 004b8d
-  static const Color paychex = Color(0x004b8d);
+  static const Color paychex = Color(0xff004b8d);
 
   /// SimpleIcons payhip [Color] from Hex 5c6ac4
-  static const Color payhip = Color(0x5c6ac4);
+  static const Color payhip = Color(0xff5c6ac4);
 
   /// SimpleIcons payloadcms [Color] from Hex 000000
-  static const Color payloadcms = Color(0x000000);
+  static const Color payloadcms = Color(0xff000000);
 
   /// SimpleIcons payoneer [Color] from Hex ff4800
-  static const Color payoneer = Color(0xff4800);
+  static const Color payoneer = Color(0xffff4800);
 
   /// SimpleIcons paypal [Color] from Hex 003087
-  static const Color paypal = Color(0x003087);
+  static const Color paypal = Color(0xff003087);
 
   /// SimpleIcons paytm [Color] from Hex 20336b
-  static const Color paytm = Color(0x20336b);
+  static const Color paytm = Color(0xff20336b);
 
   /// SimpleIcons pcgamingwiki [Color] from Hex 556db3
-  static const Color pcgamingwiki = Color(0x556db3);
+  static const Color pcgamingwiki = Color(0xff556db3);
 
   /// SimpleIcons pdm [Color] from Hex ac75d7
-  static const Color pdm = Color(0xac75d7);
+  static const Color pdm = Color(0xffac75d7);
 
   /// SimpleIcons pdq [Color] from Hex 231f20
-  static const Color pdq = Color(0x231f20);
+  static const Color pdq = Color(0xff231f20);
 
   /// SimpleIcons peakdesign [Color] from Hex 1c1b1c
-  static const Color peakdesign = Color(0x1c1b1c);
+  static const Color peakdesign = Color(0xff1c1b1c);
 
   /// SimpleIcons pearson [Color] from Hex 000000
-  static const Color pearson = Color(0x000000);
+  static const Color pearson = Color(0xff000000);
 
   /// SimpleIcons peerlist [Color] from Hex 00aa45
-  static const Color peerlist = Color(0x00aa45);
+  static const Color peerlist = Color(0xff00aa45);
 
   /// SimpleIcons peertube [Color] from Hex f1680d
-  static const Color peertube = Color(0xf1680d);
+  static const Color peertube = Color(0xfff1680d);
 
   /// SimpleIcons pegasusairlines [Color] from Hex fdc43e
-  static const Color pegasusairlines = Color(0xfdc43e);
+  static const Color pegasusairlines = Color(0xfffdc43e);
 
   /// SimpleIcons pelican [Color] from Hex 14a0c4
-  static const Color pelican = Color(0x14a0c4);
+  static const Color pelican = Color(0xff14a0c4);
 
   /// SimpleIcons peloton [Color] from Hex 181a1d
-  static const Color peloton = Color(0x181a1d);
+  static const Color peloton = Color(0xff181a1d);
 
   /// SimpleIcons penny [Color] from Hex cd1414
-  static const Color penny = Color(0xcd1414);
+  static const Color penny = Color(0xffcd1414);
 
   /// SimpleIcons penpot [Color] from Hex 000000
-  static const Color penpot = Color(0x000000);
+  static const Color penpot = Color(0xff000000);
 
   /// SimpleIcons pepsi [Color] from Hex 2151a1
-  static const Color pepsi = Color(0x2151a1);
+  static const Color pepsi = Color(0xff2151a1);
 
   /// SimpleIcons percy [Color] from Hex 9e66bf
-  static const Color percy = Color(0x9e66bf);
+  static const Color percy = Color(0xff9e66bf);
 
   /// SimpleIcons perforce [Color] from Hex 404040
-  static const Color perforce = Color(0x404040);
+  static const Color perforce = Color(0xff404040);
 
   /// SimpleIcons perl [Color] from Hex 39457e
-  static const Color perl = Color(0x39457e);
+  static const Color perl = Color(0xff39457e);
 
   /// SimpleIcons persistent [Color] from Hex fd5f07
-  static const Color persistent = Color(0xfd5f07);
+  static const Color persistent = Color(0xfffd5f07);
 
   /// SimpleIcons personio [Color] from Hex 000000
-  static const Color personio = Color(0x000000);
+  static const Color personio = Color(0xff000000);
 
   /// SimpleIcons petsathome [Color] from Hex 00aa28
-  static const Color petsathome = Color(0x00aa28);
+  static const Color petsathome = Color(0xff00aa28);
 
   /// SimpleIcons peugeot [Color] from Hex 000000
-  static const Color peugeot = Color(0x000000);
+  static const Color peugeot = Color(0xff000000);
 
   /// SimpleIcons pexels [Color] from Hex 05a081
-  static const Color pexels = Color(0x05a081);
+  static const Color pexels = Color(0xff05a081);
 
   /// SimpleIcons pfsense [Color] from Hex 212121
-  static const Color pfsense = Color(0x212121);
+  static const Color pfsense = Color(0xff212121);
 
   /// SimpleIcons phabricator [Color] from Hex 4a5f88
-  static const Color phabricator = Color(0x4a5f88);
+  static const Color phabricator = Color(0xff4a5f88);
 
   /// SimpleIcons philipshue [Color] from Hex 0065d3
-  static const Color philipshue = Color(0x0065d3);
+  static const Color philipshue = Color(0xff0065d3);
 
   /// SimpleIcons phoenixframework [Color] from Hex fd4f00
-  static const Color phoenixframework = Color(0xfd4f00);
+  static const Color phoenixframework = Color(0xfffd4f00);
 
   /// SimpleIcons phonepe [Color] from Hex 5f259f
-  static const Color phonepe = Color(0x5f259f);
+  static const Color phonepe = Color(0xff5f259f);
 
   /// SimpleIcons phosphoricons [Color] from Hex 3c402b
-  static const Color phosphoricons = Color(0x3c402b);
+  static const Color phosphoricons = Color(0xff3c402b);
 
   /// SimpleIcons photobucket [Color] from Hex 0672cb
-  static const Color photobucket = Color(0x0672cb);
+  static const Color photobucket = Color(0xff0672cb);
 
   /// SimpleIcons photocrowd [Color] from Hex 3dad4b
-  static const Color photocrowd = Color(0x3dad4b);
+  static const Color photocrowd = Color(0xff3dad4b);
 
   /// SimpleIcons photopea [Color] from Hex 18a497
-  static const Color photopea = Color(0x18a497);
+  static const Color photopea = Color(0xff18a497);
 
   /// SimpleIcons php [Color] from Hex 777bb4
-  static const Color php = Color(0x777bb4);
+  static const Color php = Color(0xff777bb4);
 
   /// SimpleIcons phpmyadmin [Color] from Hex 6c78af
-  static const Color phpmyadmin = Color(0x6c78af);
+  static const Color phpmyadmin = Color(0xff6c78af);
 
   /// SimpleIcons phpstorm [Color] from Hex 000000
-  static const Color phpstorm = Color(0x000000);
+  static const Color phpstorm = Color(0xff000000);
 
   /// SimpleIcons pinetwork [Color] from Hex f4af47
-  static const Color pinetwork = Color(0xf4af47);
+  static const Color pinetwork = Color(0xfff4af47);
 
   /// SimpleIcons pihole [Color] from Hex 96060c
-  static const Color pihole = Color(0x96060c);
+  static const Color pihole = Color(0xff96060c);
 
   /// SimpleIcons piaggiogroup [Color] from Hex 000000
-  static const Color piaggiogroup = Color(0x000000);
+  static const Color piaggiogroup = Color(0xff000000);
 
   /// SimpleIcons picardsurgeles [Color] from Hex 2d4999
-  static const Color picardsurgeles = Color(0x2d4999);
+  static const Color picardsurgeles = Color(0xff2d4999);
 
   /// SimpleIcons picartodottv [Color] from Hex 1da456
-  static const Color picartodottv = Color(0x1da456);
+  static const Color picartodottv = Color(0xff1da456);
 
   /// SimpleIcons picnic [Color] from Hex e1171e
-  static const Color picnic = Color(0xe1171e);
+  static const Color picnic = Color(0xffe1171e);
 
   /// SimpleIcons picpay [Color] from Hex 21c25e
-  static const Color picpay = Color(0x21c25e);
+  static const Color picpay = Color(0xff21c25e);
 
   /// SimpleIcons pimcore [Color] from Hex 6428b4
-  static const Color pimcore = Color(0x6428b4);
+  static const Color pimcore = Color(0xff6428b4);
 
   /// SimpleIcons pinboard [Color] from Hex 0000ff
-  static const Color pinboard = Color(0x0000ff);
+  static const Color pinboard = Color(0xff0000ff);
 
   /// SimpleIcons pinescript [Color] from Hex 00b453
-  static const Color pinescript = Color(0x00b453);
+  static const Color pinescript = Color(0xff00b453);
 
   /// SimpleIcons pingdom [Color] from Hex fff000
-  static const Color pingdom = Color(0xfff000);
+  static const Color pingdom = Color(0xfffff000);
 
   /// SimpleIcons pinterest [Color] from Hex bd081c
-  static const Color pinterest = Color(0xbd081c);
+  static const Color pinterest = Color(0xffbd081c);
 
   /// SimpleIcons pioneerdj [Color] from Hex 1a1928
-  static const Color pioneerdj = Color(0x1a1928);
+  static const Color pioneerdj = Color(0xff1a1928);
 
   /// SimpleIcons pivotaltracker [Color] from Hex 517a9e
-  static const Color pivotaltracker = Color(0x517a9e);
+  static const Color pivotaltracker = Color(0xff517a9e);
 
   /// SimpleIcons piwigo [Color] from Hex ff7700
-  static const Color piwigo = Color(0xff7700);
+  static const Color piwigo = Color(0xffff7700);
 
   /// SimpleIcons pix [Color] from Hex 77b6a8
-  static const Color pix = Color(0x77b6a8);
+  static const Color pix = Color(0xff77b6a8);
 
   /// SimpleIcons pixabay [Color] from Hex 2ec66d
-  static const Color pixabay = Color(0x2ec66d);
+  static const Color pixabay = Color(0xff2ec66d);
 
   /// SimpleIcons pixiv [Color] from Hex 0096fa
-  static const Color pixiv = Color(0x0096fa);
+  static const Color pixiv = Color(0xff0096fa);
 
   /// SimpleIcons pkgsrc [Color] from Hex ff6600
-  static const Color pkgsrc = Color(0xff6600);
+  static const Color pkgsrc = Color(0xffff6600);
 
   /// SimpleIcons planet [Color] from Hex 009db1
-  static const Color planet = Color(0x009db1);
+  static const Color planet = Color(0xff009db1);
 
   /// SimpleIcons planetscale [Color] from Hex 000000
-  static const Color planetscale = Color(0x000000);
+  static const Color planetscale = Color(0xff000000);
 
   /// SimpleIcons plangrid [Color] from Hex 0085de
-  static const Color plangrid = Color(0x0085de);
+  static const Color plangrid = Color(0xff0085de);
 
   /// SimpleIcons platformdotsh [Color] from Hex 1a182a
-  static const Color platformdotsh = Color(0x1a182a);
+  static const Color platformdotsh = Color(0xff1a182a);
 
   /// SimpleIcons platformio [Color] from Hex f5822a
-  static const Color platformio = Color(0xf5822a);
+  static const Color platformio = Color(0xfff5822a);
 
   /// SimpleIcons platzi [Color] from Hex 98ca3f
-  static const Color platzi = Color(0x98ca3f);
+  static const Color platzi = Color(0xff98ca3f);
 
   /// SimpleIcons plausibleanalytics [Color] from Hex 5850ec
-  static const Color plausibleanalytics = Color(0x5850ec);
+  static const Color plausibleanalytics = Color(0xff5850ec);
 
   /// SimpleIcons playcanvas [Color] from Hex e05f2c
-  static const Color playcanvas = Color(0xe05f2c);
+  static const Color playcanvas = Color(0xffe05f2c);
 
   /// SimpleIcons playerfm [Color] from Hex c8122a
-  static const Color playerfm = Color(0xc8122a);
+  static const Color playerfm = Color(0xffc8122a);
 
   /// SimpleIcons playerdotme [Color] from Hex c0379a
-  static const Color playerdotme = Color(0xc0379a);
+  static const Color playerdotme = Color(0xffc0379a);
 
   /// SimpleIcons playstation [Color] from Hex 003791
-  static const Color playstation = Color(0x003791);
+  static const Color playstation = Color(0xff003791);
 
   /// SimpleIcons playstation2 [Color] from Hex 003791
-  static const Color playstation2 = Color(0x003791);
+  static const Color playstation2 = Color(0xff003791);
 
   /// SimpleIcons playstation3 [Color] from Hex 003791
-  static const Color playstation3 = Color(0x003791);
+  static const Color playstation3 = Color(0xff003791);
 
   /// SimpleIcons playstation4 [Color] from Hex 003791
-  static const Color playstation4 = Color(0x003791);
+  static const Color playstation4 = Color(0xff003791);
 
   /// SimpleIcons playstation5 [Color] from Hex 003791
-  static const Color playstation5 = Color(0x003791);
+  static const Color playstation5 = Color(0xff003791);
 
   /// SimpleIcons playstationvita [Color] from Hex 003791
-  static const Color playstationvita = Color(0x003791);
+  static const Color playstationvita = Color(0xff003791);
 
   /// SimpleIcons playwright [Color] from Hex 2ead33
-  static const Color playwright = Color(0x2ead33);
+  static const Color playwright = Color(0xff2ead33);
 
   /// SimpleIcons pleroma [Color] from Hex fba457
-  static const Color pleroma = Color(0xfba457);
+  static const Color pleroma = Color(0xfffba457);
 
   /// SimpleIcons plesk [Color] from Hex 52bbe6
-  static const Color plesk = Color(0x52bbe6);
+  static const Color plesk = Color(0xff52bbe6);
 
   /// SimpleIcons plex [Color] from Hex ebaf00
-  static const Color plex = Color(0xebaf00);
+  static const Color plex = Color(0xffebaf00);
 
   /// SimpleIcons plotly [Color] from Hex 3f4f75
-  static const Color plotly = Color(0x3f4f75);
+  static const Color plotly = Color(0xff3f4f75);
 
   /// SimpleIcons pluralsight [Color] from Hex f15b2a
-  static const Color pluralsight = Color(0xf15b2a);
+  static const Color pluralsight = Color(0xfff15b2a);
 
   /// SimpleIcons plurk [Color] from Hex ff574d
-  static const Color plurk = Color(0xff574d);
+  static const Color plurk = Color(0xffff574d);
 
   /// SimpleIcons pluscodes [Color] from Hex 4285f4
-  static const Color pluscodes = Color(0x4285f4);
+  static const Color pluscodes = Color(0xff4285f4);
 
   /// SimpleIcons pm2 [Color] from Hex 2b037a
-  static const Color pm2 = Color(0x2b037a);
+  static const Color pm2 = Color(0xff2b037a);
 
   /// SimpleIcons pnpm [Color] from Hex f69220
-  static const Color pnpm = Color(0xf69220);
+  static const Color pnpm = Color(0xfff69220);
 
   /// SimpleIcons pocket [Color] from Hex ef3f56
-  static const Color pocket = Color(0xef3f56);
+  static const Color pocket = Color(0xffef3f56);
 
   /// SimpleIcons pocketcasts [Color] from Hex f43e37
-  static const Color pocketcasts = Color(0xf43e37);
+  static const Color pocketcasts = Color(0xfff43e37);
 
   /// SimpleIcons pocketbase [Color] from Hex b8dbe4
-  static const Color pocketbase = Color(0xb8dbe4);
+  static const Color pocketbase = Color(0xffb8dbe4);
 
   /// SimpleIcons podcastaddict [Color] from Hex f4842d
-  static const Color podcastaddict = Color(0xf4842d);
+  static const Color podcastaddict = Color(0xfff4842d);
 
   /// SimpleIcons podcastindex [Color] from Hex f90000
-  static const Color podcastindex = Color(0xf90000);
+  static const Color podcastindex = Color(0xfff90000);
 
   /// SimpleIcons podman [Color] from Hex 892ca0
-  static const Color podman = Color(0x892ca0);
+  static const Color podman = Color(0xff892ca0);
 
   /// SimpleIcons poe [Color] from Hex 5d5cde
-  static const Color poe = Color(0x5d5cde);
+  static const Color poe = Color(0xff5d5cde);
 
   /// SimpleIcons poetry [Color] from Hex 60a5fa
-  static const Color poetry = Color(0x60a5fa);
+  static const Color poetry = Color(0xff60a5fa);
 
   /// SimpleIcons pointy [Color] from Hex 009de0
-  static const Color pointy = Color(0x009de0);
+  static const Color pointy = Color(0xff009de0);
 
   /// SimpleIcons pokemon [Color] from Hex ffcb05
-  static const Color pokemon = Color(0xffcb05);
+  static const Color pokemon = Color(0xffffcb05);
 
   /// SimpleIcons polars [Color] from Hex cd792c
-  static const Color polars = Color(0xcd792c);
+  static const Color polars = Color(0xffcd792c);
 
   /// SimpleIcons polestar [Color] from Hex 000000
-  static const Color polestar = Color(0x000000);
+  static const Color polestar = Color(0xff000000);
 
   /// SimpleIcons polkadot [Color] from Hex e6007a
-  static const Color polkadot = Color(0xe6007a);
+  static const Color polkadot = Color(0xffe6007a);
 
   /// SimpleIcons poly [Color] from Hex eb3c00
-  static const Color poly = Color(0xeb3c00);
+  static const Color poly = Color(0xffeb3c00);
 
   /// SimpleIcons polygon [Color] from Hex 7b3fe4
-  static const Color polygon = Color(0x7b3fe4);
+  static const Color polygon = Color(0xff7b3fe4);
 
   /// SimpleIcons polymerproject [Color] from Hex ff4470
-  static const Color polymerproject = Color(0xff4470);
+  static const Color polymerproject = Color(0xffff4470);
 
   /// SimpleIcons polywork [Color] from Hex 543de0
-  static const Color polywork = Color(0x543de0);
+  static const Color polywork = Color(0xff543de0);
 
   /// SimpleIcons pond5 [Color] from Hex 000000
-  static const Color pond5 = Color(0x000000);
+  static const Color pond5 = Color(0xff000000);
 
   /// SimpleIcons popos [Color] from Hex 48b9c7
-  static const Color popos = Color(0x48b9c7);
+  static const Color popos = Color(0xff48b9c7);
 
   /// SimpleIcons porsche [Color] from Hex b12b28
-  static const Color porsche = Color(0xb12b28);
+  static const Color porsche = Color(0xffb12b28);
 
   /// SimpleIcons portainer [Color] from Hex 13bef9
-  static const Color portainer = Color(0x13bef9);
+  static const Color portainer = Color(0xff13bef9);
 
   /// SimpleIcons portswigger [Color] from Hex ff6633
-  static const Color portswigger = Color(0xff6633);
+  static const Color portswigger = Color(0xffff6633);
 
   /// SimpleIcons postcss [Color] from Hex dd3a0a
-  static const Color postcss = Color(0xdd3a0a);
+  static const Color postcss = Color(0xffdd3a0a);
 
   /// SimpleIcons postgresql [Color] from Hex 4169e1
-  static const Color postgresql = Color(0x4169e1);
+  static const Color postgresql = Color(0xff4169e1);
 
   /// SimpleIcons posthog [Color] from Hex 000000
-  static const Color posthog = Color(0x000000);
+  static const Color posthog = Color(0xff000000);
 
   /// SimpleIcons postman [Color] from Hex ff6c37
-  static const Color postman = Color(0xff6c37);
+  static const Color postman = Color(0xffff6c37);
 
   /// SimpleIcons postmates [Color] from Hex ffdf18
-  static const Color postmates = Color(0xffdf18);
+  static const Color postmates = Color(0xffffdf18);
 
   /// SimpleIcons powerapps [Color] from Hex 742774
-  static const Color powerapps = Color(0x742774);
+  static const Color powerapps = Color(0xff742774);
 
   /// SimpleIcons powerautomate [Color] from Hex 0066ff
-  static const Color powerautomate = Color(0x0066ff);
+  static const Color powerautomate = Color(0xff0066ff);
 
   /// SimpleIcons powerbi [Color] from Hex f2c811
-  static const Color powerbi = Color(0xf2c811);
+  static const Color powerbi = Color(0xfff2c811);
 
   /// SimpleIcons powerfx [Color] from Hex 7f2157
-  static const Color powerfx = Color(0x7f2157);
+  static const Color powerfx = Color(0xff7f2157);
 
   /// SimpleIcons powerpages [Color] from Hex a493e7
-  static const Color powerpages = Color(0xa493e7);
+  static const Color powerpages = Color(0xffa493e7);
 
   /// SimpleIcons powervirtualagents [Color] from Hex 0b556a
-  static const Color powervirtualagents = Color(0x0b556a);
+  static const Color powervirtualagents = Color(0xff0b556a);
 
   /// SimpleIcons powers [Color] from Hex e74536
-  static const Color powers = Color(0xe74536);
+  static const Color powers = Color(0xffe74536);
 
   /// SimpleIcons powershell [Color] from Hex 5391fe
-  static const Color powershell = Color(0x5391fe);
+  static const Color powershell = Color(0xff5391fe);
 
   /// SimpleIcons prdotco [Color] from Hex 0080ff
-  static const Color prdotco = Color(0x0080ff);
+  static const Color prdotco = Color(0xff0080ff);
 
   /// SimpleIcons precommit [Color] from Hex fab040
-  static const Color precommit = Color(0xfab040);
+  static const Color precommit = Color(0xfffab040);
 
   /// SimpleIcons preact [Color] from Hex 673ab8
-  static const Color preact = Color(0x673ab8);
+  static const Color preact = Color(0xff673ab8);
 
   /// SimpleIcons prefect [Color] from Hex 070e10
-  static const Color prefect = Color(0x070e10);
+  static const Color prefect = Color(0xff070e10);
 
   /// SimpleIcons premierleague [Color] from Hex 360d3a
-  static const Color premierleague = Color(0x360d3a);
+  static const Color premierleague = Color(0xff360d3a);
 
   /// SimpleIcons prepbytes [Color] from Hex 5a87c6
-  static const Color prepbytes = Color(0x5a87c6);
+  static const Color prepbytes = Color(0xff5a87c6);
 
   /// SimpleIcons prestashop [Color] from Hex df0067
-  static const Color prestashop = Color(0xdf0067);
+  static const Color prestashop = Color(0xffdf0067);
 
   /// SimpleIcons presto [Color] from Hex 5890ff
-  static const Color presto = Color(0x5890ff);
+  static const Color presto = Color(0xff5890ff);
 
   /// SimpleIcons prettier [Color] from Hex f7b93e
-  static const Color prettier = Color(0xf7b93e);
+  static const Color prettier = Color(0xfff7b93e);
 
   /// SimpleIcons pretzel [Color] from Hex 1bb3a4
-  static const Color pretzel = Color(0x1bb3a4);
+  static const Color pretzel = Color(0xff1bb3a4);
 
   /// SimpleIcons prevention [Color] from Hex 44c1c5
-  static const Color prevention = Color(0x44c1c5);
+  static const Color prevention = Color(0xff44c1c5);
 
   /// SimpleIcons prezi [Color] from Hex 3181ff
-  static const Color prezi = Color(0x3181ff);
+  static const Color prezi = Color(0xff3181ff);
 
   /// SimpleIcons prime [Color] from Hex 00a8e1
-  static const Color prime = Color(0x00a8e1);
+  static const Color prime = Color(0xff00a8e1);
 
   /// SimpleIcons primevideo [Color] from Hex 1f2e3e
-  static const Color primevideo = Color(0x1f2e3e);
+  static const Color primevideo = Color(0xff1f2e3e);
 
   /// SimpleIcons printables [Color] from Hex fa6831
-  static const Color printables = Color(0xfa6831);
+  static const Color printables = Color(0xfffa6831);
 
   /// SimpleIcons prisma [Color] from Hex 2d3748
-  static const Color prisma = Color(0x2d3748);
+  static const Color prisma = Color(0xff2d3748);
 
   /// SimpleIcons prismic [Color] from Hex 5163ba
-  static const Color prismic = Color(0x5163ba);
+  static const Color prismic = Color(0xff5163ba);
 
   /// SimpleIcons privateinternetaccess [Color] from Hex 4bb749
-  static const Color privateinternetaccess = Color(0x4bb749);
+  static const Color privateinternetaccess = Color(0xff4bb749);
 
   /// SimpleIcons protools [Color] from Hex 7acb10
-  static const Color protools = Color(0x7acb10);
+  static const Color protools = Color(0xff7acb10);
 
   /// SimpleIcons probot [Color] from Hex 00b0d8
-  static const Color probot = Color(0x00b0d8);
+  static const Color probot = Color(0xff00b0d8);
 
   /// SimpleIcons processingfoundation [Color] from Hex 006699
-  static const Color processingfoundation = Color(0x006699);
+  static const Color processingfoundation = Color(0xff006699);
 
   /// SimpleIcons processwire [Color] from Hex 2480e6
-  static const Color processwire = Color(0x2480e6);
+  static const Color processwire = Color(0xff2480e6);
 
   /// SimpleIcons producthunt [Color] from Hex da552f
-  static const Color producthunt = Color(0xda552f);
+  static const Color producthunt = Color(0xffda552f);
 
   /// SimpleIcons progate [Color] from Hex 380953
-  static const Color progate = Color(0x380953);
+  static const Color progate = Color(0xff380953);
 
   /// SimpleIcons progress [Color] from Hex 5ce500
-  static const Color progress = Color(0x5ce500);
+  static const Color progress = Color(0xff5ce500);
 
   /// SimpleIcons prometheus [Color] from Hex e6522c
-  static const Color prometheus = Color(0xe6522c);
+  static const Color prometheus = Color(0xffe6522c);
 
   /// SimpleIcons prosieben [Color] from Hex e6000f
-  static const Color prosieben = Color(0xe6000f);
+  static const Color prosieben = Color(0xffe6000f);
 
   /// SimpleIcons protodotio [Color] from Hex 34a7c1
-  static const Color protodotio = Color(0x34a7c1);
+  static const Color protodotio = Color(0xff34a7c1);
 
   /// SimpleIcons protocolsdotio [Color] from Hex 4d9fe7
-  static const Color protocolsdotio = Color(0x4d9fe7);
+  static const Color protocolsdotio = Color(0xff4d9fe7);
 
   /// SimpleIcons proton [Color] from Hex 6d4aff
-  static const Color proton = Color(0x6d4aff);
+  static const Color proton = Color(0xff6d4aff);
 
   /// SimpleIcons protoncalendar [Color] from Hex 50b0e9
-  static const Color protoncalendar = Color(0x50b0e9);
+  static const Color protoncalendar = Color(0xff50b0e9);
 
   /// SimpleIcons protondrive [Color] from Hex eb508d
-  static const Color protondrive = Color(0xeb508d);
+  static const Color protondrive = Color(0xffeb508d);
 
   /// SimpleIcons protonmail [Color] from Hex 6d4aff
-  static const Color protonmail = Color(0x6d4aff);
+  static const Color protonmail = Color(0xff6d4aff);
 
   /// SimpleIcons protonvpn [Color] from Hex 66deb1
-  static const Color protonvpn = Color(0x66deb1);
+  static const Color protonvpn = Color(0xff66deb1);
 
   /// SimpleIcons protondb [Color] from Hex f50057
-  static const Color protondb = Color(0xf50057);
+  static const Color protondb = Color(0xfff50057);
 
   /// SimpleIcons protractor [Color] from Hex ed163a
-  static const Color protractor = Color(0xed163a);
+  static const Color protractor = Color(0xffed163a);
 
   /// SimpleIcons proxmox [Color] from Hex e57000
-  static const Color proxmox = Color(0xe57000);
+  static const Color proxmox = Color(0xffe57000);
 
   /// SimpleIcons pterodactyl [Color] from Hex 10539f
-  static const Color pterodactyl = Color(0x10539f);
+  static const Color pterodactyl = Color(0xff10539f);
 
   /// SimpleIcons pubg [Color] from Hex feab02
-  static const Color pubg = Color(0xfeab02);
+  static const Color pubg = Color(0xfffeab02);
 
   /// SimpleIcons publons [Color] from Hex 336699
-  static const Color publons = Color(0x336699);
+  static const Color publons = Color(0xff336699);
 
   /// SimpleIcons pubmed [Color] from Hex 326599
-  static const Color pubmed = Color(0x326599);
+  static const Color pubmed = Color(0xff326599);
 
   /// SimpleIcons pug [Color] from Hex a86454
-  static const Color pug = Color(0xa86454);
+  static const Color pug = Color(0xffa86454);
 
   /// SimpleIcons pulumi [Color] from Hex 8a3391
-  static const Color pulumi = Color(0x8a3391);
+  static const Color pulumi = Color(0xff8a3391);
 
   /// SimpleIcons puma [Color] from Hex 242b2f
-  static const Color puma = Color(0x242b2f);
+  static const Color puma = Color(0xff242b2f);
 
   /// SimpleIcons puppet [Color] from Hex ffae1a
-  static const Color puppet = Color(0xffae1a);
+  static const Color puppet = Color(0xffffae1a);
 
   /// SimpleIcons puppeteer [Color] from Hex 40b5a4
-  static const Color puppeteer = Color(0x40b5a4);
+  static const Color puppeteer = Color(0xff40b5a4);
 
   /// SimpleIcons purescript [Color] from Hex 14161a
-  static const Color purescript = Color(0x14161a);
+  static const Color purescript = Color(0xff14161a);
 
   /// SimpleIcons purgecss [Color] from Hex 14161a
-  static const Color purgecss = Color(0x14161a);
+  static const Color purgecss = Color(0xff14161a);
 
   /// SimpleIcons purism [Color] from Hex 2d2d2d
-  static const Color purism = Color(0x2d2d2d);
+  static const Color purism = Color(0xff2d2d2d);
 
   /// SimpleIcons pusher [Color] from Hex 300d4f
-  static const Color pusher = Color(0x300d4f);
+  static const Color pusher = Color(0xff300d4f);
 
   /// SimpleIcons pwa [Color] from Hex 5a0fc8
-  static const Color pwa = Color(0x5a0fc8);
+  static const Color pwa = Color(0xff5a0fc8);
 
   /// SimpleIcons pycharm [Color] from Hex 000000
-  static const Color pycharm = Color(0x000000);
+  static const Color pycharm = Color(0xff000000);
 
   /// SimpleIcons pydantic [Color] from Hex e92063
-  static const Color pydantic = Color(0xe92063);
+  static const Color pydantic = Color(0xffe92063);
 
   /// SimpleIcons pyg [Color] from Hex 3c2179
-  static const Color pyg = Color(0x3c2179);
+  static const Color pyg = Color(0xff3c2179);
 
   /// SimpleIcons pypi [Color] from Hex 3775a9
-  static const Color pypi = Color(0x3775a9);
+  static const Color pypi = Color(0xff3775a9);
 
   /// SimpleIcons pypy [Color] from Hex 193440
-  static const Color pypy = Color(0x193440);
+  static const Color pypy = Color(0xff193440);
 
   /// SimpleIcons pyscaffold [Color] from Hex 005ca0
-  static const Color pyscaffold = Color(0x005ca0);
+  static const Color pyscaffold = Color(0xff005ca0);
 
   /// SimpleIcons pysyft [Color] from Hex f1bf7a
-  static const Color pysyft = Color(0xf1bf7a);
+  static const Color pysyft = Color(0xfff1bf7a);
 
   /// SimpleIcons pytest [Color] from Hex 0a9edc
-  static const Color pytest = Color(0x0a9edc);
+  static const Color pytest = Color(0xff0a9edc);
 
   /// SimpleIcons python [Color] from Hex 3776ab
-  static const Color python = Color(0x3776ab);
+  static const Color python = Color(0xff3776ab);
 
   /// SimpleIcons pythonanywhere [Color] from Hex 1d9fd7
-  static const Color pythonanywhere = Color(0x1d9fd7);
+  static const Color pythonanywhere = Color(0xff1d9fd7);
 
   /// SimpleIcons pytorch [Color] from Hex ee4c2c
-  static const Color pytorch = Color(0xee4c2c);
+  static const Color pytorch = Color(0xffee4c2c);
 
   /// SimpleIcons pyup [Color] from Hex 9f55ff
-  static const Color pyup = Color(0x9f55ff);
+  static const Color pyup = Color(0xff9f55ff);
 
   /// SimpleIcons qantas [Color] from Hex e40000
-  static const Color qantas = Color(0xe40000);
+  static const Color qantas = Color(0xffe40000);
 
   /// SimpleIcons qatarairways [Color] from Hex 5c0d34
-  static const Color qatarairways = Color(0x5c0d34);
+  static const Color qatarairways = Color(0xff5c0d34);
 
   /// SimpleIcons qemu [Color] from Hex ff6600
-  static const Color qemu = Color(0xff6600);
+  static const Color qemu = Color(0xffff6600);
 
   /// SimpleIcons qgis [Color] from Hex 589632
-  static const Color qgis = Color(0x589632);
+  static const Color qgis = Color(0xff589632);
 
   /// SimpleIcons qi [Color] from Hex 000000
-  static const Color qi = Color(0x000000);
+  static const Color qi = Color(0xff000000);
 
   /// SimpleIcons qiita [Color] from Hex 55c500
-  static const Color qiita = Color(0x55c500);
+  static const Color qiita = Color(0xff55c500);
 
   /// SimpleIcons qiskit [Color] from Hex 6929c4
-  static const Color qiskit = Color(0x6929c4);
+  static const Color qiskit = Color(0xff6929c4);
 
   /// SimpleIcons qiwi [Color] from Hex ff8c00
-  static const Color qiwi = Color(0xff8c00);
+  static const Color qiwi = Color(0xffff8c00);
 
   /// SimpleIcons qlik [Color] from Hex 009848
-  static const Color qlik = Color(0x009848);
+  static const Color qlik = Color(0xff009848);
 
   /// SimpleIcons qmk [Color] from Hex 333333
-  static const Color qmk = Color(0x333333);
+  static const Color qmk = Color(0xff333333);
 
   /// SimpleIcons qt [Color] from Hex 41cd52
-  static const Color qt = Color(0x41cd52);
+  static const Color qt = Color(0xff41cd52);
 
   /// SimpleIcons qualcomm [Color] from Hex 3253dc
-  static const Color qualcomm = Color(0x3253dc);
+  static const Color qualcomm = Color(0xff3253dc);
 
   /// SimpleIcons qualtrics [Color] from Hex 00b4ef
-  static const Color qualtrics = Color(0x00b4ef);
+  static const Color qualtrics = Color(0xff00b4ef);
 
   /// SimpleIcons qualys [Color] from Hex ed2e26
-  static const Color qualys = Color(0xed2e26);
+  static const Color qualys = Color(0xffed2e26);
 
   /// SimpleIcons quantcast [Color] from Hex 000000
-  static const Color quantcast = Color(0x000000);
+  static const Color quantcast = Color(0xff000000);
 
   /// SimpleIcons quantconnect [Color] from Hex f98309
-  static const Color quantconnect = Color(0xf98309);
+  static const Color quantconnect = Color(0xfff98309);
 
   /// SimpleIcons quarkus [Color] from Hex 4695eb
-  static const Color quarkus = Color(0x4695eb);
+  static const Color quarkus = Color(0xff4695eb);
 
   /// SimpleIcons quasar [Color] from Hex 050a14
-  static const Color quasar = Color(0x050a14);
+  static const Color quasar = Color(0xff050a14);
 
   /// SimpleIcons qubesos [Color] from Hex 3874d8
-  static const Color qubesos = Color(0x3874d8);
+  static const Color qubesos = Color(0xff3874d8);
 
   /// SimpleIcons quest [Color] from Hex fb4f14
-  static const Color quest = Color(0xfb4f14);
+  static const Color quest = Color(0xfffb4f14);
 
   /// SimpleIcons quickbooks [Color] from Hex 2ca01c
-  static const Color quickbooks = Color(0x2ca01c);
+  static const Color quickbooks = Color(0xff2ca01c);
 
   /// SimpleIcons quicklook [Color] from Hex 0078d3
-  static const Color quicklook = Color(0x0078d3);
+  static const Color quicklook = Color(0xff0078d3);
 
   /// SimpleIcons quicktime [Color] from Hex 1c69f0
-  static const Color quicktime = Color(0x1c69f0);
+  static const Color quicktime = Color(0xff1c69f0);
 
   /// SimpleIcons quicktype [Color] from Hex 159588
-  static const Color quicktype = Color(0x159588);
+  static const Color quicktype = Color(0xff159588);
 
   /// SimpleIcons quip [Color] from Hex f27557
-  static const Color quip = Color(0xf27557);
+  static const Color quip = Color(0xfff27557);
 
   /// SimpleIcons quora [Color] from Hex b92b27
-  static const Color quora = Color(0xb92b27);
+  static const Color quora = Color(0xffb92b27);
 
   /// SimpleIcons qwant [Color] from Hex 5c97ff
-  static const Color qwant = Color(0x5c97ff);
+  static const Color qwant = Color(0xff5c97ff);
 
   /// SimpleIcons qwiklabs [Color] from Hex f5cd0e
-  static const Color qwiklabs = Color(0xf5cd0e);
+  static const Color qwiklabs = Color(0xfff5cd0e);
 
   /// SimpleIcons qzone [Color] from Hex fece00
-  static const Color qzone = Color(0xfece00);
+  static const Color qzone = Color(0xfffece00);
 
   /// SimpleIcons r [Color] from Hex 276dc3
-  static const Color r = Color(0x276dc3);
+  static const Color r = Color(0xff276dc3);
 
   /// SimpleIcons r3 [Color] from Hex ec1d24
-  static const Color r3 = Color(0xec1d24);
+  static const Color r3 = Color(0xffec1d24);
 
   /// SimpleIcons rabbitmq [Color] from Hex ff6600
-  static const Color rabbitmq = Color(0xff6600);
+  static const Color rabbitmq = Color(0xffff6600);
 
   /// SimpleIcons racket [Color] from Hex 9f1d20
-  static const Color racket = Color(0x9f1d20);
+  static const Color racket = Color(0xff9f1d20);
 
   /// SimpleIcons radstudio [Color] from Hex e62431
-  static const Color radstudio = Color(0xe62431);
+  static const Color radstudio = Color(0xffe62431);
 
   /// SimpleIcons radar [Color] from Hex 007aff
-  static const Color radar = Color(0x007aff);
+  static const Color radar = Color(0xff007aff);
 
   /// SimpleIcons radiopublic [Color] from Hex ce262f
-  static const Color radiopublic = Color(0xce262f);
+  static const Color radiopublic = Color(0xffce262f);
 
   /// SimpleIcons radixui [Color] from Hex 161618
-  static const Color radixui = Color(0x161618);
+  static const Color radixui = Color(0xff161618);
 
   /// SimpleIcons railway [Color] from Hex 0b0d0e
-  static const Color railway = Color(0x0b0d0e);
+  static const Color railway = Color(0xff0b0d0e);
 
   /// SimpleIcons rainmeter [Color] from Hex 19519b
-  static const Color rainmeter = Color(0x19519b);
+  static const Color rainmeter = Color(0xff19519b);
 
   /// SimpleIcons rakuten [Color] from Hex bf0000
-  static const Color rakuten = Color(0xbf0000);
+  static const Color rakuten = Color(0xffbf0000);
 
   /// SimpleIcons ram [Color] from Hex 000000
-  static const Color ram = Color(0x000000);
+  static const Color ram = Color(0xff000000);
 
   /// SimpleIcons rancher [Color] from Hex 0075a8
-  static const Color rancher = Color(0x0075a8);
+  static const Color rancher = Color(0xff0075a8);
 
   /// SimpleIcons rapid [Color] from Hex 0055da
-  static const Color rapid = Color(0x0055da);
+  static const Color rapid = Color(0xff0055da);
 
   /// SimpleIcons rarible [Color] from Hex feda03
-  static const Color rarible = Color(0xfeda03);
+  static const Color rarible = Color(0xfffeda03);
 
   /// SimpleIcons rasa [Color] from Hex 5a17ee
-  static const Color rasa = Color(0x5a17ee);
+  static const Color rasa = Color(0xff5a17ee);
 
   /// SimpleIcons raspberrypi [Color] from Hex a22846
-  static const Color raspberrypi = Color(0xa22846);
+  static const Color raspberrypi = Color(0xffa22846);
 
   /// SimpleIcons ravelry [Color] from Hex ee6e62
-  static const Color ravelry = Color(0xee6e62);
+  static const Color ravelry = Color(0xffee6e62);
 
   /// SimpleIcons ray [Color] from Hex 028cf0
-  static const Color ray = Color(0x028cf0);
+  static const Color ray = Color(0xff028cf0);
 
   /// SimpleIcons raycast [Color] from Hex ff6363
-  static const Color raycast = Color(0xff6363);
+  static const Color raycast = Color(0xffff6363);
 
   /// SimpleIcons raylib [Color] from Hex 000000
-  static const Color raylib = Color(0x000000);
+  static const Color raylib = Color(0xff000000);
 
   /// SimpleIcons razer [Color] from Hex 00ff00
-  static const Color razer = Color(0x00ff00);
+  static const Color razer = Color(0xff00ff00);
 
   /// SimpleIcons razorpay [Color] from Hex 0c2451
-  static const Color razorpay = Color(0x0c2451);
+  static const Color razorpay = Color(0xff0c2451);
 
   /// SimpleIcons react [Color] from Hex 61dafb
-  static const Color react = Color(0x61dafb);
+  static const Color react = Color(0xff61dafb);
 
   /// SimpleIcons reacthookform [Color] from Hex ec5990
-  static const Color reacthookform = Color(0xec5990);
+  static const Color reacthookform = Color(0xffec5990);
 
   /// SimpleIcons reactquery [Color] from Hex ff4154
-  static const Color reactquery = Color(0xff4154);
+  static const Color reactquery = Color(0xffff4154);
 
   /// SimpleIcons reactrouter [Color] from Hex ca4245
-  static const Color reactrouter = Color(0xca4245);
+  static const Color reactrouter = Color(0xffca4245);
 
   /// SimpleIcons reacttable [Color] from Hex ff4154
-  static const Color reacttable = Color(0xff4154);
+  static const Color reacttable = Color(0xffff4154);
 
   /// SimpleIcons reactivex [Color] from Hex b7178c
-  static const Color reactivex = Color(0xb7178c);
+  static const Color reactivex = Color(0xffb7178c);
 
   /// SimpleIcons reactos [Color] from Hex 0088cc
-  static const Color reactos = Color(0x0088cc);
+  static const Color reactos = Color(0xff0088cc);
 
   /// SimpleIcons readthedocs [Color] from Hex 8ca1af
-  static const Color readthedocs = Color(0x8ca1af);
+  static const Color readthedocs = Color(0xff8ca1af);
 
   /// SimpleIcons readdotcv [Color] from Hex 111111
-  static const Color readdotcv = Color(0x111111);
+  static const Color readdotcv = Color(0xff111111);
 
   /// SimpleIcons readme [Color] from Hex 018ef5
-  static const Color readme = Color(0x018ef5);
+  static const Color readme = Color(0xff018ef5);
 
   /// SimpleIcons realm [Color] from Hex 39477f
-  static const Color realm = Color(0x39477f);
+  static const Color realm = Color(0xff39477f);
 
   /// SimpleIcons reason [Color] from Hex dd4b39
-  static const Color reason = Color(0xdd4b39);
+  static const Color reason = Color(0xffdd4b39);
 
   /// SimpleIcons reasonstudios [Color] from Hex f9cb61
-  static const Color reasonstudios = Color(0xf9cb61);
+  static const Color reasonstudios = Color(0xfff9cb61);
 
   /// SimpleIcons recoil [Color] from Hex 3578e5
-  static const Color recoil = Color(0x3578e5);
+  static const Color recoil = Color(0xff3578e5);
 
   /// SimpleIcons red [Color] from Hex b32629
-  static const Color red = Color(0xb32629);
+  static const Color red = Color(0xffb32629);
 
   /// SimpleIcons redhat [Color] from Hex ee0000
-  static const Color redhat = Color(0xee0000);
+  static const Color redhat = Color(0xffee0000);
 
   /// SimpleIcons redhatopenshift [Color] from Hex ee0000
-  static const Color redhatopenshift = Color(0xee0000);
+  static const Color redhatopenshift = Color(0xffee0000);
 
   /// SimpleIcons redbubble [Color] from Hex e41321
-  static const Color redbubble = Color(0xe41321);
+  static const Color redbubble = Color(0xffe41321);
 
   /// SimpleIcons reddit [Color] from Hex ff4500
-  static const Color reddit = Color(0xff4500);
+  static const Color reddit = Color(0xffff4500);
 
   /// SimpleIcons redis [Color] from Hex dc382d
-  static const Color redis = Color(0xdc382d);
+  static const Color redis = Color(0xffdc382d);
 
   /// SimpleIcons redmine [Color] from Hex b32024
-  static const Color redmine = Color(0xb32024);
+  static const Color redmine = Color(0xffb32024);
 
   /// SimpleIcons redox [Color] from Hex 000000
-  static const Color redox = Color(0x000000);
+  static const Color redox = Color(0xff000000);
 
   /// SimpleIcons redux [Color] from Hex 764abc
-  static const Color redux = Color(0x764abc);
+  static const Color redux = Color(0xff764abc);
 
   /// SimpleIcons reduxsaga [Color] from Hex 999999
-  static const Color reduxsaga = Color(0x999999);
+  static const Color reduxsaga = Color(0xff999999);
 
   /// SimpleIcons redwoodjs [Color] from Hex bf4722
-  static const Color redwoodjs = Color(0xbf4722);
+  static const Color redwoodjs = Color(0xffbf4722);
 
   /// SimpleIcons reebok [Color] from Hex e41d1b
-  static const Color reebok = Color(0xe41d1b);
+  static const Color reebok = Color(0xffe41d1b);
 
   /// SimpleIcons refine [Color] from Hex 14141f
-  static const Color refine = Color(0x14141f);
+  static const Color refine = Color(0xff14141f);
 
   /// SimpleIcons relay [Color] from Hex f26b00
-  static const Color relay = Color(0xf26b00);
+  static const Color relay = Color(0xfff26b00);
 
   /// SimpleIcons relianceindustrieslimited [Color] from Hex d1ab66
-  static const Color relianceindustrieslimited = Color(0xd1ab66);
+  static const Color relianceindustrieslimited = Color(0xffd1ab66);
 
   /// SimpleIcons remark [Color] from Hex 000000
-  static const Color remark = Color(0x000000);
+  static const Color remark = Color(0xff000000);
 
   /// SimpleIcons remix [Color] from Hex 000000
-  static const Color remix = Color(0x000000);
+  static const Color remix = Color(0xff000000);
 
   /// SimpleIcons renpy [Color] from Hex ff7f7f
-  static const Color renpy = Color(0xff7f7f);
+  static const Color renpy = Color(0xffff7f7f);
 
   /// SimpleIcons renault [Color] from Hex ffcc33
-  static const Color renault = Color(0xffcc33);
+  static const Color renault = Color(0xffffcc33);
 
   /// SimpleIcons render [Color] from Hex 46e3b7
-  static const Color render = Color(0x46e3b7);
+  static const Color render = Color(0xff46e3b7);
 
   /// SimpleIcons renovatebot [Color] from Hex 1a1f6c
-  static const Color renovatebot = Color(0x1a1f6c);
+  static const Color renovatebot = Color(0xff1a1f6c);
 
   /// SimpleIcons renren [Color] from Hex 217dc6
-  static const Color renren = Color(0x217dc6);
+  static const Color renren = Color(0xff217dc6);
 
   /// SimpleIcons replit [Color] from Hex f26207
-  static const Color replit = Color(0xf26207);
+  static const Color replit = Color(0xfff26207);
 
   /// SimpleIcons republicofgamers [Color] from Hex ff0029
-  static const Color republicofgamers = Color(0xff0029);
+  static const Color republicofgamers = Color(0xffff0029);
 
   /// SimpleIcons rescript [Color] from Hex e6484f
-  static const Color rescript = Color(0xe6484f);
+  static const Color rescript = Color(0xffe6484f);
 
   /// SimpleIcons rescuetime [Color] from Hex 161a3b
-  static const Color rescuetime = Color(0x161a3b);
+  static const Color rescuetime = Color(0xff161a3b);
 
   /// SimpleIcons researchgate [Color] from Hex 00ccbb
-  static const Color researchgate = Color(0x00ccbb);
+  static const Color researchgate = Color(0xff00ccbb);
 
   /// SimpleIcons resharper [Color] from Hex 000000
-  static const Color resharper = Color(0x000000);
+  static const Color resharper = Color(0xff000000);
 
   /// SimpleIcons resurrectionremixos [Color] from Hex 000000
-  static const Color resurrectionremixos = Color(0x000000);
+  static const Color resurrectionremixos = Color(0xff000000);
 
   /// SimpleIcons retool [Color] from Hex 3d3d3d
-  static const Color retool = Color(0x3d3d3d);
+  static const Color retool = Color(0xff3d3d3d);
 
   /// SimpleIcons retroarch [Color] from Hex 000000
-  static const Color retroarch = Color(0x000000);
+  static const Color retroarch = Color(0xff000000);
 
   /// SimpleIcons retropie [Color] from Hex cc0000
-  static const Color retropie = Color(0xcc0000);
+  static const Color retropie = Color(0xffcc0000);
 
   /// SimpleIcons revanced [Color] from Hex 9ed5ff
-  static const Color revanced = Color(0x9ed5ff);
+  static const Color revanced = Color(0xff9ed5ff);
 
   /// SimpleIcons revealdotjs [Color] from Hex f2e142
-  static const Color revealdotjs = Color(0xf2e142);
+  static const Color revealdotjs = Color(0xfff2e142);
 
   /// SimpleIcons reverbnation [Color] from Hex e43526
-  static const Color reverbnation = Color(0xe43526);
+  static const Color reverbnation = Color(0xffe43526);
 
   /// SimpleIcons revoltdotchat [Color] from Hex ff4655
-  static const Color revoltdotchat = Color(0xff4655);
+  static const Color revoltdotchat = Color(0xffff4655);
 
   /// SimpleIcons revolut [Color] from Hex 0075eb
-  static const Color revolut = Color(0x0075eb);
+  static const Color revolut = Color(0xff0075eb);
 
   /// SimpleIcons revue [Color] from Hex e15718
-  static const Color revue = Color(0xe15718);
+  static const Color revue = Color(0xffe15718);
 
   /// SimpleIcons rewe [Color] from Hex cc071e
-  static const Color rewe = Color(0xcc071e);
+  static const Color rewe = Color(0xffcc071e);
 
   /// SimpleIcons rezgo [Color] from Hex f76c00
-  static const Color rezgo = Color(0xf76c00);
+  static const Color rezgo = Color(0xfff76c00);
 
   /// SimpleIcons rhinoceros [Color] from Hex 801010
-  static const Color rhinoceros = Color(0x801010);
+  static const Color rhinoceros = Color(0xff801010);
 
   /// SimpleIcons rider [Color] from Hex 000000
-  static const Color rider = Color(0x000000);
+  static const Color rider = Color(0xff000000);
 
   /// SimpleIcons rimacautomobili [Color] from Hex 0a222e
-  static const Color rimacautomobili = Color(0x0a222e);
+  static const Color rimacautomobili = Color(0xff0a222e);
 
   /// SimpleIcons ring [Color] from Hex 1c9ad6
-  static const Color ring = Color(0x1c9ad6);
+  static const Color ring = Color(0xff1c9ad6);
 
   /// SimpleIcons riotgames [Color] from Hex d32936
-  static const Color riotgames = Color(0xd32936);
+  static const Color riotgames = Color(0xffd32936);
 
   /// SimpleIcons ripple [Color] from Hex 0085c0
-  static const Color ripple = Color(0x0085c0);
+  static const Color ripple = Color(0xff0085c0);
 
   /// SimpleIcons riscv [Color] from Hex 283272
-  static const Color riscv = Color(0x283272);
+  static const Color riscv = Color(0xff283272);
 
   /// SimpleIcons riseup [Color] from Hex ff0000
-  static const Color riseup = Color(0xff0000);
+  static const Color riseup = Color(0xffff0000);
 
   /// SimpleIcons ritzcarlton [Color] from Hex 000000
-  static const Color ritzcarlton = Color(0x000000);
+  static const Color ritzcarlton = Color(0xff000000);
 
   /// SimpleIcons rive [Color] from Hex 1d1d1d
-  static const Color rive = Color(0x1d1d1d);
+  static const Color rive = Color(0xff1d1d1d);
 
   /// SimpleIcons roadmapdotsh [Color] from Hex 000000
-  static const Color roadmapdotsh = Color(0x000000);
+  static const Color roadmapdotsh = Color(0xff000000);
 
   /// SimpleIcons roamresearch [Color] from Hex 343a40
-  static const Color roamresearch = Color(0x343a40);
+  static const Color roamresearch = Color(0xff343a40);
 
   /// SimpleIcons robinhood [Color] from Hex 00c805
-  static const Color robinhood = Color(0x00c805);
+  static const Color robinhood = Color(0xff00c805);
 
   /// SimpleIcons roblox [Color] from Hex 000000
-  static const Color roblox = Color(0x000000);
+  static const Color roblox = Color(0xff000000);
 
   /// SimpleIcons robloxstudio [Color] from Hex 00a2ff
-  static const Color robloxstudio = Color(0x00a2ff);
+  static const Color robloxstudio = Color(0xff00a2ff);
 
   /// SimpleIcons robotframework [Color] from Hex 000000
-  static const Color robotframework = Color(0x000000);
+  static const Color robotframework = Color(0xff000000);
 
   /// SimpleIcons rocketdotchat [Color] from Hex f5455c
-  static const Color rocketdotchat = Color(0xf5455c);
+  static const Color rocketdotchat = Color(0xfff5455c);
 
   /// SimpleIcons rocksdb [Color] from Hex 2a2a2a
-  static const Color rocksdb = Color(0x2a2a2a);
+  static const Color rocksdb = Color(0xff2a2a2a);
 
   /// SimpleIcons rockylinux [Color] from Hex 10b981
-  static const Color rockylinux = Color(0x10b981);
+  static const Color rockylinux = Color(0xff10b981);
 
   /// SimpleIcons roku [Color] from Hex 662d91
-  static const Color roku = Color(0x662d91);
+  static const Color roku = Color(0xff662d91);
 
   /// SimpleIcons rollsroyce [Color] from Hex 281432
-  static const Color rollsroyce = Color(0x281432);
+  static const Color rollsroyce = Color(0xff281432);
 
   /// SimpleIcons rollupdotjs [Color] from Hex ec4a3f
-  static const Color rollupdotjs = Color(0xec4a3f);
+  static const Color rollupdotjs = Color(0xffec4a3f);
 
   /// SimpleIcons rome [Color] from Hex 27272a
-  static const Color rome = Color(0x27272a);
+  static const Color rome = Color(0xff27272a);
 
   /// SimpleIcons rootme [Color] from Hex 000000
-  static const Color rootme = Color(0x000000);
+  static const Color rootme = Color(0xff000000);
 
   /// SimpleIcons roots [Color] from Hex 525ddc
-  static const Color roots = Color(0x525ddc);
+  static const Color roots = Color(0xff525ddc);
 
   /// SimpleIcons rootsbedrock [Color] from Hex 525ddc
-  static const Color rootsbedrock = Color(0x525ddc);
+  static const Color rootsbedrock = Color(0xff525ddc);
 
   /// SimpleIcons rootssage [Color] from Hex 525ddc
-  static const Color rootssage = Color(0x525ddc);
+  static const Color rootssage = Color(0xff525ddc);
 
   /// SimpleIcons ros [Color] from Hex 22314e
-  static const Color ros = Color(0x22314e);
+  static const Color ros = Color(0xff22314e);
 
   /// SimpleIcons rossmann [Color] from Hex c3002d
-  static const Color rossmann = Color(0xc3002d);
+  static const Color rossmann = Color(0xffc3002d);
 
   /// SimpleIcons rotaryinternational [Color] from Hex f7a81b
-  static const Color rotaryinternational = Color(0xf7a81b);
+  static const Color rotaryinternational = Color(0xfff7a81b);
 
   /// SimpleIcons rottentomatoes [Color] from Hex fa320a
-  static const Color rottentomatoes = Color(0xfa320a);
+  static const Color rottentomatoes = Color(0xfffa320a);
 
   /// SimpleIcons roundcube [Color] from Hex 37beff
-  static const Color roundcube = Color(0x37beff);
+  static const Color roundcube = Color(0xff37beff);
 
   /// SimpleIcons rsocket [Color] from Hex ef0092
-  static const Color rsocket = Color(0xef0092);
+  static const Color rsocket = Color(0xffef0092);
 
   /// SimpleIcons rss [Color] from Hex ffa500
-  static const Color rss = Color(0xffa500);
+  static const Color rss = Color(0xffffa500);
 
   /// SimpleIcons rstudio [Color] from Hex 75aadb
-  static const Color rstudio = Color(0x75aadb);
+  static const Color rstudio = Color(0xff75aadb);
 
   /// SimpleIcons rte [Color] from Hex 00a7b3
-  static const Color rte = Color(0x00a7b3);
+  static const Color rte = Color(0xff00a7b3);
 
   /// SimpleIcons rtl [Color] from Hex e9113b
-  static const Color rtl = Color(0xe9113b);
+  static const Color rtl = Color(0xffe9113b);
 
   /// SimpleIcons rtlzwei [Color] from Hex 00bcf6
-  static const Color rtlzwei = Color(0x00bcf6);
+  static const Color rtlzwei = Color(0xff00bcf6);
 
   /// SimpleIcons rtm [Color] from Hex 36474f
-  static const Color rtm = Color(0x36474f);
+  static const Color rtm = Color(0xff36474f);
 
   /// SimpleIcons rubocop [Color] from Hex 000000
-  static const Color rubocop = Color(0x000000);
+  static const Color rubocop = Color(0xff000000);
 
   /// SimpleIcons ruby [Color] from Hex cc342d
-  static const Color ruby = Color(0xcc342d);
+  static const Color ruby = Color(0xffcc342d);
 
   /// SimpleIcons rubyonrails [Color] from Hex d30001
-  static const Color rubyonrails = Color(0xd30001);
+  static const Color rubyonrails = Color(0xffd30001);
 
   /// SimpleIcons rubysinatra [Color] from Hex 000000
-  static const Color rubysinatra = Color(0x000000);
+  static const Color rubysinatra = Color(0xff000000);
 
   /// SimpleIcons rubygems [Color] from Hex e9573f
-  static const Color rubygems = Color(0xe9573f);
+  static const Color rubygems = Color(0xffe9573f);
 
   /// SimpleIcons ruff [Color] from Hex fcc21b
-  static const Color ruff = Color(0xfcc21b);
+  static const Color ruff = Color(0xfffcc21b);
 
   /// SimpleIcons rumble [Color] from Hex 85c742
-  static const Color rumble = Color(0x85c742);
+  static const Color rumble = Color(0xff85c742);
 
   /// SimpleIcons rundeck [Color] from Hex f73f39
-  static const Color rundeck = Color(0xf73f39);
+  static const Color rundeck = Color(0xfff73f39);
 
   /// SimpleIcons runkeeper [Color] from Hex 001e62
-  static const Color runkeeper = Color(0x001e62);
+  static const Color runkeeper = Color(0xff001e62);
 
   /// SimpleIcons runkit [Color] from Hex 491757
-  static const Color runkit = Color(0x491757);
+  static const Color runkit = Color(0xff491757);
 
   /// SimpleIcons rust [Color] from Hex 000000
-  static const Color rust = Color(0x000000);
+  static const Color rust = Color(0xff000000);
 
   /// SimpleIcons rxdb [Color] from Hex 8d1f89
-  static const Color rxdb = Color(0x8d1f89);
+  static const Color rxdb = Color(0xff8d1f89);
 
   /// SimpleIcons ryanair [Color] from Hex 073590
-  static const Color ryanair = Color(0x073590);
+  static const Color ryanair = Color(0xff073590);
 
   /// SimpleIcons rye [Color] from Hex 000000
-  static const Color rye = Color(0x000000);
+  static const Color rye = Color(0xff000000);
 
   /// SimpleIcons s7airlines [Color] from Hex c4d600
-  static const Color s7airlines = Color(0xc4d600);
+  static const Color s7airlines = Color(0xffc4d600);
 
   /// SimpleIcons sabanci [Color] from Hex 004b93
-  static const Color sabanci = Color(0x004b93);
+  static const Color sabanci = Color(0xff004b93);
 
   /// SimpleIcons safari [Color] from Hex 000000
-  static const Color safari = Color(0x000000);
+  static const Color safari = Color(0xff000000);
 
   /// SimpleIcons sage [Color] from Hex 00d639
-  static const Color sage = Color(0x00d639);
+  static const Color sage = Color(0xff00d639);
 
   /// SimpleIcons sahibinden [Color] from Hex ffe800
-  static const Color sahibinden = Color(0xffe800);
+  static const Color sahibinden = Color(0xffffe800);
 
   /// SimpleIcons sailfishos [Color] from Hex 053766
-  static const Color sailfishos = Color(0x053766);
+  static const Color sailfishos = Color(0xff053766);
 
   /// SimpleIcons sailsdotjs [Color] from Hex 14acc2
-  static const Color sailsdotjs = Color(0x14acc2);
+  static const Color sailsdotjs = Color(0xff14acc2);
 
   /// SimpleIcons salesforce [Color] from Hex 00a1e0
-  static const Color salesforce = Color(0x00a1e0);
+  static const Color salesforce = Color(0xff00a1e0);
 
   /// SimpleIcons saltproject [Color] from Hex 57bcad
-  static const Color saltproject = Color(0x57bcad);
+  static const Color saltproject = Color(0xff57bcad);
 
   /// SimpleIcons samsclub [Color] from Hex 0067a0
-  static const Color samsclub = Color(0x0067a0);
+  static const Color samsclub = Color(0xff0067a0);
 
   /// SimpleIcons samsung [Color] from Hex 1428a0
-  static const Color samsung = Color(0x1428a0);
+  static const Color samsung = Color(0xff1428a0);
 
   /// SimpleIcons samsungpay [Color] from Hex 1428a0
-  static const Color samsungpay = Color(0x1428a0);
+  static const Color samsungpay = Color(0xff1428a0);
 
   /// SimpleIcons sanfranciscomunicipalrailway [Color] from Hex ba0c2f
-  static const Color sanfranciscomunicipalrailway = Color(0xba0c2f);
+  static const Color sanfranciscomunicipalrailway = Color(0xffba0c2f);
 
   /// SimpleIcons sandisk [Color] from Hex ed1c24
-  static const Color sandisk = Color(0xed1c24);
+  static const Color sandisk = Color(0xffed1c24);
 
   /// SimpleIcons sanic [Color] from Hex ff0d68
-  static const Color sanic = Color(0xff0d68);
+  static const Color sanic = Color(0xffff0d68);
 
   /// SimpleIcons sanity [Color] from Hex f03e2f
-  static const Color sanity = Color(0xf03e2f);
+  static const Color sanity = Color(0xfff03e2f);
 
   /// SimpleIcons saopaulometro [Color] from Hex 004382
-  static const Color saopaulometro = Color(0x004382);
+  static const Color saopaulometro = Color(0xff004382);
 
   /// SimpleIcons sap [Color] from Hex 0faaff
-  static const Color sap = Color(0x0faaff);
+  static const Color sap = Color(0xff0faaff);
 
   /// SimpleIcons sass [Color] from Hex cc6699
-  static const Color sass = Color(0xcc6699);
+  static const Color sass = Color(0xffcc6699);
 
   /// SimpleIcons satdot1 [Color] from Hex 047da3
-  static const Color satdot1 = Color(0x047da3);
+  static const Color satdot1 = Color(0xff047da3);
 
   /// SimpleIcons satellite [Color] from Hex 000000
-  static const Color satellite = Color(0x000000);
+  static const Color satellite = Color(0xff000000);
 
   /// SimpleIcons saturn [Color] from Hex eb680b
-  static const Color saturn = Color(0xeb680b);
+  static const Color saturn = Color(0xffeb680b);
 
   /// SimpleIcons saucelabs [Color] from Hex 3ddc91
-  static const Color saucelabs = Color(0x3ddc91);
+  static const Color saucelabs = Color(0xff3ddc91);
 
   /// SimpleIcons scala [Color] from Hex dc322f
-  static const Color scala = Color(0xdc322f);
+  static const Color scala = Color(0xffdc322f);
 
   /// SimpleIcons scaleway [Color] from Hex 4f0599
-  static const Color scaleway = Color(0x4f0599);
+  static const Color scaleway = Color(0xff4f0599);
 
   /// SimpleIcons scania [Color] from Hex 041e42
-  static const Color scania = Color(0x041e42);
+  static const Color scania = Color(0xff041e42);
 
   /// SimpleIcons schneiderelectric [Color] from Hex 3dcd58
-  static const Color schneiderelectric = Color(0x3dcd58);
+  static const Color schneiderelectric = Color(0xff3dcd58);
 
   /// SimpleIcons scikitlearn [Color] from Hex f7931e
-  static const Color scikitlearn = Color(0xf7931e);
+  static const Color scikitlearn = Color(0xfff7931e);
 
   /// SimpleIcons scipy [Color] from Hex 8caae6
-  static const Color scipy = Color(0x8caae6);
+  static const Color scipy = Color(0xff8caae6);
 
   /// SimpleIcons scopus [Color] from Hex e9711c
-  static const Color scopus = Color(0xe9711c);
+  static const Color scopus = Color(0xffe9711c);
 
   /// SimpleIcons scpfoundation [Color] from Hex 000000
-  static const Color scpfoundation = Color(0x000000);
+  static const Color scpfoundation = Color(0xff000000);
 
   /// SimpleIcons scrapbox [Color] from Hex 06b632
-  static const Color scrapbox = Color(0x06b632);
+  static const Color scrapbox = Color(0xff06b632);
 
   /// SimpleIcons scrapy [Color] from Hex 60a839
-  static const Color scrapy = Color(0x60a839);
+  static const Color scrapy = Color(0xff60a839);
 
   /// SimpleIcons scratch [Color] from Hex 4d97ff
-  static const Color scratch = Color(0x4d97ff);
+  static const Color scratch = Color(0xff4d97ff);
 
   /// SimpleIcons screencastify [Color] from Hex ff8282
-  static const Color screencastify = Color(0xff8282);
+  static const Color screencastify = Color(0xffff8282);
 
   /// SimpleIcons scribd [Color] from Hex 1e7b85
-  static const Color scribd = Color(0x1e7b85);
+  static const Color scribd = Color(0xff1e7b85);
 
   /// SimpleIcons scrimba [Color] from Hex 2b283a
-  static const Color scrimba = Color(0x2b283a);
+  static const Color scrimba = Color(0xff2b283a);
 
   /// SimpleIcons scrollreveal [Color] from Hex ffcb36
-  static const Color scrollreveal = Color(0xffcb36);
+  static const Color scrollreveal = Color(0xffffcb36);
 
   /// SimpleIcons scrumalliance [Color] from Hex 009fda
-  static const Color scrumalliance = Color(0x009fda);
+  static const Color scrumalliance = Color(0xff009fda);
 
   /// SimpleIcons scrutinizerci [Color] from Hex 8a9296
-  static const Color scrutinizerci = Color(0x8a9296);
+  static const Color scrutinizerci = Color(0xff8a9296);
 
   /// SimpleIcons scylladb [Color] from Hex 6cd5e7
-  static const Color scylladb = Color(0x6cd5e7);
+  static const Color scylladb = Color(0xff6cd5e7);
 
   /// SimpleIcons seagate [Color] from Hex 6ebe49
-  static const Color seagate = Color(0x6ebe49);
+  static const Color seagate = Color(0xff6ebe49);
 
   /// SimpleIcons searxng [Color] from Hex 3050ff
-  static const Color searxng = Color(0x3050ff);
+  static const Color searxng = Color(0xff3050ff);
 
   /// SimpleIcons seat [Color] from Hex 33302e
-  static const Color seat = Color(0x33302e);
+  static const Color seat = Color(0xff33302e);
 
   /// SimpleIcons securityscorecard [Color] from Hex 7033fd
-  static const Color securityscorecard = Color(0x7033fd);
+  static const Color securityscorecard = Color(0xff7033fd);
 
   /// SimpleIcons sefaria [Color] from Hex 212e50
-  static const Color sefaria = Color(0x212e50);
+  static const Color sefaria = Color(0xff212e50);
 
   /// SimpleIcons sega [Color] from Hex 0089cf
-  static const Color sega = Color(0x0089cf);
+  static const Color sega = Color(0xff0089cf);
 
   /// SimpleIcons selenium [Color] from Hex 43b02a
-  static const Color selenium = Color(0x43b02a);
+  static const Color selenium = Color(0xff43b02a);
 
   /// SimpleIcons sellfy [Color] from Hex 21b352
-  static const Color sellfy = Color(0x21b352);
+  static const Color sellfy = Color(0xff21b352);
 
   /// SimpleIcons semanticscholar [Color] from Hex 1857b6
-  static const Color semanticscholar = Color(0x1857b6);
+  static const Color semanticscholar = Color(0xff1857b6);
 
   /// SimpleIcons semanticuireact [Color] from Hex 35bdb2
-  static const Color semanticuireact = Color(0x35bdb2);
+  static const Color semanticuireact = Color(0xff35bdb2);
 
   /// SimpleIcons semanticweb [Color] from Hex 005a9c
-  static const Color semanticweb = Color(0x005a9c);
+  static const Color semanticweb = Color(0xff005a9c);
 
   /// SimpleIcons semanticrelease [Color] from Hex 494949
-  static const Color semanticrelease = Color(0x494949);
+  static const Color semanticrelease = Color(0xff494949);
 
   /// SimpleIcons semaphoreci [Color] from Hex 19a974
-  static const Color semaphoreci = Color(0x19a974);
+  static const Color semaphoreci = Color(0xff19a974);
 
   /// SimpleIcons semrush [Color] from Hex ff642d
-  static const Color semrush = Color(0xff642d);
+  static const Color semrush = Color(0xffff642d);
 
   /// SimpleIcons semver [Color] from Hex 3f4551
-  static const Color semver = Color(0x3f4551);
+  static const Color semver = Color(0xff3f4551);
 
   /// SimpleIcons sencha [Color] from Hex 86bc40
-  static const Color sencha = Color(0x86bc40);
+  static const Color sencha = Color(0xff86bc40);
 
   /// SimpleIcons sennheiser [Color] from Hex 000000
-  static const Color sennheiser = Color(0x000000);
+  static const Color sennheiser = Color(0xff000000);
 
   /// SimpleIcons sensu [Color] from Hex 89c967
-  static const Color sensu = Color(0x89c967);
+  static const Color sensu = Color(0xff89c967);
 
   /// SimpleIcons sentry [Color] from Hex 362d59
-  static const Color sentry = Color(0x362d59);
+  static const Color sentry = Color(0xff362d59);
 
   /// SimpleIcons sepa [Color] from Hex 2350a9
-  static const Color sepa = Color(0x2350a9);
+  static const Color sepa = Color(0xff2350a9);
 
   /// SimpleIcons sequelize [Color] from Hex 52b0e7
-  static const Color sequelize = Color(0x52b0e7);
+  static const Color sequelize = Color(0xff52b0e7);
 
   /// SimpleIcons serverfault [Color] from Hex e7282d
-  static const Color serverfault = Color(0xe7282d);
+  static const Color serverfault = Color(0xffe7282d);
 
   /// SimpleIcons serverless [Color] from Hex fd5750
-  static const Color serverless = Color(0xfd5750);
+  static const Color serverless = Color(0xfffd5750);
 
   /// SimpleIcons session [Color] from Hex 000000
-  static const Color session = Color(0x000000);
+  static const Color session = Color(0xff000000);
 
   /// SimpleIcons sessionize [Color] from Hex 1ab394
-  static const Color sessionize = Color(0x1ab394);
+  static const Color sessionize = Color(0xff1ab394);
 
   /// SimpleIcons setapp [Color] from Hex e6c3a5
-  static const Color setapp = Color(0xe6c3a5);
+  static const Color setapp = Color(0xffe6c3a5);
 
   /// SimpleIcons sfml [Color] from Hex 8cc445
-  static const Color sfml = Color(0x8cc445);
+  static const Color sfml = Color(0xff8cc445);
 
   /// SimpleIcons shadcnui [Color] from Hex 000000
-  static const Color shadcnui = Color(0x000000);
+  static const Color shadcnui = Color(0xff000000);
 
   /// SimpleIcons shadow [Color] from Hex 0a0c0d
-  static const Color shadow = Color(0x0a0c0d);
+  static const Color shadow = Color(0xff0a0c0d);
 
   /// SimpleIcons shanghaimetro [Color] from Hex ec1c24
-  static const Color shanghaimetro = Color(0xec1c24);
+  static const Color shanghaimetro = Color(0xffec1c24);
 
   /// SimpleIcons sharex [Color] from Hex 2885f1
-  static const Color sharex = Color(0x2885f1);
+  static const Color sharex = Color(0xff2885f1);
 
   /// SimpleIcons sharp [Color] from Hex 99cc00
-  static const Color sharp = Color(0x99cc00);
+  static const Color sharp = Color(0xff99cc00);
 
   /// SimpleIcons shazam [Color] from Hex 0088ff
-  static const Color shazam = Color(0x0088ff);
+  static const Color shazam = Color(0xff0088ff);
 
   /// SimpleIcons shell [Color] from Hex ffd500
-  static const Color shell = Color(0xffd500);
+  static const Color shell = Color(0xffffd500);
 
   /// SimpleIcons shelly [Color] from Hex 4495d1
-  static const Color shelly = Color(0x4495d1);
+  static const Color shelly = Color(0xff4495d1);
 
   /// SimpleIcons shenzhenmetro [Color] from Hex 009943
-  static const Color shenzhenmetro = Color(0x009943);
+  static const Color shenzhenmetro = Color(0xff009943);
 
   /// SimpleIcons shieldsdotio [Color] from Hex 000000
-  static const Color shieldsdotio = Color(0x000000);
+  static const Color shieldsdotio = Color(0xff000000);
 
   /// SimpleIcons shikimori [Color] from Hex 343434
-  static const Color shikimori = Color(0x343434);
+  static const Color shikimori = Color(0xff343434);
 
   /// SimpleIcons shopee [Color] from Hex ee4d2d
-  static const Color shopee = Color(0xee4d2d);
+  static const Color shopee = Color(0xffee4d2d);
 
   /// SimpleIcons shopify [Color] from Hex 7ab55c
-  static const Color shopify = Color(0x7ab55c);
+  static const Color shopify = Color(0xff7ab55c);
 
   /// SimpleIcons shopware [Color] from Hex 189eff
-  static const Color shopware = Color(0x189eff);
+  static const Color shopware = Color(0xff189eff);
 
   /// SimpleIcons shortcut [Color] from Hex 58b1e4
-  static const Color shortcut = Color(0x58b1e4);
+  static const Color shortcut = Color(0xff58b1e4);
 
   /// SimpleIcons shotcut [Color] from Hex 115c77
-  static const Color shotcut = Color(0x115c77);
+  static const Color shotcut = Color(0xff115c77);
 
   /// SimpleIcons showpad [Color] from Hex 2d2e83
-  static const Color showpad = Color(0x2d2e83);
+  static const Color showpad = Color(0xff2d2e83);
 
   /// SimpleIcons showtime [Color] from Hex b10000
-  static const Color showtime = Color(0xb10000);
+  static const Color showtime = Color(0xffb10000);
 
   /// SimpleIcons shutterstock [Color] from Hex ee2b24
-  static const Color shutterstock = Color(0xee2b24);
+  static const Color shutterstock = Color(0xffee2b24);
 
   /// SimpleIcons siemens [Color] from Hex 009999
-  static const Color siemens = Color(0x009999);
+  static const Color siemens = Color(0xff009999);
 
   /// SimpleIcons sifive [Color] from Hex 252323
-  static const Color sifive = Color(0x252323);
+  static const Color sifive = Color(0xff252323);
 
   /// SimpleIcons signal [Color] from Hex 3a76f0
-  static const Color signal = Color(0x3a76f0);
+  static const Color signal = Color(0xff3a76f0);
 
   /// SimpleIcons similarweb [Color] from Hex 092540
-  static const Color similarweb = Color(0x092540);
+  static const Color similarweb = Color(0xff092540);
 
   /// SimpleIcons simkl [Color] from Hex 000000
-  static const Color simkl = Color(0x000000);
+  static const Color simkl = Color(0xff000000);
 
   /// SimpleIcons simpleanalytics [Color] from Hex ff4f64
-  static const Color simpleanalytics = Color(0xff4f64);
+  static const Color simpleanalytics = Color(0xffff4f64);
 
   /// SimpleIcons simpleicons [Color] from Hex 111111
-  static const Color simpleicons = Color(0x111111);
+  static const Color simpleicons = Color(0xff111111);
 
   /// SimpleIcons simplenote [Color] from Hex 3361cc
-  static const Color simplenote = Color(0x3361cc);
+  static const Color simplenote = Color(0xff3361cc);
 
   /// SimpleIcons sinaweibo [Color] from Hex e6162d
-  static const Color sinaweibo = Color(0xe6162d);
+  static const Color sinaweibo = Color(0xffe6162d);
 
   /// SimpleIcons singaporeairlines [Color] from Hex f99f1c
-  static const Color singaporeairlines = Color(0xf99f1c);
+  static const Color singaporeairlines = Color(0xfff99f1c);
 
   /// SimpleIcons singlestore [Color] from Hex aa00ff
-  static const Color singlestore = Color(0xaa00ff);
+  static const Color singlestore = Color(0xffaa00ff);
 
   /// SimpleIcons sitecore [Color] from Hex eb1f1f
-  static const Color sitecore = Color(0xeb1f1f);
+  static const Color sitecore = Color(0xffeb1f1f);
 
   /// SimpleIcons sitepoint [Color] from Hex 258aaf
-  static const Color sitepoint = Color(0x258aaf);
+  static const Color sitepoint = Color(0xff258aaf);
 
   /// SimpleIcons sketch [Color] from Hex f7b500
-  static const Color sketch = Color(0xf7b500);
+  static const Color sketch = Color(0xfff7b500);
 
   /// SimpleIcons sketchfab [Color] from Hex 1caad9
-  static const Color sketchfab = Color(0x1caad9);
+  static const Color sketchfab = Color(0xff1caad9);
 
   /// SimpleIcons sketchup [Color] from Hex 005f9e
-  static const Color sketchup = Color(0x005f9e);
+  static const Color sketchup = Color(0xff005f9e);
 
   /// SimpleIcons skillshare [Color] from Hex 00ff84
-  static const Color skillshare = Color(0x00ff84);
+  static const Color skillshare = Color(0xff00ff84);
 
   /// SimpleIcons skoda [Color] from Hex 0e3a2f
-  static const Color skoda = Color(0x0e3a2f);
+  static const Color skoda = Color(0xff0e3a2f);
 
   /// SimpleIcons sky [Color] from Hex 0072c9
-  static const Color sky = Color(0x0072c9);
+  static const Color sky = Color(0xff0072c9);
 
   /// SimpleIcons skynet [Color] from Hex 00c65e
-  static const Color skynet = Color(0x00c65e);
+  static const Color skynet = Color(0xff00c65e);
 
   /// SimpleIcons skypack [Color] from Hex 3167ff
-  static const Color skypack = Color(0x3167ff);
+  static const Color skypack = Color(0xff3167ff);
 
   /// SimpleIcons skype [Color] from Hex 00aff0
-  static const Color skype = Color(0x00aff0);
+  static const Color skype = Color(0xff00aff0);
 
   /// SimpleIcons skypeforbusiness [Color] from Hex 00aff0
-  static const Color skypeforbusiness = Color(0x00aff0);
+  static const Color skypeforbusiness = Color(0xff00aff0);
 
   /// SimpleIcons skyrock [Color] from Hex 009aff
-  static const Color skyrock = Color(0x009aff);
+  static const Color skyrock = Color(0xff009aff);
 
   /// SimpleIcons slack [Color] from Hex 4a154b
-  static const Color slack = Color(0x4a154b);
+  static const Color slack = Color(0xff4a154b);
 
   /// SimpleIcons slackware [Color] from Hex 000000
-  static const Color slackware = Color(0x000000);
+  static const Color slackware = Color(0xff000000);
 
   /// SimpleIcons slashdot [Color] from Hex 026664
-  static const Color slashdot = Color(0x026664);
+  static const Color slashdot = Color(0xff026664);
 
   /// SimpleIcons slickpic [Color] from Hex ff880f
-  static const Color slickpic = Color(0xff880f);
+  static const Color slickpic = Color(0xffff880f);
 
   /// SimpleIcons slides [Color] from Hex e4637c
-  static const Color slides = Color(0xe4637c);
+  static const Color slides = Color(0xffe4637c);
 
   /// SimpleIcons slideshare [Color] from Hex 008ed2
-  static const Color slideshare = Color(0x008ed2);
+  static const Color slideshare = Color(0xff008ed2);
 
   /// SimpleIcons slint [Color] from Hex 2379f4
-  static const Color slint = Color(0x2379f4);
+  static const Color slint = Color(0xff2379f4);
 
   /// SimpleIcons smart [Color] from Hex fabc0c
-  static const Color smart = Color(0xfabc0c);
+  static const Color smart = Color(0xfffabc0c);
 
   /// SimpleIcons smartthings [Color] from Hex 15bfff
-  static const Color smartthings = Color(0x15bfff);
+  static const Color smartthings = Color(0xff15bfff);
 
   /// SimpleIcons smashdotgg [Color] from Hex cb333b
-  static const Color smashdotgg = Color(0xcb333b);
+  static const Color smashdotgg = Color(0xffcb333b);
 
   /// SimpleIcons smashingmagazine [Color] from Hex e85c33
-  static const Color smashingmagazine = Color(0xe85c33);
+  static const Color smashingmagazine = Color(0xffe85c33);
 
   /// SimpleIcons smrt [Color] from Hex ee2e24
-  static const Color smrt = Color(0xee2e24);
+  static const Color smrt = Color(0xffee2e24);
 
   /// SimpleIcons smugmug [Color] from Hex 6db944
-  static const Color smugmug = Color(0x6db944);
+  static const Color smugmug = Color(0xff6db944);
 
   /// SimpleIcons snapchat [Color] from Hex fffc00
-  static const Color snapchat = Color(0xfffc00);
+  static const Color snapchat = Color(0xfffffc00);
 
   /// SimpleIcons snapcraft [Color] from Hex 82bea0
-  static const Color snapcraft = Color(0x82bea0);
+  static const Color snapcraft = Color(0xff82bea0);
 
   /// SimpleIcons sncf [Color] from Hex ca0939
-  static const Color sncf = Color(0xca0939);
+  static const Color sncf = Color(0xffca0939);
 
   /// SimpleIcons snowflake [Color] from Hex 29b5e8
-  static const Color snowflake = Color(0x29b5e8);
+  static const Color snowflake = Color(0xff29b5e8);
 
   /// SimpleIcons snowpack [Color] from Hex 2e5e82
-  static const Color snowpack = Color(0x2e5e82);
+  static const Color snowpack = Color(0xff2e5e82);
 
   /// SimpleIcons snyk [Color] from Hex 4c4a73
-  static const Color snyk = Color(0x4c4a73);
+  static const Color snyk = Color(0xff4c4a73);
 
   /// SimpleIcons socialblade [Color] from Hex b3382c
-  static const Color socialblade = Color(0xb3382c);
+  static const Color socialblade = Color(0xffb3382c);
 
   /// SimpleIcons society6 [Color] from Hex 000000
-  static const Color society6 = Color(0x000000);
+  static const Color society6 = Color(0xff000000);
 
   /// SimpleIcons socketdotio [Color] from Hex 010101
-  static const Color socketdotio = Color(0x010101);
+  static const Color socketdotio = Color(0xff010101);
 
   /// SimpleIcons sogou [Color] from Hex fb6022
-  static const Color sogou = Color(0xfb6022);
+  static const Color sogou = Color(0xfffb6022);
 
   /// SimpleIcons solid [Color] from Hex 2c4f7c
-  static const Color solid = Color(0x2c4f7c);
+  static const Color solid = Color(0xff2c4f7c);
 
   /// SimpleIcons solidity [Color] from Hex 363636
-  static const Color solidity = Color(0x363636);
+  static const Color solidity = Color(0xff363636);
 
   /// SimpleIcons sololearn [Color] from Hex 149ef2
-  static const Color sololearn = Color(0x149ef2);
+  static const Color sololearn = Color(0xff149ef2);
 
   /// SimpleIcons solus [Color] from Hex 5294e2
-  static const Color solus = Color(0x5294e2);
+  static const Color solus = Color(0xff5294e2);
 
   /// SimpleIcons sonar [Color] from Hex fd3456
-  static const Color sonar = Color(0xfd3456);
+  static const Color sonar = Color(0xfffd3456);
 
   /// SimpleIcons sonarcloud [Color] from Hex f3702a
-  static const Color sonarcloud = Color(0xf3702a);
+  static const Color sonarcloud = Color(0xfff3702a);
 
   /// SimpleIcons sonarlint [Color] from Hex cb2029
-  static const Color sonarlint = Color(0xcb2029);
+  static const Color sonarlint = Color(0xffcb2029);
 
   /// SimpleIcons sonarqube [Color] from Hex 4e9bcd
-  static const Color sonarqube = Color(0x4e9bcd);
+  static const Color sonarqube = Color(0xff4e9bcd);
 
   /// SimpleIcons sonatype [Color] from Hex 1b1c30
-  static const Color sonatype = Color(0x1b1c30);
+  static const Color sonatype = Color(0xff1b1c30);
 
   /// SimpleIcons songkick [Color] from Hex f80046
-  static const Color songkick = Color(0xf80046);
+  static const Color songkick = Color(0xfff80046);
 
   /// SimpleIcons songoda [Color] from Hex fc494a
-  static const Color songoda = Color(0xfc494a);
+  static const Color songoda = Color(0xfffc494a);
 
   /// SimpleIcons sonicwall [Color] from Hex ff791a
-  static const Color sonicwall = Color(0xff791a);
+  static const Color sonicwall = Color(0xffff791a);
 
   /// SimpleIcons sonos [Color] from Hex 000000
-  static const Color sonos = Color(0x000000);
+  static const Color sonos = Color(0xff000000);
 
   /// SimpleIcons sony [Color] from Hex 000000
-  static const Color sony = Color(0x000000);
+  static const Color sony = Color(0xff000000);
 
   /// SimpleIcons soriana [Color] from Hex d52b1e
-  static const Color soriana = Color(0xd52b1e);
+  static const Color soriana = Color(0xffd52b1e);
 
   /// SimpleIcons soundcharts [Color] from Hex 0c1528
-  static const Color soundcharts = Color(0x0c1528);
+  static const Color soundcharts = Color(0xff0c1528);
 
   /// SimpleIcons soundcloud [Color] from Hex ff3300
-  static const Color soundcloud = Color(0xff3300);
+  static const Color soundcloud = Color(0xffff3300);
 
   /// SimpleIcons sourceengine [Color] from Hex f79a10
-  static const Color sourceengine = Color(0xf79a10);
+  static const Color sourceengine = Color(0xfff79a10);
 
   /// SimpleIcons sourceforge [Color] from Hex ff6600
-  static const Color sourceforge = Color(0xff6600);
+  static const Color sourceforge = Color(0xffff6600);
 
   /// SimpleIcons sourcehut [Color] from Hex 000000
-  static const Color sourcehut = Color(0x000000);
+  static const Color sourcehut = Color(0xff000000);
 
   /// SimpleIcons sourcetree [Color] from Hex 0052cc
-  static const Color sourcetree = Color(0x0052cc);
+  static const Color sourcetree = Color(0xff0052cc);
 
   /// SimpleIcons southwestairlines [Color] from Hex 304cb2
-  static const Color southwestairlines = Color(0x304cb2);
+  static const Color southwestairlines = Color(0xff304cb2);
 
   /// SimpleIcons spacemacs [Color] from Hex 9266cc
-  static const Color spacemacs = Color(0x9266cc);
+  static const Color spacemacs = Color(0xff9266cc);
 
   /// SimpleIcons spacex [Color] from Hex 000000
-  static const Color spacex = Color(0x000000);
+  static const Color spacex = Color(0xff000000);
 
   /// SimpleIcons spacy [Color] from Hex 09a3d5
-  static const Color spacy = Color(0x09a3d5);
+  static const Color spacy = Color(0xff09a3d5);
 
   /// SimpleIcons sparkar [Color] from Hex ff5c83
-  static const Color sparkar = Color(0xff5c83);
+  static const Color sparkar = Color(0xffff5c83);
 
   /// SimpleIcons sparkasse [Color] from Hex ff0000
-  static const Color sparkasse = Color(0xff0000);
+  static const Color sparkasse = Color(0xffff0000);
 
   /// SimpleIcons sparkfun [Color] from Hex e53525
-  static const Color sparkfun = Color(0xe53525);
+  static const Color sparkfun = Color(0xffe53525);
 
   /// SimpleIcons sparkpost [Color] from Hex fa6423
-  static const Color sparkpost = Color(0xfa6423);
+  static const Color sparkpost = Color(0xfffa6423);
 
   /// SimpleIcons spdx [Color] from Hex 4398cc
-  static const Color spdx = Color(0x4398cc);
+  static const Color spdx = Color(0xff4398cc);
 
   /// SimpleIcons speakerdeck [Color] from Hex 009287
-  static const Color speakerdeck = Color(0x009287);
+  static const Color speakerdeck = Color(0xff009287);
 
   /// SimpleIcons spectrum [Color] from Hex 7b16ff
-  static const Color spectrum = Color(0x7b16ff);
+  static const Color spectrum = Color(0xff7b16ff);
 
   /// SimpleIcons speedtest [Color] from Hex 141526
-  static const Color speedtest = Color(0x141526);
+  static const Color speedtest = Color(0xff141526);
 
   /// SimpleIcons speedypage [Color] from Hex 1c71f9
-  static const Color speedypage = Color(0x1c71f9);
+  static const Color speedypage = Color(0xff1c71f9);
 
   /// SimpleIcons sphereonlinejudge [Color] from Hex 337ab7
-  static const Color sphereonlinejudge = Color(0x337ab7);
+  static const Color sphereonlinejudge = Color(0xff337ab7);
 
   /// SimpleIcons sphinx [Color] from Hex 000000
-  static const Color sphinx = Color(0x000000);
+  static const Color sphinx = Color(0xff000000);
 
   /// SimpleIcons spigotmc [Color] from Hex ed8106
-  static const Color spigotmc = Color(0xed8106);
+  static const Color spigotmc = Color(0xffed8106);
 
   /// SimpleIcons spinnaker [Color] from Hex 139bb4
-  static const Color spinnaker = Color(0x139bb4);
+  static const Color spinnaker = Color(0xff139bb4);
 
   /// SimpleIcons spinrilla [Color] from Hex 460856
-  static const Color spinrilla = Color(0x460856);
+  static const Color spinrilla = Color(0xff460856);
 
   /// SimpleIcons splunk [Color] from Hex 000000
-  static const Color splunk = Color(0x000000);
+  static const Color splunk = Color(0xff000000);
 
   /// SimpleIcons spond [Color] from Hex ee4353
-  static const Color spond = Color(0xee4353);
+  static const Color spond = Color(0xffee4353);
 
   /// SimpleIcons spotify [Color] from Hex 1db954
-  static const Color spotify = Color(0x1db954);
+  static const Color spotify = Color(0xff1db954);
 
   /// SimpleIcons spotlight [Color] from Hex 352a71
-  static const Color spotlight = Color(0x352a71);
+  static const Color spotlight = Color(0xff352a71);
 
   /// SimpleIcons spreadshirt [Color] from Hex 00b2a5
-  static const Color spreadshirt = Color(0x00b2a5);
+  static const Color spreadshirt = Color(0xff00b2a5);
 
   /// SimpleIcons spreaker [Color] from Hex f5c300
-  static const Color spreaker = Color(0xf5c300);
+  static const Color spreaker = Color(0xfff5c300);
 
   /// SimpleIcons spring [Color] from Hex 000000
-  static const Color spring = Color(0x000000);
+  static const Color spring = Color(0xff000000);
 
   /// SimpleIcons springboot [Color] from Hex 6db33f
-  static const Color springboot = Color(0x6db33f);
+  static const Color springboot = Color(0xff6db33f);
 
   /// SimpleIcons springsecurity [Color] from Hex 6db33f
-  static const Color springsecurity = Color(0x6db33f);
+  static const Color springsecurity = Color(0xff6db33f);
 
   /// SimpleIcons spyderide [Color] from Hex ff0000
-  static const Color spyderide = Color(0xff0000);
+  static const Color spyderide = Color(0xffff0000);
 
   /// SimpleIcons sqlalchemy [Color] from Hex d71f00
-  static const Color sqlalchemy = Color(0xd71f00);
+  static const Color sqlalchemy = Color(0xffd71f00);
 
   /// SimpleIcons sqlite [Color] from Hex 003b57
-  static const Color sqlite = Color(0x003b57);
+  static const Color sqlite = Color(0xff003b57);
 
   /// SimpleIcons square [Color] from Hex 3e4348
-  static const Color square = Color(0x3e4348);
+  static const Color square = Color(0xff3e4348);
 
   /// SimpleIcons squareenix [Color] from Hex ed1c24
-  static const Color squareenix = Color(0xed1c24);
+  static const Color squareenix = Color(0xffed1c24);
 
   /// SimpleIcons squarespace [Color] from Hex 000000
-  static const Color squarespace = Color(0x000000);
+  static const Color squarespace = Color(0xff000000);
 
   /// SimpleIcons ssrn [Color] from Hex 154881
-  static const Color ssrn = Color(0x154881);
+  static const Color ssrn = Color(0xff154881);
 
   /// SimpleIcons sst [Color] from Hex e27152
-  static const Color sst = Color(0xe27152);
+  static const Color sst = Color(0xffe27152);
 
   /// SimpleIcons stackexchange [Color] from Hex 1e5397
-  static const Color stackexchange = Color(0x1e5397);
+  static const Color stackexchange = Color(0xff1e5397);
 
   /// SimpleIcons stackoverflow [Color] from Hex f58025
-  static const Color stackoverflow = Color(0xf58025);
+  static const Color stackoverflow = Color(0xfff58025);
 
   /// SimpleIcons stackbit [Color] from Hex 207bea
-  static const Color stackbit = Color(0x207bea);
+  static const Color stackbit = Color(0xff207bea);
 
   /// SimpleIcons stackblitz [Color] from Hex 1269d3
-  static const Color stackblitz = Color(0x1269d3);
+  static const Color stackblitz = Color(0xff1269d3);
 
   /// SimpleIcons stackedit [Color] from Hex 606060
-  static const Color stackedit = Color(0x606060);
+  static const Color stackedit = Color(0xff606060);
 
   /// SimpleIcons stackhawk [Color] from Hex 00cbc6
-  static const Color stackhawk = Color(0x00cbc6);
+  static const Color stackhawk = Color(0xff00cbc6);
 
   /// SimpleIcons stackpath [Color] from Hex 000000
-  static const Color stackpath = Color(0x000000);
+  static const Color stackpath = Color(0xff000000);
 
   /// SimpleIcons stackshare [Color] from Hex 0690fa
-  static const Color stackshare = Color(0x0690fa);
+  static const Color stackshare = Color(0xff0690fa);
 
   /// SimpleIcons stadia [Color] from Hex cd2640
-  static const Color stadia = Color(0xcd2640);
+  static const Color stadia = Color(0xffcd2640);
 
   /// SimpleIcons staffbase [Color] from Hex 00a4fd
-  static const Color staffbase = Color(0x00a4fd);
+  static const Color staffbase = Color(0xff00a4fd);
 
   /// SimpleIcons standardresume [Color] from Hex 2a3ffb
-  static const Color standardresume = Color(0x2a3ffb);
+  static const Color standardresume = Color(0xff2a3ffb);
 
   /// SimpleIcons standardjs [Color] from Hex f3df49
-  static const Color standardjs = Color(0xf3df49);
+  static const Color standardjs = Color(0xfff3df49);
 
   /// SimpleIcons startrek [Color] from Hex ffe200
-  static const Color startrek = Color(0xffe200);
+  static const Color startrek = Color(0xffffe200);
 
   /// SimpleIcons starbucks [Color] from Hex 006241
-  static const Color starbucks = Color(0x006241);
+  static const Color starbucks = Color(0xff006241);
 
   /// SimpleIcons stardock [Color] from Hex 004b8d
-  static const Color stardock = Color(0x004b8d);
+  static const Color stardock = Color(0xff004b8d);
 
   /// SimpleIcons starlingbank [Color] from Hex 6935d3
-  static const Color starlingbank = Color(0x6935d3);
+  static const Color starlingbank = Color(0xff6935d3);
 
   /// SimpleIcons starship [Color] from Hex dd0b78
-  static const Color starship = Color(0xdd0b78);
+  static const Color starship = Color(0xffdd0b78);
 
   /// SimpleIcons starz [Color] from Hex 000000
-  static const Color starz = Color(0x000000);
+  static const Color starz = Color(0xff000000);
 
   /// SimpleIcons statamic [Color] from Hex ff269e
-  static const Color statamic = Color(0xff269e);
+  static const Color statamic = Color(0xffff269e);
 
   /// SimpleIcons statuspage [Color] from Hex 172b4d
-  static const Color statuspage = Color(0x172b4d);
+  static const Color statuspage = Color(0xff172b4d);
 
   /// SimpleIcons statuspal [Color] from Hex 4934bf
-  static const Color statuspal = Color(0x4934bf);
+  static const Color statuspal = Color(0xff4934bf);
 
   /// SimpleIcons steam [Color] from Hex 000000
-  static const Color steam = Color(0x000000);
+  static const Color steam = Color(0xff000000);
 
   /// SimpleIcons steamdeck [Color] from Hex 1a9fff
-  static const Color steamdeck = Color(0x1a9fff);
+  static const Color steamdeck = Color(0xff1a9fff);
 
   /// SimpleIcons steamdb [Color] from Hex 000000
-  static const Color steamdb = Color(0x000000);
+  static const Color steamdb = Color(0xff000000);
 
   /// SimpleIcons steamworks [Color] from Hex 1e1e1e
-  static const Color steamworks = Color(0x1e1e1e);
+  static const Color steamworks = Color(0xff1e1e1e);
 
   /// SimpleIcons steelseries [Color] from Hex ff5200
-  static const Color steelseries = Color(0xff5200);
+  static const Color steelseries = Color(0xffff5200);
 
   /// SimpleIcons steem [Color] from Hex 171fc9
-  static const Color steem = Color(0x171fc9);
+  static const Color steem = Color(0xff171fc9);
 
   /// SimpleIcons steemit [Color] from Hex 06d6a9
-  static const Color steemit = Color(0x06d6a9);
+  static const Color steemit = Color(0xff06d6a9);
 
   /// SimpleIcons steinberg [Color] from Hex c90827
-  static const Color steinberg = Color(0xc90827);
+  static const Color steinberg = Color(0xffc90827);
 
   /// SimpleIcons stellar [Color] from Hex 7d00ff
-  static const Color stellar = Color(0x7d00ff);
+  static const Color stellar = Color(0xff7d00ff);
 
   /// SimpleIcons stencyl [Color] from Hex 8e1c04
-  static const Color stencyl = Color(0x8e1c04);
+  static const Color stencyl = Color(0xff8e1c04);
 
   /// SimpleIcons stimulus [Color] from Hex 77e8b9
-  static const Color stimulus = Color(0x77e8b9);
+  static const Color stimulus = Color(0xff77e8b9);
 
   /// SimpleIcons stitcher [Color] from Hex 000000
-  static const Color stitcher = Color(0x000000);
+  static const Color stitcher = Color(0xff000000);
 
   /// SimpleIcons stmicroelectronics [Color] from Hex 03234b
-  static const Color stmicroelectronics = Color(0x03234b);
+  static const Color stmicroelectronics = Color(0xff03234b);
 
   /// SimpleIcons stockx [Color] from Hex 006340
-  static const Color stockx = Color(0x006340);
+  static const Color stockx = Color(0xff006340);
 
   /// SimpleIcons stopstalk [Color] from Hex 536dfe
-  static const Color stopstalk = Color(0x536dfe);
+  static const Color stopstalk = Color(0xff536dfe);
 
   /// SimpleIcons storyblok [Color] from Hex 09b3af
-  static const Color storyblok = Color(0x09b3af);
+  static const Color storyblok = Color(0xff09b3af);
 
   /// SimpleIcons storybook [Color] from Hex ff4785
-  static const Color storybook = Color(0xff4785);
+  static const Color storybook = Color(0xffff4785);
 
   /// SimpleIcons strapi [Color] from Hex 4945ff
-  static const Color strapi = Color(0x4945ff);
+  static const Color strapi = Color(0xff4945ff);
 
   /// SimpleIcons strava [Color] from Hex fc4c02
-  static const Color strava = Color(0xfc4c02);
+  static const Color strava = Color(0xfffc4c02);
 
   /// SimpleIcons streamlabs [Color] from Hex 80f5d2
-  static const Color streamlabs = Color(0x80f5d2);
+  static const Color streamlabs = Color(0xff80f5d2);
 
   /// SimpleIcons streamlit [Color] from Hex ff4b4b
-  static const Color streamlit = Color(0xff4b4b);
+  static const Color streamlit = Color(0xffff4b4b);
 
   /// SimpleIcons stripe [Color] from Hex 008cdd
-  static const Color stripe = Color(0x008cdd);
+  static const Color stripe = Color(0xff008cdd);
 
   /// SimpleIcons strongswan [Color] from Hex e00033
-  static const Color strongswan = Color(0xe00033);
+  static const Color strongswan = Color(0xffe00033);
 
   /// SimpleIcons stryker [Color] from Hex e74c3c
-  static const Color stryker = Color(0xe74c3c);
+  static const Color stryker = Color(0xffe74c3c);
 
   /// SimpleIcons stubhub [Color] from Hex 003168
-  static const Color stubhub = Color(0x003168);
+  static const Color stubhub = Color(0xff003168);
 
   /// SimpleIcons studio3t [Color] from Hex 17af66
-  static const Color studio3t = Color(0x17af66);
+  static const Color studio3t = Color(0xff17af66);
 
   /// SimpleIcons studyverse [Color] from Hex 1d29e4
-  static const Color studyverse = Color(0x1d29e4);
+  static const Color studyverse = Color(0xff1d29e4);
 
   /// SimpleIcons styledcomponents [Color] from Hex db7093
-  static const Color styledcomponents = Color(0xdb7093);
+  static const Color styledcomponents = Color(0xffdb7093);
 
   /// SimpleIcons stylelint [Color] from Hex 263238
-  static const Color stylelint = Color(0x263238);
+  static const Color stylelint = Color(0xff263238);
 
   /// SimpleIcons styleshare [Color] from Hex 212121
-  static const Color styleshare = Color(0x212121);
+  static const Color styleshare = Color(0xff212121);
 
   /// SimpleIcons stylus [Color] from Hex 333333
-  static const Color stylus = Color(0x333333);
+  static const Color stylus = Color(0xff333333);
 
   /// SimpleIcons subaru [Color] from Hex 013c74
-  static const Color subaru = Color(0x013c74);
+  static const Color subaru = Color(0xff013c74);
 
   /// SimpleIcons sublimetext [Color] from Hex ff9800
-  static const Color sublimetext = Color(0xff9800);
+  static const Color sublimetext = Color(0xffff9800);
 
   /// SimpleIcons substack [Color] from Hex ff6719
-  static const Color substack = Color(0xff6719);
+  static const Color substack = Color(0xffff6719);
 
   /// SimpleIcons subtitleedit [Color] from Hex cc2424
-  static const Color subtitleedit = Color(0xcc2424);
+  static const Color subtitleedit = Color(0xffcc2424);
 
   /// SimpleIcons subversion [Color] from Hex 809cc9
-  static const Color subversion = Color(0x809cc9);
+  static const Color subversion = Color(0xff809cc9);
 
   /// SimpleIcons suckless [Color] from Hex 1177aa
-  static const Color suckless = Color(0x1177aa);
+  static const Color suckless = Color(0xff1177aa);
 
   /// SimpleIcons sumologic [Color] from Hex 000099
-  static const Color sumologic = Color(0x000099);
+  static const Color sumologic = Color(0xff000099);
 
   /// SimpleIcons supabase [Color] from Hex 3fcf8e
-  static const Color supabase = Color(0x3fcf8e);
+  static const Color supabase = Color(0xff3fcf8e);
 
   /// SimpleIcons superuser [Color] from Hex 38a1ce
-  static const Color superuser = Color(0x38a1ce);
+  static const Color superuser = Color(0xff38a1ce);
 
   /// SimpleIcons supercrease [Color] from Hex 000000
-  static const Color supercrease = Color(0x000000);
+  static const Color supercrease = Color(0xff000000);
 
   /// SimpleIcons supermicro [Color] from Hex 151f6d
-  static const Color supermicro = Color(0x151f6d);
+  static const Color supermicro = Color(0xff151f6d);
 
   /// SimpleIcons surrealdb [Color] from Hex ff00a0
-  static const Color surrealdb = Color(0xff00a0);
+  static const Color surrealdb = Color(0xffff00a0);
 
   /// SimpleIcons surveymonkey [Color] from Hex 00bf6f
-  static const Color surveymonkey = Color(0x00bf6f);
+  static const Color surveymonkey = Color(0xff00bf6f);
 
   /// SimpleIcons suse [Color] from Hex 0c322c
-  static const Color suse = Color(0x0c322c);
+  static const Color suse = Color(0xff0c322c);
 
   /// SimpleIcons suzuki [Color] from Hex e30613
-  static const Color suzuki = Color(0xe30613);
+  static const Color suzuki = Color(0xffe30613);
 
   /// SimpleIcons svelte [Color] from Hex ff3e00
-  static const Color svelte = Color(0xff3e00);
+  static const Color svelte = Color(0xffff3e00);
 
   /// SimpleIcons svg [Color] from Hex ffb13b
-  static const Color svg = Color(0xffb13b);
+  static const Color svg = Color(0xffffb13b);
 
   /// SimpleIcons svgdotjs [Color] from Hex ff0066
-  static const Color svgdotjs = Color(0xff0066);
+  static const Color svgdotjs = Color(0xffff0066);
 
   /// SimpleIcons svgo [Color] from Hex 3e7fc1
-  static const Color svgo = Color(0x3e7fc1);
+  static const Color svgo = Color(0xff3e7fc1);
 
   /// SimpleIcons swagger [Color] from Hex 85ea2d
-  static const Color swagger = Color(0x85ea2d);
+  static const Color swagger = Color(0xff85ea2d);
 
   /// SimpleIcons swarm [Color] from Hex ffa633
-  static const Color swarm = Color(0xffa633);
+  static const Color swarm = Color(0xffffa633);
 
   /// SimpleIcons swc [Color] from Hex 000000
-  static const Color swc = Color(0x000000);
+  static const Color swc = Color(0xff000000);
 
   /// SimpleIcons swift [Color] from Hex f05138
-  static const Color swift = Color(0xf05138);
+  static const Color swift = Color(0xfff05138);
 
   /// SimpleIcons swiggy [Color] from Hex fc8019
-  static const Color swiggy = Color(0xfc8019);
+  static const Color swiggy = Color(0xfffc8019);
 
   /// SimpleIcons swiper [Color] from Hex 6332f6
-  static const Color swiper = Color(0x6332f6);
+  static const Color swiper = Color(0xff6332f6);
 
   /// SimpleIcons swr [Color] from Hex 000000
-  static const Color swr = Color(0x000000);
+  static const Color swr = Color(0xff000000);
 
   /// SimpleIcons symantec [Color] from Hex fdb511
-  static const Color symantec = Color(0xfdb511);
+  static const Color symantec = Color(0xfffdb511);
 
   /// SimpleIcons symbolab [Color] from Hex db3f59
-  static const Color symbolab = Color(0xdb3f59);
+  static const Color symbolab = Color(0xffdb3f59);
 
   /// SimpleIcons symfony [Color] from Hex 000000
-  static const Color symfony = Color(0x000000);
+  static const Color symfony = Color(0xff000000);
 
   /// SimpleIcons symphony [Color] from Hex 0098ff
-  static const Color symphony = Color(0x0098ff);
+  static const Color symphony = Color(0xff0098ff);
 
   /// SimpleIcons sympy [Color] from Hex 3b5526
-  static const Color sympy = Color(0x3b5526);
+  static const Color sympy = Color(0xff3b5526);
 
   /// SimpleIcons synology [Color] from Hex b5b5b6
-  static const Color synology = Color(0xb5b5b6);
+  static const Color synology = Color(0xffb5b5b6);
 
   /// SimpleIcons system76 [Color] from Hex 585048
-  static const Color system76 = Color(0x585048);
+  static const Color system76 = Color(0xff585048);
 
   /// SimpleIcons tmobile [Color] from Hex e20074
-  static const Color tmobile = Color(0xe20074);
+  static const Color tmobile = Color(0xffe20074);
 
   /// SimpleIcons tabelog [Color] from Hex f2cc38
-  static const Color tabelog = Color(0xf2cc38);
+  static const Color tabelog = Color(0xfff2cc38);
 
   /// SimpleIcons tableau [Color] from Hex e97627
-  static const Color tableau = Color(0xe97627);
+  static const Color tableau = Color(0xffe97627);
 
   /// SimpleIcons tablecheck [Color] from Hex 7935d2
-  static const Color tablecheck = Color(0x7935d2);
+  static const Color tablecheck = Color(0xff7935d2);
 
   /// SimpleIcons tacobell [Color] from Hex 38096c
-  static const Color tacobell = Color(0x38096c);
+  static const Color tacobell = Color(0xff38096c);
 
   /// SimpleIcons tado [Color] from Hex ffa900
-  static const Color tado = Color(0xffa900);
+  static const Color tado = Color(0xffffa900);
 
   /// SimpleIcons taichigraphics [Color] from Hex 000000
-  static const Color taichigraphics = Color(0x000000);
+  static const Color taichigraphics = Color(0xff000000);
 
   /// SimpleIcons taichilang [Color] from Hex 000000
-  static const Color taichilang = Color(0x000000);
+  static const Color taichilang = Color(0xff000000);
 
   /// SimpleIcons tails [Color] from Hex 56347c
-  static const Color tails = Color(0x56347c);
+  static const Color tails = Color(0xff56347c);
 
   /// SimpleIcons tailwindcss [Color] from Hex 06b6d4
-  static const Color tailwindcss = Color(0x06b6d4);
+  static const Color tailwindcss = Color(0xff06b6d4);
 
   /// SimpleIcons talend [Color] from Hex ff6d70
-  static const Color talend = Color(0xff6d70);
+  static const Color talend = Color(0xffff6d70);
 
   /// SimpleIcons talenthouse [Color] from Hex 000000
-  static const Color talenthouse = Color(0x000000);
+  static const Color talenthouse = Color(0xff000000);
 
   /// SimpleIcons tamiya [Color] from Hex 000000
-  static const Color tamiya = Color(0x000000);
+  static const Color tamiya = Color(0xff000000);
 
   /// SimpleIcons tampermonkey [Color] from Hex 00485b
-  static const Color tampermonkey = Color(0x00485b);
+  static const Color tampermonkey = Color(0xff00485b);
 
   /// SimpleIcons taobao [Color] from Hex e94f20
-  static const Color taobao = Color(0xe94f20);
+  static const Color taobao = Color(0xffe94f20);
 
   /// SimpleIcons tapas [Color] from Hex ffce00
-  static const Color tapas = Color(0xffce00);
+  static const Color tapas = Color(0xffffce00);
 
   /// SimpleIcons target [Color] from Hex cc0000
-  static const Color target = Color(0xcc0000);
+  static const Color target = Color(0xffcc0000);
 
   /// SimpleIcons task [Color] from Hex 29beb0
-  static const Color task = Color(0x29beb0);
+  static const Color task = Color(0xff29beb0);
 
   /// SimpleIcons tasmota [Color] from Hex 1fa3ec
-  static const Color tasmota = Color(0x1fa3ec);
+  static const Color tasmota = Color(0xff1fa3ec);
 
   /// SimpleIcons tata [Color] from Hex 486aae
-  static const Color tata = Color(0x486aae);
+  static const Color tata = Color(0xff486aae);
 
   /// SimpleIcons tataconsultancyservices [Color] from Hex ee3984
-  static const Color tataconsultancyservices = Color(0xee3984);
+  static const Color tataconsultancyservices = Color(0xffee3984);
 
   /// SimpleIcons tauri [Color] from Hex 24c8d8
-  static const Color tauri = Color(0x24c8d8);
+  static const Color tauri = Color(0xff24c8d8);
 
   /// SimpleIcons taxbuzz [Color] from Hex ed8b0b
-  static const Color taxbuzz = Color(0xed8b0b);
+  static const Color taxbuzz = Color(0xffed8b0b);
 
   /// SimpleIcons teamcity [Color] from Hex 000000
-  static const Color teamcity = Color(0x000000);
+  static const Color teamcity = Color(0xff000000);
 
   /// SimpleIcons teamspeak [Color] from Hex 4b69b6
-  static const Color teamspeak = Color(0x4b69b6);
+  static const Color teamspeak = Color(0xff4b69b6);
 
   /// SimpleIcons teamviewer [Color] from Hex 004680
-  static const Color teamviewer = Color(0x004680);
+  static const Color teamviewer = Color(0xff004680);
 
   /// SimpleIcons ted [Color] from Hex e62b1e
-  static const Color ted = Color(0xe62b1e);
+  static const Color ted = Color(0xffe62b1e);
 
   /// SimpleIcons teespring [Color] from Hex ed2761
-  static const Color teespring = Color(0xed2761);
+  static const Color teespring = Color(0xffed2761);
 
   /// SimpleIcons tekton [Color] from Hex fd495c
-  static const Color tekton = Color(0xfd495c);
+  static const Color tekton = Color(0xfffd495c);
 
   /// SimpleIcons tele5 [Color] from Hex c2ad6f
-  static const Color tele5 = Color(0xc2ad6f);
+  static const Color tele5 = Color(0xffc2ad6f);
 
   /// SimpleIcons telegram [Color] from Hex 26a5e4
-  static const Color telegram = Color(0x26a5e4);
+  static const Color telegram = Color(0xff26a5e4);
 
   /// SimpleIcons telegraph [Color] from Hex fafafa
-  static const Color telegraph = Color(0xfafafa);
+  static const Color telegraph = Color(0xfffafafa);
 
   /// SimpleIcons temporal [Color] from Hex 000000
-  static const Color temporal = Color(0x000000);
+  static const Color temporal = Color(0xff000000);
 
   /// SimpleIcons tencentqq [Color] from Hex eb1923
-  static const Color tencentqq = Color(0xeb1923);
+  static const Color tencentqq = Color(0xffeb1923);
 
   /// SimpleIcons tensorflow [Color] from Hex ff6f00
-  static const Color tensorflow = Color(0xff6f00);
+  static const Color tensorflow = Color(0xffff6f00);
 
   /// SimpleIcons teradata [Color] from Hex f37440
-  static const Color teradata = Color(0xf37440);
+  static const Color teradata = Color(0xfff37440);
 
   /// SimpleIcons teratail [Color] from Hex f4c51c
-  static const Color teratail = Color(0xf4c51c);
+  static const Color teratail = Color(0xfff4c51c);
 
   /// SimpleIcons termius [Color] from Hex 000000
-  static const Color termius = Color(0x000000);
+  static const Color termius = Color(0xff000000);
 
   /// SimpleIcons terraform [Color] from Hex 844fba
-  static const Color terraform = Color(0x844fba);
+  static const Color terraform = Color(0xff844fba);
 
   /// SimpleIcons tesco [Color] from Hex 00539f
-  static const Color tesco = Color(0x00539f);
+  static const Color tesco = Color(0xff00539f);
 
   /// SimpleIcons tesla [Color] from Hex cc0000
-  static const Color tesla = Color(0xcc0000);
+  static const Color tesla = Color(0xffcc0000);
 
   /// SimpleIcons testcafe [Color] from Hex 36b6e5
-  static const Color testcafe = Color(0x36b6e5);
+  static const Color testcafe = Color(0xff36b6e5);
 
   /// SimpleIcons testin [Color] from Hex 007dd7
-  static const Color testin = Color(0x007dd7);
+  static const Color testin = Color(0xff007dd7);
 
   /// SimpleIcons testinglibrary [Color] from Hex e33332
-  static const Color testinglibrary = Color(0xe33332);
+  static const Color testinglibrary = Color(0xffe33332);
 
   /// SimpleIcons testrail [Color] from Hex 65c179
-  static const Color testrail = Color(0x65c179);
+  static const Color testrail = Color(0xff65c179);
 
   /// SimpleIcons tether [Color] from Hex 50af95
-  static const Color tether = Color(0x50af95);
+  static const Color tether = Color(0xff50af95);
 
   /// SimpleIcons textpattern [Color] from Hex ffda44
-  static const Color textpattern = Color(0xffda44);
+  static const Color textpattern = Color(0xffffda44);
 
   /// SimpleIcons tga [Color] from Hex 0014ff
-  static const Color tga = Color(0x0014ff);
+  static const Color tga = Color(0xff0014ff);
 
   /// SimpleIcons thangs [Color] from Hex ffbc00
-  static const Color thangs = Color(0xffbc00);
+  static const Color thangs = Color(0xffffbc00);
 
   /// SimpleIcons thealgorithms [Color] from Hex 00bcb4
-  static const Color thealgorithms = Color(0x00bcb4);
+  static const Color thealgorithms = Color(0xff00bcb4);
 
   /// SimpleIcons theconversation [Color] from Hex d8352a
-  static const Color theconversation = Color(0xd8352a);
+  static const Color theconversation = Color(0xffd8352a);
 
   /// SimpleIcons theirishtimes [Color] from Hex 000000
-  static const Color theirishtimes = Color(0x000000);
+  static const Color theirishtimes = Color(0xff000000);
 
   /// SimpleIcons themighty [Color] from Hex d0072a
-  static const Color themighty = Color(0xd0072a);
+  static const Color themighty = Color(0xffd0072a);
 
   /// SimpleIcons themodelsresource [Color] from Hex 3a75bd
-  static const Color themodelsresource = Color(0x3a75bd);
+  static const Color themodelsresource = Color(0xff3a75bd);
 
   /// SimpleIcons themoviedatabase [Color] from Hex 01b4e4
-  static const Color themoviedatabase = Color(0x01b4e4);
+  static const Color themoviedatabase = Color(0xff01b4e4);
 
   /// SimpleIcons thenorthface [Color] from Hex 000000
-  static const Color thenorthface = Color(0x000000);
+  static const Color thenorthface = Color(0xff000000);
 
   /// SimpleIcons theregister [Color] from Hex ff0000
-  static const Color theregister = Color(0xff0000);
+  static const Color theregister = Color(0xffff0000);
 
   /// SimpleIcons thesoundsresource [Color] from Hex 39be6b
-  static const Color thesoundsresource = Color(0x39be6b);
+  static const Color thesoundsresource = Color(0xff39be6b);
 
   /// SimpleIcons thespritersresource [Color] from Hex be3939
-  static const Color thespritersresource = Color(0xbe3939);
+  static const Color thespritersresource = Color(0xffbe3939);
 
   /// SimpleIcons thewashingtonpost [Color] from Hex 231f20
-  static const Color thewashingtonpost = Color(0x231f20);
+  static const Color thewashingtonpost = Color(0xff231f20);
 
   /// SimpleIcons thingiverse [Color] from Hex 248bfb
-  static const Color thingiverse = Color(0x248bfb);
+  static const Color thingiverse = Color(0xff248bfb);
 
   /// SimpleIcons thinkpad [Color] from Hex ee2624
-  static const Color thinkpad = Color(0xee2624);
+  static const Color thinkpad = Color(0xffee2624);
 
   /// SimpleIcons threadless [Color] from Hex 0099ff
-  static const Color threadless = Color(0x0099ff);
+  static const Color threadless = Color(0xff0099ff);
 
   /// SimpleIcons threads [Color] from Hex 000000
-  static const Color threads = Color(0x000000);
+  static const Color threads = Color(0xff000000);
 
   /// SimpleIcons threedotjs [Color] from Hex 000000
-  static const Color threedotjs = Color(0x000000);
+  static const Color threedotjs = Color(0xff000000);
 
   /// SimpleIcons threema [Color] from Hex 3fe669
-  static const Color threema = Color(0x3fe669);
+  static const Color threema = Color(0xff3fe669);
 
   /// SimpleIcons thumbtack [Color] from Hex 009fd9
-  static const Color thumbtack = Color(0x009fd9);
+  static const Color thumbtack = Color(0xff009fd9);
 
   /// SimpleIcons thunderbird [Color] from Hex 0a84ff
-  static const Color thunderbird = Color(0x0a84ff);
+  static const Color thunderbird = Color(0xff0a84ff);
 
   /// SimpleIcons thurgauerkantonalbank [Color] from Hex 006d41
-  static const Color thurgauerkantonalbank = Color(0x006d41);
+  static const Color thurgauerkantonalbank = Color(0xff006d41);
 
   /// SimpleIcons thymeleaf [Color] from Hex 005f0f
-  static const Color thymeleaf = Color(0x005f0f);
+  static const Color thymeleaf = Color(0xff005f0f);
 
   /// SimpleIcons ticketmaster [Color] from Hex 026cdf
-  static const Color ticketmaster = Color(0x026cdf);
+  static const Color ticketmaster = Color(0xff026cdf);
 
   /// SimpleIcons tidal [Color] from Hex 000000
-  static const Color tidal = Color(0x000000);
+  static const Color tidal = Color(0xff000000);
 
   /// SimpleIcons tiddlywiki [Color] from Hex 111111
-  static const Color tiddlywiki = Color(0x111111);
+  static const Color tiddlywiki = Color(0xff111111);
 
   /// SimpleIcons tide [Color] from Hex 4050fb
-  static const Color tide = Color(0x4050fb);
+  static const Color tide = Color(0xff4050fb);
 
   /// SimpleIcons tidyverse [Color] from Hex 1a162d
-  static const Color tidyverse = Color(0x1a162d);
+  static const Color tidyverse = Color(0xff1a162d);
 
   /// SimpleIcons tietoevry [Color] from Hex 063752
-  static const Color tietoevry = Color(0x063752);
+  static const Color tietoevry = Color(0xff063752);
 
   /// SimpleIcons tiktok [Color] from Hex 000000
-  static const Color tiktok = Color(0x000000);
+  static const Color tiktok = Color(0xff000000);
 
   /// SimpleIcons tile [Color] from Hex 000000
-  static const Color tile = Color(0x000000);
+  static const Color tile = Color(0xff000000);
 
   /// SimpleIcons timescale [Color] from Hex fdb515
-  static const Color timescale = Color(0xfdb515);
+  static const Color timescale = Color(0xfffdb515);
 
   /// SimpleIcons tina [Color] from Hex ec4815
-  static const Color tina = Color(0xec4815);
+  static const Color tina = Color(0xffec4815);
 
   /// SimpleIcons tinder [Color] from Hex ff6b6b
-  static const Color tinder = Color(0xff6b6b);
+  static const Color tinder = Color(0xffff6b6b);
 
   /// SimpleIcons tinyletter [Color] from Hex ed1c24
-  static const Color tinyletter = Color(0xed1c24);
+  static const Color tinyletter = Color(0xffed1c24);
 
   /// SimpleIcons tistory [Color] from Hex 000000
-  static const Color tistory = Color(0x000000);
+  static const Color tistory = Color(0xff000000);
 
   /// SimpleIcons tmux [Color] from Hex 1bb91f
-  static const Color tmux = Color(0x1bb91f);
+  static const Color tmux = Color(0xff1bb91f);
 
   /// SimpleIcons todoist [Color] from Hex e44332
-  static const Color todoist = Color(0xe44332);
+  static const Color todoist = Color(0xffe44332);
 
   /// SimpleIcons toggl [Color] from Hex ffde91
-  static const Color toggl = Color(0xffde91);
+  static const Color toggl = Color(0xffffde91);
 
   /// SimpleIcons toggltrack [Color] from Hex e57cd8
-  static const Color toggltrack = Color(0xe57cd8);
+  static const Color toggltrack = Color(0xffe57cd8);
 
   /// SimpleIcons tokyometro [Color] from Hex 149dd3
-  static const Color tokyometro = Color(0x149dd3);
+  static const Color tokyometro = Color(0xff149dd3);
 
   /// SimpleIcons toll [Color] from Hex 007a68
-  static const Color toll = Color(0x007a68);
+  static const Color toll = Color(0xff007a68);
 
   /// SimpleIcons toml [Color] from Hex 9c4121
-  static const Color toml = Color(0x9c4121);
+  static const Color toml = Color(0xff9c4121);
 
   /// SimpleIcons tomorrowland [Color] from Hex 000000
-  static const Color tomorrowland = Color(0x000000);
+  static const Color tomorrowland = Color(0xff000000);
 
   /// SimpleIcons ton [Color] from Hex 0098ea
-  static const Color ton = Color(0x0098ea);
+  static const Color ton = Color(0xff0098ea);
 
   /// SimpleIcons topcoder [Color] from Hex 29a7df
-  static const Color topcoder = Color(0x29a7df);
+  static const Color topcoder = Color(0xff29a7df);
 
   /// SimpleIcons toptal [Color] from Hex 3863a0
-  static const Color toptal = Color(0x3863a0);
+  static const Color toptal = Color(0xff3863a0);
 
   /// SimpleIcons torbrowser [Color] from Hex 7d4698
-  static const Color torbrowser = Color(0x7d4698);
+  static const Color torbrowser = Color(0xff7d4698);
 
   /// SimpleIcons torproject [Color] from Hex 7d4698
-  static const Color torproject = Color(0x7d4698);
+  static const Color torproject = Color(0xff7d4698);
 
   /// SimpleIcons toshiba [Color] from Hex ff0000
-  static const Color toshiba = Color(0xff0000);
+  static const Color toshiba = Color(0xffff0000);
 
   /// SimpleIcons tourbox [Color] from Hex 231f20
-  static const Color tourbox = Color(0x231f20);
+  static const Color tourbox = Color(0xff231f20);
 
   /// SimpleIcons toyota [Color] from Hex eb0a1e
-  static const Color toyota = Color(0xeb0a1e);
+  static const Color toyota = Color(0xffeb0a1e);
 
   /// SimpleIcons tplink [Color] from Hex 4acbd6
-  static const Color tplink = Color(0x4acbd6);
+  static const Color tplink = Color(0xff4acbd6);
 
   /// SimpleIcons tqdm [Color] from Hex ffc107
-  static const Color tqdm = Color(0xffc107);
+  static const Color tqdm = Color(0xffffc107);
 
   /// SimpleIcons tradingview [Color] from Hex 131622
-  static const Color tradingview = Color(0x131622);
+  static const Color tradingview = Color(0xff131622);
 
   /// SimpleIcons traefikmesh [Color] from Hex 9d0fb0
-  static const Color traefikmesh = Color(0x9d0fb0);
+  static const Color traefikmesh = Color(0xff9d0fb0);
 
   /// SimpleIcons traefikproxy [Color] from Hex 24a1c1
-  static const Color traefikproxy = Color(0x24a1c1);
+  static const Color traefikproxy = Color(0xff24a1c1);
 
   /// SimpleIcons trailforks [Color] from Hex ffcd00
-  static const Color trailforks = Color(0xffcd00);
+  static const Color trailforks = Color(0xffffcd00);
 
   /// SimpleIcons trainerroad [Color] from Hex da291c
-  static const Color trainerroad = Color(0xda291c);
+  static const Color trainerroad = Color(0xffda291c);
 
   /// SimpleIcons trakt [Color] from Hex ed1c24
-  static const Color trakt = Color(0xed1c24);
+  static const Color trakt = Color(0xffed1c24);
 
   /// SimpleIcons transportforireland [Color] from Hex 00b274
-  static const Color transportforireland = Color(0x00b274);
+  static const Color transportforireland = Color(0xff00b274);
 
   /// SimpleIcons transportforlondon [Color] from Hex 113b92
-  static const Color transportforlondon = Color(0x113b92);
+  static const Color transportforlondon = Color(0xff113b92);
 
   /// SimpleIcons travisci [Color] from Hex 3eaaaf
-  static const Color travisci = Color(0x3eaaaf);
+  static const Color travisci = Color(0xff3eaaaf);
 
   /// SimpleIcons treehouse [Color] from Hex 5fcf80
-  static const Color treehouse = Color(0x5fcf80);
+  static const Color treehouse = Color(0xff5fcf80);
 
   /// SimpleIcons trello [Color] from Hex 0052cc
-  static const Color trello = Color(0x0052cc);
+  static const Color trello = Color(0xff0052cc);
 
   /// SimpleIcons trendmicro [Color] from Hex d71921
-  static const Color trendmicro = Color(0xd71921);
+  static const Color trendmicro = Color(0xffd71921);
 
   /// SimpleIcons treyarch [Color] from Hex 000000
-  static const Color treyarch = Color(0x000000);
+  static const Color treyarch = Color(0xff000000);
 
   /// SimpleIcons tricentis [Color] from Hex 12438c
-  static const Color tricentis = Color(0x12438c);
+  static const Color tricentis = Color(0xff12438c);
 
   /// SimpleIcons trilium [Color] from Hex 000000
-  static const Color trilium = Color(0x000000);
+  static const Color trilium = Color(0xff000000);
 
   /// SimpleIcons triller [Color] from Hex ff0089
-  static const Color triller = Color(0xff0089);
+  static const Color triller = Color(0xffff0089);
 
   /// SimpleIcons trino [Color] from Hex dd00a1
-  static const Color trino = Color(0xdd00a1);
+  static const Color trino = Color(0xffdd00a1);
 
   /// SimpleIcons tripdotcom [Color] from Hex 287dfa
-  static const Color tripdotcom = Color(0x287dfa);
+  static const Color tripdotcom = Color(0xff287dfa);
 
   /// SimpleIcons tripadvisor [Color] from Hex 34e0a1
-  static const Color tripadvisor = Color(0x34e0a1);
+  static const Color tripadvisor = Color(0xff34e0a1);
 
   /// SimpleIcons trivy [Color] from Hex 1904da
-  static const Color trivy = Color(0x1904da);
+  static const Color trivy = Color(0xff1904da);
 
   /// SimpleIcons trove [Color] from Hex 2d004b
-  static const Color trove = Color(0x2d004b);
+  static const Color trove = Color(0xff2d004b);
 
   /// SimpleIcons trpc [Color] from Hex 2596be
-  static const Color trpc = Color(0x2596be);
+  static const Color trpc = Color(0xff2596be);
 
   /// SimpleIcons truenas [Color] from Hex 0095d5
-  static const Color truenas = Color(0x0095d5);
+  static const Color truenas = Color(0xff0095d5);
 
   /// SimpleIcons trulia [Color] from Hex 0a0b09
-  static const Color trulia = Color(0x0a0b09);
+  static const Color trulia = Color(0xff0a0b09);
 
   /// SimpleIcons trustedshops [Color] from Hex ffdc0f
-  static const Color trustedshops = Color(0xffdc0f);
+  static const Color trustedshops = Color(0xffffdc0f);
 
   /// SimpleIcons trustpilot [Color] from Hex 00b67a
-  static const Color trustpilot = Color(0x00b67a);
+  static const Color trustpilot = Color(0xff00b67a);
 
   /// SimpleIcons tryitonline [Color] from Hex 303030
-  static const Color tryitonline = Color(0x303030);
+  static const Color tryitonline = Color(0xff303030);
 
   /// SimpleIcons tryhackme [Color] from Hex 212c42
-  static const Color tryhackme = Color(0x212c42);
+  static const Color tryhackme = Color(0xff212c42);
 
   /// SimpleIcons tsnode [Color] from Hex 3178c6
-  static const Color tsnode = Color(0x3178c6);
+  static const Color tsnode = Color(0xff3178c6);
 
   /// SimpleIcons tubi [Color] from Hex 000000
-  static const Color tubi = Color(0x000000);
+  static const Color tubi = Color(0xff000000);
 
   /// SimpleIcons tui [Color] from Hex d40e14
-  static const Color tui = Color(0xd40e14);
+  static const Color tui = Color(0xffd40e14);
 
   /// SimpleIcons tumblr [Color] from Hex 36465d
-  static const Color tumblr = Color(0x36465d);
+  static const Color tumblr = Color(0xff36465d);
 
   /// SimpleIcons tunein [Color] from Hex 14d8cc
-  static const Color tunein = Color(0x14d8cc);
+  static const Color tunein = Color(0xff14d8cc);
 
   /// SimpleIcons turbo [Color] from Hex 5cd8e5
-  static const Color turbo = Color(0x5cd8e5);
+  static const Color turbo = Color(0xff5cd8e5);
 
   /// SimpleIcons turborepo [Color] from Hex ef4444
-  static const Color turborepo = Color(0xef4444);
+  static const Color turborepo = Color(0xffef4444);
 
   /// SimpleIcons turbosquid [Color] from Hex ff8135
-  static const Color turbosquid = Color(0xff8135);
+  static const Color turbosquid = Color(0xffff8135);
 
   /// SimpleIcons turkishairlines [Color] from Hex c70a0c
-  static const Color turkishairlines = Color(0xc70a0c);
+  static const Color turkishairlines = Color(0xffc70a0c);
 
   /// SimpleIcons turso [Color] from Hex 4ff8d2
-  static const Color turso = Color(0x4ff8d2);
+  static const Color turso = Color(0xff4ff8d2);
 
   /// SimpleIcons tutanota [Color] from Hex 840010
-  static const Color tutanota = Color(0x840010);
+  static const Color tutanota = Color(0xff840010);
 
   /// SimpleIcons tvtime [Color] from Hex ffd400
-  static const Color tvtime = Color(0xffd400);
+  static const Color tvtime = Color(0xffffd400);
 
   /// SimpleIcons twilio [Color] from Hex f22f46
-  static const Color twilio = Color(0xf22f46);
+  static const Color twilio = Color(0xfff22f46);
 
   /// SimpleIcons twitch [Color] from Hex 9146ff
-  static const Color twitch = Color(0x9146ff);
+  static const Color twitch = Color(0xff9146ff);
 
   /// SimpleIcons twitter [Color] from Hex 1d9bf0
-  static const Color twitter = Color(0x1d9bf0);
+  static const Color twitter = Color(0xff1d9bf0);
 
   /// SimpleIcons typeform [Color] from Hex 262627
-  static const Color typeform = Color(0x262627);
+  static const Color typeform = Color(0xff262627);
 
   /// SimpleIcons typescript [Color] from Hex 3178c6
-  static const Color typescript = Color(0x3178c6);
+  static const Color typescript = Color(0xff3178c6);
 
   /// SimpleIcons typo3 [Color] from Hex ff8700
-  static const Color typo3 = Color(0xff8700);
+  static const Color typo3 = Color(0xffff8700);
 
   /// SimpleIcons uber [Color] from Hex 000000
-  static const Color uber = Color(0x000000);
+  static const Color uber = Color(0xff000000);
 
   /// SimpleIcons ubereats [Color] from Hex 06c167
-  static const Color ubereats = Color(0x06c167);
+  static const Color ubereats = Color(0xff06c167);
 
   /// SimpleIcons ubiquiti [Color] from Hex 0559c9
-  static const Color ubiquiti = Color(0x0559c9);
+  static const Color ubiquiti = Color(0xff0559c9);
 
   /// SimpleIcons ubisoft [Color] from Hex 000000
-  static const Color ubisoft = Color(0x000000);
+  static const Color ubisoft = Color(0xff000000);
 
   /// SimpleIcons ublockorigin [Color] from Hex 800000
-  static const Color ublockorigin = Color(0x800000);
+  static const Color ublockorigin = Color(0xff800000);
 
   /// SimpleIcons ubuntu [Color] from Hex e95420
-  static const Color ubuntu = Color(0xe95420);
+  static const Color ubuntu = Color(0xffe95420);
 
   /// SimpleIcons ubuntumate [Color] from Hex 84a454
-  static const Color ubuntumate = Color(0x84a454);
+  static const Color ubuntumate = Color(0xff84a454);
 
   /// SimpleIcons udacity [Color] from Hex 02b3e4
-  static const Color udacity = Color(0x02b3e4);
+  static const Color udacity = Color(0xff02b3e4);
 
   /// SimpleIcons udemy [Color] from Hex a435f0
-  static const Color udemy = Color(0xa435f0);
+  static const Color udemy = Color(0xffa435f0);
 
   /// SimpleIcons ufc [Color] from Hex d20a0a
-  static const Color ufc = Color(0xd20a0a);
+  static const Color ufc = Color(0xffd20a0a);
 
   /// SimpleIcons uikit [Color] from Hex 2396f3
-  static const Color uikit = Color(0x2396f3);
+  static const Color uikit = Color(0xff2396f3);
 
   /// SimpleIcons ulule [Color] from Hex 18a5d6
-  static const Color ulule = Color(0x18a5d6);
+  static const Color ulule = Color(0xff18a5d6);
 
   /// SimpleIcons umami [Color] from Hex 000000
-  static const Color umami = Color(0x000000);
+  static const Color umami = Color(0xff000000);
 
   /// SimpleIcons umbraco [Color] from Hex 3544b1
-  static const Color umbraco = Color(0x3544b1);
+  static const Color umbraco = Color(0xff3544b1);
 
   /// SimpleIcons uml [Color] from Hex fabd14
-  static const Color uml = Color(0xfabd14);
+  static const Color uml = Color(0xfffabd14);
 
   /// SimpleIcons unacademy [Color] from Hex 08bd80
-  static const Color unacademy = Color(0x08bd80);
+  static const Color unacademy = Color(0xff08bd80);
 
   /// SimpleIcons underarmour [Color] from Hex 1d1d1d
-  static const Color underarmour = Color(0x1d1d1d);
+  static const Color underarmour = Color(0xff1d1d1d);
 
   /// SimpleIcons underscoredotjs [Color] from Hex 0371b5
-  static const Color underscoredotjs = Color(0x0371b5);
+  static const Color underscoredotjs = Color(0xff0371b5);
 
   /// SimpleIcons undertale [Color] from Hex e71d29
-  static const Color undertale = Color(0xe71d29);
+  static const Color undertale = Color(0xffe71d29);
 
   /// SimpleIcons unicode [Color] from Hex 5455fe
-  static const Color unicode = Color(0x5455fe);
+  static const Color unicode = Color(0xff5455fe);
 
   /// SimpleIcons unilever [Color] from Hex 1f36c7
-  static const Color unilever = Color(0x1f36c7);
+  static const Color unilever = Color(0xff1f36c7);
 
   /// SimpleIcons unitedairlines [Color] from Hex 002244
-  static const Color unitedairlines = Color(0x002244);
+  static const Color unitedairlines = Color(0xff002244);
 
   /// SimpleIcons unitednations [Color] from Hex 009edb
-  static const Color unitednations = Color(0x009edb);
+  static const Color unitednations = Color(0xff009edb);
 
   /// SimpleIcons unity [Color] from Hex 000000
-  static const Color unity = Color(0x000000);
+  static const Color unity = Color(0xff000000);
 
   /// SimpleIcons unlicense [Color] from Hex 808080
-  static const Color unlicense = Color(0x808080);
+  static const Color unlicense = Color(0xff808080);
 
   /// SimpleIcons uno [Color] from Hex ed1c24
-  static const Color uno = Color(0xed1c24);
+  static const Color uno = Color(0xffed1c24);
 
   /// SimpleIcons unocss [Color] from Hex 333333
-  static const Color unocss = Color(0x333333);
+  static const Color unocss = Color(0xff333333);
 
   /// SimpleIcons unraid [Color] from Hex f15a2c
-  static const Color unraid = Color(0xf15a2c);
+  static const Color unraid = Color(0xfff15a2c);
 
   /// SimpleIcons unrealengine [Color] from Hex 0e1128
-  static const Color unrealengine = Color(0x0e1128);
+  static const Color unrealengine = Color(0xff0e1128);
 
   /// SimpleIcons unsplash [Color] from Hex 000000
-  static const Color unsplash = Color(0x000000);
+  static const Color unsplash = Color(0xff000000);
 
   /// SimpleIcons untappd [Color] from Hex ffc000
-  static const Color untappd = Color(0xffc000);
+  static const Color untappd = Color(0xffffc000);
 
   /// SimpleIcons upcloud [Color] from Hex 7b00ff
-  static const Color upcloud = Color(0x7b00ff);
+  static const Color upcloud = Color(0xff7b00ff);
 
   /// SimpleIcons uplabs [Color] from Hex 3930d8
-  static const Color uplabs = Color(0x3930d8);
+  static const Color uplabs = Color(0xff3930d8);
 
   /// SimpleIcons upptime [Color] from Hex 1abc9c
-  static const Color upptime = Color(0x1abc9c);
+  static const Color upptime = Color(0xff1abc9c);
 
   /// SimpleIcons ups [Color] from Hex 150400
-  static const Color ups = Color(0x150400);
+  static const Color ups = Color(0xff150400);
 
   /// SimpleIcons upstash [Color] from Hex 00e9a3
-  static const Color upstash = Color(0x00e9a3);
+  static const Color upstash = Color(0xff00e9a3);
 
   /// SimpleIcons uptimekuma [Color] from Hex 5cdd8b
-  static const Color uptimekuma = Color(0x5cdd8b);
+  static const Color uptimekuma = Color(0xff5cdd8b);
 
   /// SimpleIcons uptobox [Color] from Hex 5ce1e6
-  static const Color uptobox = Color(0x5ce1e6);
+  static const Color uptobox = Color(0xff5ce1e6);
 
   /// SimpleIcons upwork [Color] from Hex 6fda44
-  static const Color upwork = Color(0x6fda44);
+  static const Color upwork = Color(0xff6fda44);
 
   /// SimpleIcons usps [Color] from Hex 333366
-  static const Color usps = Color(0x333366);
+  static const Color usps = Color(0xff333366);
 
   /// SimpleIcons utorrent [Color] from Hex 76b83f
-  static const Color utorrent = Color(0x76b83f);
+  static const Color utorrent = Color(0xff76b83f);
 
   /// SimpleIcons v [Color] from Hex 5d87bf
-  static const Color v = Color(0x5d87bf);
+  static const Color v = Color(0xff5d87bf);
 
   /// SimpleIcons v2ex [Color] from Hex 1f1f1f
-  static const Color v2ex = Color(0x1f1f1f);
+  static const Color v2ex = Color(0xff1f1f1f);
 
   /// SimpleIcons v8 [Color] from Hex 4b8bf5
-  static const Color v8 = Color(0x4b8bf5);
+  static const Color v8 = Color(0xff4b8bf5);
 
   /// SimpleIcons vaadin [Color] from Hex 00b4f0
-  static const Color vaadin = Color(0x00b4f0);
+  static const Color vaadin = Color(0xff00b4f0);
 
   /// SimpleIcons vagrant [Color] from Hex 1868f2
-  static const Color vagrant = Color(0x1868f2);
+  static const Color vagrant = Color(0xff1868f2);
 
   /// SimpleIcons vala [Color] from Hex 7239b3
-  static const Color vala = Color(0x7239b3);
+  static const Color vala = Color(0xff7239b3);
 
   /// SimpleIcons valorant [Color] from Hex fa4454
-  static const Color valorant = Color(0xfa4454);
+  static const Color valorant = Color(0xfffa4454);
 
   /// SimpleIcons valve [Color] from Hex f74843
-  static const Color valve = Color(0xf74843);
+  static const Color valve = Color(0xfff74843);
 
   /// SimpleIcons vapor [Color] from Hex 0d0d0d
-  static const Color vapor = Color(0x0d0d0d);
+  static const Color vapor = Color(0xff0d0d0d);
 
   /// SimpleIcons vault [Color] from Hex ffec6e
-  static const Color vault = Color(0xffec6e);
+  static const Color vault = Color(0xffffec6e);
 
   /// SimpleIcons vaultwarden [Color] from Hex 000000
-  static const Color vaultwarden = Color(0x000000);
+  static const Color vaultwarden = Color(0xff000000);
 
   /// SimpleIcons vauxhall [Color] from Hex eb001e
-  static const Color vauxhall = Color(0xeb001e);
+  static const Color vauxhall = Color(0xffeb001e);
 
   /// SimpleIcons vbulletin [Color] from Hex 184d66
-  static const Color vbulletin = Color(0x184d66);
+  static const Color vbulletin = Color(0xff184d66);
 
   /// SimpleIcons vectorlogozone [Color] from Hex 184d66
-  static const Color vectorlogozone = Color(0x184d66);
+  static const Color vectorlogozone = Color(0xff184d66);
 
   /// SimpleIcons vectorworks [Color] from Hex 000000
-  static const Color vectorworks = Color(0x000000);
+  static const Color vectorworks = Color(0xff000000);
 
   /// SimpleIcons veeam [Color] from Hex 00b336
-  static const Color veeam = Color(0x00b336);
+  static const Color veeam = Color(0xff00b336);
 
   /// SimpleIcons veepee [Color] from Hex ec008c
-  static const Color veepee = Color(0xec008c);
+  static const Color veepee = Color(0xffec008c);
 
   /// SimpleIcons vega [Color] from Hex 2450b2
-  static const Color vega = Color(0x2450b2);
+  static const Color vega = Color(0xff2450b2);
 
   /// SimpleIcons vegas [Color] from Hex 1a1a1a
-  static const Color vegas = Color(0x1a1a1a);
+  static const Color vegas = Color(0xff1a1a1a);
 
   /// SimpleIcons velog [Color] from Hex 20c997
-  static const Color velog = Color(0x20c997);
+  static const Color velog = Color(0xff20c997);
 
   /// SimpleIcons venmo [Color] from Hex 008cff
-  static const Color venmo = Color(0x008cff);
+  static const Color venmo = Color(0xff008cff);
 
   /// SimpleIcons vercel [Color] from Hex 000000
-  static const Color vercel = Color(0x000000);
+  static const Color vercel = Color(0xff000000);
 
   /// SimpleIcons verdaccio [Color] from Hex 4b5e40
-  static const Color verdaccio = Color(0x4b5e40);
+  static const Color verdaccio = Color(0xff4b5e40);
 
   /// SimpleIcons veritas [Color] from Hex b1181e
-  static const Color veritas = Color(0xb1181e);
+  static const Color veritas = Color(0xffb1181e);
 
   /// SimpleIcons verizon [Color] from Hex cd040b
-  static const Color verizon = Color(0xcd040b);
+  static const Color verizon = Color(0xffcd040b);
 
   /// SimpleIcons vespa [Color] from Hex 85b09a
-  static const Color vespa = Color(0x85b09a);
+  static const Color vespa = Color(0xff85b09a);
 
   /// SimpleIcons vexxhost [Color] from Hex 2a1659
-  static const Color vexxhost = Color(0x2a1659);
+  static const Color vexxhost = Color(0xff2a1659);
 
   /// SimpleIcons vfairs [Color] from Hex ef4678
-  static const Color vfairs = Color(0xef4678);
+  static const Color vfairs = Color(0xffef4678);
 
   /// SimpleIcons viadeo [Color] from Hex f07355
-  static const Color viadeo = Color(0xf07355);
+  static const Color viadeo = Color(0xfff07355);
 
   /// SimpleIcons viaplay [Color] from Hex fe365f
-  static const Color viaplay = Color(0xfe365f);
+  static const Color viaplay = Color(0xfffe365f);
 
   /// SimpleIcons viber [Color] from Hex 7360f2
-  static const Color viber = Color(0x7360f2);
+  static const Color viber = Color(0xff7360f2);
 
   /// SimpleIcons victoriametrics [Color] from Hex 621773
-  static const Color victoriametrics = Color(0x621773);
+  static const Color victoriametrics = Color(0xff621773);
 
   /// SimpleIcons vim [Color] from Hex 019733
-  static const Color vim = Color(0x019733);
+  static const Color vim = Color(0xff019733);
 
   /// SimpleIcons vimeo [Color] from Hex 1ab7ea
-  static const Color vimeo = Color(0x1ab7ea);
+  static const Color vimeo = Color(0xff1ab7ea);
 
   /// SimpleIcons vimeolivestream [Color] from Hex 0a0a20
-  static const Color vimeolivestream = Color(0x0a0a20);
+  static const Color vimeolivestream = Color(0xff0a0a20);
 
   /// SimpleIcons virgin [Color] from Hex e10a0a
-  static const Color virgin = Color(0xe10a0a);
+  static const Color virgin = Color(0xffe10a0a);
 
   /// SimpleIcons virginmedia [Color] from Hex ed1a37
-  static const Color virginmedia = Color(0xed1a37);
+  static const Color virginmedia = Color(0xffed1a37);
 
   /// SimpleIcons virtualbox [Color] from Hex 183a61
-  static const Color virtualbox = Color(0x183a61);
+  static const Color virtualbox = Color(0xff183a61);
 
   /// SimpleIcons virustotal [Color] from Hex 394eff
-  static const Color virustotal = Color(0x394eff);
+  static const Color virustotal = Color(0xff394eff);
 
   /// SimpleIcons visa [Color] from Hex 1a1f71
-  static const Color visa = Color(0x1a1f71);
+  static const Color visa = Color(0xff1a1f71);
 
   /// SimpleIcons visualbasic [Color] from Hex 512bd4
-  static const Color visualbasic = Color(0x512bd4);
+  static const Color visualbasic = Color(0xff512bd4);
 
   /// SimpleIcons visualstudio [Color] from Hex 5c2d91
-  static const Color visualstudio = Color(0x5c2d91);
+  static const Color visualstudio = Color(0xff5c2d91);
 
   /// SimpleIcons visualstudioappcenter [Color] from Hex cb2e6d
-  static const Color visualstudioappcenter = Color(0xcb2e6d);
+  static const Color visualstudioappcenter = Color(0xffcb2e6d);
 
   /// SimpleIcons visualstudiocode [Color] from Hex 007acc
-  static const Color visualstudiocode = Color(0x007acc);
+  static const Color visualstudiocode = Color(0xff007acc);
 
   /// SimpleIcons vite [Color] from Hex 646cff
-  static const Color vite = Color(0x646cff);
+  static const Color vite = Color(0xff646cff);
 
   /// SimpleIcons vitess [Color] from Hex f16728
-  static const Color vitess = Color(0xf16728);
+  static const Color vitess = Color(0xfff16728);
 
   /// SimpleIcons vitest [Color] from Hex 6e9f18
-  static const Color vitest = Color(0x6e9f18);
+  static const Color vitest = Color(0xff6e9f18);
 
   /// SimpleIcons vivawallet [Color] from Hex 1f263a
-  static const Color vivawallet = Color(0x1f263a);
+  static const Color vivawallet = Color(0xff1f263a);
 
   /// SimpleIcons vivaldi [Color] from Hex ef3939
-  static const Color vivaldi = Color(0xef3939);
+  static const Color vivaldi = Color(0xffef3939);
 
   /// SimpleIcons vivino [Color] from Hex a61a30
-  static const Color vivino = Color(0xa61a30);
+  static const Color vivino = Color(0xffa61a30);
 
   /// SimpleIcons vivint [Color] from Hex 212721
-  static const Color vivint = Color(0x212721);
+  static const Color vivint = Color(0xff212721);
 
   /// SimpleIcons vk [Color] from Hex 0077ff
-  static const Color vk = Color(0x0077ff);
+  static const Color vk = Color(0xff0077ff);
 
   /// SimpleIcons vlcmediaplayer [Color] from Hex ff8800
-  static const Color vlcmediaplayer = Color(0xff8800);
+  static const Color vlcmediaplayer = Color(0xffff8800);
 
   /// SimpleIcons vmware [Color] from Hex 607078
-  static const Color vmware = Color(0x607078);
+  static const Color vmware = Color(0xff607078);
 
   /// SimpleIcons vodafone [Color] from Hex e60000
-  static const Color vodafone = Color(0xe60000);
+  static const Color vodafone = Color(0xffe60000);
 
   /// SimpleIcons voidlinux [Color] from Hex 478061
-  static const Color voidlinux = Color(0x478061);
+  static const Color voidlinux = Color(0xff478061);
 
   /// SimpleIcons voipdotms [Color] from Hex e1382d
-  static const Color voipdotms = Color(0xe1382d);
+  static const Color voipdotms = Color(0xffe1382d);
 
   /// SimpleIcons volkswagen [Color] from Hex 151f5d
-  static const Color volkswagen = Color(0x151f5d);
+  static const Color volkswagen = Color(0xff151f5d);
 
   /// SimpleIcons volvo [Color] from Hex 003057
-  static const Color volvo = Color(0x003057);
+  static const Color volvo = Color(0xff003057);
 
   /// SimpleIcons vonage [Color] from Hex 000000
-  static const Color vonage = Color(0x000000);
+  static const Color vonage = Color(0xff000000);
 
   /// SimpleIcons vorondesign [Color] from Hex ed3023
-  static const Color vorondesign = Color(0xed3023);
+  static const Color vorondesign = Color(0xffed3023);
 
   /// SimpleIcons vowpalwabbit [Color] from Hex ff81f9
-  static const Color vowpalwabbit = Color(0xff81f9);
+  static const Color vowpalwabbit = Color(0xffff81f9);
 
   /// SimpleIcons vox [Color] from Hex da074a
-  static const Color vox = Color(0xda074a);
+  static const Color vox = Color(0xffda074a);
 
   /// SimpleIcons vsco [Color] from Hex 000000
-  static const Color vsco = Color(0x000000);
+  static const Color vsco = Color(0xff000000);
 
   /// SimpleIcons vscodium [Color] from Hex 2f80ed
-  static const Color vscodium = Color(0x2f80ed);
+  static const Color vscodium = Color(0xff2f80ed);
 
   /// SimpleIcons vtex [Color] from Hex ed125f
-  static const Color vtex = Color(0xed125f);
+  static const Color vtex = Color(0xffed125f);
 
   /// SimpleIcons vuedotjs [Color] from Hex 4fc08d
-  static const Color vuedotjs = Color(0x4fc08d);
+  static const Color vuedotjs = Color(0xff4fc08d);
 
   /// SimpleIcons vuetify [Color] from Hex 1867c0
-  static const Color vuetify = Color(0x1867c0);
+  static const Color vuetify = Color(0xff1867c0);
 
   /// SimpleIcons vulkan [Color] from Hex ac162c
-  static const Color vulkan = Color(0xac162c);
+  static const Color vulkan = Color(0xffac162c);
 
   /// SimpleIcons vultr [Color] from Hex 007bfc
-  static const Color vultr = Color(0x007bfc);
+  static const Color vultr = Color(0xff007bfc);
 
   /// SimpleIcons vyond [Color] from Hex d95e26
-  static const Color vyond = Color(0xd95e26);
+  static const Color vyond = Color(0xffd95e26);
 
   /// SimpleIcons w3schools [Color] from Hex 04aa6d
-  static const Color w3schools = Color(0x04aa6d);
+  static const Color w3schools = Color(0xff04aa6d);
 
   /// SimpleIcons wacom [Color] from Hex 000000
-  static const Color wacom = Color(0x000000);
+  static const Color wacom = Color(0xff000000);
 
   /// SimpleIcons wagtail [Color] from Hex 43b1b0
-  static const Color wagtail = Color(0x43b1b0);
+  static const Color wagtail = Color(0xff43b1b0);
 
   /// SimpleIcons wails [Color] from Hex df0000
-  static const Color wails = Color(0xdf0000);
+  static const Color wails = Color(0xffdf0000);
 
   /// SimpleIcons wakatime [Color] from Hex 000000
-  static const Color wakatime = Color(0x000000);
+  static const Color wakatime = Color(0xff000000);
 
   /// SimpleIcons walkman [Color] from Hex 000000
-  static const Color walkman = Color(0x000000);
+  static const Color walkman = Color(0xff000000);
 
   /// SimpleIcons wallabag [Color] from Hex 3f6184
-  static const Color wallabag = Color(0x3f6184);
+  static const Color wallabag = Color(0xff3f6184);
 
   /// SimpleIcons walletconnect [Color] from Hex 3b99fc
-  static const Color walletconnect = Color(0x3b99fc);
+  static const Color walletconnect = Color(0xff3b99fc);
 
   /// SimpleIcons walmart [Color] from Hex 0071ce
-  static const Color walmart = Color(0x0071ce);
+  static const Color walmart = Color(0xff0071ce);
 
   /// SimpleIcons wantedly [Color] from Hex 21bddb
-  static const Color wantedly = Color(0x21bddb);
+  static const Color wantedly = Color(0xff21bddb);
 
   /// SimpleIcons wappalyzer [Color] from Hex 4608ad
-  static const Color wappalyzer = Color(0x4608ad);
+  static const Color wappalyzer = Color(0xff4608ad);
 
   /// SimpleIcons warnerbrosdot [Color] from Hex 004db4
-  static const Color warnerbrosdot = Color(0x004db4);
+  static const Color warnerbrosdot = Color(0xff004db4);
 
   /// SimpleIcons warp [Color] from Hex 01a4ff
-  static const Color warp = Color(0x01a4ff);
+  static const Color warp = Color(0xff01a4ff);
 
   /// SimpleIcons wasabi [Color] from Hex 01cd3e
-  static const Color wasabi = Color(0x01cd3e);
+  static const Color wasabi = Color(0xff01cd3e);
 
   /// SimpleIcons wasmcloud [Color] from Hex 00bc8e
-  static const Color wasmcloud = Color(0x00bc8e);
+  static const Color wasmcloud = Color(0xff00bc8e);
 
   /// SimpleIcons wasmer [Color] from Hex 4946dd
-  static const Color wasmer = Color(0x4946dd);
+  static const Color wasmer = Color(0xff4946dd);
 
   /// SimpleIcons wattpad [Color] from Hex ff500a
-  static const Color wattpad = Color(0xff500a);
+  static const Color wattpad = Color(0xffff500a);
 
   /// SimpleIcons wayland [Color] from Hex ffbc00
-  static const Color wayland = Color(0xffbc00);
+  static const Color wayland = Color(0xffffbc00);
 
   /// SimpleIcons waze [Color] from Hex 33ccff
-  static const Color waze = Color(0x33ccff);
+  static const Color waze = Color(0xff33ccff);
 
   /// SimpleIcons wazirx [Color] from Hex 3067f0
-  static const Color wazirx = Color(0x3067f0);
+  static const Color wazirx = Color(0xff3067f0);
 
   /// SimpleIcons wearos [Color] from Hex 4285f4
-  static const Color wearos = Color(0x4285f4);
+  static const Color wearos = Color(0xff4285f4);
 
   /// SimpleIcons weasyl [Color] from Hex 990000
-  static const Color weasyl = Color(0x990000);
+  static const Color weasyl = Color(0xff990000);
 
   /// SimpleIcons web3dotjs [Color] from Hex f16822
-  static const Color web3dotjs = Color(0xf16822);
+  static const Color web3dotjs = Color(0xfff16822);
 
   /// SimpleIcons webassembly [Color] from Hex 654ff0
-  static const Color webassembly = Color(0x654ff0);
+  static const Color webassembly = Color(0xff654ff0);
 
   /// SimpleIcons webauthn [Color] from Hex 3423a6
-  static const Color webauthn = Color(0x3423a6);
+  static const Color webauthn = Color(0xff3423a6);
 
   /// SimpleIcons webcomponentsdotorg [Color] from Hex 29abe2
-  static const Color webcomponentsdotorg = Color(0x29abe2);
+  static const Color webcomponentsdotorg = Color(0xff29abe2);
 
   /// SimpleIcons webdriverio [Color] from Hex ea5906
-  static const Color webdriverio = Color(0xea5906);
+  static const Color webdriverio = Color(0xffea5906);
 
   /// SimpleIcons webex [Color] from Hex 000000
-  static const Color webex = Color(0x000000);
+  static const Color webex = Color(0xff000000);
 
   /// SimpleIcons webflow [Color] from Hex 146ef5
-  static const Color webflow = Color(0x146ef5);
+  static const Color webflow = Color(0xff146ef5);
 
   /// SimpleIcons webgl [Color] from Hex 990000
-  static const Color webgl = Color(0x990000);
+  static const Color webgl = Color(0xff990000);
 
   /// SimpleIcons weblate [Color] from Hex 2eccaa
-  static const Color weblate = Color(0x2eccaa);
+  static const Color weblate = Color(0xff2eccaa);
 
   /// SimpleIcons webmin [Color] from Hex 7da0d0
-  static const Color webmin = Color(0x7da0d0);
+  static const Color webmin = Color(0xff7da0d0);
 
   /// SimpleIcons webmoney [Color] from Hex 036cb5
-  static const Color webmoney = Color(0x036cb5);
+  static const Color webmoney = Color(0xff036cb5);
 
   /// SimpleIcons webpack [Color] from Hex 8dd6f9
-  static const Color webpack = Color(0x8dd6f9);
+  static const Color webpack = Color(0xff8dd6f9);
 
   /// SimpleIcons webrtc [Color] from Hex 333333
-  static const Color webrtc = Color(0x333333);
+  static const Color webrtc = Color(0xff333333);
 
   /// SimpleIcons webstorm [Color] from Hex 000000
-  static const Color webstorm = Color(0x000000);
+  static const Color webstorm = Color(0xff000000);
 
   /// SimpleIcons webtoon [Color] from Hex 00d564
-  static const Color webtoon = Color(0x00d564);
+  static const Color webtoon = Color(0xff00d564);
 
   /// SimpleIcons webtrees [Color] from Hex 2694e8
-  static const Color webtrees = Color(0x2694e8);
+  static const Color webtrees = Color(0xff2694e8);
 
   /// SimpleIcons wechat [Color] from Hex 07c160
-  static const Color wechat = Color(0x07c160);
+  static const Color wechat = Color(0xff07c160);
 
   /// SimpleIcons wegame [Color] from Hex faab00
-  static const Color wegame = Color(0xfaab00);
+  static const Color wegame = Color(0xfffaab00);
 
   /// SimpleIcons weightsandbiases [Color] from Hex ffbe00
-  static const Color weightsandbiases = Color(0xffbe00);
+  static const Color weightsandbiases = Color(0xffffbe00);
 
   /// SimpleIcons welcometothejungle [Color] from Hex ffcd00
-  static const Color welcometothejungle = Color(0xffcd00);
+  static const Color welcometothejungle = Color(0xffffcd00);
 
   /// SimpleIcons wellfound [Color] from Hex 000000
-  static const Color wellfound = Color(0x000000);
+  static const Color wellfound = Color(0xff000000);
 
   /// SimpleIcons wellsfargo [Color] from Hex d71e28
-  static const Color wellsfargo = Color(0xd71e28);
+  static const Color wellsfargo = Color(0xffd71e28);
 
   /// SimpleIcons wemo [Color] from Hex 72d44c
-  static const Color wemo = Color(0x72d44c);
+  static const Color wemo = Color(0xff72d44c);
 
   /// SimpleIcons westerndigital [Color] from Hex 000000
-  static const Color westerndigital = Color(0x000000);
+  static const Color westerndigital = Color(0xff000000);
 
   /// SimpleIcons wetransfer [Color] from Hex 409fff
-  static const Color wetransfer = Color(0x409fff);
+  static const Color wetransfer = Color(0xff409fff);
 
   /// SimpleIcons wezterm [Color] from Hex 4e49ee
-  static const Color wezterm = Color(0x4e49ee);
+  static const Color wezterm = Color(0xff4e49ee);
 
   /// SimpleIcons whatsapp [Color] from Hex 25d366
-  static const Color whatsapp = Color(0x25d366);
+  static const Color whatsapp = Color(0xff25d366);
 
   /// SimpleIcons wheniwork [Color] from Hex 51a33d
-  static const Color wheniwork = Color(0x51a33d);
+  static const Color wheniwork = Color(0xff51a33d);
 
   /// SimpleIcons wii [Color] from Hex 8b8b8b
-  static const Color wii = Color(0x8b8b8b);
+  static const Color wii = Color(0xff8b8b8b);
 
   /// SimpleIcons wiiu [Color] from Hex 8b8b8b
-  static const Color wiiu = Color(0x8b8b8b);
+  static const Color wiiu = Color(0xff8b8b8b);
 
   /// SimpleIcons wikidotgg [Color] from Hex ff1985
-  static const Color wikidotgg = Color(0xff1985);
+  static const Color wikidotgg = Color(0xffff1985);
 
   /// SimpleIcons wikidotjs [Color] from Hex 1976d2
-  static const Color wikidotjs = Color(0x1976d2);
+  static const Color wikidotjs = Color(0xff1976d2);
 
   /// SimpleIcons wikidata [Color] from Hex 006699
-  static const Color wikidata = Color(0x006699);
+  static const Color wikidata = Color(0xff006699);
 
   /// SimpleIcons wikimediacommons [Color] from Hex 006699
-  static const Color wikimediacommons = Color(0x006699);
+  static const Color wikimediacommons = Color(0xff006699);
 
   /// SimpleIcons wikipedia [Color] from Hex 000000
-  static const Color wikipedia = Color(0x000000);
+  static const Color wikipedia = Color(0xff000000);
 
   /// SimpleIcons wikiquote [Color] from Hex 006699
-  static const Color wikiquote = Color(0x006699);
+  static const Color wikiquote = Color(0xff006699);
 
   /// SimpleIcons wikivoyage [Color] from Hex 006699
-  static const Color wikivoyage = Color(0x006699);
+  static const Color wikivoyage = Color(0xff006699);
 
   /// SimpleIcons winamp [Color] from Hex f93821
-  static const Color winamp = Color(0xf93821);
+  static const Color winamp = Color(0xfff93821);
 
   /// SimpleIcons windows [Color] from Hex 0078d4
-  static const Color windows = Color(0x0078d4);
+  static const Color windows = Color(0xff0078d4);
 
   /// SimpleIcons windows10 [Color] from Hex 0078d6
-  static const Color windows10 = Color(0x0078d6);
+  static const Color windows10 = Color(0xff0078d6);
 
   /// SimpleIcons windows11 [Color] from Hex 0078d4
-  static const Color windows11 = Color(0x0078d4);
+  static const Color windows11 = Color(0xff0078d4);
 
   /// SimpleIcons windows95 [Color] from Hex 008080
-  static const Color windows95 = Color(0x008080);
+  static const Color windows95 = Color(0xff008080);
 
   /// SimpleIcons windowsterminal [Color] from Hex 4d4d4d
-  static const Color windowsterminal = Color(0x4d4d4d);
+  static const Color windowsterminal = Color(0xff4d4d4d);
 
   /// SimpleIcons windowsxp [Color] from Hex 003399
-  static const Color windowsxp = Color(0x003399);
+  static const Color windowsxp = Color(0xff003399);
 
   /// SimpleIcons wipro [Color] from Hex 341c53
-  static const Color wipro = Color(0x341c53);
+  static const Color wipro = Color(0xff341c53);
 
   /// SimpleIcons wire [Color] from Hex 000000
-  static const Color wire = Color(0x000000);
+  static const Color wire = Color(0xff000000);
 
   /// SimpleIcons wireguard [Color] from Hex 88171a
-  static const Color wireguard = Color(0x88171a);
+  static const Color wireguard = Color(0xff88171a);
 
   /// SimpleIcons wireshark [Color] from Hex 1679a7
-  static const Color wireshark = Color(0x1679a7);
+  static const Color wireshark = Color(0xff1679a7);
 
   /// SimpleIcons wise [Color] from Hex 9fe870
-  static const Color wise = Color(0x9fe870);
+  static const Color wise = Color(0xff9fe870);
 
   /// SimpleIcons wish [Color] from Hex 2fb7ec
-  static const Color wish = Color(0x2fb7ec);
+  static const Color wish = Color(0xff2fb7ec);
 
   /// SimpleIcons wistia [Color] from Hex 58b7fe
-  static const Color wistia = Color(0x58b7fe);
+  static const Color wistia = Color(0xff58b7fe);
 
   /// SimpleIcons wix [Color] from Hex 0c6efc
-  static const Color wix = Color(0x0c6efc);
+  static const Color wix = Color(0xff0c6efc);
 
   /// SimpleIcons wizzair [Color] from Hex c6007e
-  static const Color wizzair = Color(0xc6007e);
+  static const Color wizzair = Color(0xffc6007e);
 
   /// SimpleIcons wolfram [Color] from Hex dd1100
-  static const Color wolfram = Color(0xdd1100);
+  static const Color wolfram = Color(0xffdd1100);
 
   /// SimpleIcons wolframlanguage [Color] from Hex dd1100
-  static const Color wolframlanguage = Color(0xdd1100);
+  static const Color wolframlanguage = Color(0xffdd1100);
 
   /// SimpleIcons wolframmathematica [Color] from Hex dd1100
-  static const Color wolframmathematica = Color(0xdd1100);
+  static const Color wolframmathematica = Color(0xffdd1100);
 
   /// SimpleIcons woo [Color] from Hex 96588a
-  static const Color woo = Color(0x96588a);
+  static const Color woo = Color(0xff96588a);
 
   /// SimpleIcons woocommerce [Color] from Hex 96588a
-  static const Color woocommerce = Color(0x96588a);
+  static const Color woocommerce = Color(0xff96588a);
 
   /// SimpleIcons wordpress [Color] from Hex 21759b
-  static const Color wordpress = Color(0x21759b);
+  static const Color wordpress = Color(0xff21759b);
 
   /// SimpleIcons workplace [Color] from Hex 4526ce
-  static const Color workplace = Color(0x4526ce);
+  static const Color workplace = Color(0xff4526ce);
 
   /// SimpleIcons worldhealthorganization [Color] from Hex 0093d5
-  static const Color worldhealthorganization = Color(0x0093d5);
+  static const Color worldhealthorganization = Color(0xff0093d5);
 
   /// SimpleIcons wpengine [Color] from Hex 0ecad4
-  static const Color wpengine = Color(0x0ecad4);
+  static const Color wpengine = Color(0xff0ecad4);
 
   /// SimpleIcons wprocket [Color] from Hex f56640
-  static const Color wprocket = Color(0xf56640);
+  static const Color wprocket = Color(0xfff56640);
 
   /// SimpleIcons wpexplorer [Color] from Hex 2563eb
-  static const Color wpexplorer = Color(0x2563eb);
+  static const Color wpexplorer = Color(0xff2563eb);
 
   /// SimpleIcons writedotas [Color] from Hex 5bc4ee
-  static const Color writedotas = Color(0x5bc4ee);
+  static const Color writedotas = Color(0xff5bc4ee);
 
   /// SimpleIcons wwe [Color] from Hex 000000
-  static const Color wwe = Color(0x000000);
+  static const Color wwe = Color(0xff000000);
 
   /// SimpleIcons wwise [Color] from Hex 00549f
-  static const Color wwise = Color(0x00549f);
+  static const Color wwise = Color(0xff00549f);
 
   /// SimpleIcons x [Color] from Hex 000000
-  static const Color x = Color(0x000000);
+  static const Color x = Color(0xff000000);
 
   /// SimpleIcons xdotorg [Color] from Hex f28834
-  static const Color xdotorg = Color(0xf28834);
+  static const Color xdotorg = Color(0xfff28834);
 
   /// SimpleIcons xamarin [Color] from Hex 3498db
-  static const Color xamarin = Color(0x3498db);
+  static const Color xamarin = Color(0xff3498db);
 
   /// SimpleIcons xaml [Color] from Hex 0c54c2
-  static const Color xaml = Color(0x0c54c2);
+  static const Color xaml = Color(0xff0c54c2);
 
   /// SimpleIcons xampp [Color] from Hex fb7a24
-  static const Color xampp = Color(0xfb7a24);
+  static const Color xampp = Color(0xfffb7a24);
 
   /// SimpleIcons xbox [Color] from Hex 107c10
-  static const Color xbox = Color(0x107c10);
+  static const Color xbox = Color(0xff107c10);
 
   /// SimpleIcons xcode [Color] from Hex 147efb
-  static const Color xcode = Color(0x147efb);
+  static const Color xcode = Color(0xff147efb);
 
   /// SimpleIcons xdadevelopers [Color] from Hex ea7100
-  static const Color xdadevelopers = Color(0xea7100);
+  static const Color xdadevelopers = Color(0xffea7100);
 
   /// SimpleIcons xero [Color] from Hex 13b5ea
-  static const Color xero = Color(0x13b5ea);
+  static const Color xero = Color(0xff13b5ea);
 
   /// SimpleIcons xfce [Color] from Hex 2284f2
-  static const Color xfce = Color(0x2284f2);
+  static const Color xfce = Color(0xff2284f2);
 
   /// SimpleIcons xiaomi [Color] from Hex ff6900
-  static const Color xiaomi = Color(0xff6900);
+  static const Color xiaomi = Color(0xffff6900);
 
   /// SimpleIcons xing [Color] from Hex 006567
-  static const Color xing = Color(0x006567);
+  static const Color xing = Color(0xff006567);
 
   /// SimpleIcons xmpp [Color] from Hex 002b5c
-  static const Color xmpp = Color(0x002b5c);
+  static const Color xmpp = Color(0xff002b5c);
 
   /// SimpleIcons xo [Color] from Hex 5ed9c7
-  static const Color xo = Color(0x5ed9c7);
+  static const Color xo = Color(0xff5ed9c7);
 
   /// SimpleIcons xrp [Color] from Hex 25a768
-  static const Color xrp = Color(0x25a768);
+  static const Color xrp = Color(0xff25a768);
 
   /// SimpleIcons xsplit [Color] from Hex 0095de
-  static const Color xsplit = Color(0x0095de);
+  static const Color xsplit = Color(0xff0095de);
 
   /// SimpleIcons xstate [Color] from Hex 2c3e50
-  static const Color xstate = Color(0x2c3e50);
+  static const Color xstate = Color(0xff2c3e50);
 
   /// SimpleIcons ycombinator [Color] from Hex f0652f
-  static const Color ycombinator = Color(0xf0652f);
+  static const Color ycombinator = Color(0xfff0652f);
 
   /// SimpleIcons yale [Color] from Hex ffd900
-  static const Color yale = Color(0xffd900);
+  static const Color yale = Color(0xffffd900);
 
   /// SimpleIcons yamahacorporation [Color] from Hex 4b1e78
-  static const Color yamahacorporation = Color(0x4b1e78);
+  static const Color yamahacorporation = Color(0xff4b1e78);
 
   /// SimpleIcons yamahamotorcorporation [Color] from Hex e60012
-  static const Color yamahamotorcorporation = Color(0xe60012);
+  static const Color yamahamotorcorporation = Color(0xffe60012);
 
   /// SimpleIcons yaml [Color] from Hex cb171e
-  static const Color yaml = Color(0xcb171e);
+  static const Color yaml = Color(0xffcb171e);
 
   /// SimpleIcons yammer [Color] from Hex 106ebe
-  static const Color yammer = Color(0x106ebe);
+  static const Color yammer = Color(0xff106ebe);
 
   /// SimpleIcons yandexcloud [Color] from Hex 5282ff
-  static const Color yandexcloud = Color(0x5282ff);
+  static const Color yandexcloud = Color(0xff5282ff);
 
   /// SimpleIcons yarn [Color] from Hex 2c8ebb
-  static const Color yarn = Color(0x2c8ebb);
+  static const Color yarn = Color(0xff2c8ebb);
 
   /// SimpleIcons yelp [Color] from Hex ff1a1a
-  static const Color yelp = Color(0xff1a1a);
+  static const Color yelp = Color(0xffff1a1a);
 
   /// SimpleIcons yeti [Color] from Hex 00263c
-  static const Color yeti = Color(0x00263c);
+  static const Color yeti = Color(0xff00263c);
 
   /// SimpleIcons yoast [Color] from Hex a61e69
-  static const Color yoast = Color(0xa61e69);
+  static const Color yoast = Color(0xffa61e69);
 
   /// SimpleIcons youtube [Color] from Hex ff0000
-  static const Color youtube = Color(0xff0000);
+  static const Color youtube = Color(0xffff0000);
 
   /// SimpleIcons youtubegaming [Color] from Hex ff0000
-  static const Color youtubegaming = Color(0xff0000);
+  static const Color youtubegaming = Color(0xffff0000);
 
   /// SimpleIcons youtubekids [Color] from Hex ff0000
-  static const Color youtubekids = Color(0xff0000);
+  static const Color youtubekids = Color(0xffff0000);
 
   /// SimpleIcons youtubemusic [Color] from Hex ff0000
-  static const Color youtubemusic = Color(0xff0000);
+  static const Color youtubemusic = Color(0xffff0000);
 
   /// SimpleIcons youtubeshorts [Color] from Hex ff0000
-  static const Color youtubeshorts = Color(0xff0000);
+  static const Color youtubeshorts = Color(0xffff0000);
 
   /// SimpleIcons youtubestudio [Color] from Hex ff0000
-  static const Color youtubestudio = Color(0xff0000);
+  static const Color youtubestudio = Color(0xffff0000);
 
   /// SimpleIcons youtubetv [Color] from Hex ff0000
-  static const Color youtubetv = Color(0xff0000);
+  static const Color youtubetv = Color(0xffff0000);
 
   /// SimpleIcons yr [Color] from Hex 00b9f1
-  static const Color yr = Color(0x00b9f1);
+  static const Color yr = Color(0xff00b9f1);
 
   /// SimpleIcons yubico [Color] from Hex 84bd00
-  static const Color yubico = Color(0x84bd00);
+  static const Color yubico = Color(0xff84bd00);
 
   /// SimpleIcons zabka [Color] from Hex 006420
-  static const Color zabka = Color(0x006420);
+  static const Color zabka = Color(0xff006420);
 
   /// SimpleIcons zalando [Color] from Hex ff6900
-  static const Color zalando = Color(0xff6900);
+  static const Color zalando = Color(0xffff6900);
 
   /// SimpleIcons zalo [Color] from Hex 0068ff
-  static const Color zalo = Color(0x0068ff);
+  static const Color zalo = Color(0xff0068ff);
 
   /// SimpleIcons zapier [Color] from Hex ff4f00
-  static const Color zapier = Color(0xff4f00);
+  static const Color zapier = Color(0xffff4f00);
 
   /// SimpleIcons zara [Color] from Hex 000000
-  static const Color zara = Color(0x000000);
+  static const Color zara = Color(0xff000000);
 
   /// SimpleIcons zazzle [Color] from Hex 212121
-  static const Color zazzle = Color(0x212121);
+  static const Color zazzle = Color(0xff212121);
 
   /// SimpleIcons zcash [Color] from Hex f3b724
-  static const Color zcash = Color(0xf3b724);
+  static const Color zcash = Color(0xfff3b724);
 
   /// SimpleIcons zdf [Color] from Hex fa7d19
-  static const Color zdf = Color(0xfa7d19);
+  static const Color zdf = Color(0xfffa7d19);
 
   /// SimpleIcons zebpay [Color] from Hex 2072ef
-  static const Color zebpay = Color(0x2072ef);
+  static const Color zebpay = Color(0xff2072ef);
 
   /// SimpleIcons zebratechnologies [Color] from Hex 000000
-  static const Color zebratechnologies = Color(0x000000);
+  static const Color zebratechnologies = Color(0xff000000);
 
   /// SimpleIcons zelle [Color] from Hex 6d1ed4
-  static const Color zelle = Color(0x6d1ed4);
+  static const Color zelle = Color(0xff6d1ed4);
 
   /// SimpleIcons zend [Color] from Hex 0679ea
-  static const Color zend = Color(0x0679ea);
+  static const Color zend = Color(0xff0679ea);
 
   /// SimpleIcons zendesk [Color] from Hex 03363d
-  static const Color zendesk = Color(0x03363d);
+  static const Color zendesk = Color(0xff03363d);
 
   /// SimpleIcons zenn [Color] from Hex 3ea8ff
-  static const Color zenn = Color(0x3ea8ff);
+  static const Color zenn = Color(0xff3ea8ff);
 
   /// SimpleIcons zenodo [Color] from Hex 1682d4
-  static const Color zenodo = Color(0x1682d4);
+  static const Color zenodo = Color(0xff1682d4);
 
   /// SimpleIcons zensar [Color] from Hex 000000
-  static const Color zensar = Color(0x000000);
+  static const Color zensar = Color(0xff000000);
 
   /// SimpleIcons zerodha [Color] from Hex 387ed1
-  static const Color zerodha = Color(0x387ed1);
+  static const Color zerodha = Color(0xff387ed1);
 
   /// SimpleIcons zerply [Color] from Hex 7bbb6e
-  static const Color zerply = Color(0x7bbb6e);
+  static const Color zerply = Color(0xff7bbb6e);
 
   /// SimpleIcons zettlr [Color] from Hex 1cb27e
-  static const Color zettlr = Color(0x1cb27e);
+  static const Color zettlr = Color(0xff1cb27e);
 
   /// SimpleIcons zhihu [Color] from Hex 0084ff
-  static const Color zhihu = Color(0x0084ff);
+  static const Color zhihu = Color(0xff0084ff);
 
   /// SimpleIcons zig [Color] from Hex f7a41d
-  static const Color zig = Color(0xf7a41d);
+  static const Color zig = Color(0xfff7a41d);
 
   /// SimpleIcons zigbee [Color] from Hex eb0443
-  static const Color zigbee = Color(0xeb0443);
+  static const Color zigbee = Color(0xffeb0443);
 
   /// SimpleIcons ziggo [Color] from Hex f48c00
-  static const Color ziggo = Color(0xf48c00);
+  static const Color ziggo = Color(0xfff48c00);
 
   /// SimpleIcons zilch [Color] from Hex 00d287
-  static const Color zilch = Color(0x00d287);
+  static const Color zilch = Color(0xff00d287);
 
   /// SimpleIcons zillow [Color] from Hex 006aff
-  static const Color zillow = Color(0x006aff);
+  static const Color zillow = Color(0xff006aff);
 
   /// SimpleIcons zincsearch [Color] from Hex 5ba37f
-  static const Color zincsearch = Color(0x5ba37f);
+  static const Color zincsearch = Color(0xff5ba37f);
 
   /// SimpleIcons zingat [Color] from Hex 009cfb
-  static const Color zingat = Color(0x009cfb);
+  static const Color zingat = Color(0xff009cfb);
 
   /// SimpleIcons zod [Color] from Hex 3e67b1
-  static const Color zod = Color(0x3e67b1);
+  static const Color zod = Color(0xff3e67b1);
 
   /// SimpleIcons zoho [Color] from Hex e42527
-  static const Color zoho = Color(0xe42527);
+  static const Color zoho = Color(0xffe42527);
 
   /// SimpleIcons zoiper [Color] from Hex f47920
-  static const Color zoiper = Color(0xf47920);
+  static const Color zoiper = Color(0xfff47920);
 
   /// SimpleIcons zomato [Color] from Hex e23744
-  static const Color zomato = Color(0xe23744);
+  static const Color zomato = Color(0xffe23744);
 
   /// SimpleIcons zoom [Color] from Hex 0b5cff
-  static const Color zoom = Color(0x0b5cff);
+  static const Color zoom = Color(0xff0b5cff);
 
   /// SimpleIcons zorin [Color] from Hex 15a6f0
-  static const Color zorin = Color(0x15a6f0);
+  static const Color zorin = Color(0xff15a6f0);
 
   /// SimpleIcons zotero [Color] from Hex cc2936
-  static const Color zotero = Color(0xcc2936);
+  static const Color zotero = Color(0xffcc2936);
 
   /// SimpleIcons zsh [Color] from Hex f15a24
-  static const Color zsh = Color(0xf15a24);
+  static const Color zsh = Color(0xfff15a24);
 
   /// SimpleIcons zulip [Color] from Hex 50adff
-  static const Color zulip = Color(0x50adff);
+  static const Color zulip = Color(0xff50adff);
 
   /// SimpleIcons zyte [Color] from Hex b02cce
-  static const Color zyte = Color(0xb02cce);
+  static const Color zyte = Color(0xffb02cce);
 
   /// [values] offers the [Map<String, Color>] of [https://simpleicons.org/]
   static const Map<String, Color> values = {

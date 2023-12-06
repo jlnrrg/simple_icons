@@ -97,7 +97,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "10.1.1"
+    version: "10.1.2"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -151,14 +151,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.1"
-  unorm_dart:
-    dependency: transitive
-    description:
-      name: unorm_dart
-      sha256: "23d8bf65605401a6a32cff99435fed66ef3dab3ddcad3454059165df46496a3b"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.0"
   vector_math:
     dependency: transitive
     description:

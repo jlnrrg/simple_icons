@@ -71,12 +71,13 @@ class FontGenerator {
     ];
 
     icons.forEach((String iconName, String iconUnicode) {
-      generatedOutput
-          .add('''/// SimpleIcons $iconName [IconData] with Unicode $iconUnicode
+      generatedOutput.add(
+          '''/// SimpleIcons $iconName [IconData] with Unicode $iconUnicode
           static const IconData $iconName = SimpleIconData($iconUnicode);\n''');
     });
 
-    generatedOutput.add('''\n\n
+    generatedOutput.add(
+        '''\n\n
           /// [values] offers the [Map<String, IconData>] of [https://simpleicons.org/]
           static const Map<String, IconData> values = {\n
     ''');
@@ -104,18 +105,21 @@ class FontGenerator {
     ];
 
     colors.forEach((String iconName, String colorHex) {
-      generatedOutput.add('''
+      generatedOutput.add(
+          '''
   /// SimpleIcons $iconName [Color] from Hex $colorHex
-  static const Color $iconName = Color(0x$colorHex);\n''');
+  static const Color $iconName = Color(0xff$colorHex);\n''');
     });
 
-    generatedOutput.add('''\n\n
+    generatedOutput.add(
+        '''\n\n
   /// [values] offers the [Map<String, Color>] of [https://simpleicons.org/]
   static const Map<String, Color> values = {\n
     ''');
 
     colors.forEach((String iconName, String colorHex) {
-      generatedOutput.add('''
+      generatedOutput
+          .add('''
           '$iconName': SimpleIconColors.$iconName,''');
     });
 

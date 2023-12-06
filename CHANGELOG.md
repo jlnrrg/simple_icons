@@ -1,3 +1,7 @@
+## [10.1.2] - Remove SimpleIconColors Opacity
+- add golden tests for colors
+- add golden tests for icon data (not yet working)
+
 ## [10.1.2] - Breaking Change
 - change file paths
 - add SimpleIconColors, (not every icon has a color) (#102)
