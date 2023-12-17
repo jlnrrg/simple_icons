@@ -21,7 +21,6 @@ screenshots:
     path: assets/simple_icons_overview.png
 
 flutter:
-  uses-material-design: true
   fonts:
     - family: SimpleIcons
       fonts:
