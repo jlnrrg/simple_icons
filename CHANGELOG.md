@@ -1,3 +1,64 @@
+## [12.0.0] - auto_generated update
+
+#### New Icons
+
+- Audiobookshelf ([#10605](https://github.com/simple-icons/simple-icons/pull/10605)) (@21st-centuryman)
+- Awwwards ([#10539](https://github.com/simple-icons/simple-icons/pull/10539)) (@stefanobartoletti)
+- Foundry Virtual Tabletop ([#10575](https://github.com/simple-icons/simple-icons/pull/10575)) (@adamrusted)
+- FusionAuth ([#10776](https://github.com/simple-icons/simple-icons/pull/10776)) (@service-paradis)
+- Homepage ([#10452](https://github.com/simple-icons/simple-icons/pull/10452)) (@21st-centuryman)
+- Hugging Face ([#9259](https://github.com/simple-icons/simple-icons/pull/9259)) (@PratyushJayachandran)
+- Kagi ([#10976](https://github.com/simple-icons/simple-icons/pull/10976)) (@uncenter)
+- n8n ([#10909](https://github.com/simple-icons/simple-icons/pull/10909)) (@CodeShakingSheep)
+- Posit ([#10987](https://github.com/simple-icons/simple-icons/pull/10987)) (@cwickham)
+- React Bootstrap ([#10921](https://github.com/simple-icons/simple-icons/pull/10921)) (@CodeShakingSheep)
+- Sartorius ([#10967](https://github.com/simple-icons/simple-icons/pull/10967)) (@CodeShakingSheep)
+- UiPath ([#10773](https://github.com/simple-icons/simple-icons/pull/10773)) (@Mvlprem)
+- unpkg ([#10317](https://github.com/simple-icons/simple-icons/pull/10317)) (@service-paradis)
+- Zigbee2MQTT ([#10212](https://github.com/simple-icons/simple-icons/pull/10212)) (@PeterShaggyNoble)
+
+#### Updated Icons
+
+- Adidas ([#10982](https://github.com/simple-icons/simple-icons/pull/10982)) (@jglamp)
+- FastAPI ([#10663](https://github.com/simple-icons/simple-icons/pull/10663)) (@uncenter)
+- RenovateBot ([#10996](https://github.com/simple-icons/simple-icons/pull/10996)) (@sisp)
+
+#### Removed Icons
+
+- FITE ([#10060](https://github.com/simple-icons/simple-icons/pull/10060)) (@PeterShaggyNoble)
+- Flattr ([#10380](https://github.com/simple-icons/simple-icons/pull/10380)) (@service-paradis)
+- Google Bard ([#10453](https://github.com/simple-icons/simple-icons/pull/10453)) (@PeterShaggyNoble)
+- Integromat ([#10152](https://github.com/simple-icons/simple-icons/pull/10152)) (@PeterShaggyNoble)
+- Niantic ([#10979](https://github.com/simple-icons/simple-icons/pull/10979)) (@PratyushJayachandran)
+- Nintendo Network ([#10006](https://github.com/simple-icons/simple-icons/pull/10006)) (@adamrusted)
+- Rome ([#10113](https://github.com/simple-icons/simple-icons/pull/10113)) (@PeterShaggyNoble)
+- Shotcut ([#10043](https://github.com/simple-icons/simple-icons/pull/10043)) (@PeterShaggyNoble)
+- Skynet ([#10504](https://github.com/simple-icons/simple-icons/pull/10504)) (@kwypchlo)
+- Twitter ([#9748](https://github.com/simple-icons/simple-icons/pull/9748)) (@adamrusted)
+
+#### Renamed Icons
+
+- `Airbrake.io` to `Airbrake` ([#10513](https://github.com/simple-icons/simple-icons/pull/10513)) (@PeterShaggyNoble)
+- `Amazon Web Services` to `Amazon Web Services` ([#10391](https://github.com/simple-icons/simple-icons/pull/10391)) (@readboy8)
+- `RStudio` to `RStudio IDE` ([#10999](https://github.com/simple-icons/simple-icons/pull/10999)) (@adamrusted)
+
+#### SDK Changes
+
+##### URL_REGEX -> urlRegex()
+
+The exported const `URL_REGEX` has been removed. Please use `urlRegex()` instead:
+
+```javascript
+import {urlRegex} from 'simple-icons/sdk';
+const regex = await urlRegex();
+```
+
+##### .jsonschema.json
+
+Now `.jsonschema.json` file is bundled in our package.
+
+For more details, please see: https://github.com/simple-icons/simple-icons/pull/10276.
+
 ## [10.1.3] - Remove SimpleIconColors Opacity
 - add golden tests for colors
 - add golden tests for icon data (not yet working)
