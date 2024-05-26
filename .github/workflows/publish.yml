@@ -1,0 +1,80 @@
+name: Release
+on:
+  schedule:
+    - cron: 0 0 * * 1,2,3,4,5
+  workflow_dispatch:
+  
+jobs: 
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.RELEASE_TOKEN }}
+          # Ensure we are checked out on the develop branch
+          ref: develop
+          # Ensure custom credentials are used when pushing
+          persist-credentials: false
+          # Fetch everything so we can checkout master
+          fetch-depth: 0
+      
+      - name: Update Ubuntu package registry
+        run: sudo apt-get update -y 
+      - name: Install ttx
+        run: sudo apt-get install -y fonttools
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Compare release versions
+        id: get-releases
+        working-directory: vendor/
+        run: |
+          simple_icons_version="$(curl --retry 5 -s https://api.github.com/repos/simple-icons/simple-icons/releases/latest | jq -r .tag_name)"
+          echo "si=$simple_icons_version" >> $GITHUB_OUTPUT
+          echo "lib=$(cat package.json | grep '"simple-icons":' | cut -d'"' -f4 | tr -d ^)" >> $GITHUB_OUTPUT
+
+      - uses: kuhnroyal/flutter-fvm-config-action@v2
+        if: steps.get-releases.outputs.lib != steps.get-releases.outputs.si
+        id: fvm-config-action
+      - uses: subosito/flutter-action@v2
+        if: steps.get-releases.outputs.lib != steps.get-releases.outputs.si
+        with:
+          flutter-version: ${{ steps.fvm-config-action.outputs.FLUTTER_VERSION }}
+          channel: ${{ steps.fvm-config-action.outputs.FLUTTER_CHANNEL }}
+      
+      - name: Load flutter packages
+        run: flutter pub get
+      - name: Build library
+        if: steps.get-releases.outputs.lib != steps.get-releases.outputs.si
+        working-directory: tool/
+        run: bash ./build.sh
+      - name: Set Version and Changelog
+        run: bash ./set_version.sh
+        working-directory: tool/
+
+      - name: Commit
+        if: steps.get-releases.outputs.lib != steps.get-releases.outputs.si
+        run: |
+          set -e
+          echo "Set up git credential"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          echo "Create a version bump commit"
+          git add .
+          git commit -m "Update simple_icons to v${{ steps.get-releases.outputs.si }}"
+      - name: Upload
+        if: steps.get-releases.outputs.lib != steps.get-releases.outputs.si
+        run: |
+          set -e
+          echo "Merge develop into master"
+          git checkout master
+          git merge develop -m "Release ${{ steps.get-releases.outputs.si }}"
+          echo "Set up remote using a Personal Access Token"
+          git remote remove origin
+          git remote add origin https://${{secrets.RELEASE_TOKEN}}@github.com/jlnrrg/simple_icons
+          echo "Push develop first, to prevent conflicts with parallel activity"
+          git push origin develop
+          echo "Push master only after develop was safely pushed"
+          git push origin master
