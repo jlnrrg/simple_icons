@@ -1,6 +1,8 @@
 # Own
 node_modules/
 flutter_sdk
+fonts/SimpleIcons.ttf
+fonts/SimpleIcons.ttx
 
 # Miscellaneous
 *.class
