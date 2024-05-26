@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 /// Constructor for [IconData] which includes the font family
 class SimpleIconData extends IconData {
