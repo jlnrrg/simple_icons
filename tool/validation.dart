@@ -1,18 +1,6 @@
 import 'dart:collection';
-import "package:unorm_dart/unorm_dart.dart" as unorm;
 
-String validateVariableName(String name) {
-  // adds 'Icon' behind variables consistent out of locked dart keywords
-  if (dartKeywords.contains(name)) {
-    name = name + 'icon';
-  }
-
-  // adds 'n' before variables that start with a number
-  if (name.startsWith(RegExp(r'\d'))) {
-    name = 'n' + name;
-  }
-  return name;
-}
+import 'package:unorm_dart/unorm_dart.dart' as unorm;
 
 const _replacementMap = {
   '+': 'plus',
@@ -29,22 +17,15 @@ const _replacementMap = {
   'ŧ': 't',
 };
 
-String nameToSlug(String name) {
-  name = name.toLowerCase();
-  for (final e in _replacementMap.entries) {
-    name = name.replaceAll(e.key, e.value);
-  }
-  return unorm.nfd(name).replaceAll(RegExp('[^a-z0-9]'), '');
-}
-
-// source: https://pub.dev/documentation/exception_templates/latest/exception_templates/dartKeywords.html
-final UnmodifiableListView<String> dartKeywords =
+// source: https://dart.dev/language/keywords
+final UnmodifiableListView<String> _dartKeywords =
     UnmodifiableListView<String>(<String>[
   'abstract',
   'as',
   'assert',
   'async',
   'await',
+  'base',
   'break',
   'case',
   'catch',
@@ -59,7 +40,7 @@ final UnmodifiableListView<String> dartKeywords =
   'else',
   'enum',
   'export',
-  'extends,',
+  'extends',
   'extension',
   'external',
   'factory',
@@ -76,15 +57,19 @@ final UnmodifiableListView<String> dartKeywords =
   'in',
   'interface',
   'is',
+  'late',
   'library',
   'mixin',
   'new',
   'null',
+  'of',
   'on',
   'operator',
   'part',
+  'required',
   'rethrow',
   'return',
+  'sealed',
   'set',
   'show',
   'static',
@@ -95,10 +80,35 @@ final UnmodifiableListView<String> dartKeywords =
   'throw',
   'true',
   'try',
+  'type',
   'typedef',
   'var',
   'void',
-  'while',
+  'when',
   'with',
+  'while',
   'yield',
 ]);
+
+String nameToSlug(String name) {
+  name = name.toLowerCase();
+  for (final e in _replacementMap.entries) {
+    name = name.replaceAll(e.key, e.value);
+  }
+
+  return unorm.nfd(name).replaceAll(RegExp('[^a-z0-9]'), '');
+}
+
+String validateVariableName(String name) {
+  // adds 'Icon' behind variables consistent out of locked dart keywords
+  if (_dartKeywords.contains(name)) {
+    name = name + 'icon';
+  }
+
+  // adds 'n' before variables that start with a number
+  if (name.startsWith(RegExp(r'\d'))) {
+    name = 'n' + name;
+  }
+
+  return name;
+}
