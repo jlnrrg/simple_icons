@@ -1,3 +1,10 @@
+## [14.6.0] - auto_generated update
+
+#### 2 new icons
+
+- CNES ([#12709](https://github.com/simple-icons/simple-icons/pull/12709)) (@matthieuEv)
+- Mealie ([#12676](https://github.com/simple-icons/simple-icons/pull/12676)) (@ryan-w-heo)
+
 ## [12.0.0] - auto_generated update
 
 #### New Icons
