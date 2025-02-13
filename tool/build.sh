@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 # dependencies: 
 # sudo apt-get install fonttools
 # npm
@@ -23,11 +24,11 @@ echo "get latest ttf"
 cd "$WORKSPACEPATH/vendor"
 # download font
 npm install --force simple-icons-font@latest
-/bin/cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
+cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons-font/font/SimpleIcons.ttf" "$WORKSPACEPATH/fonts/"
 
 # download json
 npm install --force simple-icons@latest
-/bin/cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons/_data/simple-icons.json" "$WORKSPACEPATH/fonts/"
+cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons/_data/simple-icons.json" "$WORKSPACEPATH/fonts/"
 
 cd "$WORKSPACEPATH/fonts"
 
@@ -44,6 +45,6 @@ echo "formatting dart files"
 dart format "./lib/src/icon_data.g.dart"
 dart format "./lib/src/icon_color.g.dart"
 
-/bin/rm "$WORKSPACEPATH/fonts/simple-icons.json"
+rm "$WORKSPACEPATH/fonts/simple-icons.json"
 
 echo "build process done"

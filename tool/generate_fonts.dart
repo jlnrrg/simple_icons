@@ -51,7 +51,7 @@ class FontGenerator {
   Map<String, String> _readColors() {
     final String content = colorFile.readAsStringSync();
     final List<dynamic> jsonList =
-        jsonDecode(content)['icons'] as List<dynamic>;
+        jsonDecode(content) as List<dynamic>;
     return Map<String, String>.fromEntries(jsonList.map((dynamic e) {
       final String iconNameValidated =
           validateVariableName(nameToSlug(e['title']));
