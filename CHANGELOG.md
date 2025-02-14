@@ -1,3 +1,5 @@
+## [14.6.1] - Fix font file missing
+
 ## [14.6.0] - auto_generated update
 
 #### 2 new icons
