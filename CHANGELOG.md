@@ -1,3 +1,15 @@
+## [14.7.0] - auto_generated update
+
+#### 1 new icon
+
+- xyflow ([#12736](https://github.com/simple-icons/simple-icons/pull/12736)) (@printerscanner)
+
+#### 3 updated icons
+
+- Have I Been Pwned ([#12698](https://github.com/simple-icons/simple-icons/pull/12698)) (@LitoMore)
+- Hugging Face ([#12724](https://github.com/simple-icons/simple-icons/pull/12724)) (@LitoMore)
+- pixiv ([#12735](https://github.com/simple-icons/simple-icons/pull/12735)) (@petamoriken)
+
 ## [14.6.1] - Fix font file missing
 
 ## [14.6.0] - auto_generated update
