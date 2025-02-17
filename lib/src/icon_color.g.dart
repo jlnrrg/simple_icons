@@ -9598,6 +9598,9 @@ class SimpleIconColors {
   /// SimpleIcons xubuntu [Color] from Hex 0044aa
   static const Color xubuntu = Color(0xff0044aa);
 
+  /// SimpleIcons xyflow [Color] from Hex 1a192b
+  static const Color xyflow = Color(0xff1a192b);
+
   /// SimpleIcons ycombinator [Color] from Hex f0652f
   static const Color ycombinator = Color(0xfff0652f);
 
@@ -12998,6 +13001,7 @@ class SimpleIconColors {
     'xsplit': SimpleIconColors.xsplit,
     'xstate': SimpleIconColors.xstate,
     'xubuntu': SimpleIconColors.xubuntu,
+    'xyflow': SimpleIconColors.xyflow,
     'ycombinator': SimpleIconColors.ycombinator,
     'yabai': SimpleIconColors.yabai,
     'yale': SimpleIconColors.yale,
