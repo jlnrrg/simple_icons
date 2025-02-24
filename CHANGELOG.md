@@ -1,3 +1,15 @@
+## [14.8.0] - auto_generated update
+
+#### 2 new icons
+
+- Kiwix ([#11815](https://github.com/simple-icons/simple-icons/pull/11815)) (@DerBraky)
+- SageMath ([#12772](https://github.com/simple-icons/simple-icons/pull/12772)) (@DerBraky)
+
+#### 2 updated icons
+
+- FreeCAD ([#12768](https://github.com/simple-icons/simple-icons/pull/12768)) (@DerBraky)
+- IATA ([#12789](https://github.com/simple-icons/simple-icons/pull/12789)) (@LitoMore)
+
 ## [14.7.0] - auto_generated update
 
 #### 1 new icon
