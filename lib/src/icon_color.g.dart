@@ -3094,8 +3094,8 @@ class SimpleIconColors {
   /// SimpleIcons freebsd [Color] from Hex ab2b28
   static const Color freebsd = Color(0xffab2b28);
 
-  /// SimpleIcons freecad [Color] from Hex 729fcf
-  static const Color freecad = Color(0xff729fcf);
+  /// SimpleIcons freecad [Color] from Hex 418fde
+  static const Color freecad = Color(0xff418fde);
 
   /// SimpleIcons freecodecamp [Color] from Hex 0a0a23
   static const Color freecodecamp = Color(0xff0a0a23);
@@ -4542,6 +4542,9 @@ class SimpleIconColors {
 
   /// SimpleIcons kitsu [Color] from Hex fd755c
   static const Color kitsu = Color(0xfffd755c);
+
+  /// SimpleIcons kiwix [Color] from Hex 000000
+  static const Color kiwix = Color(0xff000000);
 
   /// SimpleIcons klarna [Color] from Hex ffb3c7
   static const Color klarna = Color(0xffffb3c7);
@@ -7413,6 +7416,9 @@ class SimpleIconColors {
 
   /// SimpleIcons sage [Color] from Hex 00d639
   static const Color sage = Color(0xff00d639);
+
+  /// SimpleIcons sagemath [Color] from Hex 3333ff
+  static const Color sagemath = Color(0xff3333ff);
 
   /// SimpleIcons sahibinden [Color] from Hex ffe800
   static const Color sahibinden = Color(0xffffe800);
@@ -11315,6 +11321,7 @@ class SimpleIconColors {
     'kirby': SimpleIconColors.kirby,
     'kit': SimpleIconColors.kit,
     'kitsu': SimpleIconColors.kitsu,
+    'kiwix': SimpleIconColors.kiwix,
     'klarna': SimpleIconColors.klarna,
     'kleinanzeigen': SimpleIconColors.kleinanzeigen,
     'klm': SimpleIconColors.klm,
@@ -12272,6 +12279,7 @@ class SimpleIconColors {
     'sabanci': SimpleIconColors.sabanci,
     'safari': SimpleIconColors.safari,
     'sage': SimpleIconColors.sage,
+    'sagemath': SimpleIconColors.sagemath,
     'sahibinden': SimpleIconColors.sahibinden,
     'sailfishos': SimpleIconColors.sailfishos,
     'sailsdotjs': SimpleIconColors.sailsdotjs,
