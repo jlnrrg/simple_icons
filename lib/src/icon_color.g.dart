@@ -9151,6 +9151,9 @@ class SimpleIconColors {
   /// SimpleIcons vimeolivestream [Color] from Hex 0a0a20
   static const Color vimeolivestream = Color(0xff0a0a20);
 
+  /// SimpleIcons vinted [Color] from Hex 007782
+  static const Color vinted = Color(0xff007782);
+
   /// SimpleIcons virgin [Color] from Hex e10a0a
   static const Color virgin = Color(0xffe10a0a);
 
@@ -12858,6 +12861,7 @@ class SimpleIconColors {
     'vim': SimpleIconColors.vim,
     'vimeo': SimpleIconColors.vimeo,
     'vimeolivestream': SimpleIconColors.vimeolivestream,
+    'vinted': SimpleIconColors.vinted,
     'virgin': SimpleIconColors.virgin,
     'virginatlantic': SimpleIconColors.virginatlantic,
     'virginmedia': SimpleIconColors.virginmedia,

@@ -1,3 +1,13 @@
+## [14.9.0] - auto_generated update
+
+#### 1 new icon
+
+- Vinted ([#12282](https://github.com/simple-icons/simple-icons/pull/12282)) (@DerBraky)
+
+#### 1 updated icon
+
+- EasyEDA ([#12826](https://github.com/simple-icons/simple-icons/pull/12826)) (@xifan2333)
+
 ## [14.8.0] - auto_generated update
 
 #### 2 new icons
