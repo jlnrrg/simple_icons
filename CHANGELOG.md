@@ -1,3 +1,16 @@
+## [14.10.0] - auto_generated update
+#### 3 new icons
+
+- Fortnite ([#12558](https://github.com/simple-icons/simple-icons/pull/12558)) (@DerBraky)
+- Kubespray ([#12837](https://github.com/simple-icons/simple-icons/pull/12837)) (@DerBraky)
+- Umbrel ([#12766](https://github.com/simple-icons/simple-icons/pull/12766)) (@DerBraky)
+
+#### 3 updated icons
+
+- Android ([#12834](https://github.com/simple-icons/simple-icons/pull/12834)) (@DerBraky)
+- Vercel ([#12788](https://github.com/simple-icons/simple-icons/pull/12788)) (@LitoMore)
+- Zsh ([#12790](https://github.com/simple-icons/simple-icons/pull/12790)) (@LitoMore)
+
 ## [14.9.0] - auto_generated update
 
 #### 1 new icon

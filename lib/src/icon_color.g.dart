@@ -472,8 +472,8 @@ class SimpleIconColors {
   /// SimpleIcons andela [Color] from Hex 173b3f
   static const Color andela = Color(0xff173b3f);
 
-  /// SimpleIcons android [Color] from Hex 34a853
-  static const Color android = Color(0xff34a853);
+  /// SimpleIcons android [Color] from Hex 3ddc84
+  static const Color android = Color(0xff3ddc84);
 
   /// SimpleIcons androidauto [Color] from Hex 3ddc84
   static const Color androidauto = Color(0xff3ddc84);
@@ -3049,6 +3049,9 @@ class SimpleIconColors {
   /// SimpleIcons fortinet [Color] from Hex ee3124
   static const Color fortinet = Color(0xffee3124);
 
+  /// SimpleIcons fortnite [Color] from Hex 000000
+  static const Color fortnite = Color(0xff000000);
+
   /// SimpleIcons fortran [Color] from Hex 734f96
   static const Color fortran = Color(0xff734f96);
 
@@ -4632,6 +4635,9 @@ class SimpleIconColors {
 
   /// SimpleIcons kubernetes [Color] from Hex 326ce5
   static const Color kubernetes = Color(0xff326ce5);
+
+  /// SimpleIcons kubespray [Color] from Hex 3d647f
+  static const Color kubespray = Color(0xff3d647f);
 
   /// SimpleIcons kubuntu [Color] from Hex 0079c1
   static const Color kubuntu = Color(0xff0079c1);
@@ -8932,6 +8938,9 @@ class SimpleIconColors {
   /// SimpleIcons umbraco [Color] from Hex 3544b1
   static const Color umbraco = Color(0xff3544b1);
 
+  /// SimpleIcons umbrel [Color] from Hex 5351fb
+  static const Color umbrel = Color(0xff5351fb);
+
   /// SimpleIcons uml [Color] from Hex fabd14
   static const Color uml = Color(0xfffabd14);
 
@@ -10826,6 +10835,7 @@ class SimpleIconColors {
     'formspree': SimpleIconColors.formspree,
     'formstack': SimpleIconColors.formstack,
     'fortinet': SimpleIconColors.fortinet,
+    'fortnite': SimpleIconColors.fortnite,
     'fortran': SimpleIconColors.fortran,
     'fossa': SimpleIconColors.fossa,
     'fossilscm': SimpleIconColors.fossilscm,
@@ -11354,6 +11364,7 @@ class SimpleIconColors {
     'ktor': SimpleIconColors.ktor,
     'kuaishou': SimpleIconColors.kuaishou,
     'kubernetes': SimpleIconColors.kubernetes,
+    'kubespray': SimpleIconColors.kubespray,
     'kubuntu': SimpleIconColors.kubuntu,
     'kucoin': SimpleIconColors.kucoin,
     'kueski': SimpleIconColors.kueski,
@@ -12788,6 +12799,7 @@ class SimpleIconColors {
     'ulule': SimpleIconColors.ulule,
     'umami': SimpleIconColors.umami,
     'umbraco': SimpleIconColors.umbraco,
+    'umbrel': SimpleIconColors.umbrel,
     'uml': SimpleIconColors.uml,
     'unacademy': SimpleIconColors.unacademy,
     'underarmour': SimpleIconColors.underarmour,
