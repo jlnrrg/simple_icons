@@ -1,3 +1,15 @@
+## [14.11.0] - auto_generated update
+
+#### 2 new icons
+
+- Gleam ([#10626](https://github.com/simple-icons/simple-icons/pull/10626)) (@uncenter)
+- PortableApps.com ([#12366](https://github.com/simple-icons/simple-icons/pull/12366)) (@DerBraky)
+
+#### 2 updated icons
+
+- DuckDuckGo ([#12896](https://github.com/simple-icons/simple-icons/pull/12896)) (@DerBraky)
+- Messenger ([#12883](https://github.com/simple-icons/simple-icons/pull/12883)) (@LitoMore)
+
 ## [14.10.0] - auto_generated update
 #### 3 new icons
 
