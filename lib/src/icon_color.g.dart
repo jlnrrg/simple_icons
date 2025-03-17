@@ -3310,6 +3310,9 @@ class SimpleIconColors {
   /// SimpleIcons glassdoor [Color] from Hex 00a162
   static const Color glassdoor = Color(0xff00a162);
 
+  /// SimpleIcons gleam [Color] from Hex ffaff3
+  static const Color gleam = Color(0xffffaff3);
+
   /// SimpleIcons glide [Color] from Hex 18bed4
   static const Color glide = Color(0xff18bed4);
 
@@ -5272,8 +5275,8 @@ class SimpleIconColors {
   /// SimpleIcons mermaid [Color] from Hex ff3670
   static const Color mermaid = Color(0xffff3670);
 
-  /// SimpleIcons messenger [Color] from Hex 00b2ff
-  static const Color messenger = Color(0xff00b2ff);
+  /// SimpleIcons messenger [Color] from Hex 0866ff
+  static const Color messenger = Color(0xff0866ff);
 
   /// SimpleIcons meta [Color] from Hex 0467df
   static const Color meta = Color(0xff0467df);
@@ -6600,6 +6603,9 @@ class SimpleIconColors {
 
   /// SimpleIcons porsche [Color] from Hex b12b28
   static const Color porsche = Color(0xffb12b28);
+
+  /// SimpleIcons portableappsdotcom [Color] from Hex 818f95
+  static const Color portableappsdotcom = Color(0xff818f95);
 
   /// SimpleIcons portainer [Color] from Hex 13bef9
   static const Color portainer = Color(0xff13bef9);
@@ -10922,6 +10928,7 @@ class SimpleIconColors {
     'gitter': SimpleIconColors.gitter,
     'gldotinet': SimpleIconColors.gldotinet,
     'glassdoor': SimpleIconColors.glassdoor,
+    'gleam': SimpleIconColors.gleam,
     'glide': SimpleIconColors.glide,
     'glitch': SimpleIconColors.glitch,
     'globus': SimpleIconColors.globus,
@@ -12019,6 +12026,7 @@ class SimpleIconColors {
     'popos': SimpleIconColors.popos,
     'porkbun': SimpleIconColors.porkbun,
     'porsche': SimpleIconColors.porsche,
+    'portableappsdotcom': SimpleIconColors.portableappsdotcom,
     'portainer': SimpleIconColors.portainer,
     'portswigger': SimpleIconColors.portswigger,
     'posit': SimpleIconColors.posit,
