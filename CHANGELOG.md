@@ -1,3 +1,9 @@
+## [14.11.1] - auto_generated update
+
+#### 1 updated icon
+
+- Obsidian ([#12919](https://github.com/simple-icons/simple-icons/pull/12919)) (@DerBraky)
+
 ## [14.11.0] - auto_generated update
 
 #### 2 new icons
