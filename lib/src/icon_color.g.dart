@@ -3190,6 +3190,9 @@ class SimpleIconColors {
   /// SimpleIcons gamemaker [Color] from Hex 000000
   static const Color gamemaker = Color(0xff000000);
 
+  /// SimpleIcons gandi [Color] from Hex 6640fe
+  static const Color gandi = Color(0xff6640fe);
+
   /// SimpleIcons garmin [Color] from Hex 000000
   static const Color garmin = Color(0xff000000);
 
@@ -3678,6 +3681,9 @@ class SimpleIconColors {
 
   /// SimpleIcons handm [Color] from Hex e50010
   static const Color handm = Color(0xffe50010);
+
+  /// SimpleIcons h2database [Color] from Hex 09476b
+  static const Color h2database = Color(0xff09476b);
 
   /// SimpleIcons h3 [Color] from Hex 1e54b7
   static const Color h3 = Color(0xff1e54b7);
@@ -6132,6 +6138,9 @@ class SimpleIconColors {
 
   /// SimpleIcons oshkosh [Color] from Hex e6830f
   static const Color oshkosh = Color(0xffe6830f);
+
+  /// SimpleIcons osmand [Color] from Hex ff8800
+  static const Color osmand = Color(0xffff8800);
 
   /// SimpleIcons osmc [Color] from Hex 17394a
   static const Color osmc = Color(0xff17394a);
@@ -8734,8 +8743,8 @@ class SimpleIconColors {
   /// SimpleIcons trainerroad [Color] from Hex da291c
   static const Color trainerroad = Color(0xffda291c);
 
-  /// SimpleIcons trakt [Color] from Hex ed1c24
-  static const Color trakt = Color(0xffed1c24);
+  /// SimpleIcons trakt [Color] from Hex 9f42c6
+  static const Color trakt = Color(0xff9f42c6);
 
   /// SimpleIcons transifex [Color] from Hex 0064ab
   static const Color transifex = Color(0xff0064ab);
@@ -9741,6 +9750,9 @@ class SimpleIconColors {
 
   /// SimpleIcons zelle [Color] from Hex 6d1ed4
   static const Color zelle = Color(0xff6d1ed4);
+
+  /// SimpleIcons zenbrowser [Color] from Hex f76f53
+  static const Color zenbrowser = Color(0xfff76f53);
 
   /// SimpleIcons zend [Color] from Hex 0679ea
   static const Color zend = Color(0xff0679ea);
@@ -10888,6 +10900,7 @@ class SimpleIconColors {
     'gamebanana': SimpleIconColors.gamebanana,
     'gameloft': SimpleIconColors.gameloft,
     'gamemaker': SimpleIconColors.gamemaker,
+    'gandi': SimpleIconColors.gandi,
     'garmin': SimpleIconColors.garmin,
     'gatling': SimpleIconColors.gatling,
     'gatsby': SimpleIconColors.gatsby,
@@ -11051,6 +11064,7 @@ class SimpleIconColors {
     'gusto': SimpleIconColors.gusto,
     'gutenberg': SimpleIconColors.gutenberg,
     'handm': SimpleIconColors.handm,
+    'h2database': SimpleIconColors.h2database,
     'h3': SimpleIconColors.h3,
     'habr': SimpleIconColors.habr,
     'hackclub': SimpleIconColors.hackclub,
@@ -11869,6 +11883,7 @@ class SimpleIconColors {
     'osf': SimpleIconColors.osf,
     'osgeo': SimpleIconColors.osgeo,
     'oshkosh': SimpleIconColors.oshkosh,
+    'osmand': SimpleIconColors.osmand,
     'osmc': SimpleIconColors.osmc,
     'osu': SimpleIconColors.osu,
     'otto': SimpleIconColors.otto,
@@ -13073,6 +13088,7 @@ class SimpleIconColors {
     'zebratechnologies': SimpleIconColors.zebratechnologies,
     'zedindustries': SimpleIconColors.zedindustries,
     'zelle': SimpleIconColors.zelle,
+    'zenbrowser': SimpleIconColors.zenbrowser,
     'zend': SimpleIconColors.zend,
     'zendesk': SimpleIconColors.zendesk,
     'zenn': SimpleIconColors.zenn,

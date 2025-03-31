@@ -1,3 +1,16 @@
+## [14.12.0] - auto_generated update
+
+#### 4 new icons
+
+- Gandi ([#12078](https://github.com/simple-icons/simple-icons/pull/12078)) (@call-me-matt)
+- H2 Database ([#12927](https://github.com/simple-icons/simple-icons/pull/12927)) (@joapuiib)
+- OsmAnd ([#12079](https://github.com/simple-icons/simple-icons/pull/12079)) (@call-me-matt)
+- Zen Browser ([#12979](https://github.com/simple-icons/simple-icons/pull/12979)) (@DerBraky)
+
+#### 1 updated icon
+
+- Trakt ([#12940](https://github.com/simple-icons/simple-icons/pull/12940)) (@DerBraky)
+
 ## [14.11.1] - auto_generated update
 
 #### 1 updated icon
