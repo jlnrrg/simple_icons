@@ -1,3 +1,10 @@
+## [14.12.1] - auto_generated update
+
+#### 2 updated icons
+
+- Custom Ink ([#12922](https://github.com/simple-icons/simple-icons/pull/12922)) (@LitoMore)
+- Mozilla ([#12933](https://github.com/simple-icons/simple-icons/pull/12933)) (@DerBraky)
+
 ## [14.12.0] - auto_generated update
 
 #### 4 new icons

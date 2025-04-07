@@ -1,6 +1,6 @@
 name: simple_icons
 description: The Simple Icon pack available as Flutter Icons. Provides over 1500 Free SVG icons for popular brands.
-version: 14.12.0
+version: 14.12.1
 homepage: https://teavelopment.com/
 repository: https://github.com/jlnrrg/simple_icons
 environment:

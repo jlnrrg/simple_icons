@@ -2062,8 +2062,8 @@ class SimpleIconColors {
   /// SimpleIcons curseforge [Color] from Hex f16436
   static const Color curseforge = Color(0xfff16436);
 
-  /// SimpleIcons customink [Color] from Hex 4051b5
-  static const Color customink = Color(0xff4051b5);
+  /// SimpleIcons customink [Color] from Hex fa3c00
+  static const Color customink = Color(0xfffa3c00);
 
   /// SimpleIcons cyberdefenders [Color] from Hex 335eea
   static const Color cyberdefenders = Color(0xff335eea);
@@ -5497,8 +5497,8 @@ class SimpleIconColors {
   /// SimpleIcons movistar [Color] from Hex 019df4
   static const Color movistar = Color(0xff019df4);
 
-  /// SimpleIcons mozilla [Color] from Hex 000000
-  static const Color mozilla = Color(0xff000000);
+  /// SimpleIcons mozilla [Color] from Hex 161616
+  static const Color mozilla = Color(0xff161616);
 
   /// SimpleIcons mpv [Color] from Hex 691f69
   static const Color mpv = Color(0xff691f69);
