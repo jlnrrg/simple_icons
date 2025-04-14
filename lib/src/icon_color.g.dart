@@ -697,8 +697,8 @@ class SimpleIconColors {
   /// SimpleIcons aral [Color] from Hex 0063cb
   static const Color aral = Color(0xff0063cb);
 
-  /// SimpleIcons arangodb [Color] from Hex dde072
-  static const Color arangodb = Color(0xffdde072);
+  /// SimpleIcons arangodb [Color] from Hex dddf72
+  static const Color arangodb = Color(0xffdddf72);
 
   /// SimpleIcons arc [Color] from Hex fcbfbd
   static const Color arc = Color(0xfffcbfbd);
@@ -5110,8 +5110,8 @@ class SimpleIconColors {
   /// SimpleIcons manageiq [Color] from Hex ef2929
   static const Color manageiq = Color(0xffef2929);
 
-  /// SimpleIcons manjaro [Color] from Hex 35bf5c
-  static const Color manjaro = Color(0xff35bf5c);
+  /// SimpleIcons manjaro [Color] from Hex 35bfa4
+  static const Color manjaro = Color(0xff35bfa4);
 
   /// SimpleIcons mantine [Color] from Hex 339af0
   static const Color mantine = Color(0xff339af0);
