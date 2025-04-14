@@ -1,3 +1,10 @@
+## [14.12.2] - auto_generated update
+
+#### 2 updated icons
+
+- ArangoDB ([#13020](https://github.com/simple-icons/simple-icons/pull/13020)) (@owennewo-dev)
+- Manjaro ([#13034](https://github.com/simple-icons/simple-icons/pull/13034)) (@Soumava-221B)
+
 ## [14.12.1] - auto_generated update
 
 #### 2 updated icons
