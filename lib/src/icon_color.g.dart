@@ -2383,8 +2383,8 @@ class SimpleIconColors {
   /// SimpleIcons douban [Color] from Hex 2d963d
   static const Color douban = Color(0xff2d963d);
 
-  /// SimpleIcons doubanread [Color] from Hex 389eac
-  static const Color doubanread = Color(0xff389eac);
+  /// SimpleIcons doubanread [Color] from Hex 24d2c8
+  static const Color doubanread = Color(0xff24d2c8);
 
   /// SimpleIcons dovecot [Color] from Hex 54bcab
   static const Color dovecot = Color(0xff54bcab);

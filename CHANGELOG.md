@@ -1,3 +1,9 @@
+## [14.12.3] - auto_generated update
+
+#### 1 updated icon
+
+- Douban Read ([#13017](https://github.com/simple-icons/simple-icons/pull/13017)) (@LitoMore)
+
 ## [14.12.2] - auto_generated update
 
 #### 2 updated icons
