@@ -5344,6 +5344,9 @@ class SimpleIconColors {
   /// SimpleIcons migadu [Color] from Hex 0043ce
   static const Color migadu = Color(0xff0043ce);
 
+  /// SimpleIcons mihon [Color] from Hex 0058a0
+  static const Color mihon = Color(0xff0058a0);
+
   /// SimpleIcons mihoyo [Color] from Hex 4ea4dd
   static const Color mihoyo = Color(0xff4ea4dd);
 
@@ -6999,6 +7002,9 @@ class SimpleIconColors {
 
   /// SimpleIcons rakuten [Color] from Hex bf0000
   static const Color rakuten = Color(0xffbf0000);
+
+  /// SimpleIcons rakutenkobo [Color] from Hex bf0000
+  static const Color rakutenkobo = Color(0xffbf0000);
 
   /// SimpleIcons ram [Color] from Hex 000000
   static const Color ram = Color(0xff000000);
@@ -11618,6 +11624,7 @@ class SimpleIconColors {
     'microstrategy': SimpleIconColors.microstrategy,
     'midi': SimpleIconColors.midi,
     'migadu': SimpleIconColors.migadu,
+    'mihon': SimpleIconColors.mihon,
     'mihoyo': SimpleIconColors.mihoyo,
     'mikrotik': SimpleIconColors.mikrotik,
     'milanote': SimpleIconColors.milanote,
@@ -12170,6 +12177,7 @@ class SimpleIconColors {
     'railway': SimpleIconColors.railway,
     'rainmeter': SimpleIconColors.rainmeter,
     'rakuten': SimpleIconColors.rakuten,
+    'rakutenkobo': SimpleIconColors.rakutenkobo,
     'ram': SimpleIconColors.ram,
     'rancher': SimpleIconColors.rancher,
     'rapid': SimpleIconColors.rapid,
