@@ -1,3 +1,10 @@
+## [14.13.0] - auto_generated update
+
+#### 2 new icons
+
+- Mihon ([#13052](https://github.com/simple-icons/simple-icons/pull/13052)) (@prem-k-r)
+- Rakuten Kobo ([#11196](https://github.com/simple-icons/simple-icons/pull/11196)) (@CodeShakingSheep)
+
 ## [14.12.3] - auto_generated update
 
 #### 1 updated icon
