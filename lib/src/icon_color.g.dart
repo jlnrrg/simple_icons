@@ -943,8 +943,8 @@ class SimpleIconColors {
   /// SimpleIcons backendless [Color] from Hex 1d77bd
   static const Color backendless = Color(0xff1d77bd);
 
-  /// SimpleIcons backstage [Color] from Hex 9bf0e1
-  static const Color backstage = Color(0xff9bf0e1);
+  /// SimpleIcons backstage [Color] from Hex 000000
+  static const Color backstage = Color(0xff000000);
 
   /// SimpleIcons badoo [Color] from Hex 783bf9
   static const Color badoo = Color(0xff783bf9);
@@ -3121,6 +3121,9 @@ class SimpleIconColors {
   /// SimpleIcons freepik [Color] from Hex 1273eb
   static const Color freepik = Color(0xff1273eb);
 
+  /// SimpleIcons freetube [Color] from Hex f04242
+  static const Color freetube = Color(0xfff04242);
+
   /// SimpleIcons fresh [Color] from Hex ffdb1e
   static const Color fresh = Color(0xffffdb1e);
 
@@ -3562,6 +3565,9 @@ class SimpleIconColors {
   /// SimpleIcons googletranslate [Color] from Hex 4285f4
   static const Color googletranslate = Color(0xff4285f4);
 
+  /// SimpleIcons googletv [Color] from Hex 4285f4
+  static const Color googletv = Color(0xff4285f4);
+
   /// SimpleIcons gotomeeting [Color] from Hex f68d2e
   static const Color gotomeeting = Color(0xfff68d2e);
 
@@ -3639,6 +3645,9 @@ class SimpleIconColors {
 
   /// SimpleIcons gsk [Color] from Hex f36633
   static const Color gsk = Color(0xfff36633);
+
+  /// SimpleIcons gsma [Color] from Hex dc002b
+  static const Color gsma = Color(0xffdc002b);
 
   /// SimpleIcons gsmarenadotcom [Color] from Hex d50000
   static const Color gsmarenadotcom = Color(0xffd50000);
@@ -3756,6 +3765,9 @@ class SimpleIconColors {
 
   /// SimpleIcons hbo [Color] from Hex 000000
   static const Color hbo = Color(0xff000000);
+
+  /// SimpleIcons hbomax [Color] from Hex 000000
+  static const Color hbomax = Color(0xff000000);
 
   /// SimpleIcons hcl [Color] from Hex 006bb6
   static const Color hcl = Color(0xff006bb6);
@@ -4467,6 +4479,9 @@ class SimpleIconColors {
 
   /// SimpleIcons kde [Color] from Hex 1d99f3
   static const Color kde = Color(0xff1d99f3);
+
+  /// SimpleIcons kdeneon [Color] from Hex 3dc08d
+  static const Color kdeneon = Color(0xff3dc08d);
 
   /// SimpleIcons kdeplasma [Color] from Hex 1d99f3
   static const Color kdeplasma = Color(0xff1d99f3);
@@ -5674,6 +5689,9 @@ class SimpleIconColors {
   /// SimpleIcons netgear [Color] from Hex 2c262d
   static const Color netgear = Color(0xff2c262d);
 
+  /// SimpleIcons netim [Color] from Hex fe8427
+  static const Color netim = Color(0xfffe8427);
+
   /// SimpleIcons netlify [Color] from Hex 00c7b7
   static const Color netlify = Color(0xff00c7b7);
 
@@ -5700,6 +5718,9 @@ class SimpleIconColors {
 
   /// SimpleIcons newegg [Color] from Hex e05e00
   static const Color newegg = Color(0xffe05e00);
+
+  /// SimpleIcons newpipe [Color] from Hex cd201f
+  static const Color newpipe = Color(0xffcd201f);
 
   /// SimpleIcons nexon [Color] from Hex 000000
   static const Color nexon = Color(0xff000000);
@@ -6012,6 +6033,9 @@ class SimpleIconColors {
 
   /// SimpleIcons openbsd [Color] from Hex f2ca30
   static const Color openbsd = Color(0xfff2ca30);
+
+  /// SimpleIcons opencritic [Color] from Hex fc3e04
+  static const Color opencritic = Color(0xfffc3e04);
 
   /// SimpleIcons opencv [Color] from Hex 5c3ee8
   static const Color opencv = Color(0xff5c3ee8);
@@ -6658,6 +6682,9 @@ class SimpleIconColors {
   /// SimpleIcons prefect [Color] from Hex 070e10
   static const Color prefect = Color(0xff070e10);
 
+  /// SimpleIcons premid [Color] from Hex 7289da
+  static const Color premid = Color(0xff7289da);
+
   /// SimpleIcons premierleague [Color] from Hex 360d3a
   static const Color premierleague = Color(0xff360d3a);
 
@@ -6990,6 +7017,9 @@ class SimpleIconColors {
 
   /// SimpleIcons radarr [Color] from Hex ffcb3d
   static const Color radarr = Color(0xffffcb3d);
+
+  /// SimpleIcons radiofrance [Color] from Hex 2b00e7
+  static const Color radiofrance = Color(0xff2b00e7);
 
   /// SimpleIcons radixui [Color] from Hex 161618
   static const Color radixui = Color(0xff161618);
@@ -10883,6 +10913,7 @@ class SimpleIconColors {
     'freenas': SimpleIconColors.freenas,
     'freenet': SimpleIconColors.freenet,
     'freepik': SimpleIconColors.freepik,
+    'freetube': SimpleIconColors.freetube,
     'fresh': SimpleIconColors.fresh,
     'frontendmentor': SimpleIconColors.frontendmentor,
     'frontify': SimpleIconColors.frontify,
@@ -11030,6 +11061,7 @@ class SimpleIconColors {
     'googletagmanager': SimpleIconColors.googletagmanager,
     'googletasks': SimpleIconColors.googletasks,
     'googletranslate': SimpleIconColors.googletranslate,
+    'googletv': SimpleIconColors.googletv,
     'gotomeeting': SimpleIconColors.gotomeeting,
     'grab': SimpleIconColors.grab,
     'gradio': SimpleIconColors.gradio,
@@ -11056,6 +11088,7 @@ class SimpleIconColors {
     'grubhub': SimpleIconColors.grubhub,
     'grunt': SimpleIconColors.grunt,
     'gsk': SimpleIconColors.gsk,
+    'gsma': SimpleIconColors.gsma,
     'gsmarenadotcom': SimpleIconColors.gsmarenadotcom,
     'gstreamer': SimpleIconColors.gstreamer,
     'gtk': SimpleIconColors.gtk,
@@ -11095,6 +11128,7 @@ class SimpleIconColors {
     'haveibeenpwned': SimpleIconColors.haveibeenpwned,
     'haxe': SimpleIconColors.haxe,
     'hbo': SimpleIconColors.hbo,
+    'hbomax': SimpleIconColors.hbomax,
     'hcl': SimpleIconColors.hcl,
     'hdfcbank': SimpleIconColors.hdfcbank,
     'headlessui': SimpleIconColors.headlessui,
@@ -11332,6 +11366,7 @@ class SimpleIconColors {
     'katana': SimpleIconColors.katana,
     'kaufland': SimpleIconColors.kaufland,
     'kde': SimpleIconColors.kde,
+    'kdeneon': SimpleIconColors.kdeneon,
     'kdeplasma': SimpleIconColors.kdeplasma,
     'kdenlive': SimpleIconColors.kdenlive,
     'kedro': SimpleIconColors.kedro,
@@ -11734,6 +11769,7 @@ class SimpleIconColors {
     'neteasecloudmusic': SimpleIconColors.neteasecloudmusic,
     'netflix': SimpleIconColors.netflix,
     'netgear': SimpleIconColors.netgear,
+    'netim': SimpleIconColors.netim,
     'netlify': SimpleIconColors.netlify,
     'nette': SimpleIconColors.nette,
     'netto': SimpleIconColors.netto,
@@ -11743,6 +11779,7 @@ class SimpleIconColors {
     'newrelic': SimpleIconColors.newrelic,
     'newyorktimes': SimpleIconColors.newyorktimes,
     'newegg': SimpleIconColors.newegg,
+    'newpipe': SimpleIconColors.newpipe,
     'nexon': SimpleIconColors.nexon,
     'nextdotjs': SimpleIconColors.nextdotjs,
     'nextbilliondotai': SimpleIconColors.nextbilliondotai,
@@ -11847,6 +11884,7 @@ class SimpleIconColors {
     'openaigym': SimpleIconColors.openaigym,
     'openapiinitiative': SimpleIconColors.openapiinitiative,
     'openbsd': SimpleIconColors.openbsd,
+    'opencritic': SimpleIconColors.opencritic,
     'opencv': SimpleIconColors.opencv,
     'openfaas': SimpleIconColors.openfaas,
     'opengl': SimpleIconColors.opengl,
@@ -12062,6 +12100,7 @@ class SimpleIconColors {
     'precommit': SimpleIconColors.precommit,
     'preact': SimpleIconColors.preact,
     'prefect': SimpleIconColors.prefect,
+    'premid': SimpleIconColors.premid,
     'premierleague': SimpleIconColors.premierleague,
     'prepbytes': SimpleIconColors.prepbytes,
     'prestashop': SimpleIconColors.prestashop,
@@ -12173,6 +12212,7 @@ class SimpleIconColors {
     'radstudio': SimpleIconColors.radstudio,
     'radar': SimpleIconColors.radar,
     'radarr': SimpleIconColors.radarr,
+    'radiofrance': SimpleIconColors.radiofrance,
     'radixui': SimpleIconColors.radixui,
     'railway': SimpleIconColors.railway,
     'rainmeter': SimpleIconColors.rainmeter,

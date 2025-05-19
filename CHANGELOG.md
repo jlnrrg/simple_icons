@@ -1,3 +1,19 @@
+## [14.14.0] - auto_generated update
+
+#### 11 new icons
+
+- Backstage ([#12102](https://github.com/simple-icons/simple-icons/pull/12102)) (@heyainsleymae)
+- FreeTube ([#11334](https://github.com/simple-icons/simple-icons/pull/11334)) (@MichaelHinrichs)
+- Google TV ([#11893](https://github.com/simple-icons/simple-icons/pull/11893)) (@bishwasbhatt2)
+- GSMA ([#11237](https://github.com/simple-icons/simple-icons/pull/11237)) (@PratyushJayachandran)
+- HBO Max ([#13202](https://github.com/simple-icons/simple-icons/pull/13202)) (@uncenter)
+- KDE neon ([#11822](https://github.com/simple-icons/simple-icons/pull/11822)) (@DerBraky)
+- Netim ([#11996](https://github.com/simple-icons/simple-icons/pull/11996)) (@DerBraky)
+- NewPipe ([#12080](https://github.com/simple-icons/simple-icons/pull/12080)) (@DerBraky)
+- OpenCritic ([#11864](https://github.com/simple-icons/simple-icons/pull/11864)) (@DerBraky)
+- PreMiD ([#12412](https://github.com/simple-icons/simple-icons/pull/12412)) (@LitoMore)
+- Radio France ([#11848](https://github.com/simple-icons/simple-icons/pull/11848)) (@regseb)
+
 ## [14.13.0] - auto_generated update
 
 #### 2 new icons
