@@ -28,7 +28,7 @@ cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons-font/font/SimpleIcons.tt
 
 # download json
 npm install --force simple-icons@latest
-cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons/_data/simple-icons.json" "$WORKSPACEPATH/fonts/"
+cp -rf "$WORKSPACEPATH/vendor/node_modules/simple-icons/data/simple-icons.json" "$WORKSPACEPATH/fonts/"
 
 cd "$WORKSPACEPATH/fonts"
 
