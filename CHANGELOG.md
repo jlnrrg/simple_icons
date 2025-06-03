@@ -1,3 +1,123 @@
+## [15.0.0] - auto_generated update
+#### SDK breaking changes
+
+- The `simple-icons/sdk` now requires Node.js 20.11 or later ([#10863](https://github.com/simple-icons/simple-icons/pull/10863)) (@LitoMore)
+- The data JSON has been renamed to `data` ([#13316](https://github.com/simple-icons/simple-icons/pull/13316)) (@LitoMore)
+    ```diff
+    -_data/simple-icons.json
+    +data/simple-icons.json
+    ```
+
+#### 34 new icons
+
+- AB Download Manager ([#13199](https://github.com/simple-icons/simple-icons/pull/13199)) (@prem-k-r)
+- AList ([#13223](https://github.com/simple-icons/simple-icons/pull/13223)) (@prem-k-r)
+- Axis Bank ([#13232](https://github.com/simple-icons/simple-icons/pull/13232)) (@prem-k-r)
+- Blibli ([#13171](https://github.com/simple-icons/simple-icons/pull/13171)) (@anhthang)
+- Bohemia Interactive ([#12770](https://github.com/simple-icons/simple-icons/pull/12770)) (@DerBraky)
+- Change Detection ([#13248](https://github.com/simple-icons/simple-icons/pull/13248)) (@prem-k-r)
+- cobalt ([#13291](https://github.com/simple-icons/simple-icons/pull/13291)) (@prem-k-r)
+- CodeRabbit ([#13207](https://github.com/simple-icons/simple-icons/pull/13207)) (@prem-k-r)
+- Distrobox ([#13323](https://github.com/simple-icons/simple-icons/pull/13323)) (@prem-k-r)
+- Floorp ([#12996](https://github.com/simple-icons/simple-icons/pull/12996)) (@alicegn-bolorg)
+- Google Summer of Code ([#13252](https://github.com/simple-icons/simple-icons/pull/13252)) (@prem-k-r)
+- Havells ([#13215](https://github.com/simple-icons/simple-icons/pull/13215)) (@prem-k-r)
+- HedgeDoc ([#13222](https://github.com/simple-icons/simple-icons/pull/13222)) (@prem-k-r)
+- Heroic Games Launcher ([#11900](https://github.com/simple-icons/simple-icons/pull/11900)) (@DerBraky)
+- iLovePDF ([#13278](https://github.com/simple-icons/simple-icons/pull/13278)) (@prem-k-r)
+- InfinityFree (#13181, #13356, #13356) (@lfavole)
+- Inquirer ([#13354](https://github.com/simple-icons/simple-icons/pull/13354)) (@LitoMore)
+- ISRO ([#13225](https://github.com/simple-icons/simple-icons/pull/13225)) (@prem-k-r)
+- KOReader ([#13306](https://github.com/simple-icons/simple-icons/pull/13306)) (@prem-k-r)
+- MangaUpdates ([#13234](https://github.com/simple-icons/simple-icons/pull/13234)) (@prem-k-r)
+- MetaGer ([#11797](https://github.com/simple-icons/simple-icons/pull/11797)) (@DerBraky)
+- Nederlandse Spoorwegen ([#12553](https://github.com/simple-icons/simple-icons/pull/12553)) (@DerBraky)
+- Nobara Linux ([#12869](https://github.com/simple-icons/simple-icons/pull/12869)) (@DerBraky)
+- OneStream ([#13290](https://github.com/simple-icons/simple-icons/pull/13290)) (@prem-k-r)
+- Quad9 ([#13144](https://github.com/simple-icons/simple-icons/pull/13144)) (@DerBraky)
+- Seafile ([#11854](https://github.com/simple-icons/simple-icons/pull/11854)) (@DerBraky)
+- Telenor ([#12557](https://github.com/simple-icons/simple-icons/pull/12557)) (@DerBraky)
+- The Planetary Society ([#13226](https://github.com/simple-icons/simple-icons/pull/13226)) (@prem-k-r)
+- The StoryGraph ([#13212](https://github.com/simple-icons/simple-icons/pull/13212)) (@prem-k-r)
+- Tresorit ([#12836](https://github.com/simple-icons/simple-icons/pull/12836)) (@DerBraky)
+- Twenty ([#13159](https://github.com/simple-icons/simple-icons/pull/13159)) (@prem-k-r)
+- UserVoice ([#12286](https://github.com/simple-icons/simple-icons/pull/12286)) (@DerBraky)
+- voelkner ([#12905](https://github.com/simple-icons/simple-icons/pull/12905)) (@lukasbestle)
+- Wikisource ([#11988](https://github.com/simple-icons/simple-icons/pull/11988)) (@DerBraky)
+
+#### 8 updated icons
+
+- Brave ([#13148](https://github.com/simple-icons/simple-icons/pull/13148)) (@DerBraky)
+- Chakra UI ([#13322](https://github.com/simple-icons/simple-icons/pull/13322)) (@prem-k-r)
+- Just Eat ([#12769](https://github.com/simple-icons/simple-icons/pull/12769)) (@DerBraky)
+- MyAnimeList ([#13350](https://github.com/simple-icons/simple-icons/pull/13350)) (@prem-k-r)
+- MYOB ([#13177](https://github.com/simple-icons/simple-icons/pull/13177)) (@Soumava-221B)
+- Netflix ([#13352](https://github.com/simple-icons/simple-icons/pull/13352)) (@dhruvkb)
+- Pixabay ([#13237](https://github.com/simple-icons/simple-icons/pull/13237)) (@prem-k-r)
+- Windsurf ([#13331](https://github.com/simple-icons/simple-icons/pull/13331)) (@LitoMore)
+
+#### 7 renamed icons
+
+- ABB RobotStuido -> ABB ([#13055](https://github.com/simple-icons/simple-icons/pull/13055)) (@adamrusted)
+- Chromecast -> Google Cast ([#13307](https://github.com/simple-icons/simple-icons/pull/13307)) (@PeterShaggyNoble)
+- Empire Kred -> Kred ([#12800](https://github.com/simple-icons/simple-icons/pull/12800)) (@LitoMore)
+- NextUI -> HeroUI ([#13122](https://github.com/simple-icons/simple-icons/pull/13122)) (@prem-k-r)
+- SonarCloud -> SonarCube Cloud ([#13312](https://github.com/simple-icons/simple-icons/pull/13312)) (@PeterShaggyNoble)
+- SonarCube -> SonarCube Server ([#13310](https://github.com/simple-icons/simple-icons/pull/13310)) (@PeterShaggyNoble)
+- SonarLint -> SonarCube for IDE ([#13308](https://github.com/simple-icons/simple-icons/pull/13308)) (@PeterShaggyNoble)
+
+#### 50 removed icons
+
+- Amazon ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Alexa ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon API Gateway ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon CloudWatch ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Cognito ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon DocumentDB ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon DynamoDB ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon EC2 ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon ECS ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon EKS ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon ElastiCache ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Fire TV ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Games ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Identity Access Management ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Lumberyard ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Luna ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Music ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Pay ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Prime ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon RDS ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Redshift ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Route 53 ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon S3 ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Simple Email Service ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon SQS ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Amazon Web Services ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- AOL ([#13313](https://github.com/simple-icons/simple-icons/pull/13313)) (@PeterShaggyNoble)
+- AWS Amplify ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- AWS Elastic Load Balancing ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- AWS Fargate ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- AWS Organizations ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- AWS Secrets Manager ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Bugsnag ([#13314](https://github.com/simple-icons/simple-icons/pull/13314)) (@PeterShaggyNoble)
+- Codeium ([#13331](https://github.com/simple-icons/simple-icons/pull/13331)) (@LitoMore)
+- cohost ([#13061](https://github.com/simple-icons/simple-icons/pull/13061)) (@adamrusted)
+- CSS3 ([#12426](https://github.com/simple-icons/simple-icons/pull/12426)) (@LitoMore)
+- Engadget ([#13315](https://github.com/simple-icons/simple-icons/pull/13315)) (@adamrusted)
+- Eventbrite ([#13329](https://github.com/simple-icons/simple-icons/pull/13329)) (@PeterShaggyNoble)
+- F-Secure ([#13330](https://github.com/simple-icons/simple-icons/pull/13330)) (@PeterShaggyNoble)
+- GoldenLine ([#12780](https://github.com/simple-icons/simple-icons/pull/12780)) (@tyleris-irish)
+- Google Data Studio ([#12779](https://github.com/simple-icons/simple-icons/pull/12779)) (@tyleris-irish)
+- Grubhub ([#13317](https://github.com/simple-icons/simple-icons/pull/13317)) (@PeterShaggyNoble)
+- Jamboard ([#12778](https://github.com/simple-icons/simple-icons/pull/12778)) (@tyleris-irish)
+- Mercedes ([#12707](https://github.com/simple-icons/simple-icons/pull/12707)) (@rushikeshtagadkar)
+- Plus Codes ([#12918](https://github.com/simple-icons/simple-icons/pull/12918)) (@DerBraky)
+- Pointy ([#13259](https://github.com/simple-icons/simple-icons/pull/13259)) (@PeterShaggyNoble)
+- SanDisk ([#12982](https://github.com/simple-icons/simple-icons/pull/12982)) (@DerBraky)
+- Prime ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+- Prime Video ([#13056](https://github.com/simple-icons/simple-icons/pull/13056)) (@adamrusted)
+
 ## [14.14.0] - auto_generated update
 
 #### 11 new icons
