@@ -2551,6 +2551,9 @@ class SimpleIconColors {
   /// SimpleIcons enpass [Color] from Hex 0d47a1
   static const Color enpass = Color(0xff0d47a1);
 
+  /// SimpleIcons ens [Color] from Hex 0080bc
+  static const Color ens = Color(0xff0080bc);
+
   /// SimpleIcons enterprisedb [Color] from Hex ff3e00
   static const Color enterprisedb = Color(0xffff3e00);
 
@@ -4153,6 +4156,9 @@ class SimpleIconColors {
   /// SimpleIcons intuit [Color] from Hex 236cff
   static const Color intuit = Color(0xff236cff);
 
+  /// SimpleIcons invidious [Color] from Hex 00b6f0
+  static const Color invidious = Color(0xff00b6f0);
+
   /// SimpleIcons invision [Color] from Hex ff3366
   static const Color invision = Color(0xffff3366);
 
@@ -5560,8 +5566,8 @@ class SimpleIconColors {
   /// SimpleIcons namuwiki [Color] from Hex 008275
   static const Color namuwiki = Color(0xff008275);
 
-  /// SimpleIcons nano [Color] from Hex 4a90e2
-  static const Color nano = Color(0xff4a90e2);
+  /// SimpleIcons nano [Color] from Hex 209ce9
+  static const Color nano = Color(0xff209ce9);
 
   /// SimpleIcons nanostores [Color] from Hex 000000
   static const Color nanostores = Color(0xff000000);
@@ -6088,8 +6094,8 @@ class SimpleIconColors {
   /// SimpleIcons operagx [Color] from Hex ee2950
   static const Color operagx = Color(0xffee2950);
 
-  /// SimpleIcons opnsense [Color] from Hex d94f00
-  static const Color opnsense = Color(0xffd94f00);
+  /// SimpleIcons opnsense [Color] from Hex e44a20
+  static const Color opnsense = Color(0xffe44a20);
 
   /// SimpleIcons oppo [Color] from Hex 2d683d
   static const Color oppo = Color(0xff2d683d);
@@ -7828,8 +7834,8 @@ class SimpleIconColors {
   /// SimpleIcons snapchat [Color] from Hex fffc00
   static const Color snapchat = Color(0xfffffc00);
 
-  /// SimpleIcons snapcraft [Color] from Hex 82bea0
-  static const Color snapcraft = Color(0xff82bea0);
+  /// SimpleIcons snapcraft [Color] from Hex e95420
+  static const Color snapcraft = Color(0xffe95420);
 
   /// SimpleIcons snapdragon [Color] from Hex c33139
   static const Color snapdragon = Color(0xffc33139);
@@ -8146,8 +8152,8 @@ class SimpleIconColors {
   /// SimpleIcons steinberg [Color] from Hex c90827
   static const Color steinberg = Color(0xffc90827);
 
-  /// SimpleIcons stellar [Color] from Hex 7d00ff
-  static const Color stellar = Color(0xff7d00ff);
+  /// SimpleIcons stellar [Color] from Hex fdda24
+  static const Color stellar = Color(0xfffdda24);
 
   /// SimpleIcons stencil [Color] from Hex 5530ff
   static const Color stencil = Color(0xff5530ff);
@@ -8857,8 +8863,8 @@ class SimpleIconColors {
   /// SimpleIcons turbo [Color] from Hex 5cd8e5
   static const Color turbo = Color(0xff5cd8e5);
 
-  /// SimpleIcons turborepo [Color] from Hex ef4444
-  static const Color turborepo = Color(0xffef4444);
+  /// SimpleIcons turborepo [Color] from Hex ff1e56
+  static const Color turborepo = Color(0xffff1e56);
 
   /// SimpleIcons turbosquid [Color] from Hex ff8135
   static const Color turbosquid = Color(0xffff8135);
@@ -8871,6 +8877,9 @@ class SimpleIconColors {
 
   /// SimpleIcons tuta [Color] from Hex 850122
   static const Color tuta = Color(0xff850122);
+
+  /// SimpleIcons tuxedocomputers [Color] from Hex 000000
+  static const Color tuxedocomputers = Color(0xff000000);
 
   /// SimpleIcons tvtime [Color] from Hex ffd400
   static const Color tvtime = Color(0xffffd400);
@@ -10710,6 +10719,7 @@ class SimpleIconColors {
     'emlakjet': SimpleIconColors.emlakjet,
     'endeavouros': SimpleIconColors.endeavouros,
     'enpass': SimpleIconColors.enpass,
+    'ens': SimpleIconColors.ens,
     'enterprisedb': SimpleIconColors.enterprisedb,
     'envato': SimpleIconColors.envato,
     'envoyproxy': SimpleIconColors.envoyproxy,
@@ -11244,6 +11254,7 @@ class SimpleIconColors {
     'internetcomputer': SimpleIconColors.internetcomputer,
     'intigriti': SimpleIconColors.intigriti,
     'intuit': SimpleIconColors.intuit,
+    'invidious': SimpleIconColors.invidious,
     'invision': SimpleIconColors.invision,
     'invoiceninja': SimpleIconColors.invoiceninja,
     'iobroker': SimpleIconColors.iobroker,
@@ -12818,6 +12829,7 @@ class SimpleIconColors {
     'turkishairlines': SimpleIconColors.turkishairlines,
     'turso': SimpleIconColors.turso,
     'tuta': SimpleIconColors.tuta,
+    'tuxedocomputers': SimpleIconColors.tuxedocomputers,
     'tvtime': SimpleIconColors.tvtime,
     'tv4play': SimpleIconColors.tv4play,
     'twenty': SimpleIconColors.twenty,

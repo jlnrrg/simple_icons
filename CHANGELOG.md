@@ -1,3 +1,22 @@
+## [15.1.0] - auto_generated update
+
+#### 3 new icons
+
+- ENS ([#11987](https://github.com/simple-icons/simple-icons/pull/11987)) (@lucemans)
+- Invidious ([#11225](https://github.com/simple-icons/simple-icons/pull/11225)) (@CodeShakingSheep)
+- TUXEDO Computers ([#12835](https://github.com/simple-icons/simple-icons/pull/12835)) (@DerBraky)
+
+#### 8 updated icons
+
+- Codeberg ([#13391](https://github.com/simple-icons/simple-icons/pull/13391)) (@prem-k-r)
+- Nano ([#13382](https://github.com/simple-icons/simple-icons/pull/13382)) (@PeterShaggyNoble)
+- OPNsense ([#13371](https://github.com/simple-icons/simple-icons/pull/13371)) (@prem-k-r)
+- Qiita ([#13392](https://github.com/simple-icons/simple-icons/pull/13392)) (@prem-k-r)
+- Shields.io ([#13358](https://github.com/simple-icons/simple-icons/pull/13358)) (@LitoMore)
+- Snapcraft ([#13383](https://github.com/simple-icons/simple-icons/pull/13383)) (@PeterShaggyNoble)
+- Stellar ([#13393](https://github.com/simple-icons/simple-icons/pull/13393)) (@prem-k-r)
+- Turborepo ([#13359](https://github.com/simple-icons/simple-icons/pull/13359)) (@LitoMore)
+
 ## [15.0.0] - auto_generated update
 #### SDK breaking changes
 
