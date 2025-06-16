@@ -124,6 +124,9 @@ class SimpleIconColors {
   /// SimpleIcons acura [Color] from Hex 000000
   static const Color acura = Color(0xff000000);
 
+  /// SimpleIcons ada [Color] from Hex 000000
+  static const Color ada = Color(0xff000000);
+
   /// SimpleIcons adafruit [Color] from Hex 000000
   static const Color adafruit = Color(0xff000000);
 
@@ -816,6 +819,9 @@ class SimpleIconColors {
 
   /// SimpleIcons avira [Color] from Hex e02027
   static const Color avira = Color(0xffe02027);
+
+  /// SimpleIcons avm [Color] from Hex e2001a
+  static const Color avm = Color(0xffe2001a);
 
   /// SimpleIcons awesomelists [Color] from Hex fc60a8
   static const Color awesomelists = Color(0xfffc60a8);
@@ -2236,6 +2242,9 @@ class SimpleIconColors {
   /// SimpleIcons discord [Color] from Hex 5865f2
   static const Color discord = Color(0xff5865f2);
 
+  /// SimpleIcons discorddotjs [Color] from Hex 5865f2
+  static const Color discorddotjs = Color(0xff5865f2);
+
   /// SimpleIcons discourse [Color] from Hex 000000
   static const Color discourse = Color(0xff000000);
 
@@ -2295,6 +2304,9 @@ class SimpleIconColors {
 
   /// SimpleIcons dolby [Color] from Hex 000000
   static const Color dolby = Color(0xff000000);
+
+  /// SimpleIcons dolibarr [Color] from Hex 263c5c
+  static const Color dolibarr = Color(0xff263c5c);
 
   /// SimpleIcons doordash [Color] from Hex ff3008
   static const Color doordash = Color(0xffff3008);
@@ -3051,6 +3063,9 @@ class SimpleIconColors {
 
   /// SimpleIcons frigate [Color] from Hex 000000
   static const Color frigate = Color(0xff000000);
+
+  /// SimpleIcons fritz [Color] from Hex e2001a
+  static const Color fritz = Color(0xffe2001a);
 
   /// SimpleIcons frontendmentor [Color] from Hex 3f54a3
   static const Color frontendmentor = Color(0xff3f54a3);
@@ -5017,6 +5032,9 @@ class SimpleIconColors {
   /// SimpleIcons macpaw [Color] from Hex 000000
   static const Color macpaw = Color(0xff000000);
 
+  /// SimpleIcons macports [Color] from Hex 1e79e9
+  static const Color macports = Color(0xff1e79e9);
+
   /// SimpleIcons macys [Color] from Hex e21a2c
   static const Color macys = Color(0xffe21a2c);
 
@@ -5289,6 +5307,9 @@ class SimpleIconColors {
 
   /// SimpleIcons mewe [Color] from Hex 17377f
   static const Color mewe = Color(0xff17377f);
+
+  /// SimpleIcons mezmo [Color] from Hex e9ff92
+  static const Color mezmo = Color(0xffe9ff92);
 
   /// SimpleIcons mg [Color] from Hex ff0000
   static const Color mg = Color(0xffff0000);
@@ -5689,6 +5710,9 @@ class SimpleIconColors {
   /// SimpleIcons nextdotjs [Color] from Hex 000000
   static const Color nextdotjs = Color(0xff000000);
 
+  /// SimpleIcons nextbike [Color] from Hex 0046d7
+  static const Color nextbike = Color(0xff0046d7);
+
   /// SimpleIcons nextbilliondotai [Color] from Hex 8d5a9e
   static const Color nextbilliondotai = Color(0xff8d5a9e);
 
@@ -5763,6 +5787,9 @@ class SimpleIconColors {
 
   /// SimpleIcons nodedotjs [Color] from Hex 5fa04e
   static const Color nodedotjs = Color(0xff5fa04e);
+
+  /// SimpleIcons nodebb [Color] from Hex 1e5ebc
+  static const Color nodebb = Color(0xff1e5ebc);
 
   /// SimpleIcons nodemon [Color] from Hex 76d04b
   static const Color nodemon = Color(0xff76d04b);
@@ -6196,6 +6223,9 @@ class SimpleIconColors {
   /// SimpleIcons paddypower [Color] from Hex 004833
   static const Color paddypower = Color(0xff004833);
 
+  /// SimpleIcons padlet [Color] from Hex ff4081
+  static const Color padlet = Color(0xffff4081);
+
   /// SimpleIcons pagekit [Color] from Hex 212121
   static const Color pagekit = Color(0xff212121);
 
@@ -6276,6 +6306,9 @@ class SimpleIconColors {
 
   /// SimpleIcons paypal [Color] from Hex 003087
   static const Color paypal = Color(0xff003087);
+
+  /// SimpleIcons paysafe [Color] from Hex 5a28ff
+  static const Color paysafe = Color(0xff5a28ff);
 
   /// SimpleIcons paytm [Color] from Hex 20336b
   static const Color paytm = Color(0xff20336b);
@@ -6886,6 +6919,9 @@ class SimpleIconColors {
   /// SimpleIcons qnap [Color] from Hex 0c2e82
   static const Color qnap = Color(0xff0c2e82);
 
+  /// SimpleIcons qodo [Color] from Hex 7968fa
+  static const Color qodo = Color(0xff7968fa);
+
   /// SimpleIcons qq [Color] from Hex 1ebafc
   static const Color qq = Color(0xff1ebafc);
 
@@ -7212,6 +7248,9 @@ class SimpleIconColors {
 
   /// SimpleIcons revealdotjs [Color] from Hex f2e142
   static const Color revealdotjs = Color(0xfff2e142);
+
+  /// SimpleIcons revenuecat [Color] from Hex f2545b
+  static const Color revenuecat = Color(0xfff2545b);
 
   /// SimpleIcons reverbnation [Color] from Hex e43526
   static const Color reverbnation = Color(0xffe43526);
@@ -9478,6 +9517,9 @@ class SimpleIconColors {
   /// SimpleIcons wgpu [Color] from Hex 40e0d0
   static const Color wgpu = Color(0xff40e0d0);
 
+  /// SimpleIcons what3words [Color] from Hex e11f26
+  static const Color what3words = Color(0xffe11f26);
+
   /// SimpleIcons whatsapp [Color] from Hex 25d366
   static const Color whatsapp = Color(0xff25d366);
 
@@ -9910,6 +9952,7 @@ class SimpleIconColors {
     'actix': SimpleIconColors.actix,
     'actualbudget': SimpleIconColors.actualbudget,
     'acura': SimpleIconColors.acura,
+    'ada': SimpleIconColors.ada,
     'adafruit': SimpleIconColors.adafruit,
     'adblock': SimpleIconColors.adblock,
     'adblockplus': SimpleIconColors.adblockplus,
@@ -10141,6 +10184,7 @@ class SimpleIconColors {
     'avast': SimpleIconColors.avast,
     'avianca': SimpleIconColors.avianca,
     'avira': SimpleIconColors.avira,
+    'avm': SimpleIconColors.avm,
     'awesomelists': SimpleIconColors.awesomelists,
     'awesomewm': SimpleIconColors.awesomewm,
     'awwwards': SimpleIconColors.awwwards,
@@ -10614,6 +10658,7 @@ class SimpleIconColors {
     'directus': SimpleIconColors.directus,
     'discogs': SimpleIconColors.discogs,
     'discord': SimpleIconColors.discord,
+    'discorddotjs': SimpleIconColors.discorddotjs,
     'discourse': SimpleIconColors.discourse,
     'discover': SimpleIconColors.discover,
     'disqus': SimpleIconColors.disqus,
@@ -10634,6 +10679,7 @@ class SimpleIconColors {
     'dogecoin': SimpleIconColors.dogecoin,
     'doi': SimpleIconColors.doi,
     'dolby': SimpleIconColors.dolby,
+    'dolibarr': SimpleIconColors.dolibarr,
     'doordash': SimpleIconColors.doordash,
     'dota2': SimpleIconColors.dota2,
     'douban': SimpleIconColors.douban,
@@ -10886,6 +10932,7 @@ class SimpleIconColors {
     'freetube': SimpleIconColors.freetube,
     'fresh': SimpleIconColors.fresh,
     'frigate': SimpleIconColors.frigate,
+    'fritz': SimpleIconColors.fritz,
     'frontendmentor': SimpleIconColors.frontendmentor,
     'frontify': SimpleIconColors.frontify,
     'fubo': SimpleIconColors.fubo,
@@ -11541,6 +11588,7 @@ class SimpleIconColors {
     'maas': SimpleIconColors.maas,
     'macos': SimpleIconColors.macos,
     'macpaw': SimpleIconColors.macpaw,
+    'macports': SimpleIconColors.macports,
     'macys': SimpleIconColors.macys,
     'magasinsu': SimpleIconColors.magasinsu,
     'magic': SimpleIconColors.magic,
@@ -11632,6 +11680,7 @@ class SimpleIconColors {
     'metrodemadrid': SimpleIconColors.metrodemadrid,
     'metrodeparis': SimpleIconColors.metrodeparis,
     'mewe': SimpleIconColors.mewe,
+    'mezmo': SimpleIconColors.mezmo,
     'mg': SimpleIconColors.mg,
     'microeditor': SimpleIconColors.microeditor,
     'microbit': SimpleIconColors.microbit,
@@ -11765,6 +11814,7 @@ class SimpleIconColors {
     'newpipe': SimpleIconColors.newpipe,
     'nexon': SimpleIconColors.nexon,
     'nextdotjs': SimpleIconColors.nextdotjs,
+    'nextbike': SimpleIconColors.nextbike,
     'nextbilliondotai': SimpleIconColors.nextbilliondotai,
     'nextcloud': SimpleIconColors.nextcloud,
     'nextdns': SimpleIconColors.nextdns,
@@ -11790,6 +11840,7 @@ class SimpleIconColors {
     'nobaralinux': SimpleIconColors.nobaralinux,
     'nodered': SimpleIconColors.nodered,
     'nodedotjs': SimpleIconColors.nodedotjs,
+    'nodebb': SimpleIconColors.nodebb,
     'nodemon': SimpleIconColors.nodemon,
     'nokia': SimpleIconColors.nokia,
     'nomad': SimpleIconColors.nomad,
@@ -11934,6 +11985,7 @@ class SimpleIconColors {
     'paddle': SimpleIconColors.paddle,
     'paddlepaddle': SimpleIconColors.paddlepaddle,
     'paddypower': SimpleIconColors.paddypower,
+    'padlet': SimpleIconColors.padlet,
     'pagekit': SimpleIconColors.pagekit,
     'pagerduty': SimpleIconColors.pagerduty,
     'pagespeedinsights': SimpleIconColors.pagespeedinsights,
@@ -11961,6 +12013,7 @@ class SimpleIconColors {
     'payloadcms': SimpleIconColors.payloadcms,
     'payoneer': SimpleIconColors.payoneer,
     'paypal': SimpleIconColors.paypal,
+    'paysafe': SimpleIconColors.paysafe,
     'paytm': SimpleIconColors.paytm,
     'pcgamingwiki': SimpleIconColors.pcgamingwiki,
     'pdm': SimpleIconColors.pdm,
@@ -12164,6 +12217,7 @@ class SimpleIconColors {
     'qlik': SimpleIconColors.qlik,
     'qmk': SimpleIconColors.qmk,
     'qnap': SimpleIconColors.qnap,
+    'qodo': SimpleIconColors.qodo,
     'qq': SimpleIconColors.qq,
     'qt': SimpleIconColors.qt,
     'quad9': SimpleIconColors.quad9,
@@ -12273,6 +12327,7 @@ class SimpleIconColors {
     'retropie': SimpleIconColors.retropie,
     'revanced': SimpleIconColors.revanced,
     'revealdotjs': SimpleIconColors.revealdotjs,
+    'revenuecat': SimpleIconColors.revenuecat,
     'reverbnation': SimpleIconColors.reverbnation,
     'revoltdotchat': SimpleIconColors.revoltdotchat,
     'revolut': SimpleIconColors.revolut,
@@ -13029,6 +13084,7 @@ class SimpleIconColors {
     'wetransfer': SimpleIconColors.wetransfer,
     'wezterm': SimpleIconColors.wezterm,
     'wgpu': SimpleIconColors.wgpu,
+    'what3words': SimpleIconColors.what3words,
     'whatsapp': SimpleIconColors.whatsapp,
     'wheniwork': SimpleIconColors.wheniwork,
     'wikidotgg': SimpleIconColors.wikidotgg,

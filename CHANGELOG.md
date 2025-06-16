@@ -1,3 +1,27 @@
+## [15.2.0] - auto_generated update
+
+#### 14 new icons
+
+- Ada ([#13089](https://github.com/simple-icons/simple-icons/pull/13089)) (@mgrojo)
+- AVM ([#12140](https://github.com/simple-icons/simple-icons/pull/12140)) (@DerBraky)
+- discord.js ([#13421](https://github.com/simple-icons/simple-icons/pull/13421)) (@Nerscylla)
+- Dolibarr ([#13399](https://github.com/simple-icons/simple-icons/pull/13399)) (@prem-k-r)
+- FRITZ! ([#12141](https://github.com/simple-icons/simple-icons/pull/12141)) (@DerBraky)
+- MacPorts ([#13397](https://github.com/simple-icons/simple-icons/pull/13397)) (@prem-k-r)
+- Mezmo ([#13407](https://github.com/simple-icons/simple-icons/pull/13407)) (@prem-k-r)
+- nextbike ([#12190](https://github.com/simple-icons/simple-icons/pull/12190)) (@DerBraky)
+- NodeBB ([#13402](https://github.com/simple-icons/simple-icons/pull/13402)) (@prem-k-r)
+- Padlet ([#13426](https://github.com/simple-icons/simple-icons/pull/13426)) (@prem-k-r)
+- Paysafe ([#11824](https://github.com/simple-icons/simple-icons/pull/11824)) (@DerBraky)
+- Qodo ([#13403](https://github.com/simple-icons/simple-icons/pull/13403)) (@prem-k-r)
+- RevenueCat ([#13411](https://github.com/simple-icons/simple-icons/pull/13411)) (@prem-k-r)
+- what3words ([#12084](https://github.com/simple-icons/simple-icons/pull/12084)) (@DerBraky)
+
+#### 2 updated icons
+
+- iLovePDF ([#13437](https://github.com/simple-icons/simple-icons/pull/13437)) (@prem-k-r)
+- OpenJDK ([#13429](https://github.com/simple-icons/simple-icons/pull/13429)) (@Marcono1234)
+
 ## [15.1.0] - auto_generated update
 
 #### 3 new icons
