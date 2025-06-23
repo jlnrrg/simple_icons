@@ -1,3 +1,28 @@
+## [15.3.0] - auto_generated update
+
+#### 12 new icons
+
+- Activeloop ([#13444](https://github.com/simple-icons/simple-icons/pull/13444)) (@prem-k-r)
+- AdAway ([#13367](https://github.com/simple-icons/simple-icons/pull/13367)) (@prem-k-r)
+- Apache Doris ([#13461](https://github.com/simple-icons/simple-icons/pull/13461)) (@prem-k-r)
+- Better Auth ([#13462](https://github.com/simple-icons/simple-icons/pull/13462)) (@prem-k-r)
+- Booking.com ([#13095](https://github.com/simple-icons/simple-icons/pull/13095)) (@marlondecol)
+- bunny.net ([#13480](https://github.com/simple-icons/simple-icons/pull/13480)) (@davorj11)
+- Cloud Native Build ([#13460](https://github.com/simple-icons/simple-icons/pull/13460)) (@prem-k-r)
+- Haystack ([#13360](https://github.com/simple-icons/simple-icons/pull/13360)) (@prem-k-r)
+- Kenmei ([#13233](https://github.com/simple-icons/simple-icons/pull/13233)) (@prem-k-r)
+- Mistral AI ([#12764](https://github.com/simple-icons/simple-icons/pull/12764)) (@DerBraky)
+- MyShows ([#13276](https://github.com/simple-icons/simple-icons/pull/13276)) (@prem-k-r)
+- Vanilla Extract ([#13502](https://github.com/simple-icons/simple-icons/pull/13502)) (@injoonH)
+
+#### 5 updated icons
+
+- Iconify ([#13492](https://github.com/simple-icons/simple-icons/pull/13492)) (@prem-k-r)
+- Jinja ([#13496](https://github.com/simple-icons/simple-icons/pull/13496)) (@Soumava-221B)
+- Launchpad ([#13495](https://github.com/simple-icons/simple-icons/pull/13495)) (@prem-k-r)
+- Material Design ([#13481](https://github.com/simple-icons/simple-icons/pull/13481)) (@prem-k-r)
+- Plotly ([#13477](https://github.com/simple-icons/simple-icons/pull/13477)) (@prem-k-r)
+
 ## [15.2.0] - auto_generated update
 
 #### 14 new icons
