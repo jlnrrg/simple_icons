@@ -1,3 +1,29 @@
+## [15.4.0] - auto_generated update
+#### API deprecation
+
+The `simple-icons/icons` entry has been deprecated. You will get a deprecation warning while using the `simple-icons/icons` entry. Please use the main entry instead. (#13520 #13530) (@mondeja)
+
+```diff
+-import * as icons from "simple-icons/icons";
++import * as icons from "simple-icons";
+```
+
+#### 7 new icons
+
+- Braintrust ([#13504](https://github.com/simple-icons/simple-icons/pull/13504)) (@dkmiller)
+- Dolphin ([#11813](https://github.com/simple-icons/simple-icons/pull/11813)) (@DerBraky)
+- Ente ([#11633](https://github.com/simple-icons/simple-icons/pull/11633)) (@CodeShakingSheep)
+- GPLv3 ([#13473](https://github.com/simple-icons/simple-icons/pull/13473)) (@prem-k-r)
+- Luau ([#13523](https://github.com/simple-icons/simple-icons/pull/13523)) (@prem-k-r)
+- Vikunja ([#13133](https://github.com/simple-icons/simple-icons/pull/13133)) (@CodeShakingSheep)
+- Yaak ([#13136](https://github.com/simple-icons/simple-icons/pull/13136)) (@CodeShakingSheep)
+
+#### 2 updated icons
+
+- Flask ([#13524](https://github.com/simple-icons/simple-icons/pull/13524)) (@esadek)
+- Polars ([#13526](https://github.com/simple-icons/simple-icons/pull/13526)) (@esadek)
+
+
 ## [15.3.0] - auto_generated update
 
 #### 12 new icons
