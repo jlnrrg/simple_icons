@@ -1,3 +1,43 @@
+## [15.5.0] - auto_generated update
+#### API updates
+
+Now the data JSON entry has declarations. We also moved those data JSON related types to the `simple-icons.d.ts`. ([#13510](https://github.com/simple-icons/simple-icons/pull/13510)) (@LitoMore)
+
+```ts
+// Import default only
+import icons from 'simple-icons/icons.json' with {type: 'json'};
+```
+
+```ts
+// Import types only
+import type {
+	IconData,
+	Aliases,
+	DuplicateAliases,
+	License,
+	CustomLicense
+} from 'simple-icons/icons.json';
+```
+
+```ts
+// Import both default and types
+import icons, {
+	type IconData,
+	type Aliases,
+	type DuplicateAliases,
+	type License,
+	type CustomLicense
+} from 'simple-icons/icons.json' with {type: 'json'};
+```
+
+#### 4 new icons
+
+- Black ([#13376](https://github.com/simple-icons/simple-icons/pull/13376)) (@jstehn)
+- Cardmarket ([#13519](https://github.com/simple-icons/simple-icons/pull/13519)) (@kokkakoki)
+- PAYBACK ([#11851](https://github.com/simple-icons/simple-icons/pull/11851)) (@DerBraky)
+- Rollbar ([#13449](https://github.com/simple-icons/simple-icons/pull/13449)) (@prem-k-r)
+
+
 ## [15.4.0] - auto_generated update
 #### API deprecation
 

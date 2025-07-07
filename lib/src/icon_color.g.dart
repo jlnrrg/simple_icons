@@ -1057,6 +1057,9 @@ class SimpleIconColors {
   /// SimpleIcons bitwig [Color] from Hex ff5a00
   static const Color bitwig = Color(0xffff5a00);
 
+  /// SimpleIcons black [Color] from Hex 000000
+  static const Color black = Color(0xff000000);
+
   /// SimpleIcons blackberry [Color] from Hex 000000
   static const Color blackberry = Color(0xff000000);
 
@@ -1368,6 +1371,9 @@ class SimpleIconColors {
 
   /// SimpleIcons cardano [Color] from Hex 0133ad
   static const Color cardano = Color(0xff0133ad);
+
+  /// SimpleIcons cardmarket [Color] from Hex 012169
+  static const Color cardmarket = Color(0xff012169);
 
   /// SimpleIcons carlsberggroup [Color] from Hex 00321e
   static const Color carlsberggroup = Color(0xff00321e);
@@ -6340,6 +6346,9 @@ class SimpleIconColors {
   /// SimpleIcons patreon [Color] from Hex 000000
   static const Color patreon = Color(0xff000000);
 
+  /// SimpleIcons payback [Color] from Hex 003eb0
+  static const Color payback = Color(0xff003eb0);
+
   /// SimpleIcons paychex [Color] from Hex 004b8d
   static const Color paychex = Color(0xff004b8d);
 
@@ -7395,6 +7404,9 @@ class SimpleIconColors {
 
   /// SimpleIcons roll20 [Color] from Hex e10085
   static const Color roll20 = Color(0xffe10085);
+
+  /// SimpleIcons rollbar [Color] from Hex 3569f3
+  static const Color rollbar = Color(0xff3569f3);
 
   /// SimpleIcons rollsroyce [Color] from Hex 281432
   static const Color rollsroyce = Color(0xff281432);
@@ -10320,6 +10332,7 @@ class SimpleIconColors {
     'bittorrent': SimpleIconColors.bittorrent,
     'bitwarden': SimpleIconColors.bitwarden,
     'bitwig': SimpleIconColors.bitwig,
+    'black': SimpleIconColors.black,
     'blackberry': SimpleIconColors.blackberry,
     'blackmagicdesign': SimpleIconColors.blackmagicdesign,
     'blazemeter': SimpleIconColors.blazemeter,
@@ -10424,6 +10437,7 @@ class SimpleIconColors {
     'caprover': SimpleIconColors.caprover,
     'carthrottle': SimpleIconColors.carthrottle,
     'cardano': SimpleIconColors.cardano,
+    'cardmarket': SimpleIconColors.cardmarket,
     'carlsberggroup': SimpleIconColors.carlsberggroup,
     'carrd': SimpleIconColors.carrd,
     'carrefour': SimpleIconColors.carrefour,
@@ -12081,6 +12095,7 @@ class SimpleIconColors {
     'passport': SimpleIconColors.passport,
     'pastebin': SimpleIconColors.pastebin,
     'patreon': SimpleIconColors.patreon,
+    'payback': SimpleIconColors.payback,
     'paychex': SimpleIconColors.paychex,
     'payhip': SimpleIconColors.payhip,
     'payloadcms': SimpleIconColors.payloadcms,
@@ -12433,6 +12448,7 @@ class SimpleIconColors {
     'rockylinux': SimpleIconColors.rockylinux,
     'roku': SimpleIconColors.roku,
     'roll20': SimpleIconColors.roll20,
+    'rollbar': SimpleIconColors.rollbar,
     'rollsroyce': SimpleIconColors.rollsroyce,
     'rollupdotjs': SimpleIconColors.rollupdotjs,
     'rook': SimpleIconColors.rook,
