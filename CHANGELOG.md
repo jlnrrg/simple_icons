@@ -1,3 +1,11 @@
+## [15.6.0] - auto_generated update
+
+#### 3 new icons
+
+- Folo ([#13443](https://github.com/simple-icons/simple-icons/pull/13443)) (@cscnk52)
+- Model Context Protocol ([#13586](https://github.com/simple-icons/simple-icons/pull/13586)) (@cscnk52)
+- Tokio ([#13517](https://github.com/simple-icons/simple-icons/pull/13517)) (@cscnk52)
+
 ## [15.5.0] - auto_generated update
 #### API updates
 
