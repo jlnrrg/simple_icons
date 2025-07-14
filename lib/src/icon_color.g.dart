@@ -2980,6 +2980,9 @@ class SimpleIconColors {
   /// SimpleIcons folium [Color] from Hex 77b829
   static const Color folium = Color(0xff77b829);
 
+  /// SimpleIcons folo [Color] from Hex ff5c00
+  static const Color folo = Color(0xffff5c00);
+
   /// SimpleIcons fonoma [Color] from Hex 02b78f
   static const Color fonoma = Color(0xff02b78f);
 
@@ -5466,6 +5469,9 @@ class SimpleIconColors {
 
   /// SimpleIcons modal [Color] from Hex 7fee64
   static const Color modal = Color(0xff7fee64);
+
+  /// SimpleIcons modelcontextprotocol [Color] from Hex 000000
+  static const Color modelcontextprotocol = Color(0xff000000);
 
   /// SimpleIcons modin [Color] from Hex 001729
   static const Color modin = Color(0xff001729);
@@ -8779,6 +8785,9 @@ class SimpleIconColors {
   /// SimpleIcons toggltrack [Color] from Hex e57cd8
   static const Color toggltrack = Color(0xffe57cd8);
 
+  /// SimpleIcons tokio [Color] from Hex 000000
+  static const Color tokio = Color(0xff000000);
+
   /// SimpleIcons tokyometro [Color] from Hex 149dd3
   static const Color tokyometro = Color(0xff149dd3);
 
@@ -10973,6 +10982,7 @@ class SimpleIconColors {
     'fmod': SimpleIconColors.fmod,
     'fnac': SimpleIconColors.fnac,
     'folium': SimpleIconColors.folium,
+    'folo': SimpleIconColors.folo,
     'fonoma': SimpleIconColors.fonoma,
     'fontawesome': SimpleIconColors.fontawesome,
     'fontbase': SimpleIconColors.fontbase,
@@ -11802,6 +11812,7 @@ class SimpleIconColors {
     'mocha': SimpleIconColors.mocha,
     'mockserviceworker': SimpleIconColors.mockserviceworker,
     'modal': SimpleIconColors.modal,
+    'modelcontextprotocol': SimpleIconColors.modelcontextprotocol,
     'modin': SimpleIconColors.modin,
     'modrinth': SimpleIconColors.modrinth,
     'modx': SimpleIconColors.modx,
@@ -12907,6 +12918,7 @@ class SimpleIconColors {
     'todoist': SimpleIconColors.todoist,
     'toggl': SimpleIconColors.toggl,
     'toggltrack': SimpleIconColors.toggltrack,
+    'tokio': SimpleIconColors.tokio,
     'tokyometro': SimpleIconColors.tokyometro,
     'toll': SimpleIconColors.toll,
     'toml': SimpleIconColors.toml,
