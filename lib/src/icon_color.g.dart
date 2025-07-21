@@ -3250,6 +3250,9 @@ class SimpleIconColors {
   /// SimpleIcons gitbook [Color] from Hex bbdde5
   static const Color gitbook = Color(0xffbbdde5);
 
+  /// SimpleIcons gitcode [Color] from Hex da203e
+  static const Color gitcode = Color(0xffda203e);
+
   /// SimpleIcons gitconnected [Color] from Hex 2e69ae
   static const Color gitconnected = Color(0xff2e69ae);
 
@@ -7113,6 +7116,9 @@ class SimpleIconColors {
 
   /// SimpleIcons raspberrypi [Color] from Hex a22846
   static const Color raspberrypi = Color(0xffa22846);
+
+  /// SimpleIcons ratatui [Color] from Hex 000000
+  static const Color ratatui = Color(0xff000000);
 
   /// SimpleIcons ravelry [Color] from Hex ee6e62
   static const Color ravelry = Color(0xffee6e62);
@@ -11072,6 +11078,7 @@ class SimpleIconColors {
     'gitforwindows': SimpleIconColors.gitforwindows,
     'gitlfs': SimpleIconColors.gitlfs,
     'gitbook': SimpleIconColors.gitbook,
+    'gitcode': SimpleIconColors.gitcode,
     'gitconnected': SimpleIconColors.gitconnected,
     'gitea': SimpleIconColors.gitea,
     'gitee': SimpleIconColors.gitee,
@@ -12360,6 +12367,7 @@ class SimpleIconColors {
     'rarible': SimpleIconColors.rarible,
     'rasa': SimpleIconColors.rasa,
     'raspberrypi': SimpleIconColors.raspberrypi,
+    'ratatui': SimpleIconColors.ratatui,
     'ravelry': SimpleIconColors.ravelry,
     'ray': SimpleIconColors.ray,
     'raycast': SimpleIconColors.raycast,

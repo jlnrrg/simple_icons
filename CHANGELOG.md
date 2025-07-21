@@ -1,3 +1,10 @@
+## [15.7.0] - auto_generated update
+
+#### 2 new icons
+
+- GitCode ([#13516](https://github.com/simple-icons/simple-icons/pull/13516)) (@cscnk52)
+- Ratatui ([#13593](https://github.com/simple-icons/simple-icons/pull/13593)) (@LitoMore)
+
 ## [15.6.0] - auto_generated update
 
 #### 3 new icons
