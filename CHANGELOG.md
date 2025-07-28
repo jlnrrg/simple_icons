@@ -1,3 +1,17 @@
+## [15.8.0] - auto_generated update
+
+#### 2 new icons
+
+- AvaloniaUI ([#13651](https://github.com/simple-icons/simple-icons/pull/13651)) (@cscnk52)
+- ProcessOn ([#13652](https://github.com/simple-icons/simple-icons/pull/13652)) (@cscnk52)
+
+#### 4 updated icons
+
+- Goodreads ([#13616](https://github.com/simple-icons/simple-icons/pull/13616)) (@michi-onl)
+- Kdenlive ([#13640](https://github.com/simple-icons/simple-icons/pull/13640)) (@Zlendy)
+- PayPal ([#13643](https://github.com/simple-icons/simple-icons/pull/13643)) (@AlightSoulmate)
+- Perforce ([#13648](https://github.com/simple-icons/simple-icons/pull/13648)) (@AlightSoulmate)
+
 ## [15.7.0] - auto_generated update
 
 #### 2 new icons
