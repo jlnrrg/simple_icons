@@ -820,6 +820,9 @@ class SimpleIconColors {
   /// SimpleIcons avajs [Color] from Hex 4b4b77
   static const Color avajs = Color(0xff4b4b77);
 
+  /// SimpleIcons avaloniaui [Color] from Hex 165bff
+  static const Color avaloniaui = Color(0xff165bff);
+
   /// SimpleIcons avast [Color] from Hex ff7800
   static const Color avast = Color(0xffff7800);
 
@@ -3373,8 +3376,8 @@ class SimpleIconColors {
   /// SimpleIcons goldmansachs [Color] from Hex 7399c6
   static const Color goldmansachs = Color(0xff7399c6);
 
-  /// SimpleIcons goodreads [Color] from Hex 372213
-  static const Color goodreads = Color(0xff372213);
+  /// SimpleIcons goodreads [Color] from Hex 1e1914
+  static const Color goodreads = Color(0xff1e1914);
 
   /// SimpleIcons google [Color] from Hex 4285f4
   static const Color google = Color(0xff4285f4);
@@ -6370,8 +6373,8 @@ class SimpleIconColors {
   /// SimpleIcons payoneer [Color] from Hex ff4800
   static const Color payoneer = Color(0xffff4800);
 
-  /// SimpleIcons paypal [Color] from Hex 003087
-  static const Color paypal = Color(0xff003087);
+  /// SimpleIcons paypal [Color] from Hex 002991
+  static const Color paypal = Color(0xff002991);
 
   /// SimpleIcons paysafe [Color] from Hex 5a28ff
   static const Color paysafe = Color(0xff5a28ff);
@@ -6418,8 +6421,8 @@ class SimpleIconColors {
   /// SimpleIcons percy [Color] from Hex 9e66bf
   static const Color percy = Color(0xff9e66bf);
 
-  /// SimpleIcons perforce [Color] from Hex 404040
-  static const Color perforce = Color(0xff404040);
+  /// SimpleIcons perforce [Color] from Hex 4c00ff
+  static const Color perforce = Color(0xff4c00ff);
 
   /// SimpleIcons perl [Color] from Hex 0073a1
   static const Color perl = Color(0xff0073a1);
@@ -6807,6 +6810,9 @@ class SimpleIconColors {
 
   /// SimpleIcons processingfoundation [Color] from Hex 006699
   static const Color processingfoundation = Color(0xff006699);
+
+  /// SimpleIcons processon [Color] from Hex 067bef
+  static const Color processon = Color(0xff067bef);
 
   /// SimpleIcons processwire [Color] from Hex 2480e6
   static const Color processwire = Color(0xff2480e6);
@@ -10268,6 +10274,7 @@ class SimpleIconColors {
     'autoprefixer': SimpleIconColors.autoprefixer,
     'autozone': SimpleIconColors.autozone,
     'avajs': SimpleIconColors.avajs,
+    'avaloniaui': SimpleIconColors.avaloniaui,
     'avast': SimpleIconColors.avast,
     'avianca': SimpleIconColors.avianca,
     'avira': SimpleIconColors.avira,
@@ -12264,6 +12271,7 @@ class SimpleIconColors {
     'protools': SimpleIconColors.protools,
     'probot': SimpleIconColors.probot,
     'processingfoundation': SimpleIconColors.processingfoundation,
+    'processon': SimpleIconColors.processon,
     'processwire': SimpleIconColors.processwire,
     'producthunt': SimpleIconColors.producthunt,
     'progate': SimpleIconColors.progate,
