@@ -3628,6 +3628,9 @@ class SimpleIconColors {
   /// SimpleIcons grunt [Color] from Hex faa918
   static const Color grunt = Color(0xfffaa918);
 
+  /// SimpleIcons gsap [Color] from Hex 0ae448
+  static const Color gsap = Color(0xff0ae448);
+
   /// SimpleIcons gsk [Color] from Hex f36633
   static const Color gsk = Color(0xfff36633);
 
@@ -4527,6 +4530,9 @@ class SimpleIconColors {
 
   /// SimpleIcons kentico [Color] from Hex f05a22
   static const Color kentico = Color(0xfff05a22);
+
+  /// SimpleIcons keploy [Color] from Hex ff914d
+  static const Color keploy = Color(0xffff914d);
 
   /// SimpleIcons keras [Color] from Hex d00000
   static const Color keras = Color(0xffd00000);
@@ -7752,6 +7758,9 @@ class SimpleIconColors {
 
   /// SimpleIcons sequelize [Color] from Hex 52b0e7
   static const Color sequelize = Color(0xff52b0e7);
+
+  /// SimpleIcons servbay [Color] from Hex 00103c
+  static const Color servbay = Color(0xff00103c);
 
   /// SimpleIcons serverfault [Color] from Hex e7282d
   static const Color serverfault = Color(0xffe7282d);
@@ -11210,6 +11219,7 @@ class SimpleIconColors {
     'groupme': SimpleIconColors.groupme,
     'groupon': SimpleIconColors.groupon,
     'grunt': SimpleIconColors.grunt,
+    'gsap': SimpleIconColors.gsap,
     'gsk': SimpleIconColors.gsk,
     'gsma': SimpleIconColors.gsma,
     'gsmarenadotcom': SimpleIconColors.gsmarenadotcom,
@@ -11510,6 +11520,7 @@ class SimpleIconColors {
     'keeweb': SimpleIconColors.keeweb,
     'kenmei': SimpleIconColors.kenmei,
     'kentico': SimpleIconColors.kentico,
+    'keploy': SimpleIconColors.keploy,
     'keras': SimpleIconColors.keras,
     'keybase': SimpleIconColors.keybase,
     'keycdn': SimpleIconColors.keycdn,
@@ -12586,6 +12597,7 @@ class SimpleIconColors {
     'sentry': SimpleIconColors.sentry,
     'sepa': SimpleIconColors.sepa,
     'sequelize': SimpleIconColors.sequelize,
+    'servbay': SimpleIconColors.servbay,
     'serverfault': SimpleIconColors.serverfault,
     'serverless': SimpleIconColors.serverless,
     'session': SimpleIconColors.session,

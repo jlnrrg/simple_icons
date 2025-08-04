@@ -1,3 +1,19 @@
+## [15.9.0] - auto_generated update
+#### API update
+
+Now the `slug` field in `data/simple-icons.json` will always be present. This should be useful for those non-JavaScript users. ([#13677](https://github.com/simple-icons/simple-icons/pull/13677)) (@LitoMore)
+
+#### 3 new icons
+
+- GSAP ([#13611](https://github.com/simple-icons/simple-icons/pull/13611)) (@rayhanmp)
+- Keploy ([#13468](https://github.com/simple-icons/simple-icons/pull/13468)) (@prem-k-r)
+- ServBay ([#13681](https://github.com/simple-icons/simple-icons/pull/13681)) (@naizhao)
+
+#### 1 updated icon
+
+- MasterCard ([#13656](https://github.com/simple-icons/simple-icons/pull/13656)) (@Darker-Ink)
+
+
 ## [15.8.0] - auto_generated update
 
 #### 2 new icons
