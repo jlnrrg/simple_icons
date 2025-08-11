@@ -1,3 +1,10 @@
+## [15.10.0] - auto_generated update
+
+#### 2 new icons
+
+- Immersive Translate ([#13694](https://github.com/simple-icons/simple-icons/pull/13694)) (@cscnk52)
+- Zola ([#13667](https://github.com/simple-icons/simple-icons/pull/13667)) (@AlightSoulmate)
+
 ## [15.9.0] - auto_generated update
 #### API update
 

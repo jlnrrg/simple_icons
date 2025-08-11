@@ -4099,6 +4099,9 @@ class SimpleIconColors {
   /// SimpleIcons immer [Color] from Hex 00e7c3
   static const Color immer = Color(0xff00e7c3);
 
+  /// SimpleIcons immersivetranslate [Color] from Hex ea4c89
+  static const Color immersivetranslate = Color(0xffea4c89);
+
   /// SimpleIcons immich [Color] from Hex 4250af
   static const Color immich = Color(0xff4250af);
 
@@ -9988,6 +9991,9 @@ class SimpleIconColors {
   /// SimpleIcons zoiper [Color] from Hex f47920
   static const Color zoiper = Color(0xfff47920);
 
+  /// SimpleIcons zola [Color] from Hex eae7d6
+  static const Color zola = Color(0xffeae7d6);
+
   /// SimpleIcons zomato [Color] from Hex e23744
   static const Color zomato = Color(0xffe23744);
 
@@ -11376,6 +11382,7 @@ class SimpleIconColors {
     'imessage': SimpleIconColors.imessage,
     'imgur': SimpleIconColors.imgur,
     'immer': SimpleIconColors.immer,
+    'immersivetranslate': SimpleIconColors.immersivetranslate,
     'immich': SimpleIconColors.immich,
     'imou': SimpleIconColors.imou,
     'improvmx': SimpleIconColors.improvmx,
@@ -13340,6 +13347,7 @@ class SimpleIconColors {
     'zod': SimpleIconColors.zod,
     'zoho': SimpleIconColors.zoho,
     'zoiper': SimpleIconColors.zoiper,
+    'zola': SimpleIconColors.zola,
     'zomato': SimpleIconColors.zomato,
     'zoom': SimpleIconColors.zoom,
     'zorin': SimpleIconColors.zorin,
