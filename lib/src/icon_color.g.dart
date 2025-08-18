@@ -1738,8 +1738,8 @@ class SimpleIconColors {
   /// SimpleIcons codeproject [Color] from Hex ff9900
   static const Color codeproject = Color(0xffff9900);
 
-  /// SimpleIcons coder [Color] from Hex 000000
-  static const Color coder = Color(0xff000000);
+  /// SimpleIcons coder [Color] from Hex 090b0b
+  static const Color coder = Color(0xff090b0b);
 
   /// SimpleIcons coderabbit [Color] from Hex ff570a
   static const Color coderabbit = Color(0xffff570a);
@@ -5002,6 +5002,12 @@ class SimpleIconColors {
   /// SimpleIcons local [Color] from Hex 51bb7b
   static const Color local = Color(0xff51bb7b);
 
+  /// SimpleIcons localsend [Color] from Hex 008080
+  static const Color localsend = Color(0xff008080);
+
+  /// SimpleIcons localxpose [Color] from Hex 6023c0
+  static const Color localxpose = Color(0xff6023c0);
+
   /// SimpleIcons lodash [Color] from Hex 3492ff
   static const Color lodash = Color(0xff3492ff);
 
@@ -6271,6 +6277,9 @@ class SimpleIconColors {
   /// SimpleIcons owncloud [Color] from Hex 041e42
   static const Color owncloud = Color(0xff041e42);
 
+  /// SimpleIcons oxc [Color] from Hex ff915c
+  static const Color oxc = Color(0xffff915c);
+
   /// SimpleIcons oxygen [Color] from Hex 3a209e
   static const Color oxygen = Color(0xff3a209e);
 
@@ -7434,6 +7443,9 @@ class SimpleIconColors {
 
   /// SimpleIcons rollbar [Color] from Hex 3569f3
   static const Color rollbar = Color(0xff3569f3);
+
+  /// SimpleIcons rolldown [Color] from Hex ff7e17
+  static const Color rolldown = Color(0xffff7e17);
 
   /// SimpleIcons rollsroyce [Color] from Hex 281432
   static const Color rollsroyce = Color(0xff281432);
@@ -11683,6 +11695,8 @@ class SimpleIconColors {
     'lmms': SimpleIconColors.lmms,
     'lobsters': SimpleIconColors.lobsters,
     'local': SimpleIconColors.local,
+    'localsend': SimpleIconColors.localsend,
+    'localxpose': SimpleIconColors.localxpose,
     'lodash': SimpleIconColors.lodash,
     'logitech': SimpleIconColors.logitech,
     'logitechg': SimpleIconColors.logitechg,
@@ -12106,6 +12120,7 @@ class SimpleIconColors {
     'owasp': SimpleIconColors.owasp,
     'owaspdependencycheck': SimpleIconColors.owaspdependencycheck,
     'owncloud': SimpleIconColors.owncloud,
+    'oxc': SimpleIconColors.oxc,
     'oxygen': SimpleIconColors.oxygen,
     'oyo': SimpleIconColors.oyo,
     'p5dotjs': SimpleIconColors.p5dotjs,
@@ -12494,6 +12509,7 @@ class SimpleIconColors {
     'roku': SimpleIconColors.roku,
     'roll20': SimpleIconColors.roll20,
     'rollbar': SimpleIconColors.rollbar,
+    'rolldown': SimpleIconColors.rolldown,
     'rollsroyce': SimpleIconColors.rollsroyce,
     'rollupdotjs': SimpleIconColors.rollupdotjs,
     'rook': SimpleIconColors.rook,
