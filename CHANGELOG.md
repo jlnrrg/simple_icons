@@ -1,3 +1,16 @@
+## [15.11.0] - auto_generated update
+
+#### 4 new icons
+
+- LocalSend ([#13709](https://github.com/simple-icons/simple-icons/pull/13709)) (@luyii-code-1)
+- LocalXpose ([#13710](https://github.com/simple-icons/simple-icons/pull/13710)) (@paulfreeport)
+- Oxc ([#13701](https://github.com/simple-icons/simple-icons/pull/13701)) (@cscnk52)
+- Rolldown ([#13699](https://github.com/simple-icons/simple-icons/pull/13699)) (@cscnk52)
+
+#### 1 updated icon
+
+- Coder ([#13548](https://github.com/simple-icons/simple-icons/pull/13548)) (@matifali)
+
 ## [15.10.0] - auto_generated update
 
 #### 2 new icons
