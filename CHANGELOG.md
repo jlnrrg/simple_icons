@@ -1,3 +1,20 @@
+## [15.12.0] - auto_generated update
+
+#### 6 new icons
+
+- DeepMind ([#13716](https://github.com/simple-icons/simple-icons/pull/13716)) (@chyyynh)
+- FreshRSS ([#13708](https://github.com/simple-icons/simple-icons/pull/13708)) (@cscnk52)
+- Note ([#13727](https://github.com/simple-icons/simple-icons/pull/13727)) (@smelly246)
+- RainYun ([#13712](https://github.com/simple-icons/simple-icons/pull/13712)) (@luyii-code-1)
+- Suitest ([#13659](https://github.com/simple-icons/simple-icons/pull/13659)) (@Josuevillalona)
+- WeRead ([#13718](https://github.com/simple-icons/simple-icons/pull/13718)) (@cscnk52)
+
+#### 3 updated icons
+
+- Coder ([#13730](https://github.com/simple-icons/simple-icons/pull/13730)) (@matifali)
+- Game Science ([#13725](https://github.com/simple-icons/simple-icons/pull/13725)) (@HeroTch)
+- Zod ([#13731](https://github.com/simple-icons/simple-icons/pull/13731)) (@Cryszon)
+
 ## [15.11.0] - auto_generated update
 
 #### 4 new icons

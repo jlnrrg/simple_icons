@@ -2167,6 +2167,9 @@ class SimpleIconColors {
   /// SimpleIcons deepl [Color] from Hex 0f2b46
   static const Color deepl = Color(0xff0f2b46);
 
+  /// SimpleIcons deepmind [Color] from Hex 4285f4
+  static const Color deepmind = Color(0xff4285f4);
+
   /// SimpleIcons deepnote [Color] from Hex 3793ef
   static const Color deepnote = Color(0xff3793ef);
 
@@ -3102,6 +3105,9 @@ class SimpleIconColors {
 
   /// SimpleIcons fresh [Color] from Hex ffdb1e
   static const Color fresh = Color(0xffffdb1e);
+
+  /// SimpleIcons freshrss [Color] from Hex 0062be
+  static const Color freshrss = Color(0xff0062be);
 
   /// SimpleIcons frigate [Color] from Hex 000000
   static const Color frigate = Color(0xff000000);
@@ -5899,6 +5905,9 @@ class SimpleIconColors {
   /// SimpleIcons norwegian [Color] from Hex d81939
   static const Color norwegian = Color(0xffd81939);
 
+  /// SimpleIcons note [Color] from Hex 000000
+  static const Color note = Color(0xff000000);
+
   /// SimpleIcons notebooklm [Color] from Hex 000000
   static const Color notebooklm = Color(0xff000000);
 
@@ -7116,6 +7125,9 @@ class SimpleIconColors {
 
   /// SimpleIcons rainmeter [Color] from Hex 19519b
   static const Color rainmeter = Color(0xff19519b);
+
+  /// SimpleIcons rainyun [Color] from Hex dad9d9
+  static const Color rainyun = Color(0xffdad9d9);
 
   /// SimpleIcons rakuten [Color] from Hex bf0000
   static const Color rakuten = Color(0xffbf0000);
@@ -8386,6 +8398,9 @@ class SimpleIconColors {
   /// SimpleIcons sui [Color] from Hex 4da2ff
   static const Color sui = Color(0xff4da2ff);
 
+  /// SimpleIcons suitest [Color] from Hex f06060
+  static const Color suitest = Color(0xfff06060);
+
   /// SimpleIcons sumologic [Color] from Hex 000099
   static const Color sumologic = Color(0xff000099);
 
@@ -9613,6 +9628,9 @@ class SimpleIconColors {
   /// SimpleIcons wemo [Color] from Hex 72d44c
   static const Color wemo = Color(0xff72d44c);
 
+  /// SimpleIcons weread [Color] from Hex 37a7ff
+  static const Color weread = Color(0xff37a7ff);
+
   /// SimpleIcons westerndigital [Color] from Hex 995dff
   static const Color westerndigital = Color(0xff995dff);
 
@@ -9994,8 +10012,8 @@ class SimpleIconColors {
   /// SimpleIcons zingat [Color] from Hex 009cfb
   static const Color zingat = Color(0xff009cfb);
 
-  /// SimpleIcons zod [Color] from Hex 3e67b1
-  static const Color zod = Color(0xff3e67b1);
+  /// SimpleIcons zod [Color] from Hex 408aff
+  static const Color zod = Color(0xff408aff);
 
   /// SimpleIcons zoho [Color] from Hex e42527
   static const Color zoho = Color(0xffe42527);
@@ -10750,6 +10768,7 @@ class SimpleIconColors {
     'deepgram': SimpleIconColors.deepgram,
     'deepin': SimpleIconColors.deepin,
     'deepl': SimpleIconColors.deepl,
+    'deepmind': SimpleIconColors.deepmind,
     'deepnote': SimpleIconColors.deepnote,
     'deliveroo': SimpleIconColors.deliveroo,
     'dell': SimpleIconColors.dell,
@@ -11062,6 +11081,7 @@ class SimpleIconColors {
     'freepik': SimpleIconColors.freepik,
     'freetube': SimpleIconColors.freetube,
     'fresh': SimpleIconColors.fresh,
+    'freshrss': SimpleIconColors.freshrss,
     'frigate': SimpleIconColors.frigate,
     'fritz': SimpleIconColors.fritz,
     'frontendmentor': SimpleIconColors.frontendmentor,
@@ -11994,6 +12014,7 @@ class SimpleIconColors {
     'normalizedotcss': SimpleIconColors.normalizedotcss,
     'norton': SimpleIconColors.norton,
     'norwegian': SimpleIconColors.norwegian,
+    'note': SimpleIconColors.note,
     'notebooklm': SimpleIconColors.notebooklm,
     'notepadplusplus': SimpleIconColors.notepadplusplus,
     'notion': SimpleIconColors.notion,
@@ -12400,6 +12421,7 @@ class SimpleIconColors {
     'radixui': SimpleIconColors.radixui,
     'railway': SimpleIconColors.railway,
     'rainmeter': SimpleIconColors.rainmeter,
+    'rainyun': SimpleIconColors.rainyun,
     'rakuten': SimpleIconColors.rakuten,
     'rakutenkobo': SimpleIconColors.rakutenkobo,
     'ram': SimpleIconColors.ram,
@@ -12824,6 +12846,7 @@ class SimpleIconColors {
     'subversion': SimpleIconColors.subversion,
     'suckless': SimpleIconColors.suckless,
     'sui': SimpleIconColors.sui,
+    'suitest': SimpleIconColors.suitest,
     'sumologic': SimpleIconColors.sumologic,
     'suno': SimpleIconColors.suno,
     'sunrise': SimpleIconColors.sunrise,
@@ -13233,6 +13256,7 @@ class SimpleIconColors {
     'wellfound': SimpleIconColors.wellfound,
     'wellsfargo': SimpleIconColors.wellsfargo,
     'wemo': SimpleIconColors.wemo,
+    'weread': SimpleIconColors.weread,
     'westerndigital': SimpleIconColors.westerndigital,
     'westernunion': SimpleIconColors.westernunion,
     'wetransfer': SimpleIconColors.wetransfer,
