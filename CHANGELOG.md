@@ -1,3 +1,9 @@
+## [15.13.0] - auto_generated update
+
+#### 1 new icon
+
+- Visual Paradigm ([#13693](https://github.com/simple-icons/simple-icons/pull/13693)) (@LauraAllObe)
+
 ## [15.12.0] - auto_generated update
 
 #### 6 new icons
