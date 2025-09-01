@@ -9385,6 +9385,9 @@ class SimpleIconColors {
   /// SimpleIcons visa [Color] from Hex 1a1f71
   static const Color visa = Color(0xff1a1f71);
 
+  /// SimpleIcons visualparadigm [Color] from Hex cc3333
+  static const Color visualparadigm = Color(0xffcc3333);
+
   /// SimpleIcons visx [Color] from Hex ff1231
   static const Color visx = Color(0xffff1231);
 
@@ -13175,6 +13178,7 @@ class SimpleIconColors {
     'virtualbox': SimpleIconColors.virtualbox,
     'virustotal': SimpleIconColors.virustotal,
     'visa': SimpleIconColors.visa,
+    'visualparadigm': SimpleIconColors.visualparadigm,
     'visx': SimpleIconColors.visx,
     'vite': SimpleIconColors.vite,
     'vitepress': SimpleIconColors.vitepress,
