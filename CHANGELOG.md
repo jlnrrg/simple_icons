@@ -1,3 +1,9 @@
+## [15.14.0] - auto_generated update
+
+#### 1 new icon
+
+- VueUse ([#13749](https://github.com/simple-icons/simple-icons/pull/13749)) (@cscnk52)
+
 ## [15.13.0] - auto_generated update
 
 #### 1 new icon

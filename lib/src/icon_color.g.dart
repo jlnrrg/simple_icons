@@ -9475,6 +9475,9 @@ class SimpleIconColors {
   /// SimpleIcons vuetify [Color] from Hex 1867c0
   static const Color vuetify = Color(0xff1867c0);
 
+  /// SimpleIcons vueuse [Color] from Hex 41b883
+  static const Color vueuse = Color(0xff41b883);
+
   /// SimpleIcons vulkan [Color] from Hex a41e22
   static const Color vulkan = Color(0xffa41e22);
 
@@ -13208,6 +13211,7 @@ class SimpleIconColors {
     'vtex': SimpleIconColors.vtex,
     'vuedotjs': SimpleIconColors.vuedotjs,
     'vuetify': SimpleIconColors.vuetify,
+    'vueuse': SimpleIconColors.vueuse,
     'vulkan': SimpleIconColors.vulkan,
     'vultr': SimpleIconColors.vultr,
     'vyond': SimpleIconColors.vyond,
