@@ -1,3 +1,14 @@
+## [15.15.0] - auto_generated update
+
+#### 1 new icon
+
+- GreptimeDB ([#13788](https://github.com/simple-icons/simple-icons/pull/13788)) (@cscnk52)
+
+#### 2 updated icons
+
+- AssemblyScript ([#13779](https://github.com/simple-icons/simple-icons/pull/13779)) (@cscnk52)
+- Scratch ([#13792](https://github.com/simple-icons/simple-icons/pull/13792)) (@matmanna)
+
 ## [15.14.0] - auto_generated update
 
 #### 1 new icon
