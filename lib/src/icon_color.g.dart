@@ -715,8 +715,8 @@ class SimpleIconColors {
   /// SimpleIcons aseprite [Color] from Hex 7d929e
   static const Color aseprite = Color(0xff7d929e);
 
-  /// SimpleIcons assemblyscript [Color] from Hex 007aac
-  static const Color assemblyscript = Color(0xff007aac);
+  /// SimpleIcons assemblyscript [Color] from Hex 007acc
+  static const Color assemblyscript = Color(0xff007acc);
 
   /// SimpleIcons asterisk [Color] from Hex f68f1e
   static const Color asterisk = Color(0xfff68f1e);
@@ -3615,6 +3615,9 @@ class SimpleIconColors {
 
   /// SimpleIcons greensock [Color] from Hex 88ce02
   static const Color greensock = Color(0xff88ce02);
+
+  /// SimpleIcons greptimedb [Color] from Hex 8322ff
+  static const Color greptimedb = Color(0xff8322ff);
 
   /// SimpleIcons griddotai [Color] from Hex 78ff96
   static const Color griddotai = Color(0xff78ff96);
@@ -7687,8 +7690,8 @@ class SimpleIconColors {
   /// SimpleIcons scrapy [Color] from Hex 60a839
   static const Color scrapy = Color(0xff60a839);
 
-  /// SimpleIcons scratch [Color] from Hex 4d97ff
-  static const Color scratch = Color(0xff4d97ff);
+  /// SimpleIcons scratch [Color] from Hex 855cd6
+  static const Color scratch = Color(0xff855cd6);
 
   /// SimpleIcons screencastify [Color] from Hex ff8282
   static const Color screencastify = Color(0xffff8282);
@@ -11257,6 +11260,7 @@ class SimpleIconColors {
     'greatlearning': SimpleIconColors.greatlearning,
     'greenhouse': SimpleIconColors.greenhouse,
     'greensock': SimpleIconColors.greensock,
+    'greptimedb': SimpleIconColors.greptimedb,
     'griddotai': SimpleIconColors.griddotai,
     'gridsome': SimpleIconColors.gridsome,
     'grocy': SimpleIconColors.grocy,
