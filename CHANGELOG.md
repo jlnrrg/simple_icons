@@ -1,3 +1,20 @@
+## [15.16.0] - auto_generated update
+
+#### 8 new icons
+
+- Anime.js ([#13197](https://github.com/simple-icons/simple-icons/pull/13197)) (@prem-k-r)
+- Garuda Linux ([#13446](https://github.com/simple-icons/simple-icons/pull/13446)) (@PeterShaggyNoble)
+- LiveKit ([#13597](https://github.com/simple-icons/simple-icons/pull/13597)) (@prem-k-r)
+- Optuna ([#13448](https://github.com/simple-icons/simple-icons/pull/13448)) (@PeterShaggyNoble)
+- Pinia ([#13484](https://github.com/simple-icons/simple-icons/pull/13484)) (@prem-k-r)
+- Skeleton ([#13541](https://github.com/simple-icons/simple-icons/pull/13541)) (@PeterShaggyNoble)
+- Smoothcomp ([#13422](https://github.com/simple-icons/simple-icons/pull/13422)) (@prem-k-r)
+- Unstop ([#13537](https://github.com/simple-icons/simple-icons/pull/13537)) (@PeterShaggyNoble)
+
+#### 1 updated icon
+
+- Lua ([#13828](https://github.com/simple-icons/simple-icons/pull/13828)) (@Kraggle09)
+
 ## [15.15.0] - auto_generated update
 
 #### 1 new icon
