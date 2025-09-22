@@ -427,6 +427,9 @@ class SimpleIconColors {
   /// SimpleIcons animalplanet [Color] from Hex 0073ff
   static const Color animalplanet = Color(0xff0073ff);
 
+  /// SimpleIcons animedotjs [Color] from Hex 000000
+  static const Color animedotjs = Color(0xff000000);
+
   /// SimpleIcons ankermake [Color] from Hex 88f387
   static const Color ankermake = Color(0xff88f387);
 
@@ -3187,6 +3190,9 @@ class SimpleIconColors {
   /// SimpleIcons garmin [Color] from Hex 000000
   static const Color garmin = Color(0xff000000);
 
+  /// SimpleIcons garudalinux [Color] from Hex 8839ef
+  static const Color garudalinux = Color(0xff8839ef);
+
   /// SimpleIcons gatling [Color] from Hex ff9e2a
   static const Color gatling = Color(0xffff9e2a);
 
@@ -4996,6 +5002,9 @@ class SimpleIconColors {
   /// SimpleIcons livejournal [Color] from Hex 00b0ea
   static const Color livejournal = Color(0xff00b0ea);
 
+  /// SimpleIcons livekit [Color] from Hex ffffff
+  static const Color livekit = Color(0xffffffff);
+
   /// SimpleIcons livewire [Color] from Hex 4e56a6
   static const Color livewire = Color(0xff4e56a6);
 
@@ -5062,8 +5071,8 @@ class SimpleIconColors {
   /// SimpleIcons ltspice [Color] from Hex 900028
   static const Color ltspice = Color(0xff900028);
 
-  /// SimpleIcons lua [Color] from Hex 2c2d72
-  static const Color lua = Color(0xff2c2d72);
+  /// SimpleIcons lua [Color] from Hex 000080
+  static const Color lua = Color(0xff000080);
 
   /// SimpleIcons luau [Color] from Hex 00a2ff
   static const Color luau = Color(0xff00a2ff);
@@ -6229,6 +6238,9 @@ class SimpleIconColors {
   /// SimpleIcons optimism [Color] from Hex ff0420
   static const Color optimism = Color(0xffff0420);
 
+  /// SimpleIcons optuna [Color] from Hex 002c76
+  static const Color optuna = Color(0xff002c76);
+
   /// SimpleIcons orange [Color] from Hex ff7900
   static const Color orange = Color(0xffff7900);
 
@@ -6561,6 +6573,9 @@ class SimpleIconColors {
 
   /// SimpleIcons pingdom [Color] from Hex fff000
   static const Color pingdom = Color(0xfffff000);
+
+  /// SimpleIcons pinia [Color] from Hex ffd859
+  static const Color pinia = Color(0xffffd859);
 
   /// SimpleIcons pino [Color] from Hex 687634
   static const Color pino = Color(0xff687634);
@@ -7930,6 +7945,9 @@ class SimpleIconColors {
   /// SimpleIcons skaffold [Color] from Hex 2aa2d6
   static const Color skaffold = Color(0xff2aa2d6);
 
+  /// SimpleIcons skeleton [Color] from Hex 000000
+  static const Color skeleton = Color(0xff000000);
+
   /// SimpleIcons sketch [Color] from Hex f7b500
   static const Color sketch = Color(0xfff7b500);
 
@@ -7980,6 +7998,9 @@ class SimpleIconColors {
 
   /// SimpleIcons smashingmagazine [Color] from Hex e85c33
   static const Color smashingmagazine = Color(0xffe85c33);
+
+  /// SimpleIcons smoothcomp [Color] from Hex 000000
+  static const Color smoothcomp = Color(0xff000000);
 
   /// SimpleIcons smrt [Color] from Hex ee2e24
   static const Color smrt = Color(0xffee2e24);
@@ -9193,6 +9214,9 @@ class SimpleIconColors {
   /// SimpleIcons unsplash [Color] from Hex 000000
   static const Color unsplash = Color(0xff000000);
 
+  /// SimpleIcons unstop [Color] from Hex 1c4980
+  static const Color unstop = Color(0xff1c4980);
+
   /// SimpleIcons untappd [Color] from Hex ffc000
   static const Color untappd = Color(0xffffc000);
 
@@ -10197,6 +10221,7 @@ class SimpleIconColors {
     'angular': SimpleIconColors.angular,
     'anilist': SimpleIconColors.anilist,
     'animalplanet': SimpleIconColors.animalplanet,
+    'animedotjs': SimpleIconColors.animedotjs,
     'ankermake': SimpleIconColors.ankermake,
     'anki': SimpleIconColors.anki,
     'ansible': SimpleIconColors.ansible,
@@ -11117,6 +11142,7 @@ class SimpleIconColors {
     'gamemaker': SimpleIconColors.gamemaker,
     'gandi': SimpleIconColors.gandi,
     'garmin': SimpleIconColors.garmin,
+    'garudalinux': SimpleIconColors.garudalinux,
     'gatling': SimpleIconColors.gatling,
     'gatsby': SimpleIconColors.gatsby,
     'gcore': SimpleIconColors.gcore,
@@ -11720,6 +11746,7 @@ class SimpleIconColors {
     'litiengine': SimpleIconColors.litiengine,
     'livechat': SimpleIconColors.livechat,
     'livejournal': SimpleIconColors.livejournal,
+    'livekit': SimpleIconColors.livekit,
     'livewire': SimpleIconColors.livewire,
     'llvm': SimpleIconColors.llvm,
     'lmms': SimpleIconColors.lmms,
@@ -12131,6 +12158,7 @@ class SimpleIconColors {
     'opsgenie': SimpleIconColors.opsgenie,
     'opslevel': SimpleIconColors.opslevel,
     'optimism': SimpleIconColors.optimism,
+    'optuna': SimpleIconColors.optuna,
     'orange': SimpleIconColors.orange,
     'orcid': SimpleIconColors.orcid,
     'org': SimpleIconColors.org,
@@ -12242,6 +12270,7 @@ class SimpleIconColors {
     'pinboard': SimpleIconColors.pinboard,
     'pinescript': SimpleIconColors.pinescript,
     'pingdom': SimpleIconColors.pingdom,
+    'pinia': SimpleIconColors.pinia,
     'pino': SimpleIconColors.pino,
     'pinterest': SimpleIconColors.pinterest,
     'pioneerdj': SimpleIconColors.pioneerdj,
@@ -12699,6 +12728,7 @@ class SimpleIconColors {
     'sitepoint': SimpleIconColors.sitepoint,
     'siyuan': SimpleIconColors.siyuan,
     'skaffold': SimpleIconColors.skaffold,
+    'skeleton': SimpleIconColors.skeleton,
     'sketch': SimpleIconColors.sketch,
     'sketchfab': SimpleIconColors.sketchfab,
     'sketchup': SimpleIconColors.sketchup,
@@ -12716,6 +12746,7 @@ class SimpleIconColors {
     'smart': SimpleIconColors.smart,
     'smartthings': SimpleIconColors.smartthings,
     'smashingmagazine': SimpleIconColors.smashingmagazine,
+    'smoothcomp': SimpleIconColors.smoothcomp,
     'smrt': SimpleIconColors.smrt,
     'smugmug': SimpleIconColors.smugmug,
     'snapchat': SimpleIconColors.snapchat,
@@ -13120,6 +13151,7 @@ class SimpleIconColors {
     'unraid': SimpleIconColors.unraid,
     'unrealengine': SimpleIconColors.unrealengine,
     'unsplash': SimpleIconColors.unsplash,
+    'unstop': SimpleIconColors.unstop,
     'untappd': SimpleIconColors.untappd,
     'upcloud': SimpleIconColors.upcloud,
     'uphold': SimpleIconColors.uphold,
