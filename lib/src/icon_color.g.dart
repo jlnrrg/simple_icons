@@ -1099,8 +1099,8 @@ class SimpleIconColors {
   /// SimpleIcons blueprint [Color] from Hex 137cbd
   static const Color blueprint = Color(0xff137cbd);
 
-  /// SimpleIcons bluesky [Color] from Hex 0285ff
-  static const Color bluesky = Color(0xff0285ff);
+  /// SimpleIcons bluesky [Color] from Hex 1185fe
+  static const Color bluesky = Color(0xff1185fe);
 
   /// SimpleIcons bluesound [Color] from Hex 0f131e
   static const Color bluesound = Color(0xff0f131e);

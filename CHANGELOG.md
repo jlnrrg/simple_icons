@@ -1,3 +1,10 @@
+## [15.16.1] - auto_generated update
+
+#### 2 updated icons
+
+- Bluesky ([#13858](https://github.com/simple-icons/simple-icons/pull/13858)) (@patrik-csak)
+- X ([#13830](https://github.com/simple-icons/simple-icons/pull/13830)) (@murs313)
+
 ## [15.16.0] - auto_generated update
 
 #### 8 new icons
