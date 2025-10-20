@@ -1,3 +1,9 @@
+## [15.17.0] - auto_generated update
+
+#### 1 new icon
+
+- Luogu ([#13903](https://github.com/simple-icons/simple-icons/pull/13903)) (@cscnk52)
+
 ## [15.16.1] - auto_generated update
 
 #### 2 updated icons

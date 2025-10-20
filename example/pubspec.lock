@@ -121,7 +121,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "15.16.0"
+    version: "15.16.1"
   sky_engine:
     dependency: transitive
     description: flutter
