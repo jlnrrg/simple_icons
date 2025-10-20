@@ -5101,6 +5101,9 @@ class SimpleIconColors {
   /// SimpleIcons lunacy [Color] from Hex 179de3
   static const Color lunacy = Color(0xff179de3);
 
+  /// SimpleIcons luogu [Color] from Hex 5b9bd5
+  static const Color luogu = Color(0xff5b9bd5);
+
   /// SimpleIcons lutris [Color] from Hex ff9900
   static const Color lutris = Color(0xffff9900);
 
@@ -11779,6 +11782,7 @@ class SimpleIconColors {
     'lufthansa': SimpleIconColors.lufthansa,
     'lumen': SimpleIconColors.lumen,
     'lunacy': SimpleIconColors.lunacy,
+    'luogu': SimpleIconColors.luogu,
     'lutris': SimpleIconColors.lutris,
     'lvgl': SimpleIconColors.lvgl,
     'lydia': SimpleIconColors.lydia,
