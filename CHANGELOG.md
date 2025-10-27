@@ -1,3 +1,12 @@
+## [15.18.0] - auto_generated update
+
+#### 4 new icons
+
+- Apache Avro ([#13733](https://github.com/simple-icons/simple-icons/pull/13733)) (@loicgreffier)
+- Coolify ([#13915](https://github.com/simple-icons/simple-icons/pull/13915)) (@Cryszon)
+- Fish Audio ([#13879](https://github.com/simple-icons/simple-icons/pull/13879)) (@twangodev)
+- ListenHub ([#13912](https://github.com/simple-icons/simple-icons/pull/13912)) (@cscnk52)
+
 ## [15.17.0] - auto_generated update
 
 #### 1 new icon

@@ -481,6 +481,9 @@ class SimpleIconColors {
   /// SimpleIcons apacheant [Color] from Hex a81c7d
   static const Color apacheant = Color(0xffa81c7d);
 
+  /// SimpleIcons apacheavro [Color] from Hex 30638e
+  static const Color apacheavro = Color(0xff30638e);
+
   /// SimpleIcons apachecassandra [Color] from Hex 1287b1
   static const Color apachecassandra = Color(0xff1287b1);
 
@@ -1885,6 +1888,9 @@ class SimpleIconColors {
   /// SimpleIcons coolermaster [Color] from Hex 1e1e28
   static const Color coolermaster = Color(0xff1e1e28);
 
+  /// SimpleIcons coolify [Color] from Hex 6b16ed
+  static const Color coolify = Color(0xff6b16ed);
+
   /// SimpleIcons copaairlines [Color] from Hex 0032a0
   static const Color copaairlines = Color(0xff0032a0);
 
@@ -2907,6 +2913,9 @@ class SimpleIconColors {
 
   /// SimpleIcons first [Color] from Hex 0066b3
   static const Color first = Color(0xff0066b3);
+
+  /// SimpleIcons fishaudio [Color] from Hex 9b90e8
+  static const Color fishaudio = Color(0xff9b90e8);
 
   /// SimpleIcons fishshell [Color] from Hex 34c534
   static const Color fishshell = Color(0xff34c534);
@@ -4980,6 +4989,9 @@ class SimpleIconColors {
 
   /// SimpleIcons liquibase [Color] from Hex 2962ff
   static const Color liquibase = Color(0xff2962ff);
+
+  /// SimpleIcons listenhub [Color] from Hex 000000
+  static const Color listenhub = Color(0xff000000);
 
   /// SimpleIcons listmonk [Color] from Hex 0055d4
   static const Color listmonk = Color(0xff0055d4);
@@ -10242,6 +10254,7 @@ class SimpleIconColors {
     'apache': SimpleIconColors.apache,
     'apacheairflow': SimpleIconColors.apacheairflow,
     'apacheant': SimpleIconColors.apacheant,
+    'apacheavro': SimpleIconColors.apacheavro,
     'apachecassandra': SimpleIconColors.apachecassandra,
     'apachecloudstack': SimpleIconColors.apachecloudstack,
     'apachecordova': SimpleIconColors.apachecordova,
@@ -10710,6 +10723,7 @@ class SimpleIconColors {
     'convertio': SimpleIconColors.convertio,
     'cookiecutter': SimpleIconColors.cookiecutter,
     'coolermaster': SimpleIconColors.coolermaster,
+    'coolify': SimpleIconColors.coolify,
     'copaairlines': SimpleIconColors.copaairlines,
     'coppel': SimpleIconColors.coppel,
     'cora': SimpleIconColors.cora,
@@ -11051,6 +11065,7 @@ class SimpleIconColors {
     'fireship': SimpleIconColors.fireship,
     'firewalla': SimpleIconColors.firewalla,
     'first': SimpleIconColors.first,
+    'fishaudio': SimpleIconColors.fishaudio,
     'fishshell': SimpleIconColors.fishshell,
     'fitbit': SimpleIconColors.fitbit,
     'fivem': SimpleIconColors.fivem,
@@ -11742,6 +11757,7 @@ class SimpleIconColors {
     'linuxserver': SimpleIconColors.linuxserver,
     'lionair': SimpleIconColors.lionair,
     'liquibase': SimpleIconColors.liquibase,
+    'listenhub': SimpleIconColors.listenhub,
     'listmonk': SimpleIconColors.listmonk,
     'lit': SimpleIconColors.lit,
     'litecoin': SimpleIconColors.litecoin,
