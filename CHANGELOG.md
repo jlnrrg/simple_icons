@@ -1,3 +1,9 @@
+## [15.19.0] - auto_generated update
+
+#### 1 new icon
+
+- LabEx ([#13920](https://github.com/simple-icons/simple-icons/pull/13920)) (@huhuhang)
+
 ## [15.18.0] - auto_generated update
 
 #### 4 new icons

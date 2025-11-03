@@ -4747,6 +4747,9 @@ class SimpleIconColors {
   /// SimpleIcons lequipe [Color] from Hex e42829
   static const Color lequipe = Color(0xffe42829);
 
+  /// SimpleIcons labex [Color] from Hex 2e7eee
+  static const Color labex = Color(0xff2e7eee);
+
   /// SimpleIcons labview [Color] from Hex ffdb00
   static const Color labview = Color(0xffffdb00);
 
@@ -11676,6 +11679,7 @@ class SimpleIconColors {
     'kx': SimpleIconColors.kx,
     'kyocera': SimpleIconColors.kyocera,
     'lequipe': SimpleIconColors.lequipe,
+    'labex': SimpleIconColors.labex,
     'labview': SimpleIconColors.labview,
     'lada': SimpleIconColors.lada,
     'lamborghini': SimpleIconColors.lamborghini,
