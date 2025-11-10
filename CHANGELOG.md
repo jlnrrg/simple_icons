@@ -1,3 +1,9 @@
+## [15.20.0] - auto_generated update
+
+#### 1 new icon
+
+- Cursor ([#13412](https://github.com/simple-icons/simple-icons/pull/13412)) (@prem-k-r)
+
 ## [15.19.0] - auto_generated update
 
 #### 1 new icon
