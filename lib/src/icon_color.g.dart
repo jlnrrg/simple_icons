@@ -2026,6 +2026,9 @@ class SimpleIconColors {
   /// SimpleIcons curseforge [Color] from Hex f16436
   static const Color curseforge = Color(0xfff16436);
 
+  /// SimpleIcons cursor [Color] from Hex 000000
+  static const Color cursor = Color(0xff000000);
+
   /// SimpleIcons customink [Color] from Hex fa3c00
   static const Color customink = Color(0xfffa3c00);
 
@@ -10772,6 +10775,7 @@ class SimpleIconColors {
     'cultura': SimpleIconColors.cultura,
     'curl': SimpleIconColors.curl,
     'curseforge': SimpleIconColors.curseforge,
+    'cursor': SimpleIconColors.cursor,
     'customink': SimpleIconColors.customink,
     'cyberdefenders': SimpleIconColors.cyberdefenders,
     'cycling74': SimpleIconColors.cycling74,
