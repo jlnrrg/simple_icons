@@ -1,3 +1,9 @@
+## [15.21.0] - auto_generated update
+
+#### 1 new icon
+
+- MiniMax ([#13982](https://github.com/simple-icons/simple-icons/pull/13982)) (@cscnk52)
+
 ## [15.20.0] - auto_generated update
 
 #### 1 new icon

@@ -5476,6 +5476,9 @@ class SimpleIconColors {
   /// SimpleIcons mini [Color] from Hex 000000
   static const Color mini = Color(0xff000000);
 
+  /// SimpleIcons minimax [Color] from Hex e73562
+  static const Color minimax = Color(0xffe73562);
+
   /// SimpleIcons minio [Color] from Hex c72e49
   static const Color minio = Color(0xffc72e49);
 
@@ -11925,6 +11928,7 @@ class SimpleIconColors {
     'minetest': SimpleIconColors.minetest,
     'mingww64': SimpleIconColors.mingww64,
     'mini': SimpleIconColors.mini,
+    'minimax': SimpleIconColors.minimax,
     'minio': SimpleIconColors.minio,
     'mintlify': SimpleIconColors.mintlify,
     'minutemailer': SimpleIconColors.minutemailer,
