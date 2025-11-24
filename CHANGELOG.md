@@ -1,3 +1,23 @@
+## [15.22.0] - auto_generated update
+
+#### 11 new icons
+
+- Acode ([#13929](https://github.com/simple-icons/simple-icons/pull/13929)) (@UnschooledGamer)
+- AppManager ([#13891](https://github.com/simple-icons/simple-icons/pull/13891)) (@param-chandarana)
+- Autentique ([#13965](https://github.com/simple-icons/simple-icons/pull/13965)) (@marlondecol)
+- Dash0 ([#14027](https://github.com/simple-icons/simple-icons/pull/14027)) (@Oashe02)
+- Dodo Payments ([#13937](https://github.com/simple-icons/simple-icons/pull/13937)) (@AlightSoulmate)
+- Glance ([#13634](https://github.com/simple-icons/simple-icons/pull/13634)) (@prem-k-r)
+- Hashcat ([#13970](https://github.com/simple-icons/simple-icons/pull/13970)) (@UnschooledGamer)
+- Kando ([#13890](https://github.com/simple-icons/simple-icons/pull/13890)) (@LitoMore)
+- OpenRouter ([#14019](https://github.com/simple-icons/simple-icons/pull/14019)) (@UnschooledGamer)
+- Retro Achievements ([#13895](https://github.com/simple-icons/simple-icons/pull/13895)) (@defkorean)
+- ROOT ([#13973](https://github.com/simple-icons/simple-icons/pull/13973)) (@Sumit210106)
+
+#### 1 updated icon
+
+- MAAS ([#14005](https://github.com/simple-icons/simple-icons/pull/14005)) (@sreejaPaul)
+
 ## [15.21.0] - auto_generated update
 
 #### 1 new icon
