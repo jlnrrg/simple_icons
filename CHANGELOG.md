@@ -1,3 +1,14 @@
+## [16.1.0] - auto_generated update
+
+#### 6 new icons
+
+- AppImage ([#13569](https://github.com/simple-icons/simple-icons/pull/13569)) (@prem-k-r)
+- Elk ([#14057](https://github.com/simple-icons/simple-icons/pull/14057)) (@cscnk52)
+- Ghostty ([#13434](https://github.com/simple-icons/simple-icons/pull/13434)) (@LitoMore)
+- Mangacollec ([#13606](https://github.com/simple-icons/simple-icons/pull/13606)) (@apix0n)
+- NodeGui ([#13345](https://github.com/simple-icons/simple-icons/pull/13345)) (@LitoMore)
+- Setuptools ([#13447](https://github.com/simple-icons/simple-icons/pull/13447)) (@prem-k-r)
+
 ## [16.0.0] - auto_generated update
 #### 11 new icons
 

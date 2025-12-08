@@ -568,6 +568,9 @@ class SimpleIconColors {
   /// SimpleIcons appian [Color] from Hex 2322f0
   static const Color appian = Color(0xff2322f0);
 
+  /// SimpleIcons appimage [Color] from Hex 739fb9
+  static const Color appimage = Color(0xff739fb9);
+
   /// SimpleIcons appium [Color] from Hex ee376d
   static const Color appium = Color(0xffee376d);
 
@@ -2551,6 +2554,9 @@ class SimpleIconColors {
   /// SimpleIcons elixir [Color] from Hex 4b275f
   static const Color elixir = Color(0xff4b275f);
 
+  /// SimpleIcons elk [Color] from Hex ea9e44
+  static const Color elk = Color(0xffea9e44);
+
   /// SimpleIcons elm [Color] from Hex 1293d8
   static const Color elm = Color(0xff1293d8);
 
@@ -3216,6 +3222,9 @@ class SimpleIconColors {
 
   /// SimpleIcons ghostery [Color] from Hex 00aef0
   static const Color ghostery = Color(0xff00aef0);
+
+  /// SimpleIcons ghostty [Color] from Hex 3551f3
+  static const Color ghostty = Color(0xff3551f3);
 
   /// SimpleIcons gimp [Color] from Hex 8c8073
   static const Color gimp = Color(0xff8c8073);
@@ -5161,6 +5170,9 @@ class SimpleIconColors {
   /// SimpleIcons manageiq [Color] from Hex ef2929
   static const Color manageiq = Color(0xffef2929);
 
+  /// SimpleIcons mangacollec [Color] from Hex da1f05
+  static const Color mangacollec = Color(0xffda1f05);
+
   /// SimpleIcons mangaupdates [Color] from Hex ff8c15
   static const Color mangaupdates = Color(0xffff8c15);
 
@@ -5859,6 +5871,9 @@ class SimpleIconColors {
 
   /// SimpleIcons nodebb [Color] from Hex 1e5ebc
   static const Color nodebb = Color(0xff1e5ebc);
+
+  /// SimpleIcons nodegui [Color] from Hex 000000
+  static const Color nodegui = Color(0xff000000);
 
   /// SimpleIcons nodemon [Color] from Hex 76d04b
   static const Color nodemon = Color(0xff76d04b);
@@ -7794,6 +7809,9 @@ class SimpleIconColors {
 
   /// SimpleIcons setapp [Color] from Hex e6c3a5
   static const Color setapp = Color(0xffe6c3a5);
+
+  /// SimpleIcons setuptools [Color] from Hex 336790
+  static const Color setuptools = Color(0xff336790);
 
   /// SimpleIcons sfml [Color] from Hex 8cc445
   static const Color sfml = Color(0xff8cc445);
@@ -10226,6 +10244,7 @@ class SimpleIconColors {
     'appstore': SimpleIconColors.appstore,
     'appgallery': SimpleIconColors.appgallery,
     'appian': SimpleIconColors.appian,
+    'appimage': SimpleIconColors.appimage,
     'appium': SimpleIconColors.appium,
     'apple': SimpleIconColors.apple,
     'applearcade': SimpleIconColors.applearcade,
@@ -10887,6 +10906,7 @@ class SimpleIconColors {
     'eleventy': SimpleIconColors.eleventy,
     'elgato': SimpleIconColors.elgato,
     'elixir': SimpleIconColors.elixir,
+    'elk': SimpleIconColors.elk,
     'elm': SimpleIconColors.elm,
     'elsevier': SimpleIconColors.elsevier,
     'embarcadero': SimpleIconColors.embarcadero,
@@ -11109,6 +11129,7 @@ class SimpleIconColors {
     'getx': SimpleIconColors.getx,
     'ghost': SimpleIconColors.ghost,
     'ghostery': SimpleIconColors.ghostery,
+    'ghostty': SimpleIconColors.ghostty,
     'gimp': SimpleIconColors.gimp,
     'gin': SimpleIconColors.gin,
     'giphy': SimpleIconColors.giphy,
@@ -11757,6 +11778,7 @@ class SimpleIconColors {
     'mamp': SimpleIconColors.mamp,
     'man': SimpleIconColors.man,
     'manageiq': SimpleIconColors.manageiq,
+    'mangacollec': SimpleIconColors.mangacollec,
     'mangaupdates': SimpleIconColors.mangaupdates,
     'manjaro': SimpleIconColors.manjaro,
     'mantine': SimpleIconColors.mantine,
@@ -11990,6 +12012,7 @@ class SimpleIconColors {
     'nodered': SimpleIconColors.nodered,
     'nodedotjs': SimpleIconColors.nodedotjs,
     'nodebb': SimpleIconColors.nodebb,
+    'nodegui': SimpleIconColors.nodegui,
     'nodemon': SimpleIconColors.nodemon,
     'nokia': SimpleIconColors.nokia,
     'nomad': SimpleIconColors.nomad,
@@ -12636,6 +12659,7 @@ class SimpleIconColors {
     'session': SimpleIconColors.session,
     'sessionize': SimpleIconColors.sessionize,
     'setapp': SimpleIconColors.setapp,
+    'setuptools': SimpleIconColors.setuptools,
     'sfml': SimpleIconColors.sfml,
     'shadcnui': SimpleIconColors.shadcnui,
     'shadow': SimpleIconColors.shadow,
