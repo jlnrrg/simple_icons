@@ -1000,6 +1000,9 @@ class SimpleIconColors {
   /// SimpleIcons biolink [Color] from Hex 000000
   static const Color biolink = Color(0xff000000);
 
+  /// SimpleIcons bioconductor [Color] from Hex 1a81c2
+  static const Color bioconductor = Color(0xff1a81c2);
+
   /// SimpleIcons biome [Color] from Hex 60a5fa
   static const Color biome = Color(0xff60a5fa);
 
@@ -6604,6 +6607,9 @@ class SimpleIconColors {
   /// SimpleIcons pkgsrc [Color] from Hex ff6600
   static const Color pkgsrc = Color(0xffff6600);
 
+  /// SimpleIcons plane [Color] from Hex 121212
+  static const Color plane = Color(0xff121212);
+
   /// SimpleIcons planet [Color] from Hex 009db1
   static const Color planet = Color(0xff009db1);
 
@@ -10388,6 +10394,7 @@ class SimpleIconColors {
     'bim': SimpleIconColors.bim,
     'binance': SimpleIconColors.binance,
     'biolink': SimpleIconColors.biolink,
+    'bioconductor': SimpleIconColors.bioconductor,
     'biome': SimpleIconColors.biome,
     'bisecthosting': SimpleIconColors.bisecthosting,
     'bit': SimpleIconColors.bit,
@@ -12256,6 +12263,7 @@ class SimpleIconColors {
     'pixiv': SimpleIconColors.pixiv,
     'pixlr': SimpleIconColors.pixlr,
     'pkgsrc': SimpleIconColors.pkgsrc,
+    'plane': SimpleIconColors.plane,
     'planet': SimpleIconColors.planet,
     'planetscale': SimpleIconColors.planetscale,
     'plangrid': SimpleIconColors.plangrid,

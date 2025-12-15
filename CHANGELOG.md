@@ -1,3 +1,10 @@
+## [16.2.0] - auto_generated update
+
+#### 2 new icons
+
+- Bioconductor ([#13658](https://github.com/simple-icons/simple-icons/pull/13658)) (@LouisLeNezet)
+- Plane ([#14107](https://github.com/simple-icons/simple-icons/pull/14107)) (@srinivaspendem)
+
 ## [16.1.0] - auto_generated update
 
 #### 6 new icons
