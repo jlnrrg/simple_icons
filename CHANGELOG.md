@@ -1,3 +1,14 @@
+## [16.3.0] - auto_generated update
+
+#### 6 new icons
+
+- Fillout ([#14013](https://github.com/simple-icons/simple-icons/pull/14013)) (@VIDHITTS)
+- Google Jules ([#14061](https://github.com/simple-icons/simple-icons/pull/14061)) (@cscnk52)
+- HackMD ([#14131](https://github.com/simple-icons/simple-icons/pull/14131)) (@cscnk52)
+- Just ([#14116](https://github.com/simple-icons/simple-icons/pull/14116)) (@cscnk52)
+- OpenCage ([#13364](https://github.com/simple-icons/simple-icons/pull/13364)) (@prem-k-r)
+- Pomerium ([#14041](https://github.com/simple-icons/simple-icons/pull/14041)) (@nyxsky404)
+
 ## [16.2.0] - auto_generated update
 
 #### 2 new icons

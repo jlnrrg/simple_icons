@@ -2863,6 +2863,9 @@ class SimpleIconColors {
   /// SimpleIcons filezilla [Color] from Hex bf0000
   static const Color filezilla = Color(0xffbf0000);
 
+  /// SimpleIcons fillout [Color] from Hex ffc738
+  static const Color fillout = Color(0xffffc738);
+
   /// SimpleIcons fineco [Color] from Hex 00549f
   static const Color fineco = Color(0xff00549f);
 
@@ -3487,6 +3490,9 @@ class SimpleIconColors {
   /// SimpleIcons googlehome [Color] from Hex 4285f4
   static const Color googlehome = Color(0xff4285f4);
 
+  /// SimpleIcons googlejules [Color] from Hex 715cd7
+  static const Color googlejules = Color(0xff715cd7);
+
   /// SimpleIcons googlekeep [Color] from Hex ffbb00
   static const Color googlekeep = Color(0xffffbb00);
 
@@ -3711,6 +3717,9 @@ class SimpleIconColors {
 
   /// SimpleIcons hackerrank [Color] from Hex 00ea64
   static const Color hackerrank = Color(0xff00ea64);
+
+  /// SimpleIcons hackmd [Color] from Hex 453aff
+  static const Color hackmd = Color(0xff453aff);
 
   /// SimpleIcons hackster [Color] from Hex 2e9fe6
   static const Color hackster = Color(0xff2e9fe6);
@@ -4434,6 +4443,9 @@ class SimpleIconColors {
 
   /// SimpleIcons jupyter [Color] from Hex f37626
   static const Color jupyter = Color(0xfff37626);
+
+  /// SimpleIcons just [Color] from Hex 000000
+  static const Color just = Color(0xff000000);
 
   /// SimpleIcons justeat [Color] from Hex ff8000
   static const Color justeat = Color(0xffff8000);
@@ -6118,6 +6130,9 @@ class SimpleIconColors {
   /// SimpleIcons openbsd [Color] from Hex f2ca30
   static const Color openbsd = Color(0xfff2ca30);
 
+  /// SimpleIcons opencage [Color] from Hex 1a8865
+  static const Color opencage = Color(0xff1a8865);
+
   /// SimpleIcons opencritic [Color] from Hex fc3e04
   static const Color opencritic = Color(0xfffc3e04);
 
@@ -6729,6 +6744,9 @@ class SimpleIconColors {
 
   /// SimpleIcons polywork [Color] from Hex 543de0
   static const Color polywork = Color(0xff543de0);
+
+  /// SimpleIcons pomerium [Color] from Hex 6f43e7
+  static const Color pomerium = Color(0xff6f43e7);
 
   /// SimpleIcons pond5 [Color] from Hex 000000
   static const Color pond5 = Color(0xff000000);
@@ -11015,6 +11033,7 @@ class SimpleIconColors {
     'filen': SimpleIconColors.filen,
     'files': SimpleIconColors.files,
     'filezilla': SimpleIconColors.filezilla,
+    'fillout': SimpleIconColors.fillout,
     'fineco': SimpleIconColors.fineco,
     'fing': SimpleIconColors.fing,
     'firebase': SimpleIconColors.firebase,
@@ -11223,6 +11242,7 @@ class SimpleIconColors {
     'googleforms': SimpleIconColors.googleforms,
     'googlegemini': SimpleIconColors.googlegemini,
     'googlehome': SimpleIconColors.googlehome,
+    'googlejules': SimpleIconColors.googlejules,
     'googlekeep': SimpleIconColors.googlekeep,
     'googlelens': SimpleIconColors.googlelens,
     'googlemaps': SimpleIconColors.googlemaps,
@@ -11298,6 +11318,7 @@ class SimpleIconColors {
     'hackerearth': SimpleIconColors.hackerearth,
     'hackerone': SimpleIconColors.hackerone,
     'hackerrank': SimpleIconColors.hackerrank,
+    'hackmd': SimpleIconColors.hackmd,
     'hackster': SimpleIconColors.hackster,
     'hal': SimpleIconColors.hal,
     'handlebarsdotjs': SimpleIconColors.handlebarsdotjs,
@@ -11539,6 +11560,7 @@ class SimpleIconColors {
     'junipernetworks': SimpleIconColors.junipernetworks,
     'junit5': SimpleIconColors.junit5,
     'jupyter': SimpleIconColors.jupyter,
+    'just': SimpleIconColors.just,
     'justeat': SimpleIconColors.justeat,
     'justgiving': SimpleIconColors.justgiving,
     'k3s': SimpleIconColors.k3s,
@@ -12100,6 +12122,7 @@ class SimpleIconColors {
     'openaigym': SimpleIconColors.openaigym,
     'openapiinitiative': SimpleIconColors.openapiinitiative,
     'openbsd': SimpleIconColors.openbsd,
+    'opencage': SimpleIconColors.opencage,
     'opencritic': SimpleIconColors.opencritic,
     'opencv': SimpleIconColors.opencv,
     'openfaas': SimpleIconColors.openfaas,
@@ -12304,6 +12327,7 @@ class SimpleIconColors {
     'polygon': SimpleIconColors.polygon,
     'polymerproject': SimpleIconColors.polymerproject,
     'polywork': SimpleIconColors.polywork,
+    'pomerium': SimpleIconColors.pomerium,
     'pond5': SimpleIconColors.pond5,
     'popos': SimpleIconColors.popos,
     'porkbun': SimpleIconColors.porkbun,
