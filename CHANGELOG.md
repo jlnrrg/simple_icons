@@ -1,3 +1,17 @@
+## [16.4.0] - auto_generated update
+
+#### 5 new icons
+
+- Bitsy ([#14155](https://github.com/simple-icons/simple-icons/pull/14155)) (@ErickSimoes)
+- Graphite ([#14165](https://github.com/simple-icons/simple-icons/pull/14165)) (@prem-k-r)
+- Image Toolbox ([#14150](https://github.com/simple-icons/simple-icons/pull/14150)) (@T8RIN)
+- ModelScope ([#13771](https://github.com/simple-icons/simple-icons/pull/13771)) (@cscnk52)
+- Web Awesome ([#14091](https://github.com/simple-icons/simple-icons/pull/14091)) (@AyushAnand-28)
+
+#### 1 updated icon
+
+- daisyUI ([#14166](https://github.com/simple-icons/simple-icons/pull/14166)) (@prem-k-r)
+
 ## [16.3.0] - auto_generated update
 
 #### 6 new icons

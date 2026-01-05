@@ -1036,6 +1036,9 @@ class SimpleIconColors {
   /// SimpleIcons bitrise [Color] from Hex 683d87
   static const Color bitrise = Color(0xff683d87);
 
+  /// SimpleIcons bitsy [Color] from Hex 6767b2
+  static const Color bitsy = Color(0xff6767b2);
+
   /// SimpleIcons bittorrent [Color] from Hex 050505
   static const Color bittorrent = Color(0xff050505);
 
@@ -2038,8 +2041,8 @@ class SimpleIconColors {
   /// SimpleIcons dailymotion [Color] from Hex 0a0a0a
   static const Color dailymotion = Color(0xff0a0a0a);
 
-  /// SimpleIcons daisyui [Color] from Hex 1ad1a5
-  static const Color daisyui = Color(0xff1ad1a5);
+  /// SimpleIcons daisyui [Color] from Hex ffc63a
+  static const Color daisyui = Color(0xffffc63a);
 
   /// SimpleIcons dapr [Color] from Hex 0d2192
   static const Color dapr = Color(0xff0d2192);
@@ -3589,8 +3592,8 @@ class SimpleIconColors {
   /// SimpleIcons grapheneos [Color] from Hex 0053a3
   static const Color grapheneos = Color(0xff0053a3);
 
-  /// SimpleIcons graphite [Color] from Hex 000000
-  static const Color graphite = Color(0xff000000);
+  /// SimpleIcons graphite [Color] from Hex 473a3a
+  static const Color graphite = Color(0xff473a3a);
 
   /// SimpleIcons graphql [Color] from Hex e10098
   static const Color graphql = Color(0xffe10098);
@@ -4092,6 +4095,9 @@ class SimpleIconColors {
 
   /// SimpleIcons ilovepdf [Color] from Hex e5322d
   static const Color ilovepdf = Color(0xffe5322d);
+
+  /// SimpleIcons imagetoolbox [Color] from Hex 60ea78
+  static const Color imagetoolbox = Color(0xff60ea78);
 
   /// SimpleIcons imagedotsc [Color] from Hex 039cb2
   static const Color imagedotsc = Color(0xff039cb2);
@@ -5514,6 +5520,9 @@ class SimpleIconColors {
 
   /// SimpleIcons modelcontextprotocol [Color] from Hex 000000
   static const Color modelcontextprotocol = Color(0xff000000);
+
+  /// SimpleIcons modelscope [Color] from Hex 624aff
+  static const Color modelscope = Color(0xff624aff);
 
   /// SimpleIcons modin [Color] from Hex 001729
   static const Color modin = Color(0xff001729);
@@ -9589,6 +9598,9 @@ class SimpleIconColors {
   /// SimpleIcons weasyl [Color] from Hex 990000
   static const Color weasyl = Color(0xff990000);
 
+  /// SimpleIcons webawesome [Color] from Hex f36944
+  static const Color webawesome = Color(0xfff36944);
+
   /// SimpleIcons webdotde [Color] from Hex ffd800
   static const Color webdotde = Color(0xffffd800);
 
@@ -10424,6 +10436,7 @@ class SimpleIconColors {
     'bitdefender': SimpleIconColors.bitdefender,
     'bitly': SimpleIconColors.bitly,
     'bitrise': SimpleIconColors.bitrise,
+    'bitsy': SimpleIconColors.bitsy,
     'bittorrent': SimpleIconColors.bittorrent,
     'bitwarden': SimpleIconColors.bitwarden,
     'bitwig': SimpleIconColors.bitwig,
@@ -11443,6 +11456,7 @@ class SimpleIconColors {
     'ikea': SimpleIconColors.ikea,
     'iledefrancemobilites': SimpleIconColors.iledefrancemobilites,
     'ilovepdf': SimpleIconColors.ilovepdf,
+    'imagetoolbox': SimpleIconColors.imagetoolbox,
     'imagedotsc': SimpleIconColors.imagedotsc,
     'imagej': SimpleIconColors.imagej,
     'imdb': SimpleIconColors.imdb,
@@ -11917,6 +11931,7 @@ class SimpleIconColors {
     'mockserviceworker': SimpleIconColors.mockserviceworker,
     'modal': SimpleIconColors.modal,
     'modelcontextprotocol': SimpleIconColors.modelcontextprotocol,
+    'modelscope': SimpleIconColors.modelscope,
     'modin': SimpleIconColors.modin,
     'modrinth': SimpleIconColors.modrinth,
     'modx': SimpleIconColors.modx,
@@ -13276,6 +13291,7 @@ class SimpleIconColors {
     'wazirx': SimpleIconColors.wazirx,
     'wearos': SimpleIconColors.wearos,
     'weasyl': SimpleIconColors.weasyl,
+    'webawesome': SimpleIconColors.webawesome,
     'webdotde': SimpleIconColors.webdotde,
     'web3dotjs': SimpleIconColors.web3dotjs,
     'webassembly': SimpleIconColors.webassembly,
