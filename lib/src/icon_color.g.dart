@@ -388,6 +388,9 @@ class SimpleIconColors {
   /// SimpleIcons angular [Color] from Hex 0f0f11
   static const Color angular = Color(0xff0f0f11);
 
+  /// SimpleIcons anichart [Color] from Hex 41b1ea
+  static const Color anichart = Color(0xff41b1ea);
+
   /// SimpleIcons anilist [Color] from Hex 02a9ff
   static const Color anilist = Color(0xff02a9ff);
 
@@ -522,6 +525,9 @@ class SimpleIconColors {
 
   /// SimpleIcons apacheparquet [Color] from Hex 50abf1
   static const Color apacheparquet = Color(0xff50abf1);
+
+  /// SimpleIcons apachepdfbox [Color] from Hex 34a5da
+  static const Color apachepdfbox = Color(0xff34a5da);
 
   /// SimpleIcons apachepulsar [Color] from Hex 188fff
   static const Color apachepulsar = Color(0xff188fff);
@@ -2497,6 +2503,9 @@ class SimpleIconColors {
   /// SimpleIcons edx [Color] from Hex 02262b
   static const Color edx = Color(0xff02262b);
 
+  /// SimpleIcons effect [Color] from Hex ffffff
+  static const Color effect = Color(0xffffffff);
+
   /// SimpleIcons egghead [Color] from Hex fcfbfa
   static const Color egghead = Color(0xfffcfbfa);
 
@@ -2949,6 +2958,9 @@ class SimpleIconColors {
 
   /// SimpleIcons floorp [Color] from Hex 5309e8
   static const Color floorp = Color(0xff5309e8);
+
+  /// SimpleIcons flower [Color] from Hex f2b705
+  static const Color flower = Color(0xfff2b705);
 
   /// SimpleIcons fluentbit [Color] from Hex 49bda5
   static const Color fluentbit = Color(0xff49bda5);
@@ -5878,6 +5890,9 @@ class SimpleIconColors {
   /// SimpleIcons nim [Color] from Hex ffe953
   static const Color nim = Color(0xffffe953);
 
+  /// SimpleIcons niri [Color] from Hex d55c44
+  static const Color niri = Color(0xffd55c44);
+
   /// SimpleIcons nissan [Color] from Hex c3002f
   static const Color nissan = Color(0xffc3002f);
 
@@ -6055,6 +6070,9 @@ class SimpleIconColors {
   /// SimpleIcons oculus [Color] from Hex 1c1e20
   static const Color oculus = Color(0xff1c1e20);
 
+  /// SimpleIcons odido [Color] from Hex 2c72ff
+  static const Color odido = Color(0xff2c72ff);
+
   /// SimpleIcons odin [Color] from Hex 3882d2
   static const Color odin = Color(0xff3882d2);
 
@@ -6084,6 +6102,9 @@ class SimpleIconColors {
 
   /// SimpleIcons omadacloud [Color] from Hex 10c1d0
   static const Color omadacloud = Color(0xff10c1d0);
+
+  /// SimpleIcons omarchy [Color] from Hex 9ece6a
+  static const Color omarchy = Color(0xff9ece6a);
 
   /// SimpleIcons oneplus [Color] from Hex f5010c
   static const Color oneplus = Color(0xfff5010c);
@@ -6600,6 +6621,9 @@ class SimpleIconColors {
 
   /// SimpleIcons pioneerdj [Color] from Hex 1a1928
   static const Color pioneerdj = Color(0xff1a1928);
+
+  /// SimpleIcons pipecat [Color] from Hex 000000
+  static const Color pipecat = Color(0xff000000);
 
   /// SimpleIcons piped [Color] from Hex f84330
   static const Color piped = Color(0xfff84330);
@@ -7243,8 +7267,8 @@ class SimpleIconColors {
   /// SimpleIcons reactos [Color] from Hex 0088cc
   static const Color reactos = Color(0xff0088cc);
 
-  /// SimpleIcons readthedocs [Color] from Hex 8ca1af
-  static const Color readthedocs = Color(0xff8ca1af);
+  /// SimpleIcons readthedocs [Color] from Hex 000000
+  static const Color readthedocs = Color(0xff000000);
 
   /// SimpleIcons readdotcv [Color] from Hex 111111
   static const Color readdotcv = Color(0xff111111);
@@ -7317,6 +7341,9 @@ class SimpleIconColors {
 
   /// SimpleIcons refinedgithub [Color] from Hex 9e95b7
   static const Color refinedgithub = Color(0xff9e95b7);
+
+  /// SimpleIcons reflex [Color] from Hex 6e56cf
+  static const Color reflex = Color(0xff6e56cf);
 
   /// SimpleIcons rekaui [Color] from Hex 16a353
   static const Color rekaui = Color(0xff16a353);
@@ -7666,8 +7693,8 @@ class SimpleIconColors {
   /// SimpleIcons sanic [Color] from Hex ff0d68
   static const Color sanic = Color(0xffff0d68);
 
-  /// SimpleIcons sanity [Color] from Hex f03e2f
-  static const Color sanity = Color(0xfff03e2f);
+  /// SimpleIcons sanity [Color] from Hex 0d0e12
+  static const Color sanity = Color(0xff0d0e12);
 
   /// SimpleIcons saopaulometro [Color] from Hex 004382
   static const Color saopaulometro = Color(0xff004382);
@@ -7704,6 +7731,9 @@ class SimpleIconColors {
 
   /// SimpleIcons scaleway [Color] from Hex 4f0599
   static const Color scaleway = Color(0xff4f0599);
+
+  /// SimpleIcons scan [Color] from Hex 004c97
+  static const Color scan = Color(0xff004c97);
 
   /// SimpleIcons scania [Color] from Hex 041e42
   static const Color scania = Color(0xff041e42);
@@ -10220,6 +10250,7 @@ class SimpleIconColors {
     'androidauto': SimpleIconColors.androidauto,
     'androidstudio': SimpleIconColors.androidstudio,
     'angular': SimpleIconColors.angular,
+    'anichart': SimpleIconColors.anichart,
     'anilist': SimpleIconColors.anilist,
     'animalplanet': SimpleIconColors.animalplanet,
     'animedotjs': SimpleIconColors.animedotjs,
@@ -10265,6 +10296,7 @@ class SimpleIconColors {
     'apachenifi': SimpleIconColors.apachenifi,
     'apacheopenoffice': SimpleIconColors.apacheopenoffice,
     'apacheparquet': SimpleIconColors.apacheparquet,
+    'apachepdfbox': SimpleIconColors.apachepdfbox,
     'apachepulsar': SimpleIconColors.apachepulsar,
     'apacherocketmq': SimpleIconColors.apacherocketmq,
     'apachesolr': SimpleIconColors.apachesolr,
@@ -10923,6 +10955,7 @@ class SimpleIconColors {
     'editorconfig': SimpleIconColors.editorconfig,
     'educative': SimpleIconColors.educative,
     'edx': SimpleIconColors.edx,
+    'effect': SimpleIconColors.effect,
     'egghead': SimpleIconColors.egghead,
     'egnyte': SimpleIconColors.egnyte,
     'eight': SimpleIconColors.eight,
@@ -11074,6 +11107,7 @@ class SimpleIconColors {
     'floatplane': SimpleIconColors.floatplane,
     'flood': SimpleIconColors.flood,
     'floorp': SimpleIconColors.floorp,
+    'flower': SimpleIconColors.flower,
     'fluentbit': SimpleIconColors.fluentbit,
     'fluentd': SimpleIconColors.fluentd,
     'fluke': SimpleIconColors.fluke,
@@ -12050,6 +12084,7 @@ class SimpleIconColors {
     'nike': SimpleIconColors.nike,
     'nikon': SimpleIconColors.nikon,
     'nim': SimpleIconColors.nim,
+    'niri': SimpleIconColors.niri,
     'nissan': SimpleIconColors.nissan,
     'nixos': SimpleIconColors.nixos,
     'nobaralinux': SimpleIconColors.nobaralinux,
@@ -12109,6 +12144,7 @@ class SimpleIconColors {
     'octoprint': SimpleIconColors.octoprint,
     'octopusdeploy': SimpleIconColors.octopusdeploy,
     'oculus': SimpleIconColors.oculus,
+    'odido': SimpleIconColors.odido,
     'odin': SimpleIconColors.odin,
     'odnoklassniki': SimpleIconColors.odnoklassniki,
     'odoo': SimpleIconColors.odoo,
@@ -12119,6 +12155,7 @@ class SimpleIconColors {
     'okx': SimpleIconColors.okx,
     'ollama': SimpleIconColors.ollama,
     'omadacloud': SimpleIconColors.omadacloud,
+    'omarchy': SimpleIconColors.omarchy,
     'oneplus': SimpleIconColors.oneplus,
     'onestream': SimpleIconColors.onestream,
     'onlyfans': SimpleIconColors.onlyfans,
@@ -12291,6 +12328,7 @@ class SimpleIconColors {
     'pino': SimpleIconColors.pino,
     'pinterest': SimpleIconColors.pinterest,
     'pioneerdj': SimpleIconColors.pioneerdj,
+    'pipecat': SimpleIconColors.pipecat,
     'piped': SimpleIconColors.piped,
     'pipx': SimpleIconColors.pipx,
     'pivotaltracker': SimpleIconColors.pivotaltracker,
@@ -12530,6 +12568,7 @@ class SimpleIconColors {
     'reebok': SimpleIconColors.reebok,
     'refine': SimpleIconColors.refine,
     'refinedgithub': SimpleIconColors.refinedgithub,
+    'reflex': SimpleIconColors.reflex,
     'rekaui': SimpleIconColors.rekaui,
     'relay': SimpleIconColors.relay,
     'relianceindustrieslimited': SimpleIconColors.relianceindustrieslimited,
@@ -12660,6 +12699,7 @@ class SimpleIconColors {
     'scala': SimpleIconColors.scala,
     'scalar': SimpleIconColors.scalar,
     'scaleway': SimpleIconColors.scaleway,
+    'scan': SimpleIconColors.scan,
     'scania': SimpleIconColors.scania,
     'schneiderelectric': SimpleIconColors.schneiderelectric,
     'scikitlearn': SimpleIconColors.scikitlearn,
