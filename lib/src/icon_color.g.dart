@@ -1498,6 +1498,9 @@ class SimpleIconColors {
   /// SimpleIcons chinaeasternairlines [Color] from Hex 1a2477
   static const Color chinaeasternairlines = Color(0xff1a2477);
 
+  /// SimpleIcons chinarailway [Color] from Hex ff2600
+  static const Color chinarailway = Color(0xffff2600);
+
   /// SimpleIcons chinasouthernairlines [Color] from Hex 008bcb
   static const Color chinasouthernairlines = Color(0xff008bcb);
 
@@ -1879,6 +1882,9 @@ class SimpleIconColors {
   /// SimpleIcons cora [Color] from Hex e61845
   static const Color cora = Color(0xffe61845);
 
+  /// SimpleIcons coreboot [Color] from Hex 000000
+  static const Color coreboot = Color(0xff000000);
+
   /// SimpleIcons coreldraw [Color] from Hex 000000
   static const Color coreldraw = Color(0xff000000);
 
@@ -2214,6 +2220,9 @@ class SimpleIconColors {
 
   /// SimpleIcons devbox [Color] from Hex 280459
   static const Color devbox = Color(0xff280459);
+
+  /// SimpleIcons developmentcontainers [Color] from Hex 2753e3
+  static const Color developmentcontainers = Color(0xff2753e3);
 
   /// SimpleIcons devexpress [Color] from Hex ff7200
   static const Color devexpress = Color(0xffff7200);
@@ -6334,8 +6343,8 @@ class SimpleIconColors {
   /// SimpleIcons owncloud [Color] from Hex 041e42
   static const Color owncloud = Color(0xff041e42);
 
-  /// SimpleIcons oxc [Color] from Hex ff915c
-  static const Color oxc = Color(0xffff915c);
+  /// SimpleIcons oxc [Color] from Hex 00f7f1
+  static const Color oxc = Color(0xff00f7f1);
 
   /// SimpleIcons oxygen [Color] from Hex 3a209e
   static const Color oxygen = Color(0xff3a209e);
@@ -6837,6 +6846,9 @@ class SimpleIconColors {
 
   /// SimpleIcons prefect [Color] from Hex 070e10
   static const Color prefect = Color(0xff070e10);
+
+  /// SimpleIcons prek [Color] from Hex f54327
+  static const Color prek = Color(0xfff54327);
 
   /// SimpleIcons premid [Color] from Hex 7289da
   static const Color premid = Color(0xff7289da);
@@ -7528,8 +7540,8 @@ class SimpleIconColors {
   /// SimpleIcons rollbar [Color] from Hex 3569f3
   static const Color rollbar = Color(0xff3569f3);
 
-  /// SimpleIcons rolldown [Color] from Hex ff7e17
-  static const Color rolldown = Color(0xffff7e17);
+  /// SimpleIcons rolldown [Color] from Hex ff4100
+  static const Color rolldown = Color(0xffff4100);
 
   /// SimpleIcons rollsroyce [Color] from Hex 281432
   static const Color rollsroyce = Color(0xff281432);
@@ -8812,6 +8824,9 @@ class SimpleIconColors {
   /// SimpleIcons thingiverse [Color] from Hex 248bfb
   static const Color thingiverse = Color(0xff248bfb);
 
+  /// SimpleIcons things [Color] from Hex 2473e7
+  static const Color things = Color(0xff2473e7);
+
   /// SimpleIcons thinkpad [Color] from Hex ee2624
   static const Color thinkpad = Color(0xffee2624);
 
@@ -9466,8 +9481,8 @@ class SimpleIconColors {
   /// SimpleIcons visx [Color] from Hex ff1231
   static const Color visx = Color(0xffff1231);
 
-  /// SimpleIcons vite [Color] from Hex 646cff
-  static const Color vite = Color(0xff646cff);
+  /// SimpleIcons vite [Color] from Hex 9135ff
+  static const Color vite = Color(0xff9135ff);
 
   /// SimpleIcons vitepress [Color] from Hex 5c73e7
   static const Color vitepress = Color(0xff5c73e7);
@@ -9475,8 +9490,8 @@ class SimpleIconColors {
   /// SimpleIcons vitess [Color] from Hex f16728
   static const Color vitess = Color(0xfff16728);
 
-  /// SimpleIcons vitest [Color] from Hex 6e9f18
-  static const Color vitest = Color(0xff6e9f18);
+  /// SimpleIcons vitest [Color] from Hex 00ff74
+  static const Color vitest = Color(0xff00ff74);
 
   /// SimpleIcons vivawallet [Color] from Hex 1f263a
   static const Color vivawallet = Color(0xff1f263a);
@@ -9814,8 +9829,8 @@ class SimpleIconColors {
   /// SimpleIcons wondersharefilmora [Color] from Hex 07273d
   static const Color wondersharefilmora = Color(0xff07273d);
 
-  /// SimpleIcons woo [Color] from Hex 96588a
-  static const Color woo = Color(0xff96588a);
+  /// SimpleIcons woo [Color] from Hex 873eff
+  static const Color woo = Color(0xff873eff);
 
   /// SimpleIcons woocommerce [Color] from Hex 96588a
   static const Color woocommerce = Color(0xff96588a);
@@ -10620,6 +10635,7 @@ class SimpleIconColors {
     'chevrolet': SimpleIconColors.chevrolet,
     'chianetwork': SimpleIconColors.chianetwork,
     'chinaeasternairlines': SimpleIconColors.chinaeasternairlines,
+    'chinarailway': SimpleIconColors.chinarailway,
     'chinasouthernairlines': SimpleIconColors.chinasouthernairlines,
     'chocolatey': SimpleIconColors.chocolatey,
     'chromatic': SimpleIconColors.chromatic,
@@ -10747,6 +10763,7 @@ class SimpleIconColors {
     'copaairlines': SimpleIconColors.copaairlines,
     'coppel': SimpleIconColors.coppel,
     'cora': SimpleIconColors.cora,
+    'coreboot': SimpleIconColors.coreboot,
     'coreldraw': SimpleIconColors.coreldraw,
     'coronaengine': SimpleIconColors.coronaengine,
     'coronarenderer': SimpleIconColors.coronarenderer,
@@ -10859,6 +10876,7 @@ class SimpleIconColors {
     'deutschewelle': SimpleIconColors.deutschewelle,
     'devdotto': SimpleIconColors.devdotto,
     'devbox': SimpleIconColors.devbox,
+    'developmentcontainers': SimpleIconColors.developmentcontainers,
     'devexpress': SimpleIconColors.devexpress,
     'deviantart': SimpleIconColors.deviantart,
     'devpost': SimpleIconColors.devpost,
@@ -12400,6 +12418,7 @@ class SimpleIconColors {
     'precommit': SimpleIconColors.precommit,
     'preact': SimpleIconColors.preact,
     'prefect': SimpleIconColors.prefect,
+    'prek': SimpleIconColors.prek,
     'premid': SimpleIconColors.premid,
     'premierleague': SimpleIconColors.premierleague,
     'prepbytes': SimpleIconColors.prepbytes,
@@ -13059,6 +13078,7 @@ class SimpleIconColors {
     'thewashingtonpost': SimpleIconColors.thewashingtonpost,
     'theweatherchannel': SimpleIconColors.theweatherchannel,
     'thingiverse': SimpleIconColors.thingiverse,
+    'things': SimpleIconColors.things,
     'thinkpad': SimpleIconColors.thinkpad,
     'thirdweb': SimpleIconColors.thirdweb,
     'threadless': SimpleIconColors.threadless,

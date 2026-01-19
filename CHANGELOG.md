@@ -1,3 +1,22 @@
+## [16.6.0] - auto_generated update
+
+#### 5 new icons
+
+- China Railway ([#14241](https://github.com/simple-icons/simple-icons/pull/14241)) (@TimXiedada)
+- Coreboot ([#14083](https://github.com/simple-icons/simple-icons/pull/14083)) (@manameaaus)
+- Development Containers ([#14223](https://github.com/simple-icons/simple-icons/pull/14223)) (@cscnk52)
+- prek ([#14246](https://github.com/simple-icons/simple-icons/pull/14246)) (@cscnk52)
+- Things ([#14232](https://github.com/simple-icons/simple-icons/pull/14232)) (@tomy0000000)
+
+#### 6 updated icons
+
+- Oxc ([#14236](https://github.com/simple-icons/simple-icons/pull/14236)) (@cscnk52)
+- pnpm ([#14233](https://github.com/simple-icons/simple-icons/pull/14233)) (@cscnk52)
+- Rolldown ([#14237](https://github.com/simple-icons/simple-icons/pull/14237)) (@cscnk52)
+- Vite ([#14235](https://github.com/simple-icons/simple-icons/pull/14235)) (@cscnk52)
+- Vitest ([#14238](https://github.com/simple-icons/simple-icons/pull/14238)) (@cscnk52)
+- Woo ([#14071](https://github.com/simple-icons/simple-icons/pull/14071)) (@Harikrushn9118)
+
 ## [16.4.0] - auto_generated update
 
 #### 5 new icons
