@@ -1,3 +1,9 @@
+## [16.6.1] - auto_generated update
+
+#### 1 updated icon
+
+- MyAnimeList ([#14190](https://github.com/simple-icons/simple-icons/pull/14190)) (@prem-k-r)
+
 ## [16.6.0] - auto_generated update
 
 #### 5 new icons
