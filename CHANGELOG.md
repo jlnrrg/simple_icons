@@ -1,3 +1,13 @@
+## [16.7.0] - auto_generated update
+
+#### 5 new icons
+
+- Convex ([#14300](https://github.com/simple-icons/simple-icons/pull/14300)) (@slimnate)
+- Devuan ([#14268](https://github.com/simple-icons/simple-icons/pull/14268)) (@netsgnut)
+- Infuse ([#14290](https://github.com/simple-icons/simple-icons/pull/14290)) (@AyushAnand-28)
+- Kodular ([#14289](https://github.com/simple-icons/simple-icons/pull/14289)) (@AyushAnand-28)
+- Ory ([#14287](https://github.com/simple-icons/simple-icons/pull/14287)) (@Jorgagu)
+
 ## [16.6.1] - auto_generated update
 
 #### 1 updated icon
