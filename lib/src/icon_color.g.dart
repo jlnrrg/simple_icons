@@ -1864,6 +1864,9 @@ class SimpleIconColors {
   /// SimpleIcons convertio [Color] from Hex ff3333
   static const Color convertio = Color(0xffff3333);
 
+  /// SimpleIcons convex [Color] from Hex ee342f
+  static const Color convex = Color(0xffee342f);
+
   /// SimpleIcons cookiecutter [Color] from Hex d4aa00
   static const Color cookiecutter = Color(0xffd4aa00);
 
@@ -2235,6 +2238,9 @@ class SimpleIconColors {
 
   /// SimpleIcons devrant [Color] from Hex f99a66
   static const Color devrant = Color(0xfff99a66);
+
+  /// SimpleIcons devuan [Color] from Hex 004489
+  static const Color devuan = Color(0xff004489);
 
   /// SimpleIcons dgraph [Color] from Hex e50695
   static const Color dgraph = Color(0xffe50695);
@@ -4189,6 +4195,9 @@ class SimpleIconColors {
   /// SimpleIcons infracost [Color] from Hex db44b8
   static const Color infracost = Color(0xffdb44b8);
 
+  /// SimpleIcons infuse [Color] from Hex ff8000
+  static const Color infuse = Color(0xffff8000);
+
   /// SimpleIcons ingress [Color] from Hex 783cbd
   static const Color ingress = Color(0xff783cbd);
 
@@ -4680,6 +4689,9 @@ class SimpleIconColors {
 
   /// SimpleIcons kodi [Color] from Hex 17b2e7
   static const Color kodi = Color(0xff17b2e7);
+
+  /// SimpleIcons kodular [Color] from Hex 4527a0
+  static const Color kodular = Color(0xff4527a0);
 
   /// SimpleIcons koenigsegg [Color] from Hex 000000
   static const Color koenigsegg = Color(0xff000000);
@@ -6297,6 +6309,9 @@ class SimpleIconColors {
 
   /// SimpleIcons origin [Color] from Hex f56c2d
   static const Color origin = Color(0xfff56c2d);
+
+  /// SimpleIcons ory [Color] from Hex 4f46e5
+  static const Color ory = Color(0xff4f46e5);
 
   /// SimpleIcons osano [Color] from Hex 7764fa
   static const Color osano = Color(0xff7764fa);
@@ -10757,6 +10772,7 @@ class SimpleIconColors {
     'contributorcovenant': SimpleIconColors.contributorcovenant,
     'conventionalcommits': SimpleIconColors.conventionalcommits,
     'convertio': SimpleIconColors.convertio,
+    'convex': SimpleIconColors.convex,
     'cookiecutter': SimpleIconColors.cookiecutter,
     'coolermaster': SimpleIconColors.coolermaster,
     'coolify': SimpleIconColors.coolify,
@@ -10881,6 +10897,7 @@ class SimpleIconColors {
     'deviantart': SimpleIconColors.deviantart,
     'devpost': SimpleIconColors.devpost,
     'devrant': SimpleIconColors.devrant,
+    'devuan': SimpleIconColors.devuan,
     'dgraph': SimpleIconColors.dgraph,
     'dhl': SimpleIconColors.dhl,
     'diagramsdotnet': SimpleIconColors.diagramsdotnet,
@@ -11532,6 +11549,7 @@ class SimpleIconColors {
     'infoq': SimpleIconColors.infoq,
     'infosys': SimpleIconColors.infosys,
     'infracost': SimpleIconColors.infracost,
+    'infuse': SimpleIconColors.infuse,
     'ingress': SimpleIconColors.ingress,
     'inkdrop': SimpleIconColors.inkdrop,
     'inkscape': SimpleIconColors.inkscape,
@@ -11696,6 +11714,7 @@ class SimpleIconColors {
     'koc': SimpleIconColors.koc,
     'kodak': SimpleIconColors.kodak,
     'kodi': SimpleIconColors.kodi,
+    'kodular': SimpleIconColors.kodular,
     'koenigsegg': SimpleIconColors.koenigsegg,
     'kofax': SimpleIconColors.kofax,
     'komoot': SimpleIconColors.komoot,
@@ -12235,6 +12254,7 @@ class SimpleIconColors {
     'org': SimpleIconColors.org,
     'organicmaps': SimpleIconColors.organicmaps,
     'origin': SimpleIconColors.origin,
+    'ory': SimpleIconColors.ory,
     'osano': SimpleIconColors.osano,
     'osf': SimpleIconColors.osf,
     'osgeo': SimpleIconColors.osgeo,
