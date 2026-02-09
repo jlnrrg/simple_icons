@@ -1,3 +1,18 @@
+## [16.8.0] - auto_generated update
+
+#### 4 new icons
+
+- Deezer ([#13843](https://github.com/simple-icons/simple-icons/pull/13843)) (@simeonrowsell)
+- Deno Deploy ([#14324](https://github.com/simple-icons/simple-icons/pull/14324)) (@LitoMore)
+- NDI ([#14315](https://github.com/simple-icons/simple-icons/pull/14315)) (@AyushAnand-28)
+- Pandoc ([#14303](https://github.com/simple-icons/simple-icons/pull/14303)) (@cscnk52)
+
+#### 3 updated icons
+
+- Deno ([#14328](https://github.com/simple-icons/simple-icons/pull/14328)) (@cscnk52)
+- ListenHub ([#14325](https://github.com/simple-icons/simple-icons/pull/14325)) (@LitoMore)
+- Resend ([#14313](https://github.com/simple-icons/simple-icons/pull/14313)) (@ars-2107)
+
 ## [16.7.0] - auto_generated update
 
 #### 5 new icons
