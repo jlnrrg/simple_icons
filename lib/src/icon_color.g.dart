@@ -2173,6 +2173,9 @@ class SimpleIconColors {
   /// SimpleIcons deepnote [Color] from Hex 3793ef
   static const Color deepnote = Color(0xff3793ef);
 
+  /// SimpleIcons deezer [Color] from Hex a238ff
+  static const Color deezer = Color(0xffa238ff);
+
   /// SimpleIcons deliveroo [Color] from Hex 00ccbc
   static const Color deliveroo = Color(0xff00ccbc);
 
@@ -2188,8 +2191,11 @@ class SimpleIconColors {
   /// SimpleIcons deluge [Color] from Hex 094491
   static const Color deluge = Color(0xff094491);
 
-  /// SimpleIcons deno [Color] from Hex 70ffaf
-  static const Color deno = Color(0xff70ffaf);
+  /// SimpleIcons deno [Color] from Hex 000000
+  static const Color deno = Color(0xff000000);
+
+  /// SimpleIcons denodeploy [Color] from Hex 002633
+  static const Color denodeploy = Color(0xff002633);
 
   /// SimpleIcons denon [Color] from Hex 0b131a
   static const Color denon = Color(0xff0b131a);
@@ -5761,6 +5767,9 @@ class SimpleIconColors {
   /// SimpleIcons nbc [Color] from Hex 222222
   static const Color nbc = Color(0xff222222);
 
+  /// SimpleIcons ndi [Color] from Hex 000000
+  static const Color ndi = Color(0xff000000);
+
   /// SimpleIcons ndr [Color] from Hex 0c1754
   static const Color ndr = Color(0xff0c1754);
 
@@ -6417,6 +6426,9 @@ class SimpleIconColors {
 
   /// SimpleIcons pandas [Color] from Hex 150458
   static const Color pandas = Color(0xff150458);
+
+  /// SimpleIcons pandoc [Color] from Hex 4093da
+  static const Color pandoc = Color(0xff4093da);
 
   /// SimpleIcons pandora [Color] from Hex 224099
   static const Color pandora = Color(0xff224099);
@@ -10875,12 +10887,14 @@ class SimpleIconColors {
     'deepl': SimpleIconColors.deepl,
     'deepmind': SimpleIconColors.deepmind,
     'deepnote': SimpleIconColors.deepnote,
+    'deezer': SimpleIconColors.deezer,
     'deliveroo': SimpleIconColors.deliveroo,
     'dell': SimpleIconColors.dell,
     'delphi': SimpleIconColors.delphi,
     'delta': SimpleIconColors.delta,
     'deluge': SimpleIconColors.deluge,
     'deno': SimpleIconColors.deno,
+    'denodeploy': SimpleIconColors.denodeploy,
     'denon': SimpleIconColors.denon,
     'dependabot': SimpleIconColors.dependabot,
     'depositphotos': SimpleIconColors.depositphotos,
@@ -12071,6 +12085,7 @@ class SimpleIconColors {
     'nba': SimpleIconColors.nba,
     'nbb': SimpleIconColors.nbb,
     'nbc': SimpleIconColors.nbc,
+    'ndi': SimpleIconColors.ndi,
     'ndr': SimpleIconColors.ndr,
     'near': SimpleIconColors.near,
     'nebula': SimpleIconColors.nebula,
@@ -12290,6 +12305,7 @@ class SimpleIconColors {
     'paloaltosoftware': SimpleIconColors.paloaltosoftware,
     'panasonic': SimpleIconColors.panasonic,
     'pandas': SimpleIconColors.pandas,
+    'pandoc': SimpleIconColors.pandoc,
     'pandora': SimpleIconColors.pandora,
     'pantheon': SimpleIconColors.pantheon,
     'paperlessngx': SimpleIconColors.paperlessngx,
