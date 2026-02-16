@@ -4171,6 +4171,9 @@ class SimpleIconColors {
   /// SimpleIcons indiehackers [Color] from Hex 0e2439
   static const Color indiehackers = Color(0xff0e2439);
 
+  /// SimpleIcons indieweb [Color] from Hex ff0000
+  static const Color indieweb = Color(0xffff0000);
+
   /// SimpleIcons indigo [Color] from Hex 09009b
   static const Color indigo = Color(0xff09009b);
 
@@ -6306,6 +6309,9 @@ class SimpleIconColors {
 
   /// SimpleIcons orange [Color] from Hex ff7900
   static const Color orange = Color(0xffff7900);
+
+  /// SimpleIcons orchardcore [Color] from Hex 41b670
+  static const Color orchardcore = Color(0xff41b670);
 
   /// SimpleIcons orcid [Color] from Hex a6ce39
   static const Color orcid = Color(0xffa6ce39);
@@ -8527,6 +8533,9 @@ class SimpleIconColors {
   /// SimpleIcons superuser [Color] from Hex 38a1ce
   static const Color superuser = Color(0xff38a1ce);
 
+  /// SimpleIcons supercell [Color] from Hex ffffff
+  static const Color supercell = Color(0xffffffff);
+
   /// SimpleIcons supercrease [Color] from Hex 000000
   static const Color supercrease = Color(0xff000000);
 
@@ -8676,6 +8685,9 @@ class SimpleIconColors {
 
   /// SimpleIcons tarom [Color] from Hex 003366
   static const Color tarom = Color(0xff003366);
+
+  /// SimpleIcons tarteaucitron [Color] from Hex f7d917
+  static const Color tarteaucitron = Color(0xfff7d917);
 
   /// SimpleIcons task [Color] from Hex 29beb0
   static const Color task = Color(0xff29beb0);
@@ -11553,6 +11565,7 @@ class SimpleIconColors {
     'indeed': SimpleIconColors.indeed,
     'indiansuperleague': SimpleIconColors.indiansuperleague,
     'indiehackers': SimpleIconColors.indiehackers,
+    'indieweb': SimpleIconColors.indieweb,
     'indigo': SimpleIconColors.indigo,
     'inductiveautomation': SimpleIconColors.inductiveautomation,
     'inertia': SimpleIconColors.inertia,
@@ -12265,6 +12278,7 @@ class SimpleIconColors {
     'optimism': SimpleIconColors.optimism,
     'optuna': SimpleIconColors.optuna,
     'orange': SimpleIconColors.orange,
+    'orchardcore': SimpleIconColors.orchardcore,
     'orcid': SimpleIconColors.orcid,
     'org': SimpleIconColors.org,
     'organicmaps': SimpleIconColors.organicmaps,
@@ -13006,6 +13020,7 @@ class SimpleIconColors {
     'sunrise': SimpleIconColors.sunrise,
     'supabase': SimpleIconColors.supabase,
     'superuser': SimpleIconColors.superuser,
+    'supercell': SimpleIconColors.supercell,
     'supercrease': SimpleIconColors.supercrease,
     'supermicro': SimpleIconColors.supermicro,
     'surfshark': SimpleIconColors.surfshark,
@@ -13056,6 +13071,7 @@ class SimpleIconColors {
     'tapas': SimpleIconColors.tapas,
     'target': SimpleIconColors.target,
     'tarom': SimpleIconColors.tarom,
+    'tarteaucitron': SimpleIconColors.tarteaucitron,
     'task': SimpleIconColors.task,
     'tasmota': SimpleIconColors.tasmota,
     'tata': SimpleIconColors.tata,
