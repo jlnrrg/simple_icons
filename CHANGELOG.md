@@ -1,3 +1,12 @@
+## [16.9.0] - auto_generated update
+
+#### 4 new icons
+
+- IndieWeb ([#14341](https://github.com/simple-icons/simple-icons/pull/14341)) (@Priyank-Gaur)
+- Orchard Core ([#14340](https://github.com/simple-icons/simple-icons/pull/14340)) (@barthamark)
+- Supercell ([#14081](https://github.com/simple-icons/simple-icons/pull/14081)) (@AyushAnand-28)
+- Tarteaucitron ([#14294](https://github.com/simple-icons/simple-icons/pull/14294)) (@AyushAnand-28)
+
 ## [16.8.0] - auto_generated update
 
 #### 4 new icons
