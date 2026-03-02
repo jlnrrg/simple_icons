@@ -1,3 +1,18 @@
+## [16.10.0] - auto_generated update
+
+#### 10 new icons
+
+- Base UI ([#14349](https://github.com/simple-icons/simple-icons/pull/14349)) (@ayushtwo8)
+- Ghostfolio ([#14398](https://github.com/simple-icons/simple-icons/pull/14398)) (@HirdyanshKumar)
+- Karakeep ([#14399](https://github.com/simple-icons/simple-icons/pull/14399)) (@Priyank-Gaur)
+- Linkvertise ([#14395](https://github.com/simple-icons/simple-icons/pull/14395)) (@AyushAnand-28)
+- Loops ([#14345](https://github.com/simple-icons/simple-icons/pull/14345)) (@Priyank-Gaur)
+- Pangolin ([#14350](https://github.com/simple-icons/simple-icons/pull/14350)) (@HirdyanshKumar)
+- solved.ac ([#14403](https://github.com/simple-icons/simple-icons/pull/14403)) (@Priyank-Gaur)
+- TiDB (#14387, #14388) (@alastori)
+- Trezor ([#14396](https://github.com/simple-icons/simple-icons/pull/14396)) (@Priyank-Gaur)
+- Yew ([#14390](https://github.com/simple-icons/simple-icons/pull/14390)) (@Madoshakalaka, @cscnk52)
+
 ## [16.9.0] - auto_generated update
 
 #### 4 new icons
