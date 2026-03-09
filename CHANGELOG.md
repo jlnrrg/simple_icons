@@ -1,3 +1,15 @@
+## [16.11.0] - auto_generated update
+
+#### 3 new icons
+
+- Cline ([#14441](https://github.com/simple-icons/simple-icons/pull/14441)) (@Himanshu197200)
+- dlthub ([#14410](https://github.com/simple-icons/simple-icons/pull/14410)) (@Himanshu197200)
+- Longhorn ([#14402](https://github.com/simple-icons/simple-icons/pull/14402)) (@HirdyanshKumar)
+
+#### 1 updated icon
+
+- Vencord ([#14397](https://github.com/simple-icons/simple-icons/pull/14397)) (@HirdyanshKumar)
+
 ## [16.10.0] - auto_generated update
 
 #### 10 new icons
