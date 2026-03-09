@@ -1582,6 +1582,9 @@ class SimpleIconColors {
   /// SimpleIcons clickup [Color] from Hex 7b68ee
   static const Color clickup = Color(0xff7b68ee);
 
+  /// SimpleIcons cline [Color] from Hex 18181b
+  static const Color cline = Color(0xff18181b);
+
   /// SimpleIcons clion [Color] from Hex 000000
   static const Color clion = Color(0xff000000);
 
@@ -2325,6 +2328,9 @@ class SimpleIconColors {
 
   /// SimpleIcons dlna [Color] from Hex 48a842
   static const Color dlna = Color(0xff48a842);
+
+  /// SimpleIcons dlthub [Color] from Hex 59c1d5
+  static const Color dlthub = Color(0xff59c1d5);
 
   /// SimpleIcons dm [Color] from Hex 002878
   static const Color dm = Color(0xff002878);
@@ -5094,6 +5100,9 @@ class SimpleIconColors {
 
   /// SimpleIcons logstash [Color] from Hex 005571
   static const Color logstash = Color(0xff005571);
+
+  /// SimpleIcons longhorn [Color] from Hex 5f224b
+  static const Color longhorn = Color(0xff5f224b);
 
   /// SimpleIcons looker [Color] from Hex 4285f4
   static const Color looker = Color(0xff4285f4);
@@ -9460,8 +9469,8 @@ class SimpleIconColors {
   /// SimpleIcons velog [Color] from Hex 20c997
   static const Color velog = Color(0xff20c997);
 
-  /// SimpleIcons vencord [Color] from Hex d3859b
-  static const Color vencord = Color(0xffd3859b);
+  /// SimpleIcons vencord [Color] from Hex eb7396
+  static const Color vencord = Color(0xffeb7396);
 
   /// SimpleIcons venmo [Color] from Hex 008cff
   static const Color venmo = Color(0xff008cff);
@@ -10732,6 +10741,7 @@ class SimpleIconColors {
     'clevercloud': SimpleIconColors.clevercloud,
     'clickhouse': SimpleIconColors.clickhouse,
     'clickup': SimpleIconColors.clickup,
+    'cline': SimpleIconColors.cline,
     'clion': SimpleIconColors.clion,
     'clockify': SimpleIconColors.clockify,
     'clojure': SimpleIconColors.clojure,
@@ -10980,6 +10990,7 @@ class SimpleIconColors {
     'dji': SimpleIconColors.dji,
     'dlib': SimpleIconColors.dlib,
     'dlna': SimpleIconColors.dlna,
+    'dlthub': SimpleIconColors.dlthub,
     'dm': SimpleIconColors.dm,
     'dmm': SimpleIconColors.dmm,
     'docker': SimpleIconColors.docker,
@@ -11903,6 +11914,7 @@ class SimpleIconColors {
     'logmein': SimpleIconColors.logmein,
     'logseq': SimpleIconColors.logseq,
     'logstash': SimpleIconColors.logstash,
+    'longhorn': SimpleIconColors.longhorn,
     'looker': SimpleIconColors.looker,
     'loom': SimpleIconColors.loom,
     'loop': SimpleIconColors.loop,
