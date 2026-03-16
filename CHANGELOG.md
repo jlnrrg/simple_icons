@@ -1,3 +1,10 @@
+## [16.12.0] - auto_generated update
+
+#### 2 new icons
+
+- Contensis ([#14368](https://github.com/simple-icons/simple-icons/pull/14368)) (@ahmedmahfoudhi)
+- DiceBear ([#14460](https://github.com/simple-icons/simple-icons/pull/14460)) (@FlorianKoerner)
+
 ## [16.11.0] - auto_generated update
 
 #### 3 new icons
