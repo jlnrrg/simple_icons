@@ -1852,6 +1852,9 @@ class SimpleIconColors {
   /// SimpleIcons contao [Color] from Hex f47c00
   static const Color contao = Color(0xfff47c00);
 
+  /// SimpleIcons contensis [Color] from Hex 37bfa7
+  static const Color contensis = Color(0xff37bfa7);
+
   /// SimpleIcons contentful [Color] from Hex 2478cc
   static const Color contentful = Color(0xff2478cc);
 
@@ -2268,6 +2271,9 @@ class SimpleIconColors {
 
   /// SimpleIcons diaspora [Color] from Hex 000000
   static const Color diaspora = Color(0xff000000);
+
+  /// SimpleIcons dicebear [Color] from Hex 0284c7
+  static const Color dicebear = Color(0xff0284c7);
 
   /// SimpleIcons dictionarydotcom [Color] from Hex 0049d7
   static const Color dictionarydotcom = Color(0xff0049d7);
@@ -10831,6 +10837,7 @@ class SimpleIconColors {
     'contactlesspayment': SimpleIconColors.contactlesspayment,
     'containerd': SimpleIconColors.containerd,
     'contao': SimpleIconColors.contao,
+    'contensis': SimpleIconColors.contensis,
     'contentful': SimpleIconColors.contentful,
     'contentstack': SimpleIconColors.contentstack,
     'continente': SimpleIconColors.continente,
@@ -10970,6 +10977,7 @@ class SimpleIconColors {
     'diagramsdotnet': SimpleIconColors.diagramsdotnet,
     'dialogflow': SimpleIconColors.dialogflow,
     'diaspora': SimpleIconColors.diaspora,
+    'dicebear': SimpleIconColors.dicebear,
     'dictionarydotcom': SimpleIconColors.dictionarydotcom,
     'digg': SimpleIconColors.digg,
     'digikeyelectronics': SimpleIconColors.digikeyelectronics,
