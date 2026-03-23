@@ -1,3 +1,15 @@
+## [16.13.0] - auto_generated update
+
+#### 2 new icons
+
+- Dify ([#14408](https://github.com/simple-icons/simple-icons/pull/14408)) (@AyushAnand-28)
+- OpenBao ([#14461](https://github.com/simple-icons/simple-icons/pull/14461)) (@Subhan030)
+
+#### 2 updated icons
+
+- LangChain ([#14492](https://github.com/simple-icons/simple-icons/pull/14492)) (@LitoMore)
+- QGIS ([#14499](https://github.com/simple-icons/simple-icons/pull/14499)) (@ramanverse)
+
 ## [16.12.0] - auto_generated update
 
 #### 2 new icons
