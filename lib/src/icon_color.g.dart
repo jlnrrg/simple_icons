@@ -2278,6 +2278,9 @@ class SimpleIconColors {
   /// SimpleIcons dictionarydotcom [Color] from Hex 0049d7
   static const Color dictionarydotcom = Color(0xff0049d7);
 
+  /// SimpleIcons dify [Color] from Hex 0033ff
+  static const Color dify = Color(0xff0033ff);
+
   /// SimpleIcons digg [Color] from Hex 000000
   static const Color digg = Color(0xff000000);
 
@@ -4813,8 +4816,8 @@ class SimpleIconColors {
   /// SimpleIcons lamborghini [Color] from Hex b6a272
   static const Color lamborghini = Color(0xffb6a272);
 
-  /// SimpleIcons langchain [Color] from Hex 1c3c3c
-  static const Color langchain = Color(0xff1c3c3c);
+  /// SimpleIcons langchain [Color] from Hex 7fc8ff
+  static const Color langchain = Color(0xff7fc8ff);
 
   /// SimpleIcons langflow [Color] from Hex 000000
   static const Color langflow = Color(0xff000000);
@@ -6219,6 +6222,9 @@ class SimpleIconColors {
 
   /// SimpleIcons openapiinitiative [Color] from Hex 6ba539
   static const Color openapiinitiative = Color(0xff6ba539);
+
+  /// SimpleIcons openbao [Color] from Hex 336d5c
+  static const Color openbao = Color(0xff336d5c);
 
   /// SimpleIcons openbsd [Color] from Hex f2ca30
   static const Color openbsd = Color(0xfff2ca30);
@@ -10979,6 +10985,7 @@ class SimpleIconColors {
     'diaspora': SimpleIconColors.diaspora,
     'dicebear': SimpleIconColors.dicebear,
     'dictionarydotcom': SimpleIconColors.dictionarydotcom,
+    'dify': SimpleIconColors.dify,
     'digg': SimpleIconColors.digg,
     'digikeyelectronics': SimpleIconColors.digikeyelectronics,
     'digitalocean': SimpleIconColors.digitalocean,
@@ -12293,6 +12300,7 @@ class SimpleIconColors {
     'open3d': SimpleIconColors.open3d,
     'openaigym': SimpleIconColors.openaigym,
     'openapiinitiative': SimpleIconColors.openapiinitiative,
+    'openbao': SimpleIconColors.openbao,
     'openbsd': SimpleIconColors.openbsd,
     'opencage': SimpleIconColors.opencage,
     'opencritic': SimpleIconColors.opencritic,
