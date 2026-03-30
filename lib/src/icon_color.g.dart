@@ -2800,6 +2800,9 @@ class SimpleIconColors {
   /// SimpleIcons fairphone [Color] from Hex 4495d1
   static const Color fairphone = Color(0xff4495d1);
 
+  /// SimpleIcons faker [Color] from Hex 779b2e
+  static const Color faker = Color(0xff779b2e);
+
   /// SimpleIcons falco [Color] from Hex 00aec7
   static const Color falco = Color(0xff00aec7);
 
@@ -7006,6 +7009,9 @@ class SimpleIconColors {
   /// SimpleIcons pronounsdotpage [Color] from Hex c71585
   static const Color pronounsdotpage = Color(0xffc71585);
 
+  /// SimpleIcons prosemirror [Color] from Hex 000000
+  static const Color prosemirror = Color(0xff000000);
+
   /// SimpleIcons prosieben [Color] from Hex e6000f
   static const Color prosieben = Color(0xffe6000f);
 
@@ -7137,6 +7143,9 @@ class SimpleIconColors {
 
   /// SimpleIcons qbittorrent [Color] from Hex 2f67ba
   static const Color qbittorrent = Color(0xff2f67ba);
+
+  /// SimpleIcons qdrant [Color] from Hex dc244c
+  static const Color qdrant = Color(0xffdc244c);
 
   /// SimpleIcons qemu [Color] from Hex ff6600
   static const Color qemu = Color(0xffff6600);
@@ -11159,6 +11168,7 @@ class SimpleIconColors {
     'faceit': SimpleIconColors.faceit,
     'facepunch': SimpleIconColors.facepunch,
     'fairphone': SimpleIconColors.fairphone,
+    'faker': SimpleIconColors.faker,
     'falco': SimpleIconColors.falco,
     'falcon': SimpleIconColors.falcon,
     'fampay': SimpleIconColors.fampay,
@@ -12561,6 +12571,7 @@ class SimpleIconColors {
     'progress': SimpleIconColors.progress,
     'prometheus': SimpleIconColors.prometheus,
     'pronounsdotpage': SimpleIconColors.pronounsdotpage,
+    'prosemirror': SimpleIconColors.prosemirror,
     'prosieben': SimpleIconColors.prosieben,
     'proteus': SimpleIconColors.proteus,
     'protodotio': SimpleIconColors.protodotio,
@@ -12605,6 +12616,7 @@ class SimpleIconColors {
     'qase': SimpleIconColors.qase,
     'qatarairways': SimpleIconColors.qatarairways,
     'qbittorrent': SimpleIconColors.qbittorrent,
+    'qdrant': SimpleIconColors.qdrant,
     'qemu': SimpleIconColors.qemu,
     'qgis': SimpleIconColors.qgis,
     'qi': SimpleIconColors.qi,
