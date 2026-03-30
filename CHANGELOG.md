@@ -1,3 +1,15 @@
+## [16.14.0] - auto_generated update
+
+#### 3 new icons
+
+- Faker ([#14547](https://github.com/simple-icons/simple-icons/pull/14547)) (@LitoMore)
+- ProseMirror ([#12866](https://github.com/simple-icons/simple-icons/pull/12866)) (@LitoMore)
+- Qdrant ([#14414](https://github.com/simple-icons/simple-icons/pull/14414)) (@Himanshu197200)
+
+#### 1 updated icon
+
+- Dify ([#14512](https://github.com/simple-icons/simple-icons/pull/14512)) (@bowenliang123)
+
 ## [16.13.0] - auto_generated update
 
 #### 2 new icons
