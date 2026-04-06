@@ -1906,8 +1906,8 @@ class SimpleIconColors {
   /// SimpleIcons coronarenderer [Color] from Hex e6502a
   static const Color coronarenderer = Color(0xffe6502a);
 
-  /// SimpleIcons corsair [Color] from Hex 000000
-  static const Color corsair = Color(0xff000000);
+  /// SimpleIcons corsair [Color] from Hex 231f20
+  static const Color corsair = Color(0xff231f20);
 
   /// SimpleIcons couchbase [Color] from Hex ea2328
   static const Color couchbase = Color(0xffea2328);
@@ -7732,6 +7732,9 @@ class SimpleIconColors {
   /// SimpleIcons rustdesk [Color] from Hex 024eff
   static const Color rustdesk = Color(0xff024eff);
 
+  /// SimpleIcons rustfs [Color] from Hex 0196d0
+  static const Color rustfs = Color(0xff0196d0);
+
   /// SimpleIcons rxdb [Color] from Hex 8d1f89
   static const Color rxdb = Color(0xff8d1f89);
 
@@ -8313,6 +8316,9 @@ class SimpleIconColors {
 
   /// SimpleIcons sphinx [Color] from Hex 000000
   static const Color sphinx = Color(0xff000000);
+
+  /// SimpleIcons spidermonkey [Color] from Hex ffd681
+  static const Color spidermonkey = Color(0xffffd681);
 
   /// SimpleIcons spigotmc [Color] from Hex ed8106
   static const Color spigotmc = Color(0xffed8106);
@@ -9243,6 +9249,9 @@ class SimpleIconColors {
 
   /// SimpleIcons twitch [Color] from Hex 9146ff
   static const Color twitch = Color(0xff9146ff);
+
+  /// SimpleIcons ty [Color] from Hex 46ebe1
+  static const Color ty = Color(0xff46ebe1);
 
   /// SimpleIcons typeform [Color] from Hex 262627
   static const Color typeform = Color(0xff262627);
@@ -12812,6 +12821,7 @@ class SimpleIconColors {
     'runrundotit': SimpleIconColors.runrundotit,
     'rust': SimpleIconColors.rust,
     'rustdesk': SimpleIconColors.rustdesk,
+    'rustfs': SimpleIconColors.rustfs,
     'rxdb': SimpleIconColors.rxdb,
     'ryanair': SimpleIconColors.ryanair,
     'rye': SimpleIconColors.rye,
@@ -13007,6 +13017,7 @@ class SimpleIconColors {
     'speedypage': SimpleIconColors.speedypage,
     'sphereonlinejudge': SimpleIconColors.sphereonlinejudge,
     'sphinx': SimpleIconColors.sphinx,
+    'spidermonkey': SimpleIconColors.spidermonkey,
     'spigotmc': SimpleIconColors.spigotmc,
     'spine': SimpleIconColors.spine,
     'spinnaker': SimpleIconColors.spinnaker,
@@ -13317,6 +13328,7 @@ class SimpleIconColors {
     'twinkly': SimpleIconColors.twinkly,
     'twinmotion': SimpleIconColors.twinmotion,
     'twitch': SimpleIconColors.twitch,
+    'ty': SimpleIconColors.ty,
     'typeform': SimpleIconColors.typeform,
     'typeorm': SimpleIconColors.typeorm,
     'typer': SimpleIconColors.typer,
