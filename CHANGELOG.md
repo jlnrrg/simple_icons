@@ -1,3 +1,15 @@
+## [16.15.0] - auto_generated update
+
+#### 3 new icons
+
+- RustFS ([#14391](https://github.com/simple-icons/simple-icons/pull/14391)) (@cscnk52)
+- SpiderMonkey ([#14330](https://github.com/simple-icons/simple-icons/pull/14330)) (@cscnk52)
+- ty ([#14138](https://github.com/simple-icons/simple-icons/pull/14138)) (@cscnk52)
+
+#### 1 updated icon
+
+- Corsair ([#14555](https://github.com/simple-icons/simple-icons/pull/14555)) (@LitoMore)
+
 ## [16.14.0] - auto_generated update
 
 #### 3 new icons
