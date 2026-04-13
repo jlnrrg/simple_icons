@@ -1315,6 +1315,9 @@ class SimpleIconColors {
   /// SimpleIcons cachet [Color] from Hex 7ed321
   static const Color cachet = Color(0xff7ed321);
 
+  /// SimpleIcons cachyos [Color] from Hex 00aa88
+  static const Color cachyos = Color(0xff00aa88);
+
   /// SimpleIcons caddy [Color] from Hex 1f88c0
   static const Color caddy = Color(0xff1f88c0);
 
@@ -3018,6 +3021,9 @@ class SimpleIconColors {
 
   /// SimpleIcons flux [Color] from Hex 5468ff
   static const Color flux = Color(0xff5468ff);
+
+  /// SimpleIcons fluxer [Color] from Hex 4641d9
+  static const Color fluxer = Color(0xff4641d9);
 
   /// SimpleIcons flydotio [Color] from Hex 24175b
   static const Color flydotio = Color(0xff24175b);
@@ -9172,6 +9178,9 @@ class SimpleIconColors {
   /// SimpleIcons trivy [Color] from Hex 1904da
   static const Color trivy = Color(0xff1904da);
 
+  /// SimpleIcons trmnl [Color] from Hex f8654b
+  static const Color trmnl = Color(0xfff8654b);
+
   /// SimpleIcons trove [Color] from Hex 2d004b
   static const Color trove = Color(0xff2d004b);
 
@@ -10682,6 +10691,7 @@ class SimpleIconColors {
     'cplusplus': SimpleIconColors.cplusplus,
     'cplusplusbuilder': SimpleIconColors.cplusplusbuilder,
     'cachet': SimpleIconColors.cachet,
+    'cachyos': SimpleIconColors.cachyos,
     'caddy': SimpleIconColors.caddy,
     'cadillac': SimpleIconColors.cadillac,
     'cafepress': SimpleIconColors.cafepress,
@@ -11250,6 +11260,7 @@ class SimpleIconColors {
     'fluke': SimpleIconColors.fluke,
     'flutter': SimpleIconColors.flutter,
     'flux': SimpleIconColors.flux,
+    'fluxer': SimpleIconColors.fluxer,
     'flydotio': SimpleIconColors.flydotio,
     'flyway': SimpleIconColors.flyway,
     'fmod': SimpleIconColors.fmod,
@@ -13302,6 +13313,7 @@ class SimpleIconColors {
     'tripadvisor': SimpleIconColors.tripadvisor,
     'trivago': SimpleIconColors.trivago,
     'trivy': SimpleIconColors.trivy,
+    'trmnl': SimpleIconColors.trmnl,
     'trove': SimpleIconColors.trove,
     'trpc': SimpleIconColors.trpc,
     'truenas': SimpleIconColors.truenas,
