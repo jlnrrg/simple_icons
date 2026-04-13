@@ -1,3 +1,11 @@
+## [16.16.0] - auto_generated update
+
+#### 3 new icons
+
+- CachyOS ([#14498](https://github.com/simple-icons/simple-icons/pull/14498)) (@Himanshu197200)
+- Fluxer ([#14477](https://github.com/simple-icons/simple-icons/pull/14477)) (@jelle619)
+- TRMNL ([#14577](https://github.com/simple-icons/simple-icons/pull/14577)) (@LitoMore)
+
 ## [16.15.0] - auto_generated update
 
 #### 3 new icons
