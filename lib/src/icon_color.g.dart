@@ -5107,6 +5107,9 @@ class SimpleIconColors {
   /// SimpleIcons localxpose [Color] from Hex 6023c0
   static const Color localxpose = Color(0xff6023c0);
 
+  /// SimpleIcons locust [Color] from Hex b8ee4b
+  static const Color locust = Color(0xffb8ee4b);
+
   /// SimpleIcons lodash [Color] from Hex 3492ff
   static const Color lodash = Color(0xff3492ff);
 
@@ -9628,6 +9631,9 @@ class SimpleIconColors {
   /// SimpleIcons vlcmediaplayer [Color] from Hex ff8800
   static const Color vlcmediaplayer = Color(0xffff8800);
 
+  /// SimpleIcons vllm [Color] from Hex 30a2ff
+  static const Color vllm = Color(0xff30a2ff);
+
   /// SimpleIcons vmware [Color] from Hex 607078
   static const Color vmware = Color(0xff607078);
 
@@ -11955,6 +11961,7 @@ class SimpleIconColors {
     'local': SimpleIconColors.local,
     'localsend': SimpleIconColors.localsend,
     'localxpose': SimpleIconColors.localxpose,
+    'locust': SimpleIconColors.locust,
     'lodash': SimpleIconColors.lodash,
     'logmein': SimpleIconColors.logmein,
     'logseq': SimpleIconColors.logseq,
@@ -13463,6 +13470,7 @@ class SimpleIconColors {
     'vivo': SimpleIconColors.vivo,
     'vk': SimpleIconColors.vk,
     'vlcmediaplayer': SimpleIconColors.vlcmediaplayer,
+    'vllm': SimpleIconColors.vllm,
     'vmware': SimpleIconColors.vmware,
     'vodafone': SimpleIconColors.vodafone,
     'voelkner': SimpleIconColors.voelkner,
