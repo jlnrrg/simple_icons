@@ -1,3 +1,10 @@
+## [16.17.0] - auto_generated update
+
+##### 2 new icons
+
+- Locust ([#13384](https://github.com/simple-icons/simple-icons/pull/13384)) (@WilliamOdinson)
+- vLLM ([#14339](https://github.com/simple-icons/simple-icons/pull/14339)) (@cscnk52)
+
 ## [16.16.0] - auto_generated update
 
 #### 3 new icons
