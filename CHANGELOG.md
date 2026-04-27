@@ -1,3 +1,18 @@
+## [16.18.0] - auto_generated update
+
+##### 4 new icons
+
+- DeepSeek ([#14635](https://github.com/simple-icons/simple-icons/pull/14635)) (@cscnk52)
+- Moonshot AI ([#14636](https://github.com/simple-icons/simple-icons/pull/14636)) (@cscnk52)
+- Neon ([#14612](https://github.com/simple-icons/simple-icons/pull/14612)) (@cscnk52, @Owen G)
+- QWen ([#14634](https://github.com/simple-icons/simple-icons/pull/14634)) (@cscnk52)
+
+##### 3 updated icons
+
+- 1Password ([#14616](https://github.com/simple-icons/simple-icons/pull/14616)) (@AlightSoulmate)
+- ESPHome ([#14614](https://github.com/simple-icons/simple-icons/pull/14614)) (@cscnk52)
+- Simple Icons ([#14640](https://github.com/simple-icons/simple-icons/pull/14640)) (@cscnk52)
+
 ## [16.17.0] - auto_generated update
 
 ##### 2 new icons
