@@ -25,8 +25,8 @@ class SimpleIconColors {
   /// SimpleIcons n1panel [Color] from Hex 0854c1
   static const Color n1panel = Color(0xff0854c1);
 
-  /// SimpleIcons n1password [Color] from Hex 3b66bc
-  static const Color n1password = Color(0xff3b66bc);
+  /// SimpleIcons n1password [Color] from Hex 145fe4
+  static const Color n1password = Color(0xff145fe4);
 
   /// SimpleIcons n2fas [Color] from Hex ec1c24
   static const Color n2fas = Color(0xffec1c24);
@@ -2185,6 +2185,9 @@ class SimpleIconColors {
   /// SimpleIcons deepnote [Color] from Hex 3793ef
   static const Color deepnote = Color(0xff3793ef);
 
+  /// SimpleIcons deepseek [Color] from Hex 5786fe
+  static const Color deepseek = Color(0xff5786fe);
+
   /// SimpleIcons deezer [Color] from Hex a238ff
   static const Color deezer = Color(0xffa238ff);
 
@@ -2698,8 +2701,8 @@ class SimpleIconColors {
   /// SimpleIcons esotericsoftware [Color] from Hex 3fa9f5
   static const Color esotericsoftware = Color(0xff3fa9f5);
 
-  /// SimpleIcons esphome [Color] from Hex 000000
-  static const Color esphome = Color(0xff000000);
+  /// SimpleIcons esphome [Color] from Hex 18bcf2
+  static const Color esphome = Color(0xff18bcf2);
 
   /// SimpleIcons espressif [Color] from Hex e7352c
   static const Color espressif = Color(0xffe7352c);
@@ -5671,6 +5674,9 @@ class SimpleIconColors {
   /// SimpleIcons moonrepo [Color] from Hex 6f53f3
   static const Color moonrepo = Color(0xff6f53f3);
 
+  /// SimpleIcons moonshotai [Color] from Hex 000000
+  static const Color moonshotai = Color(0xff000000);
+
   /// SimpleIcons moq [Color] from Hex f4be00
   static const Color moq = Color(0xfff4be00);
 
@@ -5835,6 +5841,9 @@ class SimpleIconColors {
 
   /// SimpleIcons neo4j [Color] from Hex 4581c3
   static const Color neo4j = Color(0xff4581c3);
+
+  /// SimpleIcons neon [Color] from Hex 34d59a
+  static const Color neon = Color(0xff34d59a);
 
   /// SimpleIcons neovim [Color] from Hex 57a143
   static const Color neovim = Color(0xff57a143);
@@ -7248,6 +7257,9 @@ class SimpleIconColors {
 
   /// SimpleIcons qwant [Color] from Hex 282b2f
   static const Color qwant = Color(0xff282b2f);
+
+  /// SimpleIcons qwen [Color] from Hex 6950ef
+  static const Color qwen = Color(0xff6950ef);
 
   /// SimpleIcons qwik [Color] from Hex ac7ef4
   static const Color qwik = Color(0xffac7ef4);
@@ -10987,6 +10999,7 @@ class SimpleIconColors {
     'deepl': SimpleIconColors.deepl,
     'deepmind': SimpleIconColors.deepmind,
     'deepnote': SimpleIconColors.deepnote,
+    'deepseek': SimpleIconColors.deepseek,
     'deezer': SimpleIconColors.deezer,
     'deliveroo': SimpleIconColors.deliveroo,
     'dell': SimpleIconColors.dell,
@@ -12149,6 +12162,7 @@ class SimpleIconColors {
     'moo': SimpleIconColors.moo,
     'moodle': SimpleIconColors.moodle,
     'moonrepo': SimpleIconColors.moonrepo,
+    'moonshotai': SimpleIconColors.moonshotai,
     'moq': SimpleIconColors.moq,
     'moqups': SimpleIconColors.moqups,
     'morrisons': SimpleIconColors.morrisons,
@@ -12204,6 +12218,7 @@ class SimpleIconColors {
     'nec': SimpleIconColors.nec,
     'nederlandsespoorwegen': SimpleIconColors.nederlandsespoorwegen,
     'neo4j': SimpleIconColors.neo4j,
+    'neon': SimpleIconColors.neon,
     'neovim': SimpleIconColors.neovim,
     'neptune': SimpleIconColors.neptune,
     'nestjs': SimpleIconColors.nestjs,
@@ -12675,6 +12690,7 @@ class SimpleIconColors {
     'quizlet': SimpleIconColors.quizlet,
     'quora': SimpleIconColors.quora,
     'qwant': SimpleIconColors.qwant,
+    'qwen': SimpleIconColors.qwen,
     'qwik': SimpleIconColors.qwik,
     'qwiklabs': SimpleIconColors.qwiklabs,
     'qzone': SimpleIconColors.qzone,
