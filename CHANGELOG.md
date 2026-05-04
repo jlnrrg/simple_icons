@@ -1,3 +1,9 @@
+## [16.18.1] - auto_generated update
+
+##### 1 updated icon
+
+- Git ([#14654](https://github.com/simple-icons/simple-icons/pull/14654)) (@LitoMore)
+
 ## [16.18.0] - auto_generated update
 
 ##### 4 new icons
