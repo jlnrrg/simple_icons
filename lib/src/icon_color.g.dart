@@ -3310,8 +3310,8 @@ class SimpleIconColors {
   /// SimpleIcons giphy [Color] from Hex ff6666
   static const Color giphy = Color(0xffff6666);
 
-  /// SimpleIcons git [Color] from Hex f05032
-  static const Color git = Color(0xfff05032);
+  /// SimpleIcons git [Color] from Hex f03c2e
+  static const Color git = Color(0xfff03c2e);
 
   /// SimpleIcons gitextensions [Color] from Hex 212121
   static const Color gitextensions = Color(0xff212121);
