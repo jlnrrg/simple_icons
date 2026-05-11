@@ -1,3 +1,16 @@
+## [16.19.0] - auto_generated update
+
+##### 3 new icons
+
+- Cinny ([#14664](https://github.com/simple-icons/simple-icons/pull/14664)) (@cscnk52)
+- Helium Browser ([#14697](https://github.com/simple-icons/simple-icons/pull/14697)) (@michi-onl)
+- LangChain Corporate ([#14692](https://github.com/simple-icons/simple-icons/pull/14692)) (@LitoMore)
+
+##### 2 updated icons
+
+- LangChain ([#14691](https://github.com/simple-icons/simple-icons/pull/14691)) (@LitoMore)
+- LangGraph ([#14693](https://github.com/simple-icons/simple-icons/pull/14693)) (@LitoMore, @cscnk52)
+
 ## [16.18.1] - auto_generated update
 
 ##### 1 updated icon
