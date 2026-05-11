@@ -1534,6 +1534,9 @@ class SimpleIconColors {
   /// SimpleIcons cinnamon [Color] from Hex dc682e
   static const Color cinnamon = Color(0xffdc682e);
 
+  /// SimpleIcons cinny [Color] from Hex 000000
+  static const Color cinny = Color(0xff000000);
+
   /// SimpleIcons circle [Color] from Hex 8669ae
   static const Color circle = Color(0xff8669ae);
 
@@ -3877,6 +3880,9 @@ class SimpleIconColors {
   /// SimpleIcons helium [Color] from Hex 0acf83
   static const Color helium = Color(0xff0acf83);
 
+  /// SimpleIcons heliumbrowser [Color] from Hex 3450d1
+  static const Color heliumbrowser = Color(0xff3450d1);
+
   /// SimpleIcons helix [Color] from Hex 281733
   static const Color helix = Color(0xff281733);
 
@@ -4831,11 +4837,14 @@ class SimpleIconColors {
   /// SimpleIcons langchain [Color] from Hex 7fc8ff
   static const Color langchain = Color(0xff7fc8ff);
 
+  /// SimpleIcons langchaincorporate [Color] from Hex 7fc8ff
+  static const Color langchaincorporate = Color(0xff7fc8ff);
+
   /// SimpleIcons langflow [Color] from Hex 000000
   static const Color langflow = Color(0xff000000);
 
-  /// SimpleIcons langgraph [Color] from Hex 1c3c3c
-  static const Color langgraph = Color(0xff1c3c3c);
+  /// SimpleIcons langgraph [Color] from Hex 7fc8ff
+  static const Color langgraph = Color(0xff7fc8ff);
 
   /// SimpleIcons languagetool [Color] from Hex 45a1fc
   static const Color languagetool = Color(0xff45a1fc);
@@ -10782,6 +10791,7 @@ class SimpleIconColors {
     'cilium': SimpleIconColors.cilium,
     'cinema4d': SimpleIconColors.cinema4d,
     'cinnamon': SimpleIconColors.cinnamon,
+    'cinny': SimpleIconColors.cinny,
     'circle': SimpleIconColors.circle,
     'circleci': SimpleIconColors.circleci,
     'circuitverse': SimpleIconColors.circuitverse,
@@ -11563,6 +11573,7 @@ class SimpleIconColors {
     'hedera': SimpleIconColors.hedera,
     'hedgedoc': SimpleIconColors.hedgedoc,
     'helium': SimpleIconColors.helium,
+    'heliumbrowser': SimpleIconColors.heliumbrowser,
     'helix': SimpleIconColors.helix,
     'hellofresh': SimpleIconColors.hellofresh,
     'hellyhansen': SimpleIconColors.hellyhansen,
@@ -11881,6 +11892,7 @@ class SimpleIconColors {
     'lada': SimpleIconColors.lada,
     'lamborghini': SimpleIconColors.lamborghini,
     'langchain': SimpleIconColors.langchain,
+    'langchaincorporate': SimpleIconColors.langchaincorporate,
     'langflow': SimpleIconColors.langflow,
     'langgraph': SimpleIconColors.langgraph,
     'languagetool': SimpleIconColors.languagetool,
