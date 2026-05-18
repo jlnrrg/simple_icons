@@ -8986,6 +8986,9 @@ class SimpleIconColors {
   /// SimpleIcons thymeleaf [Color] from Hex 005f0f
   static const Color thymeleaf = Color(0xff005f0f);
 
+  /// SimpleIcons tickettailor [Color] from Hex 222432
+  static const Color tickettailor = Color(0xff222432);
+
   /// SimpleIcons ticketmaster [Color] from Hex 026cdf
   static const Color ticketmaster = Color(0xff026cdf);
 
@@ -13276,6 +13279,7 @@ class SimpleIconColors {
     'thunderstore': SimpleIconColors.thunderstore,
     'thurgauerkantonalbank': SimpleIconColors.thurgauerkantonalbank,
     'thymeleaf': SimpleIconColors.thymeleaf,
+    'tickettailor': SimpleIconColors.tickettailor,
     'ticketmaster': SimpleIconColors.ticketmaster,
     'ticktick': SimpleIconColors.ticktick,
     'tidal': SimpleIconColors.tidal,
