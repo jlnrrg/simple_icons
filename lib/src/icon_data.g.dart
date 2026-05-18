@@ -9005,1301 +9005,1304 @@ class SimpleIcons {
   /// SimpleIcons thymeleaf [IconData] with Unicode 0xf5b8
   static const IconData thymeleaf = SimpleIconData(0xf5b8);
 
-  /// SimpleIcons ticketmaster [IconData] with Unicode 0xf5b9
-  static const IconData ticketmaster = SimpleIconData(0xf5b9);
+  /// SimpleIcons tickettailor [IconData] with Unicode 0xf5b9
+  static const IconData tickettailor = SimpleIconData(0xf5b9);
 
-  /// SimpleIcons ticktick [IconData] with Unicode 0xf5ba
-  static const IconData ticktick = SimpleIconData(0xf5ba);
+  /// SimpleIcons ticketmaster [IconData] with Unicode 0xf5ba
+  static const IconData ticketmaster = SimpleIconData(0xf5ba);
 
-  /// SimpleIcons tidal [IconData] with Unicode 0xf5bb
-  static const IconData tidal = SimpleIconData(0xf5bb);
+  /// SimpleIcons ticktick [IconData] with Unicode 0xf5bb
+  static const IconData ticktick = SimpleIconData(0xf5bb);
 
-  /// SimpleIcons tidb [IconData] with Unicode 0xf5bc
-  static const IconData tidb = SimpleIconData(0xf5bc);
+  /// SimpleIcons tidal [IconData] with Unicode 0xf5bc
+  static const IconData tidal = SimpleIconData(0xf5bc);
 
-  /// SimpleIcons tiddlywiki [IconData] with Unicode 0xf5bd
-  static const IconData tiddlywiki = SimpleIconData(0xf5bd);
+  /// SimpleIcons tidb [IconData] with Unicode 0xf5bd
+  static const IconData tidb = SimpleIconData(0xf5bd);
 
-  /// SimpleIcons tide [IconData] with Unicode 0xf5be
-  static const IconData tide = SimpleIconData(0xf5be);
+  /// SimpleIcons tiddlywiki [IconData] with Unicode 0xf5be
+  static const IconData tiddlywiki = SimpleIconData(0xf5be);
 
-  /// SimpleIcons tidyverse [IconData] with Unicode 0xf5bf
-  static const IconData tidyverse = SimpleIconData(0xf5bf);
+  /// SimpleIcons tide [IconData] with Unicode 0xf5bf
+  static const IconData tide = SimpleIconData(0xf5bf);
 
-  /// SimpleIcons tietoevry [IconData] with Unicode 0xf5c0
-  static const IconData tietoevry = SimpleIconData(0xf5c0);
+  /// SimpleIcons tidyverse [IconData] with Unicode 0xf5c0
+  static const IconData tidyverse = SimpleIconData(0xf5c0);
 
-  /// SimpleIcons tiktok [IconData] with Unicode 0xf5c1
-  static const IconData tiktok = SimpleIconData(0xf5c1);
+  /// SimpleIcons tietoevry [IconData] with Unicode 0xf5c1
+  static const IconData tietoevry = SimpleIconData(0xf5c1);
 
-  /// SimpleIcons tildapublishing [IconData] with Unicode 0xf5c2
-  static const IconData tildapublishing = SimpleIconData(0xf5c2);
+  /// SimpleIcons tiktok [IconData] with Unicode 0xf5c2
+  static const IconData tiktok = SimpleIconData(0xf5c2);
 
-  /// SimpleIcons tile [IconData] with Unicode 0xf5c3
-  static const IconData tile = SimpleIconData(0xf5c3);
+  /// SimpleIcons tildapublishing [IconData] with Unicode 0xf5c3
+  static const IconData tildapublishing = SimpleIconData(0xf5c3);
 
-  /// SimpleIcons timescale [IconData] with Unicode 0xf5c4
-  static const IconData timescale = SimpleIconData(0xf5c4);
+  /// SimpleIcons tile [IconData] with Unicode 0xf5c4
+  static const IconData tile = SimpleIconData(0xf5c4);
 
-  /// SimpleIcons tina [IconData] with Unicode 0xf5c5
-  static const IconData tina = SimpleIconData(0xf5c5);
+  /// SimpleIcons timescale [IconData] with Unicode 0xf5c5
+  static const IconData timescale = SimpleIconData(0xf5c5);
 
-  /// SimpleIcons tinder [IconData] with Unicode 0xf5c6
-  static const IconData tinder = SimpleIconData(0xf5c6);
+  /// SimpleIcons tina [IconData] with Unicode 0xf5c6
+  static const IconData tina = SimpleIconData(0xf5c6);
 
-  /// SimpleIcons tindie [IconData] with Unicode 0xf5c7
-  static const IconData tindie = SimpleIconData(0xf5c7);
+  /// SimpleIcons tinder [IconData] with Unicode 0xf5c7
+  static const IconData tinder = SimpleIconData(0xf5c7);
 
-  /// SimpleIcons tinkercad [IconData] with Unicode 0xf5c8
-  static const IconData tinkercad = SimpleIconData(0xf5c8);
+  /// SimpleIcons tindie [IconData] with Unicode 0xf5c8
+  static const IconData tindie = SimpleIconData(0xf5c8);
 
-  /// SimpleIcons tinygrad [IconData] with Unicode 0xf5c9
-  static const IconData tinygrad = SimpleIconData(0xf5c9);
+  /// SimpleIcons tinkercad [IconData] with Unicode 0xf5c9
+  static const IconData tinkercad = SimpleIconData(0xf5c9);
 
-  /// SimpleIcons tinyletter [IconData] with Unicode 0xf5ca
-  static const IconData tinyletter = SimpleIconData(0xf5ca);
+  /// SimpleIcons tinygrad [IconData] with Unicode 0xf5ca
+  static const IconData tinygrad = SimpleIconData(0xf5ca);
 
-  /// SimpleIcons tistory [IconData] with Unicode 0xf5cb
-  static const IconData tistory = SimpleIconData(0xf5cb);
+  /// SimpleIcons tinyletter [IconData] with Unicode 0xf5cb
+  static const IconData tinyletter = SimpleIconData(0xf5cb);
 
-  /// SimpleIcons tldraw [IconData] with Unicode 0xf5cc
-  static const IconData tldraw = SimpleIconData(0xf5cc);
+  /// SimpleIcons tistory [IconData] with Unicode 0xf5cc
+  static const IconData tistory = SimpleIconData(0xf5cc);
 
-  /// SimpleIcons tmux [IconData] with Unicode 0xf5cd
-  static const IconData tmux = SimpleIconData(0xf5cd);
+  /// SimpleIcons tldraw [IconData] with Unicode 0xf5cd
+  static const IconData tldraw = SimpleIconData(0xf5cd);
 
-  /// SimpleIcons todoist [IconData] with Unicode 0xf5ce
-  static const IconData todoist = SimpleIconData(0xf5ce);
+  /// SimpleIcons tmux [IconData] with Unicode 0xf5ce
+  static const IconData tmux = SimpleIconData(0xf5ce);
 
-  /// SimpleIcons toggl [IconData] with Unicode 0xf5cf
-  static const IconData toggl = SimpleIconData(0xf5cf);
+  /// SimpleIcons todoist [IconData] with Unicode 0xf5cf
+  static const IconData todoist = SimpleIconData(0xf5cf);
 
-  /// SimpleIcons toggltrack [IconData] with Unicode 0xf5d0
-  static const IconData toggltrack = SimpleIconData(0xf5d0);
+  /// SimpleIcons toggl [IconData] with Unicode 0xf5d0
+  static const IconData toggl = SimpleIconData(0xf5d0);
 
-  /// SimpleIcons tokio [IconData] with Unicode 0xf5d1
-  static const IconData tokio = SimpleIconData(0xf5d1);
+  /// SimpleIcons toggltrack [IconData] with Unicode 0xf5d1
+  static const IconData toggltrack = SimpleIconData(0xf5d1);
 
-  /// SimpleIcons tokyometro [IconData] with Unicode 0xf5d2
-  static const IconData tokyometro = SimpleIconData(0xf5d2);
+  /// SimpleIcons tokio [IconData] with Unicode 0xf5d2
+  static const IconData tokio = SimpleIconData(0xf5d2);
 
-  /// SimpleIcons toll [IconData] with Unicode 0xf5d3
-  static const IconData toll = SimpleIconData(0xf5d3);
+  /// SimpleIcons tokyometro [IconData] with Unicode 0xf5d3
+  static const IconData tokyometro = SimpleIconData(0xf5d3);
 
-  /// SimpleIcons toml [IconData] with Unicode 0xf5d4
-  static const IconData toml = SimpleIconData(0xf5d4);
+  /// SimpleIcons toll [IconData] with Unicode 0xf5d4
+  static const IconData toll = SimpleIconData(0xf5d4);
 
-  /// SimpleIcons tomorrowland [IconData] with Unicode 0xf5d5
-  static const IconData tomorrowland = SimpleIconData(0xf5d5);
+  /// SimpleIcons toml [IconData] with Unicode 0xf5d5
+  static const IconData toml = SimpleIconData(0xf5d5);
 
-  /// SimpleIcons tomtom [IconData] with Unicode 0xf5d6
-  static const IconData tomtom = SimpleIconData(0xf5d6);
+  /// SimpleIcons tomorrowland [IconData] with Unicode 0xf5d6
+  static const IconData tomorrowland = SimpleIconData(0xf5d6);
 
-  /// SimpleIcons ton [IconData] with Unicode 0xf5d7
-  static const IconData ton = SimpleIconData(0xf5d7);
+  /// SimpleIcons tomtom [IconData] with Unicode 0xf5d7
+  static const IconData tomtom = SimpleIconData(0xf5d7);
 
-  /// SimpleIcons topdotgg [IconData] with Unicode 0xf5d8
-  static const IconData topdotgg = SimpleIconData(0xf5d8);
+  /// SimpleIcons ton [IconData] with Unicode 0xf5d8
+  static const IconData ton = SimpleIconData(0xf5d8);
 
-  /// SimpleIcons topcoder [IconData] with Unicode 0xf5d9
-  static const IconData topcoder = SimpleIconData(0xf5d9);
+  /// SimpleIcons topdotgg [IconData] with Unicode 0xf5d9
+  static const IconData topdotgg = SimpleIconData(0xf5d9);
 
-  /// SimpleIcons toptal [IconData] with Unicode 0xf5da
-  static const IconData toptal = SimpleIconData(0xf5da);
+  /// SimpleIcons topcoder [IconData] with Unicode 0xf5da
+  static const IconData topcoder = SimpleIconData(0xf5da);
 
-  /// SimpleIcons torbrowser [IconData] with Unicode 0xf5db
-  static const IconData torbrowser = SimpleIconData(0xf5db);
+  /// SimpleIcons toptal [IconData] with Unicode 0xf5db
+  static const IconData toptal = SimpleIconData(0xf5db);
 
-  /// SimpleIcons torproject [IconData] with Unicode 0xf5dc
-  static const IconData torproject = SimpleIconData(0xf5dc);
+  /// SimpleIcons torbrowser [IconData] with Unicode 0xf5dc
+  static const IconData torbrowser = SimpleIconData(0xf5dc);
 
-  /// SimpleIcons torizon [IconData] with Unicode 0xf5dd
-  static const IconData torizon = SimpleIconData(0xf5dd);
+  /// SimpleIcons torproject [IconData] with Unicode 0xf5dd
+  static const IconData torproject = SimpleIconData(0xf5dd);
 
-  /// SimpleIcons toshiba [IconData] with Unicode 0xf5de
-  static const IconData toshiba = SimpleIconData(0xf5de);
+  /// SimpleIcons torizon [IconData] with Unicode 0xf5de
+  static const IconData torizon = SimpleIconData(0xf5de);
 
-  /// SimpleIcons totvs [IconData] with Unicode 0xf5df
-  static const IconData totvs = SimpleIconData(0xf5df);
+  /// SimpleIcons toshiba [IconData] with Unicode 0xf5df
+  static const IconData toshiba = SimpleIconData(0xf5df);
 
-  /// SimpleIcons tourbox [IconData] with Unicode 0xf5e0
-  static const IconData tourbox = SimpleIconData(0xf5e0);
+  /// SimpleIcons totvs [IconData] with Unicode 0xf5e0
+  static const IconData totvs = SimpleIconData(0xf5e0);
 
-  /// SimpleIcons tower [IconData] with Unicode 0xf5e1
-  static const IconData tower = SimpleIconData(0xf5e1);
+  /// SimpleIcons tourbox [IconData] with Unicode 0xf5e1
+  static const IconData tourbox = SimpleIconData(0xf5e1);
 
-  /// SimpleIcons toyota [IconData] with Unicode 0xf5e2
-  static const IconData toyota = SimpleIconData(0xf5e2);
+  /// SimpleIcons tower [IconData] with Unicode 0xf5e2
+  static const IconData tower = SimpleIconData(0xf5e2);
 
-  /// SimpleIcons tplink [IconData] with Unicode 0xf5e3
-  static const IconData tplink = SimpleIconData(0xf5e3);
+  /// SimpleIcons toyota [IconData] with Unicode 0xf5e3
+  static const IconData toyota = SimpleIconData(0xf5e3);
 
-  /// SimpleIcons tqdm [IconData] with Unicode 0xf5e4
-  static const IconData tqdm = SimpleIconData(0xf5e4);
+  /// SimpleIcons tplink [IconData] with Unicode 0xf5e4
+  static const IconData tplink = SimpleIconData(0xf5e4);
 
-  /// SimpleIcons traccar [IconData] with Unicode 0xf5e5
-  static const IconData traccar = SimpleIconData(0xf5e5);
+  /// SimpleIcons tqdm [IconData] with Unicode 0xf5e5
+  static const IconData tqdm = SimpleIconData(0xf5e5);
 
-  /// SimpleIcons tradingview [IconData] with Unicode 0xf5e6
-  static const IconData tradingview = SimpleIconData(0xf5e6);
+  /// SimpleIcons traccar [IconData] with Unicode 0xf5e6
+  static const IconData traccar = SimpleIconData(0xf5e6);
 
-  /// SimpleIcons traefikmesh [IconData] with Unicode 0xf5e7
-  static const IconData traefikmesh = SimpleIconData(0xf5e7);
+  /// SimpleIcons tradingview [IconData] with Unicode 0xf5e7
+  static const IconData tradingview = SimpleIconData(0xf5e7);
 
-  /// SimpleIcons traefikproxy [IconData] with Unicode 0xf5e8
-  static const IconData traefikproxy = SimpleIconData(0xf5e8);
+  /// SimpleIcons traefikmesh [IconData] with Unicode 0xf5e8
+  static const IconData traefikmesh = SimpleIconData(0xf5e8);
 
-  /// SimpleIcons trailforks [IconData] with Unicode 0xf5e9
-  static const IconData trailforks = SimpleIconData(0xf5e9);
+  /// SimpleIcons traefikproxy [IconData] with Unicode 0xf5e9
+  static const IconData traefikproxy = SimpleIconData(0xf5e9);
 
-  /// SimpleIcons trainerroad [IconData] with Unicode 0xf5ea
-  static const IconData trainerroad = SimpleIconData(0xf5ea);
+  /// SimpleIcons trailforks [IconData] with Unicode 0xf5ea
+  static const IconData trailforks = SimpleIconData(0xf5ea);
 
-  /// SimpleIcons trakt [IconData] with Unicode 0xf5eb
-  static const IconData trakt = SimpleIconData(0xf5eb);
+  /// SimpleIcons trainerroad [IconData] with Unicode 0xf5eb
+  static const IconData trainerroad = SimpleIconData(0xf5eb);
 
-  /// SimpleIcons transifex [IconData] with Unicode 0xf5ec
-  static const IconData transifex = SimpleIconData(0xf5ec);
+  /// SimpleIcons trakt [IconData] with Unicode 0xf5ec
+  static const IconData trakt = SimpleIconData(0xf5ec);
 
-  /// SimpleIcons transmission [IconData] with Unicode 0xf5ed
-  static const IconData transmission = SimpleIconData(0xf5ed);
+  /// SimpleIcons transifex [IconData] with Unicode 0xf5ed
+  static const IconData transifex = SimpleIconData(0xf5ed);
 
-  /// SimpleIcons transportforireland [IconData] with Unicode 0xf5ee
-  static const IconData transportforireland = SimpleIconData(0xf5ee);
+  /// SimpleIcons transmission [IconData] with Unicode 0xf5ee
+  static const IconData transmission = SimpleIconData(0xf5ee);
 
-  /// SimpleIcons transportforlondon [IconData] with Unicode 0xf5ef
-  static const IconData transportforlondon = SimpleIconData(0xf5ef);
+  /// SimpleIcons transportforireland [IconData] with Unicode 0xf5ef
+  static const IconData transportforireland = SimpleIconData(0xf5ef);
 
-  /// SimpleIcons travisci [IconData] with Unicode 0xf5f0
-  static const IconData travisci = SimpleIconData(0xf5f0);
+  /// SimpleIcons transportforlondon [IconData] with Unicode 0xf5f0
+  static const IconData transportforlondon = SimpleIconData(0xf5f0);
 
-  /// SimpleIcons treehouse [IconData] with Unicode 0xf5f1
-  static const IconData treehouse = SimpleIconData(0xf5f1);
+  /// SimpleIcons travisci [IconData] with Unicode 0xf5f1
+  static const IconData travisci = SimpleIconData(0xf5f1);
 
-  /// SimpleIcons trello [IconData] with Unicode 0xf5f2
-  static const IconData trello = SimpleIconData(0xf5f2);
+  /// SimpleIcons treehouse [IconData] with Unicode 0xf5f2
+  static const IconData treehouse = SimpleIconData(0xf5f2);
 
-  /// SimpleIcons trendmicro [IconData] with Unicode 0xf5f3
-  static const IconData trendmicro = SimpleIconData(0xf5f3);
+  /// SimpleIcons trello [IconData] with Unicode 0xf5f3
+  static const IconData trello = SimpleIconData(0xf5f3);
 
-  /// SimpleIcons tresorit [IconData] with Unicode 0xf5f4
-  static const IconData tresorit = SimpleIconData(0xf5f4);
+  /// SimpleIcons trendmicro [IconData] with Unicode 0xf5f4
+  static const IconData trendmicro = SimpleIconData(0xf5f4);
 
-  /// SimpleIcons treyarch [IconData] with Unicode 0xf5f5
-  static const IconData treyarch = SimpleIconData(0xf5f5);
+  /// SimpleIcons tresorit [IconData] with Unicode 0xf5f5
+  static const IconData tresorit = SimpleIconData(0xf5f5);
 
-  /// SimpleIcons trezor [IconData] with Unicode 0xf5f6
-  static const IconData trezor = SimpleIconData(0xf5f6);
+  /// SimpleIcons treyarch [IconData] with Unicode 0xf5f6
+  static const IconData treyarch = SimpleIconData(0xf5f6);
 
-  /// SimpleIcons tricentis [IconData] with Unicode 0xf5f7
-  static const IconData tricentis = SimpleIconData(0xf5f7);
+  /// SimpleIcons trezor [IconData] with Unicode 0xf5f7
+  static const IconData trezor = SimpleIconData(0xf5f7);
 
-  /// SimpleIcons trilium [IconData] with Unicode 0xf5f8
-  static const IconData trilium = SimpleIconData(0xf5f8);
+  /// SimpleIcons tricentis [IconData] with Unicode 0xf5f8
+  static const IconData tricentis = SimpleIconData(0xf5f8);
 
-  /// SimpleIcons triller [IconData] with Unicode 0xf5f9
-  static const IconData triller = SimpleIconData(0xf5f9);
+  /// SimpleIcons trilium [IconData] with Unicode 0xf5f9
+  static const IconData trilium = SimpleIconData(0xf5f9);
 
-  /// SimpleIcons trillertv [IconData] with Unicode 0xf5fa
-  static const IconData trillertv = SimpleIconData(0xf5fa);
+  /// SimpleIcons triller [IconData] with Unicode 0xf5fa
+  static const IconData triller = SimpleIconData(0xf5fa);
 
-  /// SimpleIcons trimble [IconData] with Unicode 0xf5fb
-  static const IconData trimble = SimpleIconData(0xf5fb);
+  /// SimpleIcons trillertv [IconData] with Unicode 0xf5fb
+  static const IconData trillertv = SimpleIconData(0xf5fb);
 
-  /// SimpleIcons trino [IconData] with Unicode 0xf5fc
-  static const IconData trino = SimpleIconData(0xf5fc);
+  /// SimpleIcons trimble [IconData] with Unicode 0xf5fc
+  static const IconData trimble = SimpleIconData(0xf5fc);
 
-  /// SimpleIcons tripdotcom [IconData] with Unicode 0xf5fd
-  static const IconData tripdotcom = SimpleIconData(0xf5fd);
+  /// SimpleIcons trino [IconData] with Unicode 0xf5fd
+  static const IconData trino = SimpleIconData(0xf5fd);
 
-  /// SimpleIcons tripadvisor [IconData] with Unicode 0xf5fe
-  static const IconData tripadvisor = SimpleIconData(0xf5fe);
+  /// SimpleIcons tripdotcom [IconData] with Unicode 0xf5fe
+  static const IconData tripdotcom = SimpleIconData(0xf5fe);
 
-  /// SimpleIcons trivago [IconData] with Unicode 0xf5ff
-  static const IconData trivago = SimpleIconData(0xf5ff);
+  /// SimpleIcons tripadvisor [IconData] with Unicode 0xf5ff
+  static const IconData tripadvisor = SimpleIconData(0xf5ff);
 
-  /// SimpleIcons trivy [IconData] with Unicode 0xf600
-  static const IconData trivy = SimpleIconData(0xf600);
+  /// SimpleIcons trivago [IconData] with Unicode 0xf600
+  static const IconData trivago = SimpleIconData(0xf600);
 
-  /// SimpleIcons trmnl [IconData] with Unicode 0xf601
-  static const IconData trmnl = SimpleIconData(0xf601);
+  /// SimpleIcons trivy [IconData] with Unicode 0xf601
+  static const IconData trivy = SimpleIconData(0xf601);
 
-  /// SimpleIcons trove [IconData] with Unicode 0xf602
-  static const IconData trove = SimpleIconData(0xf602);
+  /// SimpleIcons trmnl [IconData] with Unicode 0xf602
+  static const IconData trmnl = SimpleIconData(0xf602);
 
-  /// SimpleIcons trpc [IconData] with Unicode 0xf603
-  static const IconData trpc = SimpleIconData(0xf603);
+  /// SimpleIcons trove [IconData] with Unicode 0xf603
+  static const IconData trove = SimpleIconData(0xf603);
 
-  /// SimpleIcons truenas [IconData] with Unicode 0xf604
-  static const IconData truenas = SimpleIconData(0xf604);
+  /// SimpleIcons trpc [IconData] with Unicode 0xf604
+  static const IconData trpc = SimpleIconData(0xf604);
 
-  /// SimpleIcons trueup [IconData] with Unicode 0xf605
-  static const IconData trueup = SimpleIconData(0xf605);
+  /// SimpleIcons truenas [IconData] with Unicode 0xf605
+  static const IconData truenas = SimpleIconData(0xf605);
 
-  /// SimpleIcons trulia [IconData] with Unicode 0xf606
-  static const IconData trulia = SimpleIconData(0xf606);
+  /// SimpleIcons trueup [IconData] with Unicode 0xf606
+  static const IconData trueup = SimpleIconData(0xf606);
 
-  /// SimpleIcons trustedshops [IconData] with Unicode 0xf607
-  static const IconData trustedshops = SimpleIconData(0xf607);
+  /// SimpleIcons trulia [IconData] with Unicode 0xf607
+  static const IconData trulia = SimpleIconData(0xf607);
 
-  /// SimpleIcons trustpilot [IconData] with Unicode 0xf608
-  static const IconData trustpilot = SimpleIconData(0xf608);
+  /// SimpleIcons trustedshops [IconData] with Unicode 0xf608
+  static const IconData trustedshops = SimpleIconData(0xf608);
 
-  /// SimpleIcons tryitonline [IconData] with Unicode 0xf609
-  static const IconData tryitonline = SimpleIconData(0xf609);
+  /// SimpleIcons trustpilot [IconData] with Unicode 0xf609
+  static const IconData trustpilot = SimpleIconData(0xf609);
 
-  /// SimpleIcons tryhackme [IconData] with Unicode 0xf60a
-  static const IconData tryhackme = SimpleIconData(0xf60a);
+  /// SimpleIcons tryitonline [IconData] with Unicode 0xf60a
+  static const IconData tryitonline = SimpleIconData(0xf60a);
 
-  /// SimpleIcons tsnode [IconData] with Unicode 0xf60b
-  static const IconData tsnode = SimpleIconData(0xf60b);
+  /// SimpleIcons tryhackme [IconData] with Unicode 0xf60b
+  static const IconData tryhackme = SimpleIconData(0xf60b);
 
-  /// SimpleIcons tubi [IconData] with Unicode 0xf60c
-  static const IconData tubi = SimpleIconData(0xf60c);
+  /// SimpleIcons tsnode [IconData] with Unicode 0xf60c
+  static const IconData tsnode = SimpleIconData(0xf60c);
 
-  /// SimpleIcons tui [IconData] with Unicode 0xf60d
-  static const IconData tui = SimpleIconData(0xf60d);
+  /// SimpleIcons tubi [IconData] with Unicode 0xf60d
+  static const IconData tubi = SimpleIconData(0xf60d);
 
-  /// SimpleIcons tumblr [IconData] with Unicode 0xf60e
-  static const IconData tumblr = SimpleIconData(0xf60e);
+  /// SimpleIcons tui [IconData] with Unicode 0xf60e
+  static const IconData tui = SimpleIconData(0xf60e);
 
-  /// SimpleIcons turbo [IconData] with Unicode 0xf60f
-  static const IconData turbo = SimpleIconData(0xf60f);
+  /// SimpleIcons tumblr [IconData] with Unicode 0xf60f
+  static const IconData tumblr = SimpleIconData(0xf60f);
 
-  /// SimpleIcons turborepo [IconData] with Unicode 0xf610
-  static const IconData turborepo = SimpleIconData(0xf610);
+  /// SimpleIcons turbo [IconData] with Unicode 0xf610
+  static const IconData turbo = SimpleIconData(0xf610);
 
-  /// SimpleIcons turbosquid [IconData] with Unicode 0xf611
-  static const IconData turbosquid = SimpleIconData(0xf611);
+  /// SimpleIcons turborepo [IconData] with Unicode 0xf611
+  static const IconData turborepo = SimpleIconData(0xf611);
 
-  /// SimpleIcons turkishairlines [IconData] with Unicode 0xf612
-  static const IconData turkishairlines = SimpleIconData(0xf612);
+  /// SimpleIcons turbosquid [IconData] with Unicode 0xf612
+  static const IconData turbosquid = SimpleIconData(0xf612);
 
-  /// SimpleIcons turso [IconData] with Unicode 0xf613
-  static const IconData turso = SimpleIconData(0xf613);
+  /// SimpleIcons turkishairlines [IconData] with Unicode 0xf613
+  static const IconData turkishairlines = SimpleIconData(0xf613);
 
-  /// SimpleIcons tuta [IconData] with Unicode 0xf614
-  static const IconData tuta = SimpleIconData(0xf614);
+  /// SimpleIcons turso [IconData] with Unicode 0xf614
+  static const IconData turso = SimpleIconData(0xf614);
 
-  /// SimpleIcons tuxedocomputers [IconData] with Unicode 0xf615
-  static const IconData tuxedocomputers = SimpleIconData(0xf615);
+  /// SimpleIcons tuta [IconData] with Unicode 0xf615
+  static const IconData tuta = SimpleIconData(0xf615);
 
-  /// SimpleIcons tvtime [IconData] with Unicode 0xf616
-  static const IconData tvtime = SimpleIconData(0xf616);
+  /// SimpleIcons tuxedocomputers [IconData] with Unicode 0xf616
+  static const IconData tuxedocomputers = SimpleIconData(0xf616);
 
-  /// SimpleIcons tv4play [IconData] with Unicode 0xf617
-  static const IconData tv4play = SimpleIconData(0xf617);
+  /// SimpleIcons tvtime [IconData] with Unicode 0xf617
+  static const IconData tvtime = SimpleIconData(0xf617);
 
-  /// SimpleIcons twenty [IconData] with Unicode 0xf618
-  static const IconData twenty = SimpleIconData(0xf618);
+  /// SimpleIcons tv4play [IconData] with Unicode 0xf618
+  static const IconData tv4play = SimpleIconData(0xf618);
 
-  /// SimpleIcons twinkly [IconData] with Unicode 0xf619
-  static const IconData twinkly = SimpleIconData(0xf619);
+  /// SimpleIcons twenty [IconData] with Unicode 0xf619
+  static const IconData twenty = SimpleIconData(0xf619);
 
-  /// SimpleIcons twinmotion [IconData] with Unicode 0xf61a
-  static const IconData twinmotion = SimpleIconData(0xf61a);
+  /// SimpleIcons twinkly [IconData] with Unicode 0xf61a
+  static const IconData twinkly = SimpleIconData(0xf61a);
 
-  /// SimpleIcons twitch [IconData] with Unicode 0xf61b
-  static const IconData twitch = SimpleIconData(0xf61b);
+  /// SimpleIcons twinmotion [IconData] with Unicode 0xf61b
+  static const IconData twinmotion = SimpleIconData(0xf61b);
 
-  /// SimpleIcons ty [IconData] with Unicode 0xf61c
-  static const IconData ty = SimpleIconData(0xf61c);
+  /// SimpleIcons twitch [IconData] with Unicode 0xf61c
+  static const IconData twitch = SimpleIconData(0xf61c);
 
-  /// SimpleIcons typeform [IconData] with Unicode 0xf61d
-  static const IconData typeform = SimpleIconData(0xf61d);
+  /// SimpleIcons ty [IconData] with Unicode 0xf61d
+  static const IconData ty = SimpleIconData(0xf61d);
 
-  /// SimpleIcons typeorm [IconData] with Unicode 0xf61e
-  static const IconData typeorm = SimpleIconData(0xf61e);
+  /// SimpleIcons typeform [IconData] with Unicode 0xf61e
+  static const IconData typeform = SimpleIconData(0xf61e);
 
-  /// SimpleIcons typer [IconData] with Unicode 0xf61f
-  static const IconData typer = SimpleIconData(0xf61f);
+  /// SimpleIcons typeorm [IconData] with Unicode 0xf61f
+  static const IconData typeorm = SimpleIconData(0xf61f);
 
-  /// SimpleIcons typescript [IconData] with Unicode 0xf620
-  static const IconData typescript = SimpleIconData(0xf620);
+  /// SimpleIcons typer [IconData] with Unicode 0xf620
+  static const IconData typer = SimpleIconData(0xf620);
 
-  /// SimpleIcons typo3 [IconData] with Unicode 0xf621
-  static const IconData typo3 = SimpleIconData(0xf621);
+  /// SimpleIcons typescript [IconData] with Unicode 0xf621
+  static const IconData typescript = SimpleIconData(0xf621);
 
-  /// SimpleIcons typst [IconData] with Unicode 0xf622
-  static const IconData typst = SimpleIconData(0xf622);
+  /// SimpleIcons typo3 [IconData] with Unicode 0xf622
+  static const IconData typo3 = SimpleIconData(0xf622);
 
-  /// SimpleIcons udotsdotnews [IconData] with Unicode 0xf623
-  static const IconData udotsdotnews = SimpleIconData(0xf623);
+  /// SimpleIcons typst [IconData] with Unicode 0xf623
+  static const IconData typst = SimpleIconData(0xf623);
 
-  /// SimpleIcons uber [IconData] with Unicode 0xf624
-  static const IconData uber = SimpleIconData(0xf624);
+  /// SimpleIcons udotsdotnews [IconData] with Unicode 0xf624
+  static const IconData udotsdotnews = SimpleIconData(0xf624);
 
-  /// SimpleIcons ubereats [IconData] with Unicode 0xf625
-  static const IconData ubereats = SimpleIconData(0xf625);
+  /// SimpleIcons uber [IconData] with Unicode 0xf625
+  static const IconData uber = SimpleIconData(0xf625);
 
-  /// SimpleIcons ubiquiti [IconData] with Unicode 0xf626
-  static const IconData ubiquiti = SimpleIconData(0xf626);
+  /// SimpleIcons ubereats [IconData] with Unicode 0xf626
+  static const IconData ubereats = SimpleIconData(0xf626);
 
-  /// SimpleIcons ubisoft [IconData] with Unicode 0xf627
-  static const IconData ubisoft = SimpleIconData(0xf627);
+  /// SimpleIcons ubiquiti [IconData] with Unicode 0xf627
+  static const IconData ubiquiti = SimpleIconData(0xf627);
 
-  /// SimpleIcons ublockorigin [IconData] with Unicode 0xf628
-  static const IconData ublockorigin = SimpleIconData(0xf628);
+  /// SimpleIcons ubisoft [IconData] with Unicode 0xf628
+  static const IconData ubisoft = SimpleIconData(0xf628);
 
-  /// SimpleIcons ubuntu [IconData] with Unicode 0xf629
-  static const IconData ubuntu = SimpleIconData(0xf629);
+  /// SimpleIcons ublockorigin [IconData] with Unicode 0xf629
+  static const IconData ublockorigin = SimpleIconData(0xf629);
 
-  /// SimpleIcons ubuntumate [IconData] with Unicode 0xf62a
-  static const IconData ubuntumate = SimpleIconData(0xf62a);
+  /// SimpleIcons ubuntu [IconData] with Unicode 0xf62a
+  static const IconData ubuntu = SimpleIconData(0xf62a);
 
-  /// SimpleIcons udacity [IconData] with Unicode 0xf62b
-  static const IconData udacity = SimpleIconData(0xf62b);
+  /// SimpleIcons ubuntumate [IconData] with Unicode 0xf62b
+  static const IconData ubuntumate = SimpleIconData(0xf62b);
 
-  /// SimpleIcons udemy [IconData] with Unicode 0xf62c
-  static const IconData udemy = SimpleIconData(0xf62c);
+  /// SimpleIcons udacity [IconData] with Unicode 0xf62c
+  static const IconData udacity = SimpleIconData(0xf62c);
 
-  /// SimpleIcons ufc [IconData] with Unicode 0xf62d
-  static const IconData ufc = SimpleIconData(0xf62d);
+  /// SimpleIcons udemy [IconData] with Unicode 0xf62d
+  static const IconData udemy = SimpleIconData(0xf62d);
 
-  /// SimpleIcons uikit [IconData] with Unicode 0xf62e
-  static const IconData uikit = SimpleIconData(0xf62e);
+  /// SimpleIcons ufc [IconData] with Unicode 0xf62e
+  static const IconData ufc = SimpleIconData(0xf62e);
 
-  /// SimpleIcons uipath [IconData] with Unicode 0xf62f
-  static const IconData uipath = SimpleIconData(0xf62f);
+  /// SimpleIcons uikit [IconData] with Unicode 0xf62f
+  static const IconData uikit = SimpleIconData(0xf62f);
 
-  /// SimpleIcons ukca [IconData] with Unicode 0xf630
-  static const IconData ukca = SimpleIconData(0xf630);
+  /// SimpleIcons uipath [IconData] with Unicode 0xf630
+  static const IconData uipath = SimpleIconData(0xf630);
 
-  /// SimpleIcons ultralytics [IconData] with Unicode 0xf631
-  static const IconData ultralytics = SimpleIconData(0xf631);
+  /// SimpleIcons ukca [IconData] with Unicode 0xf631
+  static const IconData ukca = SimpleIconData(0xf631);
 
-  /// SimpleIcons ulule [IconData] with Unicode 0xf632
-  static const IconData ulule = SimpleIconData(0xf632);
+  /// SimpleIcons ultralytics [IconData] with Unicode 0xf632
+  static const IconData ultralytics = SimpleIconData(0xf632);
 
-  /// SimpleIcons umami [IconData] with Unicode 0xf633
-  static const IconData umami = SimpleIconData(0xf633);
+  /// SimpleIcons ulule [IconData] with Unicode 0xf633
+  static const IconData ulule = SimpleIconData(0xf633);
 
-  /// SimpleIcons umbraco [IconData] with Unicode 0xf634
-  static const IconData umbraco = SimpleIconData(0xf634);
+  /// SimpleIcons umami [IconData] with Unicode 0xf634
+  static const IconData umami = SimpleIconData(0xf634);
 
-  /// SimpleIcons umbrel [IconData] with Unicode 0xf635
-  static const IconData umbrel = SimpleIconData(0xf635);
+  /// SimpleIcons umbraco [IconData] with Unicode 0xf635
+  static const IconData umbraco = SimpleIconData(0xf635);
 
-  /// SimpleIcons uml [IconData] with Unicode 0xf636
-  static const IconData uml = SimpleIconData(0xf636);
+  /// SimpleIcons umbrel [IconData] with Unicode 0xf636
+  static const IconData umbrel = SimpleIconData(0xf636);
 
-  /// SimpleIcons unacademy [IconData] with Unicode 0xf637
-  static const IconData unacademy = SimpleIconData(0xf637);
+  /// SimpleIcons uml [IconData] with Unicode 0xf637
+  static const IconData uml = SimpleIconData(0xf637);
 
-  /// SimpleIcons underarmour [IconData] with Unicode 0xf638
-  static const IconData underarmour = SimpleIconData(0xf638);
+  /// SimpleIcons unacademy [IconData] with Unicode 0xf638
+  static const IconData unacademy = SimpleIconData(0xf638);
 
-  /// SimpleIcons underscoredotjs [IconData] with Unicode 0xf639
-  static const IconData underscoredotjs = SimpleIconData(0xf639);
+  /// SimpleIcons underarmour [IconData] with Unicode 0xf639
+  static const IconData underarmour = SimpleIconData(0xf639);
 
-  /// SimpleIcons undertale [IconData] with Unicode 0xf63a
-  static const IconData undertale = SimpleIconData(0xf63a);
+  /// SimpleIcons underscoredotjs [IconData] with Unicode 0xf63a
+  static const IconData underscoredotjs = SimpleIconData(0xf63a);
 
-  /// SimpleIcons unicode [IconData] with Unicode 0xf63b
-  static const IconData unicode = SimpleIconData(0xf63b);
+  /// SimpleIcons undertale [IconData] with Unicode 0xf63b
+  static const IconData undertale = SimpleIconData(0xf63b);
 
-  /// SimpleIcons unilever [IconData] with Unicode 0xf63c
-  static const IconData unilever = SimpleIconData(0xf63c);
+  /// SimpleIcons unicode [IconData] with Unicode 0xf63c
+  static const IconData unicode = SimpleIconData(0xf63c);
 
-  /// SimpleIcons uniqlo [IconData] with Unicode 0xf63d
-  static const IconData uniqlo = SimpleIconData(0xf63d);
+  /// SimpleIcons unilever [IconData] with Unicode 0xf63d
+  static const IconData unilever = SimpleIconData(0xf63d);
 
-  /// SimpleIcons uniqloJa [IconData] with Unicode 0xf63e
-  static const IconData uniqloJa = SimpleIconData(0xf63e);
+  /// SimpleIcons uniqlo [IconData] with Unicode 0xf63e
+  static const IconData uniqlo = SimpleIconData(0xf63e);
 
-  /// SimpleIcons unitedairlines [IconData] with Unicode 0xf63f
-  static const IconData unitedairlines = SimpleIconData(0xf63f);
+  /// SimpleIcons uniqloJa [IconData] with Unicode 0xf63f
+  static const IconData uniqloJa = SimpleIconData(0xf63f);
 
-  /// SimpleIcons unitednations [IconData] with Unicode 0xf640
-  static const IconData unitednations = SimpleIconData(0xf640);
+  /// SimpleIcons unitedairlines [IconData] with Unicode 0xf640
+  static const IconData unitedairlines = SimpleIconData(0xf640);
 
-  /// SimpleIcons unity [IconData] with Unicode 0xf641
-  static const IconData unity = SimpleIconData(0xf641);
+  /// SimpleIcons unitednations [IconData] with Unicode 0xf641
+  static const IconData unitednations = SimpleIconData(0xf641);
 
-  /// SimpleIcons unjs [IconData] with Unicode 0xf642
-  static const IconData unjs = SimpleIconData(0xf642);
+  /// SimpleIcons unity [IconData] with Unicode 0xf642
+  static const IconData unity = SimpleIconData(0xf642);
 
-  /// SimpleIcons unlicense [IconData] with Unicode 0xf643
-  static const IconData unlicense = SimpleIconData(0xf643);
+  /// SimpleIcons unjs [IconData] with Unicode 0xf643
+  static const IconData unjs = SimpleIconData(0xf643);
 
-  /// SimpleIcons unocss [IconData] with Unicode 0xf644
-  static const IconData unocss = SimpleIconData(0xf644);
+  /// SimpleIcons unlicense [IconData] with Unicode 0xf644
+  static const IconData unlicense = SimpleIconData(0xf644);
 
-  /// SimpleIcons unpkg [IconData] with Unicode 0xf645
-  static const IconData unpkg = SimpleIconData(0xf645);
+  /// SimpleIcons unocss [IconData] with Unicode 0xf645
+  static const IconData unocss = SimpleIconData(0xf645);
 
-  /// SimpleIcons unraid [IconData] with Unicode 0xf646
-  static const IconData unraid = SimpleIconData(0xf646);
+  /// SimpleIcons unpkg [IconData] with Unicode 0xf646
+  static const IconData unpkg = SimpleIconData(0xf646);
 
-  /// SimpleIcons unrealengine [IconData] with Unicode 0xf647
-  static const IconData unrealengine = SimpleIconData(0xf647);
+  /// SimpleIcons unraid [IconData] with Unicode 0xf647
+  static const IconData unraid = SimpleIconData(0xf647);
 
-  /// SimpleIcons unsplash [IconData] with Unicode 0xf648
-  static const IconData unsplash = SimpleIconData(0xf648);
+  /// SimpleIcons unrealengine [IconData] with Unicode 0xf648
+  static const IconData unrealengine = SimpleIconData(0xf648);
 
-  /// SimpleIcons unstop [IconData] with Unicode 0xf649
-  static const IconData unstop = SimpleIconData(0xf649);
+  /// SimpleIcons unsplash [IconData] with Unicode 0xf649
+  static const IconData unsplash = SimpleIconData(0xf649);
 
-  /// SimpleIcons untappd [IconData] with Unicode 0xf64a
-  static const IconData untappd = SimpleIconData(0xf64a);
+  /// SimpleIcons unstop [IconData] with Unicode 0xf64a
+  static const IconData unstop = SimpleIconData(0xf64a);
 
-  /// SimpleIcons upcloud [IconData] with Unicode 0xf64b
-  static const IconData upcloud = SimpleIconData(0xf64b);
+  /// SimpleIcons untappd [IconData] with Unicode 0xf64b
+  static const IconData untappd = SimpleIconData(0xf64b);
 
-  /// SimpleIcons uphold [IconData] with Unicode 0xf64c
-  static const IconData uphold = SimpleIconData(0xf64c);
+  /// SimpleIcons upcloud [IconData] with Unicode 0xf64c
+  static const IconData upcloud = SimpleIconData(0xf64c);
 
-  /// SimpleIcons uplabs [IconData] with Unicode 0xf64d
-  static const IconData uplabs = SimpleIconData(0xf64d);
+  /// SimpleIcons uphold [IconData] with Unicode 0xf64d
+  static const IconData uphold = SimpleIconData(0xf64d);
 
-  /// SimpleIcons upptime [IconData] with Unicode 0xf64e
-  static const IconData upptime = SimpleIconData(0xf64e);
+  /// SimpleIcons uplabs [IconData] with Unicode 0xf64e
+  static const IconData uplabs = SimpleIconData(0xf64e);
 
-  /// SimpleIcons ups [IconData] with Unicode 0xf64f
-  static const IconData ups = SimpleIconData(0xf64f);
+  /// SimpleIcons upptime [IconData] with Unicode 0xf64f
+  static const IconData upptime = SimpleIconData(0xf64f);
 
-  /// SimpleIcons upstash [IconData] with Unicode 0xf650
-  static const IconData upstash = SimpleIconData(0xf650);
+  /// SimpleIcons ups [IconData] with Unicode 0xf650
+  static const IconData ups = SimpleIconData(0xf650);
 
-  /// SimpleIcons uptimekuma [IconData] with Unicode 0xf651
-  static const IconData uptimekuma = SimpleIconData(0xf651);
+  /// SimpleIcons upstash [IconData] with Unicode 0xf651
+  static const IconData upstash = SimpleIconData(0xf651);
 
-  /// SimpleIcons upwork [IconData] with Unicode 0xf652
-  static const IconData upwork = SimpleIconData(0xf652);
+  /// SimpleIcons uptimekuma [IconData] with Unicode 0xf652
+  static const IconData uptimekuma = SimpleIconData(0xf652);
 
-  /// SimpleIcons uservoice [IconData] with Unicode 0xf653
-  static const IconData uservoice = SimpleIconData(0xf653);
+  /// SimpleIcons upwork [IconData] with Unicode 0xf653
+  static const IconData upwork = SimpleIconData(0xf653);
 
-  /// SimpleIcons usps [IconData] with Unicode 0xf654
-  static const IconData usps = SimpleIconData(0xf654);
+  /// SimpleIcons uservoice [IconData] with Unicode 0xf654
+  static const IconData uservoice = SimpleIconData(0xf654);
 
-  /// SimpleIcons utorrent [IconData] with Unicode 0xf655
-  static const IconData utorrent = SimpleIconData(0xf655);
+  /// SimpleIcons usps [IconData] with Unicode 0xf655
+  static const IconData usps = SimpleIconData(0xf655);
 
-  /// SimpleIcons uv [IconData] with Unicode 0xf656
-  static const IconData uv = SimpleIconData(0xf656);
+  /// SimpleIcons utorrent [IconData] with Unicode 0xf656
+  static const IconData utorrent = SimpleIconData(0xf656);
 
-  /// SimpleIcons v [IconData] with Unicode 0xf657
-  static const IconData v = SimpleIconData(0xf657);
+  /// SimpleIcons uv [IconData] with Unicode 0xf657
+  static const IconData uv = SimpleIconData(0xf657);
 
-  /// SimpleIcons v0 [IconData] with Unicode 0xf658
-  static const IconData v0 = SimpleIconData(0xf658);
+  /// SimpleIcons v [IconData] with Unicode 0xf658
+  static const IconData v = SimpleIconData(0xf658);
 
-  /// SimpleIcons v2ex [IconData] with Unicode 0xf659
-  static const IconData v2ex = SimpleIconData(0xf659);
+  /// SimpleIcons v0 [IconData] with Unicode 0xf659
+  static const IconData v0 = SimpleIconData(0xf659);
 
-  /// SimpleIcons v8 [IconData] with Unicode 0xf65a
-  static const IconData v8 = SimpleIconData(0xf65a);
+  /// SimpleIcons v2ex [IconData] with Unicode 0xf65a
+  static const IconData v2ex = SimpleIconData(0xf65a);
 
-  /// SimpleIcons vaadin [IconData] with Unicode 0xf65b
-  static const IconData vaadin = SimpleIconData(0xf65b);
+  /// SimpleIcons v8 [IconData] with Unicode 0xf65b
+  static const IconData v8 = SimpleIconData(0xf65b);
 
-  /// SimpleIcons vagrant [IconData] with Unicode 0xf65c
-  static const IconData vagrant = SimpleIconData(0xf65c);
+  /// SimpleIcons vaadin [IconData] with Unicode 0xf65c
+  static const IconData vaadin = SimpleIconData(0xf65c);
 
-  /// SimpleIcons vala [IconData] with Unicode 0xf65d
-  static const IconData vala = SimpleIconData(0xf65d);
+  /// SimpleIcons vagrant [IconData] with Unicode 0xf65d
+  static const IconData vagrant = SimpleIconData(0xf65d);
 
-  /// SimpleIcons valorant [IconData] with Unicode 0xf65e
-  static const IconData valorant = SimpleIconData(0xf65e);
+  /// SimpleIcons vala [IconData] with Unicode 0xf65e
+  static const IconData vala = SimpleIconData(0xf65e);
 
-  /// SimpleIcons valve [IconData] with Unicode 0xf65f
-  static const IconData valve = SimpleIconData(0xf65f);
+  /// SimpleIcons valorant [IconData] with Unicode 0xf65f
+  static const IconData valorant = SimpleIconData(0xf65f);
 
-  /// SimpleIcons vanillaextract [IconData] with Unicode 0xf660
-  static const IconData vanillaextract = SimpleIconData(0xf660);
+  /// SimpleIcons valve [IconData] with Unicode 0xf660
+  static const IconData valve = SimpleIconData(0xf660);
 
-  /// SimpleIcons vapor [IconData] with Unicode 0xf661
-  static const IconData vapor = SimpleIconData(0xf661);
+  /// SimpleIcons vanillaextract [IconData] with Unicode 0xf661
+  static const IconData vanillaextract = SimpleIconData(0xf661);
 
-  /// SimpleIcons vault [IconData] with Unicode 0xf662
-  static const IconData vault = SimpleIconData(0xf662);
+  /// SimpleIcons vapor [IconData] with Unicode 0xf662
+  static const IconData vapor = SimpleIconData(0xf662);
 
-  /// SimpleIcons vaultwarden [IconData] with Unicode 0xf663
-  static const IconData vaultwarden = SimpleIconData(0xf663);
+  /// SimpleIcons vault [IconData] with Unicode 0xf663
+  static const IconData vault = SimpleIconData(0xf663);
 
-  /// SimpleIcons vauxhall [IconData] with Unicode 0xf664
-  static const IconData vauxhall = SimpleIconData(0xf664);
+  /// SimpleIcons vaultwarden [IconData] with Unicode 0xf664
+  static const IconData vaultwarden = SimpleIconData(0xf664);
 
-  /// SimpleIcons vbulletin [IconData] with Unicode 0xf665
-  static const IconData vbulletin = SimpleIconData(0xf665);
+  /// SimpleIcons vauxhall [IconData] with Unicode 0xf665
+  static const IconData vauxhall = SimpleIconData(0xf665);
 
-  /// SimpleIcons vectary [IconData] with Unicode 0xf666
-  static const IconData vectary = SimpleIconData(0xf666);
+  /// SimpleIcons vbulletin [IconData] with Unicode 0xf666
+  static const IconData vbulletin = SimpleIconData(0xf666);
 
-  /// SimpleIcons vectorlogozone [IconData] with Unicode 0xf667
-  static const IconData vectorlogozone = SimpleIconData(0xf667);
+  /// SimpleIcons vectary [IconData] with Unicode 0xf667
+  static const IconData vectary = SimpleIconData(0xf667);
 
-  /// SimpleIcons vectorworks [IconData] with Unicode 0xf668
-  static const IconData vectorworks = SimpleIconData(0xf668);
+  /// SimpleIcons vectorlogozone [IconData] with Unicode 0xf668
+  static const IconData vectorlogozone = SimpleIconData(0xf668);
 
-  /// SimpleIcons veeam [IconData] with Unicode 0xf669
-  static const IconData veeam = SimpleIconData(0xf669);
+  /// SimpleIcons vectorworks [IconData] with Unicode 0xf669
+  static const IconData vectorworks = SimpleIconData(0xf669);
 
-  /// SimpleIcons veed [IconData] with Unicode 0xf66a
-  static const IconData veed = SimpleIconData(0xf66a);
+  /// SimpleIcons veeam [IconData] with Unicode 0xf66a
+  static const IconData veeam = SimpleIconData(0xf66a);
 
-  /// SimpleIcons veepee [IconData] with Unicode 0xf66b
-  static const IconData veepee = SimpleIconData(0xf66b);
+  /// SimpleIcons veed [IconData] with Unicode 0xf66b
+  static const IconData veed = SimpleIconData(0xf66b);
 
-  /// SimpleIcons vega [IconData] with Unicode 0xf66c
-  static const IconData vega = SimpleIconData(0xf66c);
+  /// SimpleIcons veepee [IconData] with Unicode 0xf66c
+  static const IconData veepee = SimpleIconData(0xf66c);
 
-  /// SimpleIcons vegas [IconData] with Unicode 0xf66d
-  static const IconData vegas = SimpleIconData(0xf66d);
+  /// SimpleIcons vega [IconData] with Unicode 0xf66d
+  static const IconData vega = SimpleIconData(0xf66d);
 
-  /// SimpleIcons velocity [IconData] with Unicode 0xf66e
-  static const IconData velocity = SimpleIconData(0xf66e);
+  /// SimpleIcons vegas [IconData] with Unicode 0xf66e
+  static const IconData vegas = SimpleIconData(0xf66e);
 
-  /// SimpleIcons velog [IconData] with Unicode 0xf66f
-  static const IconData velog = SimpleIconData(0xf66f);
+  /// SimpleIcons velocity [IconData] with Unicode 0xf66f
+  static const IconData velocity = SimpleIconData(0xf66f);
 
-  /// SimpleIcons vencord [IconData] with Unicode 0xf670
-  static const IconData vencord = SimpleIconData(0xf670);
+  /// SimpleIcons velog [IconData] with Unicode 0xf670
+  static const IconData velog = SimpleIconData(0xf670);
 
-  /// SimpleIcons venmo [IconData] with Unicode 0xf671
-  static const IconData venmo = SimpleIconData(0xf671);
+  /// SimpleIcons vencord [IconData] with Unicode 0xf671
+  static const IconData vencord = SimpleIconData(0xf671);
 
-  /// SimpleIcons vercel [IconData] with Unicode 0xf672
-  static const IconData vercel = SimpleIconData(0xf672);
+  /// SimpleIcons venmo [IconData] with Unicode 0xf672
+  static const IconData venmo = SimpleIconData(0xf672);
 
-  /// SimpleIcons verdaccio [IconData] with Unicode 0xf673
-  static const IconData verdaccio = SimpleIconData(0xf673);
+  /// SimpleIcons vercel [IconData] with Unicode 0xf673
+  static const IconData vercel = SimpleIconData(0xf673);
 
-  /// SimpleIcons veritas [IconData] with Unicode 0xf674
-  static const IconData veritas = SimpleIconData(0xf674);
+  /// SimpleIcons verdaccio [IconData] with Unicode 0xf674
+  static const IconData verdaccio = SimpleIconData(0xf674);
 
-  /// SimpleIcons verizon [IconData] with Unicode 0xf675
-  static const IconData verizon = SimpleIconData(0xf675);
+  /// SimpleIcons veritas [IconData] with Unicode 0xf675
+  static const IconData veritas = SimpleIconData(0xf675);
 
-  /// SimpleIcons vespa [IconData] with Unicode 0xf676
-  static const IconData vespa = SimpleIconData(0xf676);
+  /// SimpleIcons verizon [IconData] with Unicode 0xf676
+  static const IconData verizon = SimpleIconData(0xf676);
 
-  /// SimpleIcons vestel [IconData] with Unicode 0xf677
-  static const IconData vestel = SimpleIconData(0xf677);
+  /// SimpleIcons vespa [IconData] with Unicode 0xf677
+  static const IconData vespa = SimpleIconData(0xf677);
 
-  /// SimpleIcons vexxhost [IconData] with Unicode 0xf678
-  static const IconData vexxhost = SimpleIconData(0xf678);
+  /// SimpleIcons vestel [IconData] with Unicode 0xf678
+  static const IconData vestel = SimpleIconData(0xf678);
 
-  /// SimpleIcons vfairs [IconData] with Unicode 0xf679
-  static const IconData vfairs = SimpleIconData(0xf679);
+  /// SimpleIcons vexxhost [IconData] with Unicode 0xf679
+  static const IconData vexxhost = SimpleIconData(0xf679);
 
-  /// SimpleIcons viadeo [IconData] with Unicode 0xf67a
-  static const IconData viadeo = SimpleIconData(0xf67a);
+  /// SimpleIcons vfairs [IconData] with Unicode 0xf67a
+  static const IconData vfairs = SimpleIconData(0xf67a);
 
-  /// SimpleIcons viaplay [IconData] with Unicode 0xf67b
-  static const IconData viaplay = SimpleIconData(0xf67b);
+  /// SimpleIcons viadeo [IconData] with Unicode 0xf67b
+  static const IconData viadeo = SimpleIconData(0xf67b);
 
-  /// SimpleIcons viber [IconData] with Unicode 0xf67c
-  static const IconData viber = SimpleIconData(0xf67c);
+  /// SimpleIcons viaplay [IconData] with Unicode 0xf67c
+  static const IconData viaplay = SimpleIconData(0xf67c);
 
-  /// SimpleIcons viblo [IconData] with Unicode 0xf67d
-  static const IconData viblo = SimpleIconData(0xf67d);
+  /// SimpleIcons viber [IconData] with Unicode 0xf67d
+  static const IconData viber = SimpleIconData(0xf67d);
 
-  /// SimpleIcons victoriametrics [IconData] with Unicode 0xf67e
-  static const IconData victoriametrics = SimpleIconData(0xf67e);
+  /// SimpleIcons viblo [IconData] with Unicode 0xf67e
+  static const IconData viblo = SimpleIconData(0xf67e);
 
-  /// SimpleIcons victronenergy [IconData] with Unicode 0xf67f
-  static const IconData victronenergy = SimpleIconData(0xf67f);
+  /// SimpleIcons victoriametrics [IconData] with Unicode 0xf67f
+  static const IconData victoriametrics = SimpleIconData(0xf67f);
 
-  /// SimpleIcons vikunja [IconData] with Unicode 0xf680
-  static const IconData vikunja = SimpleIconData(0xf680);
+  /// SimpleIcons victronenergy [IconData] with Unicode 0xf680
+  static const IconData victronenergy = SimpleIconData(0xf680);
 
-  /// SimpleIcons vim [IconData] with Unicode 0xf681
-  static const IconData vim = SimpleIconData(0xf681);
+  /// SimpleIcons vikunja [IconData] with Unicode 0xf681
+  static const IconData vikunja = SimpleIconData(0xf681);
 
-  /// SimpleIcons vimeo [IconData] with Unicode 0xf682
-  static const IconData vimeo = SimpleIconData(0xf682);
+  /// SimpleIcons vim [IconData] with Unicode 0xf682
+  static const IconData vim = SimpleIconData(0xf682);
 
-  /// SimpleIcons vimeolivestream [IconData] with Unicode 0xf683
-  static const IconData vimeolivestream = SimpleIconData(0xf683);
+  /// SimpleIcons vimeo [IconData] with Unicode 0xf683
+  static const IconData vimeo = SimpleIconData(0xf683);
 
-  /// SimpleIcons vinted [IconData] with Unicode 0xf684
-  static const IconData vinted = SimpleIconData(0xf684);
+  /// SimpleIcons vimeolivestream [IconData] with Unicode 0xf684
+  static const IconData vimeolivestream = SimpleIconData(0xf684);
 
-  /// SimpleIcons virgin [IconData] with Unicode 0xf685
-  static const IconData virgin = SimpleIconData(0xf685);
+  /// SimpleIcons vinted [IconData] with Unicode 0xf685
+  static const IconData vinted = SimpleIconData(0xf685);
 
-  /// SimpleIcons virginatlantic [IconData] with Unicode 0xf686
-  static const IconData virginatlantic = SimpleIconData(0xf686);
+  /// SimpleIcons virgin [IconData] with Unicode 0xf686
+  static const IconData virgin = SimpleIconData(0xf686);
 
-  /// SimpleIcons virginmedia [IconData] with Unicode 0xf687
-  static const IconData virginmedia = SimpleIconData(0xf687);
+  /// SimpleIcons virginatlantic [IconData] with Unicode 0xf687
+  static const IconData virginatlantic = SimpleIconData(0xf687);
 
-  /// SimpleIcons virtualbox [IconData] with Unicode 0xf688
-  static const IconData virtualbox = SimpleIconData(0xf688);
+  /// SimpleIcons virginmedia [IconData] with Unicode 0xf688
+  static const IconData virginmedia = SimpleIconData(0xf688);
 
-  /// SimpleIcons virustotal [IconData] with Unicode 0xf689
-  static const IconData virustotal = SimpleIconData(0xf689);
+  /// SimpleIcons virtualbox [IconData] with Unicode 0xf689
+  static const IconData virtualbox = SimpleIconData(0xf689);
 
-  /// SimpleIcons visa [IconData] with Unicode 0xf68a
-  static const IconData visa = SimpleIconData(0xf68a);
+  /// SimpleIcons virustotal [IconData] with Unicode 0xf68a
+  static const IconData virustotal = SimpleIconData(0xf68a);
 
-  /// SimpleIcons visualparadigm [IconData] with Unicode 0xf68b
-  static const IconData visualparadigm = SimpleIconData(0xf68b);
+  /// SimpleIcons visa [IconData] with Unicode 0xf68b
+  static const IconData visa = SimpleIconData(0xf68b);
 
-  /// SimpleIcons visx [IconData] with Unicode 0xf68c
-  static const IconData visx = SimpleIconData(0xf68c);
+  /// SimpleIcons visualparadigm [IconData] with Unicode 0xf68c
+  static const IconData visualparadigm = SimpleIconData(0xf68c);
 
-  /// SimpleIcons vite [IconData] with Unicode 0xf68d
-  static const IconData vite = SimpleIconData(0xf68d);
+  /// SimpleIcons visx [IconData] with Unicode 0xf68d
+  static const IconData visx = SimpleIconData(0xf68d);
 
-  /// SimpleIcons vitepress [IconData] with Unicode 0xf68e
-  static const IconData vitepress = SimpleIconData(0xf68e);
+  /// SimpleIcons vite [IconData] with Unicode 0xf68e
+  static const IconData vite = SimpleIconData(0xf68e);
 
-  /// SimpleIcons vitess [IconData] with Unicode 0xf68f
-  static const IconData vitess = SimpleIconData(0xf68f);
+  /// SimpleIcons vitepress [IconData] with Unicode 0xf68f
+  static const IconData vitepress = SimpleIconData(0xf68f);
 
-  /// SimpleIcons vitest [IconData] with Unicode 0xf690
-  static const IconData vitest = SimpleIconData(0xf690);
+  /// SimpleIcons vitess [IconData] with Unicode 0xf690
+  static const IconData vitess = SimpleIconData(0xf690);
 
-  /// SimpleIcons vivawallet [IconData] with Unicode 0xf691
-  static const IconData vivawallet = SimpleIconData(0xf691);
+  /// SimpleIcons vitest [IconData] with Unicode 0xf691
+  static const IconData vitest = SimpleIconData(0xf691);
 
-  /// SimpleIcons vivaldi [IconData] with Unicode 0xf692
-  static const IconData vivaldi = SimpleIconData(0xf692);
+  /// SimpleIcons vivawallet [IconData] with Unicode 0xf692
+  static const IconData vivawallet = SimpleIconData(0xf692);
 
-  /// SimpleIcons vivino [IconData] with Unicode 0xf693
-  static const IconData vivino = SimpleIconData(0xf693);
+  /// SimpleIcons vivaldi [IconData] with Unicode 0xf693
+  static const IconData vivaldi = SimpleIconData(0xf693);
 
-  /// SimpleIcons vivint [IconData] with Unicode 0xf694
-  static const IconData vivint = SimpleIconData(0xf694);
+  /// SimpleIcons vivino [IconData] with Unicode 0xf694
+  static const IconData vivino = SimpleIconData(0xf694);
 
-  /// SimpleIcons vivo [IconData] with Unicode 0xf695
-  static const IconData vivo = SimpleIconData(0xf695);
+  /// SimpleIcons vivint [IconData] with Unicode 0xf695
+  static const IconData vivint = SimpleIconData(0xf695);
 
-  /// SimpleIcons vk [IconData] with Unicode 0xf696
-  static const IconData vk = SimpleIconData(0xf696);
+  /// SimpleIcons vivo [IconData] with Unicode 0xf696
+  static const IconData vivo = SimpleIconData(0xf696);
 
-  /// SimpleIcons vlcmediaplayer [IconData] with Unicode 0xf697
-  static const IconData vlcmediaplayer = SimpleIconData(0xf697);
+  /// SimpleIcons vk [IconData] with Unicode 0xf697
+  static const IconData vk = SimpleIconData(0xf697);
 
-  /// SimpleIcons vllm [IconData] with Unicode 0xf698
-  static const IconData vllm = SimpleIconData(0xf698);
+  /// SimpleIcons vlcmediaplayer [IconData] with Unicode 0xf698
+  static const IconData vlcmediaplayer = SimpleIconData(0xf698);
 
-  /// SimpleIcons vmware [IconData] with Unicode 0xf699
-  static const IconData vmware = SimpleIconData(0xf699);
+  /// SimpleIcons vllm [IconData] with Unicode 0xf699
+  static const IconData vllm = SimpleIconData(0xf699);
 
-  /// SimpleIcons vodafone [IconData] with Unicode 0xf69a
-  static const IconData vodafone = SimpleIconData(0xf69a);
+  /// SimpleIcons vmware [IconData] with Unicode 0xf69a
+  static const IconData vmware = SimpleIconData(0xf69a);
 
-  /// SimpleIcons voelkner [IconData] with Unicode 0xf69b
-  static const IconData voelkner = SimpleIconData(0xf69b);
+  /// SimpleIcons vodafone [IconData] with Unicode 0xf69b
+  static const IconData vodafone = SimpleIconData(0xf69b);
 
-  /// SimpleIcons voidlinux [IconData] with Unicode 0xf69c
-  static const IconData voidlinux = SimpleIconData(0xf69c);
+  /// SimpleIcons voelkner [IconData] with Unicode 0xf69c
+  static const IconData voelkner = SimpleIconData(0xf69c);
 
-  /// SimpleIcons voipdotms [IconData] with Unicode 0xf69d
-  static const IconData voipdotms = SimpleIconData(0xf69d);
+  /// SimpleIcons voidlinux [IconData] with Unicode 0xf69d
+  static const IconData voidlinux = SimpleIconData(0xf69d);
 
-  /// SimpleIcons volkswagen [IconData] with Unicode 0xf69e
-  static const IconData volkswagen = SimpleIconData(0xf69e);
+  /// SimpleIcons voipdotms [IconData] with Unicode 0xf69e
+  static const IconData voipdotms = SimpleIconData(0xf69e);
 
-  /// SimpleIcons volvo [IconData] with Unicode 0xf69f
-  static const IconData volvo = SimpleIconData(0xf69f);
+  /// SimpleIcons volkswagen [IconData] with Unicode 0xf69f
+  static const IconData volkswagen = SimpleIconData(0xf69f);
 
-  /// SimpleIcons vonage [IconData] with Unicode 0xf6a0
-  static const IconData vonage = SimpleIconData(0xf6a0);
+  /// SimpleIcons volvo [IconData] with Unicode 0xf6a0
+  static const IconData volvo = SimpleIconData(0xf6a0);
 
-  /// SimpleIcons vorondesign [IconData] with Unicode 0xf6a1
-  static const IconData vorondesign = SimpleIconData(0xf6a1);
+  /// SimpleIcons vonage [IconData] with Unicode 0xf6a1
+  static const IconData vonage = SimpleIconData(0xf6a1);
 
-  /// SimpleIcons vowpalwabbit [IconData] with Unicode 0xf6a2
-  static const IconData vowpalwabbit = SimpleIconData(0xf6a2);
+  /// SimpleIcons vorondesign [IconData] with Unicode 0xf6a2
+  static const IconData vorondesign = SimpleIconData(0xf6a2);
 
-  /// SimpleIcons vox [IconData] with Unicode 0xf6a3
-  static const IconData vox = SimpleIconData(0xf6a3);
+  /// SimpleIcons vowpalwabbit [IconData] with Unicode 0xf6a3
+  static const IconData vowpalwabbit = SimpleIconData(0xf6a3);
 
-  /// SimpleIcons vrchat [IconData] with Unicode 0xf6a4
-  static const IconData vrchat = SimpleIconData(0xf6a4);
+  /// SimpleIcons vox [IconData] with Unicode 0xf6a4
+  static const IconData vox = SimpleIconData(0xf6a4);
 
-  /// SimpleIcons vsco [IconData] with Unicode 0xf6a5
-  static const IconData vsco = SimpleIconData(0xf6a5);
+  /// SimpleIcons vrchat [IconData] with Unicode 0xf6a5
+  static const IconData vrchat = SimpleIconData(0xf6a5);
 
-  /// SimpleIcons vscodium [IconData] with Unicode 0xf6a6
-  static const IconData vscodium = SimpleIconData(0xf6a6);
+  /// SimpleIcons vsco [IconData] with Unicode 0xf6a6
+  static const IconData vsco = SimpleIconData(0xf6a6);
 
-  /// SimpleIcons vtex [IconData] with Unicode 0xf6a7
-  static const IconData vtex = SimpleIconData(0xf6a7);
+  /// SimpleIcons vscodium [IconData] with Unicode 0xf6a7
+  static const IconData vscodium = SimpleIconData(0xf6a7);
 
-  /// SimpleIcons vuedotjs [IconData] with Unicode 0xf6a8
-  static const IconData vuedotjs = SimpleIconData(0xf6a8);
+  /// SimpleIcons vtex [IconData] with Unicode 0xf6a8
+  static const IconData vtex = SimpleIconData(0xf6a8);
 
-  /// SimpleIcons vuetify [IconData] with Unicode 0xf6a9
-  static const IconData vuetify = SimpleIconData(0xf6a9);
+  /// SimpleIcons vuedotjs [IconData] with Unicode 0xf6a9
+  static const IconData vuedotjs = SimpleIconData(0xf6a9);
 
-  /// SimpleIcons vueuse [IconData] with Unicode 0xf6aa
-  static const IconData vueuse = SimpleIconData(0xf6aa);
+  /// SimpleIcons vuetify [IconData] with Unicode 0xf6aa
+  static const IconData vuetify = SimpleIconData(0xf6aa);
 
-  /// SimpleIcons vulkan [IconData] with Unicode 0xf6ab
-  static const IconData vulkan = SimpleIconData(0xf6ab);
+  /// SimpleIcons vueuse [IconData] with Unicode 0xf6ab
+  static const IconData vueuse = SimpleIconData(0xf6ab);
 
-  /// SimpleIcons vultr [IconData] with Unicode 0xf6ac
-  static const IconData vultr = SimpleIconData(0xf6ac);
+  /// SimpleIcons vulkan [IconData] with Unicode 0xf6ac
+  static const IconData vulkan = SimpleIconData(0xf6ac);
 
-  /// SimpleIcons vyond [IconData] with Unicode 0xf6ad
-  static const IconData vyond = SimpleIconData(0xf6ad);
+  /// SimpleIcons vultr [IconData] with Unicode 0xf6ad
+  static const IconData vultr = SimpleIconData(0xf6ad);
 
-  /// SimpleIcons w3schools [IconData] with Unicode 0xf6ae
-  static const IconData w3schools = SimpleIconData(0xf6ae);
+  /// SimpleIcons vyond [IconData] with Unicode 0xf6ae
+  static const IconData vyond = SimpleIconData(0xf6ae);
 
-  /// SimpleIcons wacom [IconData] with Unicode 0xf6af
-  static const IconData wacom = SimpleIconData(0xf6af);
+  /// SimpleIcons w3schools [IconData] with Unicode 0xf6af
+  static const IconData w3schools = SimpleIconData(0xf6af);
 
-  /// SimpleIcons wagmi [IconData] with Unicode 0xf6b0
-  static const IconData wagmi = SimpleIconData(0xf6b0);
+  /// SimpleIcons wacom [IconData] with Unicode 0xf6b0
+  static const IconData wacom = SimpleIconData(0xf6b0);
 
-  /// SimpleIcons wagtail [IconData] with Unicode 0xf6b1
-  static const IconData wagtail = SimpleIconData(0xf6b1);
+  /// SimpleIcons wagmi [IconData] with Unicode 0xf6b1
+  static const IconData wagmi = SimpleIconData(0xf6b1);
 
-  /// SimpleIcons wails [IconData] with Unicode 0xf6b2
-  static const IconData wails = SimpleIconData(0xf6b2);
+  /// SimpleIcons wagtail [IconData] with Unicode 0xf6b2
+  static const IconData wagtail = SimpleIconData(0xf6b2);
 
-  /// SimpleIcons wakatime [IconData] with Unicode 0xf6b3
-  static const IconData wakatime = SimpleIconData(0xf6b3);
+  /// SimpleIcons wails [IconData] with Unicode 0xf6b3
+  static const IconData wails = SimpleIconData(0xf6b3);
 
-  /// SimpleIcons walkman [IconData] with Unicode 0xf6b4
-  static const IconData walkman = SimpleIconData(0xf6b4);
+  /// SimpleIcons wakatime [IconData] with Unicode 0xf6b4
+  static const IconData wakatime = SimpleIconData(0xf6b4);
 
-  /// SimpleIcons wallabag [IconData] with Unicode 0xf6b5
-  static const IconData wallabag = SimpleIconData(0xf6b5);
+  /// SimpleIcons walkman [IconData] with Unicode 0xf6b5
+  static const IconData walkman = SimpleIconData(0xf6b5);
 
-  /// SimpleIcons walletconnect [IconData] with Unicode 0xf6b6
-  static const IconData walletconnect = SimpleIconData(0xf6b6);
+  /// SimpleIcons wallabag [IconData] with Unicode 0xf6b6
+  static const IconData wallabag = SimpleIconData(0xf6b6);
 
-  /// SimpleIcons wantedly [IconData] with Unicode 0xf6b7
-  static const IconData wantedly = SimpleIconData(0xf6b7);
+  /// SimpleIcons walletconnect [IconData] with Unicode 0xf6b7
+  static const IconData walletconnect = SimpleIconData(0xf6b7);
 
-  /// SimpleIcons wappalyzer [IconData] with Unicode 0xf6b8
-  static const IconData wappalyzer = SimpleIconData(0xf6b8);
+  /// SimpleIcons wantedly [IconData] with Unicode 0xf6b8
+  static const IconData wantedly = SimpleIconData(0xf6b8);
 
-  /// SimpleIcons warp [IconData] with Unicode 0xf6b9
-  static const IconData warp = SimpleIconData(0xf6b9);
+  /// SimpleIcons wappalyzer [IconData] with Unicode 0xf6b9
+  static const IconData wappalyzer = SimpleIconData(0xf6b9);
 
-  /// SimpleIcons wasabi [IconData] with Unicode 0xf6ba
-  static const IconData wasabi = SimpleIconData(0xf6ba);
+  /// SimpleIcons warp [IconData] with Unicode 0xf6ba
+  static const IconData warp = SimpleIconData(0xf6ba);
 
-  /// SimpleIcons wasmcloud [IconData] with Unicode 0xf6bb
-  static const IconData wasmcloud = SimpleIconData(0xf6bb);
+  /// SimpleIcons wasabi [IconData] with Unicode 0xf6bb
+  static const IconData wasabi = SimpleIconData(0xf6bb);
 
-  /// SimpleIcons wasmer [IconData] with Unicode 0xf6bc
-  static const IconData wasmer = SimpleIconData(0xf6bc);
+  /// SimpleIcons wasmcloud [IconData] with Unicode 0xf6bc
+  static const IconData wasmcloud = SimpleIconData(0xf6bc);
 
-  /// SimpleIcons watchtower [IconData] with Unicode 0xf6bd
-  static const IconData watchtower = SimpleIconData(0xf6bd);
+  /// SimpleIcons wasmer [IconData] with Unicode 0xf6bd
+  static const IconData wasmer = SimpleIconData(0xf6bd);
 
-  /// SimpleIcons wattpad [IconData] with Unicode 0xf6be
-  static const IconData wattpad = SimpleIconData(0xf6be);
+  /// SimpleIcons watchtower [IconData] with Unicode 0xf6be
+  static const IconData watchtower = SimpleIconData(0xf6be);
 
-  /// SimpleIcons wayland [IconData] with Unicode 0xf6bf
-  static const IconData wayland = SimpleIconData(0xf6bf);
+  /// SimpleIcons wattpad [IconData] with Unicode 0xf6bf
+  static const IconData wattpad = SimpleIconData(0xf6bf);
 
-  /// SimpleIcons waze [IconData] with Unicode 0xf6c0
-  static const IconData waze = SimpleIconData(0xf6c0);
+  /// SimpleIcons wayland [IconData] with Unicode 0xf6c0
+  static const IconData wayland = SimpleIconData(0xf6c0);
 
-  /// SimpleIcons wazirx [IconData] with Unicode 0xf6c1
-  static const IconData wazirx = SimpleIconData(0xf6c1);
+  /// SimpleIcons waze [IconData] with Unicode 0xf6c1
+  static const IconData waze = SimpleIconData(0xf6c1);
 
-  /// SimpleIcons wearos [IconData] with Unicode 0xf6c2
-  static const IconData wearos = SimpleIconData(0xf6c2);
+  /// SimpleIcons wazirx [IconData] with Unicode 0xf6c2
+  static const IconData wazirx = SimpleIconData(0xf6c2);
 
-  /// SimpleIcons weasyl [IconData] with Unicode 0xf6c3
-  static const IconData weasyl = SimpleIconData(0xf6c3);
+  /// SimpleIcons wearos [IconData] with Unicode 0xf6c3
+  static const IconData wearos = SimpleIconData(0xf6c3);
 
-  /// SimpleIcons webawesome [IconData] with Unicode 0xf6c4
-  static const IconData webawesome = SimpleIconData(0xf6c4);
+  /// SimpleIcons weasyl [IconData] with Unicode 0xf6c4
+  static const IconData weasyl = SimpleIconData(0xf6c4);
 
-  /// SimpleIcons webdotde [IconData] with Unicode 0xf6c5
-  static const IconData webdotde = SimpleIconData(0xf6c5);
+  /// SimpleIcons webawesome [IconData] with Unicode 0xf6c5
+  static const IconData webawesome = SimpleIconData(0xf6c5);
 
-  /// SimpleIcons web3dotjs [IconData] with Unicode 0xf6c6
-  static const IconData web3dotjs = SimpleIconData(0xf6c6);
+  /// SimpleIcons webdotde [IconData] with Unicode 0xf6c6
+  static const IconData webdotde = SimpleIconData(0xf6c6);
 
-  /// SimpleIcons webassembly [IconData] with Unicode 0xf6c7
-  static const IconData webassembly = SimpleIconData(0xf6c7);
+  /// SimpleIcons web3dotjs [IconData] with Unicode 0xf6c7
+  static const IconData web3dotjs = SimpleIconData(0xf6c7);
 
-  /// SimpleIcons webauthn [IconData] with Unicode 0xf6c8
-  static const IconData webauthn = SimpleIconData(0xf6c8);
+  /// SimpleIcons webassembly [IconData] with Unicode 0xf6c8
+  static const IconData webassembly = SimpleIconData(0xf6c8);
 
-  /// SimpleIcons webcomponentsdotorg [IconData] with Unicode 0xf6c9
-  static const IconData webcomponentsdotorg = SimpleIconData(0xf6c9);
+  /// SimpleIcons webauthn [IconData] with Unicode 0xf6c9
+  static const IconData webauthn = SimpleIconData(0xf6c9);
 
-  /// SimpleIcons webdriverio [IconData] with Unicode 0xf6ca
-  static const IconData webdriverio = SimpleIconData(0xf6ca);
+  /// SimpleIcons webcomponentsdotorg [IconData] with Unicode 0xf6ca
+  static const IconData webcomponentsdotorg = SimpleIconData(0xf6ca);
 
-  /// SimpleIcons webex [IconData] with Unicode 0xf6cb
-  static const IconData webex = SimpleIconData(0xf6cb);
+  /// SimpleIcons webdriverio [IconData] with Unicode 0xf6cb
+  static const IconData webdriverio = SimpleIconData(0xf6cb);
 
-  /// SimpleIcons webflow [IconData] with Unicode 0xf6cc
-  static const IconData webflow = SimpleIconData(0xf6cc);
+  /// SimpleIcons webex [IconData] with Unicode 0xf6cc
+  static const IconData webex = SimpleIconData(0xf6cc);
 
-  /// SimpleIcons webgl [IconData] with Unicode 0xf6cd
-  static const IconData webgl = SimpleIconData(0xf6cd);
+  /// SimpleIcons webflow [IconData] with Unicode 0xf6cd
+  static const IconData webflow = SimpleIconData(0xf6cd);
 
-  /// SimpleIcons webgpu [IconData] with Unicode 0xf6ce
-  static const IconData webgpu = SimpleIconData(0xf6ce);
+  /// SimpleIcons webgl [IconData] with Unicode 0xf6ce
+  static const IconData webgl = SimpleIconData(0xf6ce);
 
-  /// SimpleIcons weblate [IconData] with Unicode 0xf6cf
-  static const IconData weblate = SimpleIconData(0xf6cf);
+  /// SimpleIcons webgpu [IconData] with Unicode 0xf6cf
+  static const IconData webgpu = SimpleIconData(0xf6cf);
 
-  /// SimpleIcons webmin [IconData] with Unicode 0xf6d0
-  static const IconData webmin = SimpleIconData(0xf6d0);
+  /// SimpleIcons weblate [IconData] with Unicode 0xf6d0
+  static const IconData weblate = SimpleIconData(0xf6d0);
 
-  /// SimpleIcons webmoney [IconData] with Unicode 0xf6d1
-  static const IconData webmoney = SimpleIconData(0xf6d1);
+  /// SimpleIcons webmin [IconData] with Unicode 0xf6d1
+  static const IconData webmin = SimpleIconData(0xf6d1);
 
-  /// SimpleIcons webpack [IconData] with Unicode 0xf6d2
-  static const IconData webpack = SimpleIconData(0xf6d2);
+  /// SimpleIcons webmoney [IconData] with Unicode 0xf6d2
+  static const IconData webmoney = SimpleIconData(0xf6d2);
 
-  /// SimpleIcons webrtc [IconData] with Unicode 0xf6d3
-  static const IconData webrtc = SimpleIconData(0xf6d3);
+  /// SimpleIcons webpack [IconData] with Unicode 0xf6d3
+  static const IconData webpack = SimpleIconData(0xf6d3);
 
-  /// SimpleIcons webstorm [IconData] with Unicode 0xf6d4
-  static const IconData webstorm = SimpleIconData(0xf6d4);
+  /// SimpleIcons webrtc [IconData] with Unicode 0xf6d4
+  static const IconData webrtc = SimpleIconData(0xf6d4);
 
-  /// SimpleIcons webtoon [IconData] with Unicode 0xf6d5
-  static const IconData webtoon = SimpleIconData(0xf6d5);
+  /// SimpleIcons webstorm [IconData] with Unicode 0xf6d5
+  static const IconData webstorm = SimpleIconData(0xf6d5);
 
-  /// SimpleIcons webtrees [IconData] with Unicode 0xf6d6
-  static const IconData webtrees = SimpleIconData(0xf6d6);
+  /// SimpleIcons webtoon [IconData] with Unicode 0xf6d6
+  static const IconData webtoon = SimpleIconData(0xf6d6);
 
-  /// SimpleIcons wechat [IconData] with Unicode 0xf6d7
-  static const IconData wechat = SimpleIconData(0xf6d7);
+  /// SimpleIcons webtrees [IconData] with Unicode 0xf6d7
+  static const IconData webtrees = SimpleIconData(0xf6d7);
 
-  /// SimpleIcons wegame [IconData] with Unicode 0xf6d8
-  static const IconData wegame = SimpleIconData(0xf6d8);
+  /// SimpleIcons wechat [IconData] with Unicode 0xf6d8
+  static const IconData wechat = SimpleIconData(0xf6d8);
 
-  /// SimpleIcons weightsandbiases [IconData] with Unicode 0xf6d9
-  static const IconData weightsandbiases = SimpleIconData(0xf6d9);
+  /// SimpleIcons wegame [IconData] with Unicode 0xf6d9
+  static const IconData wegame = SimpleIconData(0xf6d9);
 
-  /// SimpleIcons welcometothejungle [IconData] with Unicode 0xf6da
-  static const IconData welcometothejungle = SimpleIconData(0xf6da);
+  /// SimpleIcons weightsandbiases [IconData] with Unicode 0xf6da
+  static const IconData weightsandbiases = SimpleIconData(0xf6da);
 
-  /// SimpleIcons wellfound [IconData] with Unicode 0xf6db
-  static const IconData wellfound = SimpleIconData(0xf6db);
+  /// SimpleIcons welcometothejungle [IconData] with Unicode 0xf6db
+  static const IconData welcometothejungle = SimpleIconData(0xf6db);
 
-  /// SimpleIcons wellsfargo [IconData] with Unicode 0xf6dc
-  static const IconData wellsfargo = SimpleIconData(0xf6dc);
+  /// SimpleIcons wellfound [IconData] with Unicode 0xf6dc
+  static const IconData wellfound = SimpleIconData(0xf6dc);
 
-  /// SimpleIcons wemo [IconData] with Unicode 0xf6dd
-  static const IconData wemo = SimpleIconData(0xf6dd);
+  /// SimpleIcons wellsfargo [IconData] with Unicode 0xf6dd
+  static const IconData wellsfargo = SimpleIconData(0xf6dd);
 
-  /// SimpleIcons weread [IconData] with Unicode 0xf6de
-  static const IconData weread = SimpleIconData(0xf6de);
+  /// SimpleIcons wemo [IconData] with Unicode 0xf6de
+  static const IconData wemo = SimpleIconData(0xf6de);
 
-  /// SimpleIcons westernunion [IconData] with Unicode 0xf6df
-  static const IconData westernunion = SimpleIconData(0xf6df);
+  /// SimpleIcons weread [IconData] with Unicode 0xf6df
+  static const IconData weread = SimpleIconData(0xf6df);
 
-  /// SimpleIcons wetransfer [IconData] with Unicode 0xf6e0
-  static const IconData wetransfer = SimpleIconData(0xf6e0);
+  /// SimpleIcons westernunion [IconData] with Unicode 0xf6e0
+  static const IconData westernunion = SimpleIconData(0xf6e0);
 
-  /// SimpleIcons wezterm [IconData] with Unicode 0xf6e1
-  static const IconData wezterm = SimpleIconData(0xf6e1);
+  /// SimpleIcons wetransfer [IconData] with Unicode 0xf6e1
+  static const IconData wetransfer = SimpleIconData(0xf6e1);
 
-  /// SimpleIcons wgpu [IconData] with Unicode 0xf6e2
-  static const IconData wgpu = SimpleIconData(0xf6e2);
+  /// SimpleIcons wezterm [IconData] with Unicode 0xf6e2
+  static const IconData wezterm = SimpleIconData(0xf6e2);
 
-  /// SimpleIcons what3words [IconData] with Unicode 0xf6e3
-  static const IconData what3words = SimpleIconData(0xf6e3);
+  /// SimpleIcons wgpu [IconData] with Unicode 0xf6e3
+  static const IconData wgpu = SimpleIconData(0xf6e3);
 
-  /// SimpleIcons whatsapp [IconData] with Unicode 0xf6e4
-  static const IconData whatsapp = SimpleIconData(0xf6e4);
+  /// SimpleIcons what3words [IconData] with Unicode 0xf6e4
+  static const IconData what3words = SimpleIconData(0xf6e4);
 
-  /// SimpleIcons wheniwork [IconData] with Unicode 0xf6e5
-  static const IconData wheniwork = SimpleIconData(0xf6e5);
+  /// SimpleIcons whatsapp [IconData] with Unicode 0xf6e5
+  static const IconData whatsapp = SimpleIconData(0xf6e5);
 
-  /// SimpleIcons wikidotgg [IconData] with Unicode 0xf6e6
-  static const IconData wikidotgg = SimpleIconData(0xf6e6);
+  /// SimpleIcons wheniwork [IconData] with Unicode 0xf6e6
+  static const IconData wheniwork = SimpleIconData(0xf6e6);
 
-  /// SimpleIcons wikidotjs [IconData] with Unicode 0xf6e7
-  static const IconData wikidotjs = SimpleIconData(0xf6e7);
+  /// SimpleIcons wikidotgg [IconData] with Unicode 0xf6e7
+  static const IconData wikidotgg = SimpleIconData(0xf6e7);
 
-  /// SimpleIcons wikibooks [IconData] with Unicode 0xf6e8
-  static const IconData wikibooks = SimpleIconData(0xf6e8);
+  /// SimpleIcons wikidotjs [IconData] with Unicode 0xf6e8
+  static const IconData wikidotjs = SimpleIconData(0xf6e8);
 
-  /// SimpleIcons wikidata [IconData] with Unicode 0xf6e9
-  static const IconData wikidata = SimpleIconData(0xf6e9);
+  /// SimpleIcons wikibooks [IconData] with Unicode 0xf6e9
+  static const IconData wikibooks = SimpleIconData(0xf6e9);
 
-  /// SimpleIcons wikimediacommons [IconData] with Unicode 0xf6ea
-  static const IconData wikimediacommons = SimpleIconData(0xf6ea);
+  /// SimpleIcons wikidata [IconData] with Unicode 0xf6ea
+  static const IconData wikidata = SimpleIconData(0xf6ea);
 
-  /// SimpleIcons wikimediafoundation [IconData] with Unicode 0xf6eb
-  static const IconData wikimediafoundation = SimpleIconData(0xf6eb);
+  /// SimpleIcons wikimediacommons [IconData] with Unicode 0xf6eb
+  static const IconData wikimediacommons = SimpleIconData(0xf6eb);
 
-  /// SimpleIcons wikipedia [IconData] with Unicode 0xf6ec
-  static const IconData wikipedia = SimpleIconData(0xf6ec);
+  /// SimpleIcons wikimediafoundation [IconData] with Unicode 0xf6ec
+  static const IconData wikimediafoundation = SimpleIconData(0xf6ec);
 
-  /// SimpleIcons wikiquote [IconData] with Unicode 0xf6ed
-  static const IconData wikiquote = SimpleIconData(0xf6ed);
+  /// SimpleIcons wikipedia [IconData] with Unicode 0xf6ed
+  static const IconData wikipedia = SimpleIconData(0xf6ed);
 
-  /// SimpleIcons wikisource [IconData] with Unicode 0xf6ee
-  static const IconData wikisource = SimpleIconData(0xf6ee);
+  /// SimpleIcons wikiquote [IconData] with Unicode 0xf6ee
+  static const IconData wikiquote = SimpleIconData(0xf6ee);
 
-  /// SimpleIcons wikiversity [IconData] with Unicode 0xf6ef
-  static const IconData wikiversity = SimpleIconData(0xf6ef);
+  /// SimpleIcons wikisource [IconData] with Unicode 0xf6ef
+  static const IconData wikisource = SimpleIconData(0xf6ef);
 
-  /// SimpleIcons wikivoyage [IconData] with Unicode 0xf6f0
-  static const IconData wikivoyage = SimpleIconData(0xf6f0);
+  /// SimpleIcons wikiversity [IconData] with Unicode 0xf6f0
+  static const IconData wikiversity = SimpleIconData(0xf6f0);
 
-  /// SimpleIcons winamp [IconData] with Unicode 0xf6f1
-  static const IconData winamp = SimpleIconData(0xf6f1);
+  /// SimpleIcons wikivoyage [IconData] with Unicode 0xf6f1
+  static const IconData wikivoyage = SimpleIconData(0xf6f1);
 
-  /// SimpleIcons windsurf [IconData] with Unicode 0xf6f2
-  static const IconData windsurf = SimpleIconData(0xf6f2);
+  /// SimpleIcons winamp [IconData] with Unicode 0xf6f2
+  static const IconData winamp = SimpleIconData(0xf6f2);
 
-  /// SimpleIcons wine [IconData] with Unicode 0xf6f3
-  static const IconData wine = SimpleIconData(0xf6f3);
+  /// SimpleIcons windsurf [IconData] with Unicode 0xf6f3
+  static const IconData windsurf = SimpleIconData(0xf6f3);
 
-  /// SimpleIcons wipro [IconData] with Unicode 0xf6f4
-  static const IconData wipro = SimpleIconData(0xf6f4);
+  /// SimpleIcons wine [IconData] with Unicode 0xf6f4
+  static const IconData wine = SimpleIconData(0xf6f4);
 
-  /// SimpleIcons wire [IconData] with Unicode 0xf6f5
-  static const IconData wire = SimpleIconData(0xf6f5);
+  /// SimpleIcons wipro [IconData] with Unicode 0xf6f5
+  static const IconData wipro = SimpleIconData(0xf6f5);
 
-  /// SimpleIcons wireguard [IconData] with Unicode 0xf6f6
-  static const IconData wireguard = SimpleIconData(0xf6f6);
+  /// SimpleIcons wire [IconData] with Unicode 0xf6f6
+  static const IconData wire = SimpleIconData(0xf6f6);
 
-  /// SimpleIcons wireshark [IconData] with Unicode 0xf6f7
-  static const IconData wireshark = SimpleIconData(0xf6f7);
+  /// SimpleIcons wireguard [IconData] with Unicode 0xf6f7
+  static const IconData wireguard = SimpleIconData(0xf6f7);
 
-  /// SimpleIcons wise [IconData] with Unicode 0xf6f8
-  static const IconData wise = SimpleIconData(0xf6f8);
+  /// SimpleIcons wireshark [IconData] with Unicode 0xf6f8
+  static const IconData wireshark = SimpleIconData(0xf6f8);
 
-  /// SimpleIcons wish [IconData] with Unicode 0xf6f9
-  static const IconData wish = SimpleIconData(0xf6f9);
+  /// SimpleIcons wise [IconData] with Unicode 0xf6f9
+  static const IconData wise = SimpleIconData(0xf6f9);
 
-  /// SimpleIcons wistia [IconData] with Unicode 0xf6fa
-  static const IconData wistia = SimpleIconData(0xf6fa);
+  /// SimpleIcons wish [IconData] with Unicode 0xf6fa
+  static const IconData wish = SimpleIconData(0xf6fa);
 
-  /// SimpleIcons wix [IconData] with Unicode 0xf6fb
-  static const IconData wix = SimpleIconData(0xf6fb);
+  /// SimpleIcons wistia [IconData] with Unicode 0xf6fb
+  static const IconData wistia = SimpleIconData(0xf6fb);
 
-  /// SimpleIcons wizzair [IconData] with Unicode 0xf6fc
-  static const IconData wizzair = SimpleIconData(0xf6fc);
+  /// SimpleIcons wix [IconData] with Unicode 0xf6fc
+  static const IconData wix = SimpleIconData(0xf6fc);
 
-  /// SimpleIcons wolfram [IconData] with Unicode 0xf6fd
-  static const IconData wolfram = SimpleIconData(0xf6fd);
+  /// SimpleIcons wizzair [IconData] with Unicode 0xf6fd
+  static const IconData wizzair = SimpleIconData(0xf6fd);
 
-  /// SimpleIcons wolframlanguage [IconData] with Unicode 0xf6fe
-  static const IconData wolframlanguage = SimpleIconData(0xf6fe);
+  /// SimpleIcons wolfram [IconData] with Unicode 0xf6fe
+  static const IconData wolfram = SimpleIconData(0xf6fe);
 
-  /// SimpleIcons wolframmathematica [IconData] with Unicode 0xf6ff
-  static const IconData wolframmathematica = SimpleIconData(0xf6ff);
+  /// SimpleIcons wolframlanguage [IconData] with Unicode 0xf6ff
+  static const IconData wolframlanguage = SimpleIconData(0xf6ff);
 
-  /// SimpleIcons wondershare [IconData] with Unicode 0xf700
-  static const IconData wondershare = SimpleIconData(0xf700);
+  /// SimpleIcons wolframmathematica [IconData] with Unicode 0xf700
+  static const IconData wolframmathematica = SimpleIconData(0xf700);
 
-  /// SimpleIcons wondersharefilmora [IconData] with Unicode 0xf701
-  static const IconData wondersharefilmora = SimpleIconData(0xf701);
+  /// SimpleIcons wondershare [IconData] with Unicode 0xf701
+  static const IconData wondershare = SimpleIconData(0xf701);
 
-  /// SimpleIcons woo [IconData] with Unicode 0xf702
-  static const IconData woo = SimpleIconData(0xf702);
+  /// SimpleIcons wondersharefilmora [IconData] with Unicode 0xf702
+  static const IconData wondersharefilmora = SimpleIconData(0xf702);
 
-  /// SimpleIcons woocommerce [IconData] with Unicode 0xf703
-  static const IconData woocommerce = SimpleIconData(0xf703);
+  /// SimpleIcons woo [IconData] with Unicode 0xf703
+  static const IconData woo = SimpleIconData(0xf703);
 
-  /// SimpleIcons wordpress [IconData] with Unicode 0xf704
-  static const IconData wordpress = SimpleIconData(0xf704);
+  /// SimpleIcons woocommerce [IconData] with Unicode 0xf704
+  static const IconData woocommerce = SimpleIconData(0xf704);
 
-  /// SimpleIcons workplace [IconData] with Unicode 0xf705
-  static const IconData workplace = SimpleIconData(0xf705);
+  /// SimpleIcons wordpress [IconData] with Unicode 0xf705
+  static const IconData wordpress = SimpleIconData(0xf705);
 
-  /// SimpleIcons worldhealthorganization [IconData] with Unicode 0xf706
-  static const IconData worldhealthorganization = SimpleIconData(0xf706);
+  /// SimpleIcons workplace [IconData] with Unicode 0xf706
+  static const IconData workplace = SimpleIconData(0xf706);
 
-  /// SimpleIcons wpengine [IconData] with Unicode 0xf707
-  static const IconData wpengine = SimpleIconData(0xf707);
+  /// SimpleIcons worldhealthorganization [IconData] with Unicode 0xf707
+  static const IconData worldhealthorganization = SimpleIconData(0xf707);
 
-  /// SimpleIcons wprocket [IconData] with Unicode 0xf708
-  static const IconData wprocket = SimpleIconData(0xf708);
+  /// SimpleIcons wpengine [IconData] with Unicode 0xf708
+  static const IconData wpengine = SimpleIconData(0xf708);
 
-  /// SimpleIcons wpexplorer [IconData] with Unicode 0xf709
-  static const IconData wpexplorer = SimpleIconData(0xf709);
+  /// SimpleIcons wprocket [IconData] with Unicode 0xf709
+  static const IconData wprocket = SimpleIconData(0xf709);
 
-  /// SimpleIcons writedotas [IconData] with Unicode 0xf70a
-  static const IconData writedotas = SimpleIconData(0xf70a);
+  /// SimpleIcons wpexplorer [IconData] with Unicode 0xf70a
+  static const IconData wpexplorer = SimpleIconData(0xf70a);
 
-  /// SimpleIcons wwe [IconData] with Unicode 0xf70b
-  static const IconData wwe = SimpleIconData(0xf70b);
+  /// SimpleIcons writedotas [IconData] with Unicode 0xf70b
+  static const IconData writedotas = SimpleIconData(0xf70b);
 
-  /// SimpleIcons wwise [IconData] with Unicode 0xf70c
-  static const IconData wwise = SimpleIconData(0xf70c);
+  /// SimpleIcons wwe [IconData] with Unicode 0xf70c
+  static const IconData wwe = SimpleIconData(0xf70c);
 
-  /// SimpleIcons wxt [IconData] with Unicode 0xf70d
-  static const IconData wxt = SimpleIconData(0xf70d);
+  /// SimpleIcons wwise [IconData] with Unicode 0xf70d
+  static const IconData wwise = SimpleIconData(0xf70d);
 
-  /// SimpleIcons wykop [IconData] with Unicode 0xf70e
-  static const IconData wykop = SimpleIconData(0xf70e);
+  /// SimpleIcons wxt [IconData] with Unicode 0xf70e
+  static const IconData wxt = SimpleIconData(0xf70e);
 
-  /// SimpleIcons wyze [IconData] with Unicode 0xf70f
-  static const IconData wyze = SimpleIconData(0xf70f);
+  /// SimpleIcons wykop [IconData] with Unicode 0xf70f
+  static const IconData wykop = SimpleIconData(0xf70f);
 
-  /// SimpleIcons x [IconData] with Unicode 0xf710
-  static const IconData x = SimpleIconData(0xf710);
+  /// SimpleIcons wyze [IconData] with Unicode 0xf710
+  static const IconData wyze = SimpleIconData(0xf710);
 
-  /// SimpleIcons xdotorg [IconData] with Unicode 0xf711
-  static const IconData xdotorg = SimpleIconData(0xf711);
+  /// SimpleIcons x [IconData] with Unicode 0xf711
+  static const IconData x = SimpleIconData(0xf711);
 
-  /// SimpleIcons xampp [IconData] with Unicode 0xf712
-  static const IconData xampp = SimpleIconData(0xf712);
+  /// SimpleIcons xdotorg [IconData] with Unicode 0xf712
+  static const IconData xdotorg = SimpleIconData(0xf712);
 
-  /// SimpleIcons xcode [IconData] with Unicode 0xf713
-  static const IconData xcode = SimpleIconData(0xf713);
+  /// SimpleIcons xampp [IconData] with Unicode 0xf713
+  static const IconData xampp = SimpleIconData(0xf713);
 
-  /// SimpleIcons xdadevelopers [IconData] with Unicode 0xf714
-  static const IconData xdadevelopers = SimpleIconData(0xf714);
+  /// SimpleIcons xcode [IconData] with Unicode 0xf714
+  static const IconData xcode = SimpleIconData(0xf714);
 
-  /// SimpleIcons xendit [IconData] with Unicode 0xf715
-  static const IconData xendit = SimpleIconData(0xf715);
+  /// SimpleIcons xdadevelopers [IconData] with Unicode 0xf715
+  static const IconData xdadevelopers = SimpleIconData(0xf715);
 
-  /// SimpleIcons xero [IconData] with Unicode 0xf716
-  static const IconData xero = SimpleIconData(0xf716);
+  /// SimpleIcons xendit [IconData] with Unicode 0xf716
+  static const IconData xendit = SimpleIconData(0xf716);
 
-  /// SimpleIcons xfce [IconData] with Unicode 0xf717
-  static const IconData xfce = SimpleIconData(0xf717);
+  /// SimpleIcons xero [IconData] with Unicode 0xf717
+  static const IconData xero = SimpleIconData(0xf717);
 
-  /// SimpleIcons xiaohongshu [IconData] with Unicode 0xf718
-  static const IconData xiaohongshu = SimpleIconData(0xf718);
+  /// SimpleIcons xfce [IconData] with Unicode 0xf718
+  static const IconData xfce = SimpleIconData(0xf718);
 
-  /// SimpleIcons xiaomi [IconData] with Unicode 0xf719
-  static const IconData xiaomi = SimpleIconData(0xf719);
+  /// SimpleIcons xiaohongshu [IconData] with Unicode 0xf719
+  static const IconData xiaohongshu = SimpleIconData(0xf719);
 
-  /// SimpleIcons xing [IconData] with Unicode 0xf71a
-  static const IconData xing = SimpleIconData(0xf71a);
+  /// SimpleIcons xiaomi [IconData] with Unicode 0xf71a
+  static const IconData xiaomi = SimpleIconData(0xf71a);
 
-  /// SimpleIcons xml [IconData] with Unicode 0xf71b
-  static const IconData xml = SimpleIconData(0xf71b);
+  /// SimpleIcons xing [IconData] with Unicode 0xf71b
+  static const IconData xing = SimpleIconData(0xf71b);
 
-  /// SimpleIcons xmpp [IconData] with Unicode 0xf71c
-  static const IconData xmpp = SimpleIconData(0xf71c);
+  /// SimpleIcons xml [IconData] with Unicode 0xf71c
+  static const IconData xml = SimpleIconData(0xf71c);
 
-  /// SimpleIcons xo [IconData] with Unicode 0xf71d
-  static const IconData xo = SimpleIconData(0xf71d);
+  /// SimpleIcons xmpp [IconData] with Unicode 0xf71d
+  static const IconData xmpp = SimpleIconData(0xf71d);
 
-  /// SimpleIcons xrp [IconData] with Unicode 0xf71e
-  static const IconData xrp = SimpleIconData(0xf71e);
+  /// SimpleIcons xo [IconData] with Unicode 0xf71e
+  static const IconData xo = SimpleIconData(0xf71e);
 
-  /// SimpleIcons xsplit [IconData] with Unicode 0xf71f
-  static const IconData xsplit = SimpleIconData(0xf71f);
+  /// SimpleIcons xrp [IconData] with Unicode 0xf71f
+  static const IconData xrp = SimpleIconData(0xf71f);
 
-  /// SimpleIcons xstate [IconData] with Unicode 0xf720
-  static const IconData xstate = SimpleIconData(0xf720);
+  /// SimpleIcons xsplit [IconData] with Unicode 0xf720
+  static const IconData xsplit = SimpleIconData(0xf720);
 
-  /// SimpleIcons xubuntu [IconData] with Unicode 0xf721
-  static const IconData xubuntu = SimpleIconData(0xf721);
+  /// SimpleIcons xstate [IconData] with Unicode 0xf721
+  static const IconData xstate = SimpleIconData(0xf721);
 
-  /// SimpleIcons xyflow [IconData] with Unicode 0xf722
-  static const IconData xyflow = SimpleIconData(0xf722);
+  /// SimpleIcons xubuntu [IconData] with Unicode 0xf722
+  static const IconData xubuntu = SimpleIconData(0xf722);
 
-  /// SimpleIcons ycombinator [IconData] with Unicode 0xf723
-  static const IconData ycombinator = SimpleIconData(0xf723);
+  /// SimpleIcons xyflow [IconData] with Unicode 0xf723
+  static const IconData xyflow = SimpleIconData(0xf723);
 
-  /// SimpleIcons yaak [IconData] with Unicode 0xf724
-  static const IconData yaak = SimpleIconData(0xf724);
+  /// SimpleIcons ycombinator [IconData] with Unicode 0xf724
+  static const IconData ycombinator = SimpleIconData(0xf724);
 
-  /// SimpleIcons yabai [IconData] with Unicode 0xf725
-  static const IconData yabai = SimpleIconData(0xf725);
+  /// SimpleIcons yaak [IconData] with Unicode 0xf725
+  static const IconData yaak = SimpleIconData(0xf725);
 
-  /// SimpleIcons yale [IconData] with Unicode 0xf726
-  static const IconData yale = SimpleIconData(0xf726);
+  /// SimpleIcons yabai [IconData] with Unicode 0xf726
+  static const IconData yabai = SimpleIconData(0xf726);
 
-  /// SimpleIcons yamahacorporation [IconData] with Unicode 0xf727
-  static const IconData yamahacorporation = SimpleIconData(0xf727);
+  /// SimpleIcons yale [IconData] with Unicode 0xf727
+  static const IconData yale = SimpleIconData(0xf727);
 
-  /// SimpleIcons yamahamotorcorporation [IconData] with Unicode 0xf728
-  static const IconData yamahamotorcorporation = SimpleIconData(0xf728);
+  /// SimpleIcons yamahacorporation [IconData] with Unicode 0xf728
+  static const IconData yamahacorporation = SimpleIconData(0xf728);
 
-  /// SimpleIcons yaml [IconData] with Unicode 0xf729
-  static const IconData yaml = SimpleIconData(0xf729);
+  /// SimpleIcons yamahamotorcorporation [IconData] with Unicode 0xf729
+  static const IconData yamahamotorcorporation = SimpleIconData(0xf729);
 
-  /// SimpleIcons yandexcloud [IconData] with Unicode 0xf72a
-  static const IconData yandexcloud = SimpleIconData(0xf72a);
+  /// SimpleIcons yaml [IconData] with Unicode 0xf72a
+  static const IconData yaml = SimpleIconData(0xf72a);
 
-  /// SimpleIcons yarn [IconData] with Unicode 0xf72b
-  static const IconData yarn = SimpleIconData(0xf72b);
+  /// SimpleIcons yandexcloud [IconData] with Unicode 0xf72b
+  static const IconData yandexcloud = SimpleIconData(0xf72b);
 
-  /// SimpleIcons yelp [IconData] with Unicode 0xf72c
-  static const IconData yelp = SimpleIconData(0xf72c);
+  /// SimpleIcons yarn [IconData] with Unicode 0xf72c
+  static const IconData yarn = SimpleIconData(0xf72c);
 
-  /// SimpleIcons yeti [IconData] with Unicode 0xf72d
-  static const IconData yeti = SimpleIconData(0xf72d);
+  /// SimpleIcons yelp [IconData] with Unicode 0xf72d
+  static const IconData yelp = SimpleIconData(0xf72d);
 
-  /// SimpleIcons yew [IconData] with Unicode 0xf72e
-  static const IconData yew = SimpleIconData(0xf72e);
+  /// SimpleIcons yeti [IconData] with Unicode 0xf72e
+  static const IconData yeti = SimpleIconData(0xf72e);
 
-  /// SimpleIcons yii [IconData] with Unicode 0xf72f
-  static const IconData yii = SimpleIconData(0xf72f);
+  /// SimpleIcons yew [IconData] with Unicode 0xf72f
+  static const IconData yew = SimpleIconData(0xf72f);
 
-  /// SimpleIcons yoast [IconData] with Unicode 0xf730
-  static const IconData yoast = SimpleIconData(0xf730);
+  /// SimpleIcons yii [IconData] with Unicode 0xf730
+  static const IconData yii = SimpleIconData(0xf730);
 
-  /// SimpleIcons yolo [IconData] with Unicode 0xf731
-  static const IconData yolo = SimpleIconData(0xf731);
+  /// SimpleIcons yoast [IconData] with Unicode 0xf731
+  static const IconData yoast = SimpleIconData(0xf731);
 
-  /// SimpleIcons youhodler [IconData] with Unicode 0xf732
-  static const IconData youhodler = SimpleIconData(0xf732);
+  /// SimpleIcons yolo [IconData] with Unicode 0xf732
+  static const IconData yolo = SimpleIconData(0xf732);
 
-  /// SimpleIcons youtube [IconData] with Unicode 0xf733
-  static const IconData youtube = SimpleIconData(0xf733);
+  /// SimpleIcons youhodler [IconData] with Unicode 0xf733
+  static const IconData youhodler = SimpleIconData(0xf733);
 
-  /// SimpleIcons youtubegaming [IconData] with Unicode 0xf734
-  static const IconData youtubegaming = SimpleIconData(0xf734);
+  /// SimpleIcons youtube [IconData] with Unicode 0xf734
+  static const IconData youtube = SimpleIconData(0xf734);
 
-  /// SimpleIcons youtubekids [IconData] with Unicode 0xf735
-  static const IconData youtubekids = SimpleIconData(0xf735);
+  /// SimpleIcons youtubegaming [IconData] with Unicode 0xf735
+  static const IconData youtubegaming = SimpleIconData(0xf735);
 
-  /// SimpleIcons youtubemusic [IconData] with Unicode 0xf736
-  static const IconData youtubemusic = SimpleIconData(0xf736);
+  /// SimpleIcons youtubekids [IconData] with Unicode 0xf736
+  static const IconData youtubekids = SimpleIconData(0xf736);
 
-  /// SimpleIcons youtubeshorts [IconData] with Unicode 0xf737
-  static const IconData youtubeshorts = SimpleIconData(0xf737);
+  /// SimpleIcons youtubemusic [IconData] with Unicode 0xf737
+  static const IconData youtubemusic = SimpleIconData(0xf737);
 
-  /// SimpleIcons youtubestudio [IconData] with Unicode 0xf738
-  static const IconData youtubestudio = SimpleIconData(0xf738);
+  /// SimpleIcons youtubeshorts [IconData] with Unicode 0xf738
+  static const IconData youtubeshorts = SimpleIconData(0xf738);
 
-  /// SimpleIcons youtubetv [IconData] with Unicode 0xf739
-  static const IconData youtubetv = SimpleIconData(0xf739);
+  /// SimpleIcons youtubestudio [IconData] with Unicode 0xf739
+  static const IconData youtubestudio = SimpleIconData(0xf739);
 
-  /// SimpleIcons yr [IconData] with Unicode 0xf73a
-  static const IconData yr = SimpleIconData(0xf73a);
+  /// SimpleIcons youtubetv [IconData] with Unicode 0xf73a
+  static const IconData youtubetv = SimpleIconData(0xf73a);
 
-  /// SimpleIcons yubico [IconData] with Unicode 0xf73b
-  static const IconData yubico = SimpleIconData(0xf73b);
+  /// SimpleIcons yr [IconData] with Unicode 0xf73b
+  static const IconData yr = SimpleIconData(0xf73b);
 
-  /// SimpleIcons yunohost [IconData] with Unicode 0xf73c
-  static const IconData yunohost = SimpleIconData(0xf73c);
+  /// SimpleIcons yubico [IconData] with Unicode 0xf73c
+  static const IconData yubico = SimpleIconData(0xf73c);
 
-  /// SimpleIcons zabka [IconData] with Unicode 0xf73d
-  static const IconData zabka = SimpleIconData(0xf73d);
+  /// SimpleIcons yunohost [IconData] with Unicode 0xf73d
+  static const IconData yunohost = SimpleIconData(0xf73d);
 
-  /// SimpleIcons zaim [IconData] with Unicode 0xf73e
-  static const IconData zaim = SimpleIconData(0xf73e);
+  /// SimpleIcons zabka [IconData] with Unicode 0xf73e
+  static const IconData zabka = SimpleIconData(0xf73e);
 
-  /// SimpleIcons zalando [IconData] with Unicode 0xf73f
-  static const IconData zalando = SimpleIconData(0xf73f);
+  /// SimpleIcons zaim [IconData] with Unicode 0xf73f
+  static const IconData zaim = SimpleIconData(0xf73f);
 
-  /// SimpleIcons zalo [IconData] with Unicode 0xf740
-  static const IconData zalo = SimpleIconData(0xf740);
+  /// SimpleIcons zalando [IconData] with Unicode 0xf740
+  static const IconData zalando = SimpleIconData(0xf740);
 
-  /// SimpleIcons zap [IconData] with Unicode 0xf741
-  static const IconData zap = SimpleIconData(0xf741);
+  /// SimpleIcons zalo [IconData] with Unicode 0xf741
+  static const IconData zalo = SimpleIconData(0xf741);
 
-  /// SimpleIcons zapier [IconData] with Unicode 0xf742
-  static const IconData zapier = SimpleIconData(0xf742);
+  /// SimpleIcons zap [IconData] with Unicode 0xf742
+  static const IconData zap = SimpleIconData(0xf742);
 
-  /// SimpleIcons zara [IconData] with Unicode 0xf743
-  static const IconData zara = SimpleIconData(0xf743);
+  /// SimpleIcons zapier [IconData] with Unicode 0xf743
+  static const IconData zapier = SimpleIconData(0xf743);
 
-  /// SimpleIcons zazzle [IconData] with Unicode 0xf744
-  static const IconData zazzle = SimpleIconData(0xf744);
+  /// SimpleIcons zara [IconData] with Unicode 0xf744
+  static const IconData zara = SimpleIconData(0xf744);
 
-  /// SimpleIcons zcash [IconData] with Unicode 0xf745
-  static const IconData zcash = SimpleIconData(0xf745);
+  /// SimpleIcons zazzle [IconData] with Unicode 0xf745
+  static const IconData zazzle = SimpleIconData(0xf745);
 
-  /// SimpleIcons zcool [IconData] with Unicode 0xf746
-  static const IconData zcool = SimpleIconData(0xf746);
+  /// SimpleIcons zcash [IconData] with Unicode 0xf746
+  static const IconData zcash = SimpleIconData(0xf746);
 
-  /// SimpleIcons zdf [IconData] with Unicode 0xf747
-  static const IconData zdf = SimpleIconData(0xf747);
+  /// SimpleIcons zcool [IconData] with Unicode 0xf747
+  static const IconData zcool = SimpleIconData(0xf747);
 
-  /// SimpleIcons zebpay [IconData] with Unicode 0xf748
-  static const IconData zebpay = SimpleIconData(0xf748);
+  /// SimpleIcons zdf [IconData] with Unicode 0xf748
+  static const IconData zdf = SimpleIconData(0xf748);
 
-  /// SimpleIcons zebratechnologies [IconData] with Unicode 0xf749
-  static const IconData zebratechnologies = SimpleIconData(0xf749);
+  /// SimpleIcons zebpay [IconData] with Unicode 0xf749
+  static const IconData zebpay = SimpleIconData(0xf749);
 
-  /// SimpleIcons zedindustries [IconData] with Unicode 0xf74a
-  static const IconData zedindustries = SimpleIconData(0xf74a);
+  /// SimpleIcons zebratechnologies [IconData] with Unicode 0xf74a
+  static const IconData zebratechnologies = SimpleIconData(0xf74a);
 
-  /// SimpleIcons zelle [IconData] with Unicode 0xf74b
-  static const IconData zelle = SimpleIconData(0xf74b);
+  /// SimpleIcons zedindustries [IconData] with Unicode 0xf74b
+  static const IconData zedindustries = SimpleIconData(0xf74b);
 
-  /// SimpleIcons zenbrowser [IconData] with Unicode 0xf74c
-  static const IconData zenbrowser = SimpleIconData(0xf74c);
+  /// SimpleIcons zelle [IconData] with Unicode 0xf74c
+  static const IconData zelle = SimpleIconData(0xf74c);
 
-  /// SimpleIcons zend [IconData] with Unicode 0xf74d
-  static const IconData zend = SimpleIconData(0xf74d);
+  /// SimpleIcons zenbrowser [IconData] with Unicode 0xf74d
+  static const IconData zenbrowser = SimpleIconData(0xf74d);
 
-  /// SimpleIcons zendesk [IconData] with Unicode 0xf74e
-  static const IconData zendesk = SimpleIconData(0xf74e);
+  /// SimpleIcons zend [IconData] with Unicode 0xf74e
+  static const IconData zend = SimpleIconData(0xf74e);
 
-  /// SimpleIcons zenn [IconData] with Unicode 0xf74f
-  static const IconData zenn = SimpleIconData(0xf74f);
+  /// SimpleIcons zendesk [IconData] with Unicode 0xf74f
+  static const IconData zendesk = SimpleIconData(0xf74f);
 
-  /// SimpleIcons zenodo [IconData] with Unicode 0xf750
-  static const IconData zenodo = SimpleIconData(0xf750);
+  /// SimpleIcons zenn [IconData] with Unicode 0xf750
+  static const IconData zenn = SimpleIconData(0xf750);
 
-  /// SimpleIcons zensar [IconData] with Unicode 0xf751
-  static const IconData zensar = SimpleIconData(0xf751);
+  /// SimpleIcons zenodo [IconData] with Unicode 0xf751
+  static const IconData zenodo = SimpleIconData(0xf751);
 
-  /// SimpleIcons zerodha [IconData] with Unicode 0xf752
-  static const IconData zerodha = SimpleIconData(0xf752);
+  /// SimpleIcons zensar [IconData] with Unicode 0xf752
+  static const IconData zensar = SimpleIconData(0xf752);
 
-  /// SimpleIcons zerotier [IconData] with Unicode 0xf753
-  static const IconData zerotier = SimpleIconData(0xf753);
+  /// SimpleIcons zerodha [IconData] with Unicode 0xf753
+  static const IconData zerodha = SimpleIconData(0xf753);
 
-  /// SimpleIcons zettlr [IconData] with Unicode 0xf754
-  static const IconData zettlr = SimpleIconData(0xf754);
+  /// SimpleIcons zerotier [IconData] with Unicode 0xf754
+  static const IconData zerotier = SimpleIconData(0xf754);
 
-  /// SimpleIcons zhihu [IconData] with Unicode 0xf755
-  static const IconData zhihu = SimpleIconData(0xf755);
+  /// SimpleIcons zettlr [IconData] with Unicode 0xf755
+  static const IconData zettlr = SimpleIconData(0xf755);
 
-  /// SimpleIcons zig [IconData] with Unicode 0xf756
-  static const IconData zig = SimpleIconData(0xf756);
+  /// SimpleIcons zhihu [IconData] with Unicode 0xf756
+  static const IconData zhihu = SimpleIconData(0xf756);
 
-  /// SimpleIcons zigbee [IconData] with Unicode 0xf757
-  static const IconData zigbee = SimpleIconData(0xf757);
+  /// SimpleIcons zig [IconData] with Unicode 0xf757
+  static const IconData zig = SimpleIconData(0xf757);
 
-  /// SimpleIcons zigbee2mqtt [IconData] with Unicode 0xf758
-  static const IconData zigbee2mqtt = SimpleIconData(0xf758);
+  /// SimpleIcons zigbee [IconData] with Unicode 0xf758
+  static const IconData zigbee = SimpleIconData(0xf758);
 
-  /// SimpleIcons ziggo [IconData] with Unicode 0xf759
-  static const IconData ziggo = SimpleIconData(0xf759);
+  /// SimpleIcons zigbee2mqtt [IconData] with Unicode 0xf759
+  static const IconData zigbee2mqtt = SimpleIconData(0xf759);
 
-  /// SimpleIcons zilch [IconData] with Unicode 0xf75a
-  static const IconData zilch = SimpleIconData(0xf75a);
+  /// SimpleIcons ziggo [IconData] with Unicode 0xf75a
+  static const IconData ziggo = SimpleIconData(0xf75a);
 
-  /// SimpleIcons zillow [IconData] with Unicode 0xf75b
-  static const IconData zillow = SimpleIconData(0xf75b);
+  /// SimpleIcons zilch [IconData] with Unicode 0xf75b
+  static const IconData zilch = SimpleIconData(0xf75b);
 
-  /// SimpleIcons zincsearch [IconData] with Unicode 0xf75c
-  static const IconData zincsearch = SimpleIconData(0xf75c);
+  /// SimpleIcons zillow [IconData] with Unicode 0xf75c
+  static const IconData zillow = SimpleIconData(0xf75c);
 
-  /// SimpleIcons zingat [IconData] with Unicode 0xf75d
-  static const IconData zingat = SimpleIconData(0xf75d);
+  /// SimpleIcons zincsearch [IconData] with Unicode 0xf75d
+  static const IconData zincsearch = SimpleIconData(0xf75d);
 
-  /// SimpleIcons zod [IconData] with Unicode 0xf75e
-  static const IconData zod = SimpleIconData(0xf75e);
+  /// SimpleIcons zingat [IconData] with Unicode 0xf75e
+  static const IconData zingat = SimpleIconData(0xf75e);
 
-  /// SimpleIcons zoho [IconData] with Unicode 0xf75f
-  static const IconData zoho = SimpleIconData(0xf75f);
+  /// SimpleIcons zod [IconData] with Unicode 0xf75f
+  static const IconData zod = SimpleIconData(0xf75f);
 
-  /// SimpleIcons zoiper [IconData] with Unicode 0xf760
-  static const IconData zoiper = SimpleIconData(0xf760);
+  /// SimpleIcons zoho [IconData] with Unicode 0xf760
+  static const IconData zoho = SimpleIconData(0xf760);
 
-  /// SimpleIcons zola [IconData] with Unicode 0xf761
-  static const IconData zola = SimpleIconData(0xf761);
+  /// SimpleIcons zoiper [IconData] with Unicode 0xf761
+  static const IconData zoiper = SimpleIconData(0xf761);
 
-  /// SimpleIcons zomato [IconData] with Unicode 0xf762
-  static const IconData zomato = SimpleIconData(0xf762);
+  /// SimpleIcons zola [IconData] with Unicode 0xf762
+  static const IconData zola = SimpleIconData(0xf762);
 
-  /// SimpleIcons zoom [IconData] with Unicode 0xf763
-  static const IconData zoom = SimpleIconData(0xf763);
+  /// SimpleIcons zomato [IconData] with Unicode 0xf763
+  static const IconData zomato = SimpleIconData(0xf763);
 
-  /// SimpleIcons zorin [IconData] with Unicode 0xf764
-  static const IconData zorin = SimpleIconData(0xf764);
+  /// SimpleIcons zoom [IconData] with Unicode 0xf764
+  static const IconData zoom = SimpleIconData(0xf764);
 
-  /// SimpleIcons zotero [IconData] with Unicode 0xf765
-  static const IconData zotero = SimpleIconData(0xf765);
+  /// SimpleIcons zorin [IconData] with Unicode 0xf765
+  static const IconData zorin = SimpleIconData(0xf765);
 
-  /// SimpleIcons zsh [IconData] with Unicode 0xf766
-  static const IconData zsh = SimpleIconData(0xf766);
+  /// SimpleIcons zotero [IconData] with Unicode 0xf766
+  static const IconData zotero = SimpleIconData(0xf766);
 
-  /// SimpleIcons zulip [IconData] with Unicode 0xf767
-  static const IconData zulip = SimpleIconData(0xf767);
+  /// SimpleIcons zsh [IconData] with Unicode 0xf767
+  static const IconData zsh = SimpleIconData(0xf767);
 
-  /// SimpleIcons zyte [IconData] with Unicode 0xf768
-  static const IconData zyte = SimpleIconData(0xf768);
+  /// SimpleIcons zulip [IconData] with Unicode 0xf768
+  static const IconData zulip = SimpleIconData(0xf768);
+
+  /// SimpleIcons zyte [IconData] with Unicode 0xf769
+  static const IconData zyte = SimpleIconData(0xf769);
 
   /// [values] offers the [Map<String, IconData>] of [https://simpleicons.org/]
   static const Map<String, IconData> values = {
@@ -13303,6 +13306,7 @@ class SimpleIcons {
     'thunderstore': SimpleIcons.thunderstore,
     'thurgauerkantonalbank': SimpleIcons.thurgauerkantonalbank,
     'thymeleaf': SimpleIcons.thymeleaf,
+    'tickettailor': SimpleIcons.tickettailor,
     'ticketmaster': SimpleIcons.ticketmaster,
     'ticktick': SimpleIcons.ticktick,
     'tidal': SimpleIcons.tidal,

@@ -1,3 +1,9 @@
+## [16.20.0] - auto_generated update
+
+##### 1 new icon
+
+- Ticket Tailor ([#14700](https://github.com/simple-icons/simple-icons/pull/14700)) (@lukasbestle)
+
 ## [16.19.0] - auto_generated update
 
 ##### 3 new icons
