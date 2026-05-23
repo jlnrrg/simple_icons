@@ -1,4 +1,8 @@
-## [16.20.0] - auto_generated update
+## [16.20.0] - Support for Flutter 3.44.0
+
+- Add Support for 3.44.0 after [breaking change](https://github.com/jlnrrg/simple_icons/issues/136)
+- As the package version is supposed to mimik [simple-icons](https://github.com/simple-icons/simple-icons/) version number. There is no new major version. If you have an idea, please open an issue.
+
 
 ##### 1 new icon
 
