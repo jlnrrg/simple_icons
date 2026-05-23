@@ -1,0 +1,3 @@
+tags:
+  golden:
+    description: "Golden image comparison tests managed by Alchemist"

@@ -19,7 +19,6 @@ class TestAssetBundle extends CachingAssetBundle {
 
 Future<void> main() async {
   TestWidgetsFlutterBinding.ensureInitialized();
-  setUpAll(loadFonts);
 
   await goldenTest('Test icons',
       fileName: 'all_icons',
