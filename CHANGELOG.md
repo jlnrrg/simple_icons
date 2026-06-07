@@ -1,3 +1,16 @@
+## [16.23.0] - auto_generated update
+
+##### 4 new icons
+
+- Agent Skills ([#14788](https://github.com/simple-icons/simple-icons/pull/14788)) (@LitoMore)
+- M5Stack ([#14795](https://github.com/simple-icons/simple-icons/pull/14795)) (@jasonarmbrecht)
+- OpenCode ([#14694](https://github.com/simple-icons/simple-icons/pull/14694)) (@byt3m4st3r)
+- Pi ([#14797](https://github.com/simple-icons/simple-icons/pull/14797)) (@cscnk52)
+
+##### 1 updated icon
+
+- NixOS ([#14793](https://github.com/simple-icons/simple-icons/pull/14793)) (@fmbearmf)
+
 ## [16.20.0] - Support for Flutter 3.44.0
 
 - Add Support for 3.44.0 after [breaking change](https://github.com/jlnrrg/simple_icons/issues/136)
