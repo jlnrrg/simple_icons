@@ -193,6 +193,9 @@ class SimpleIconColors {
   /// SimpleIcons aftership [Color] from Hex ff6b2b
   static const Color aftership = Color(0xffff6b2b);
 
+  /// SimpleIcons agentskills [Color] from Hex 000000
+  static const Color agentskills = Color(0xff000000);
+
   /// SimpleIcons agora [Color] from Hex 099dfd
   static const Color agora = Color(0xff099dfd);
 
@@ -450,6 +453,9 @@ class SimpleIconColors {
 
   /// SimpleIcons apacheant [Color] from Hex a81c7d
   static const Color apacheant = Color(0xffa81c7d);
+
+  /// SimpleIcons apachearrow [Color] from Hex 000000
+  static const Color apachearrow = Color(0xff000000);
 
   /// SimpleIcons apacheavro [Color] from Hex 30638e
   static const Color apacheavro = Color(0xff30638e);
@@ -819,6 +825,9 @@ class SimpleIconColors {
 
   /// SimpleIcons avm [Color] from Hex e2001a
   static const Color avm = Color(0xffe2001a);
+
+  /// SimpleIcons awaiticon [Color] from Hex 7858f5
+  static const Color awaiticon = Color(0xff7858f5);
 
   /// SimpleIcons awesomelists [Color] from Hex fc60a8
   static const Color awesomelists = Color(0xfffc60a8);
@@ -1575,6 +1584,9 @@ class SimpleIconColors {
 
   /// SimpleIcons claude [Color] from Hex d97757
   static const Color claude = Color(0xffd97757);
+
+  /// SimpleIcons claudecode [Color] from Hex d97757
+  static const Color claudecode = Color(0xffd97757);
 
   /// SimpleIcons clerk [Color] from Hex 6c47ff
   static const Color clerk = Color(0xff6c47ff);
@@ -5104,6 +5116,9 @@ class SimpleIconColors {
   /// SimpleIcons llvm [Color] from Hex 262d3a
   static const Color llvm = Color(0xff262d3a);
 
+  /// SimpleIcons lmstudio [Color] from Hex 000000
+  static const Color lmstudio = Color(0xff000000);
+
   /// SimpleIcons lmms [Color] from Hex 10b146
   static const Color lmms = Color(0xff10b146);
 
@@ -5214,6 +5229,9 @@ class SimpleIconColors {
 
   /// SimpleIcons lyft [Color] from Hex ff00bf
   static const Color lyft = Color(0xffff00bf);
+
+  /// SimpleIcons m5stack [Color] from Hex 0077c8
+  static const Color m5stack = Color(0xff0077c8);
 
   /// SimpleIcons maas [Color] from Hex e95420
   static const Color maas = Color(0xffe95420);
@@ -6262,6 +6280,9 @@ class SimpleIconColors {
   /// SimpleIcons opencage [Color] from Hex 1a8865
   static const Color opencage = Color(0xff1a8865);
 
+  /// SimpleIcons opencode [Color] from Hex 000000
+  static const Color opencode = Color(0xff000000);
+
   /// SimpleIcons opencritic [Color] from Hex fc3e04
   static const Color opencritic = Color(0xfffc3e04);
 
@@ -6333,6 +6354,9 @@ class SimpleIconColors {
 
   /// SimpleIcons opentofu [Color] from Hex ffda18
   static const Color opentofu = Color(0xffffda18);
+
+  /// SimpleIcons opentui [Color] from Hex 000000
+  static const Color opentui = Color(0xff000000);
 
   /// SimpleIcons openverse [Color] from Hex ffe033
   static const Color openverse = Color(0xffffe033);
@@ -6675,6 +6699,9 @@ class SimpleIconColors {
 
   /// SimpleIcons phpstorm [Color] from Hex 000000
   static const Color phpstorm = Color(0xff000000);
+
+  /// SimpleIcons pi [Color] from Hex 000000
+  static const Color pi = Color(0xff000000);
 
   /// SimpleIcons pinetwork [Color] from Hex f4af47
   static const Color pinetwork = Color(0xfff4af47);
@@ -10347,6 +10374,7 @@ class SimpleIconColors {
     'affine': SimpleIconColors.affine,
     'afterpay': SimpleIconColors.afterpay,
     'aftership': SimpleIconColors.aftership,
+    'agentskills': SimpleIconColors.agentskills,
     'agora': SimpleIconColors.agora,
     'aidungeon': SimpleIconColors.aidungeon,
     'aib': SimpleIconColors.aib,
@@ -10433,6 +10461,7 @@ class SimpleIconColors {
     'apache': SimpleIconColors.apache,
     'apacheairflow': SimpleIconColors.apacheairflow,
     'apacheant': SimpleIconColors.apacheant,
+    'apachearrow': SimpleIconColors.apachearrow,
     'apacheavro': SimpleIconColors.apacheavro,
     'apachecassandra': SimpleIconColors.apachecassandra,
     'apachecloudstack': SimpleIconColors.apachecloudstack,
@@ -10556,6 +10585,7 @@ class SimpleIconColors {
     'avianca': SimpleIconColors.avianca,
     'avira': SimpleIconColors.avira,
     'avm': SimpleIconColors.avm,
+    'awaiticon': SimpleIconColors.awaiticon,
     'awesomelists': SimpleIconColors.awesomelists,
     'awesomewm': SimpleIconColors.awesomewm,
     'awwwards': SimpleIconColors.awwwards,
@@ -10808,6 +10838,7 @@ class SimpleIconColors {
     'claris': SimpleIconColors.claris,
     'clarivate': SimpleIconColors.clarivate,
     'claude': SimpleIconColors.claude,
+    'claudecode': SimpleIconColors.claudecode,
     'clerk': SimpleIconColors.clerk,
     'clevercloud': SimpleIconColors.clevercloud,
     'clickhouse': SimpleIconColors.clickhouse,
@@ -11984,6 +12015,7 @@ class SimpleIconColors {
     'livekit': SimpleIconColors.livekit,
     'livewire': SimpleIconColors.livewire,
     'llvm': SimpleIconColors.llvm,
+    'lmstudio': SimpleIconColors.lmstudio,
     'lmms': SimpleIconColors.lmms,
     'lobsters': SimpleIconColors.lobsters,
     'local': SimpleIconColors.local,
@@ -12021,6 +12053,7 @@ class SimpleIconColors {
     'lvgl': SimpleIconColors.lvgl,
     'lydia': SimpleIconColors.lydia,
     'lyft': SimpleIconColors.lyft,
+    'm5stack': SimpleIconColors.m5stack,
     'maas': SimpleIconColors.maas,
     'macos': SimpleIconColors.macos,
     'macpaw': SimpleIconColors.macpaw,
@@ -12370,6 +12403,7 @@ class SimpleIconColors {
     'openbao': SimpleIconColors.openbao,
     'openbsd': SimpleIconColors.openbsd,
     'opencage': SimpleIconColors.opencage,
+    'opencode': SimpleIconColors.opencode,
     'opencritic': SimpleIconColors.opencritic,
     'opencv': SimpleIconColors.opencv,
     'openfaas': SimpleIconColors.openfaas,
@@ -12394,6 +12428,7 @@ class SimpleIconColors {
     'opentelemetry': SimpleIconColors.opentelemetry,
     'opentext': SimpleIconColors.opentext,
     'opentofu': SimpleIconColors.opentofu,
+    'opentui': SimpleIconColors.opentui,
     'openverse': SimpleIconColors.openverse,
     'openvpn': SimpleIconColors.openvpn,
     'openwrt': SimpleIconColors.openwrt,
@@ -12508,6 +12543,7 @@ class SimpleIconColors {
     'phpbb': SimpleIconColors.phpbb,
     'phpmyadmin': SimpleIconColors.phpmyadmin,
     'phpstorm': SimpleIconColors.phpstorm,
+    'pi': SimpleIconColors.pi,
     'pinetwork': SimpleIconColors.pinetwork,
     'pihole': SimpleIconColors.pihole,
     'piaggiogroup': SimpleIconColors.piaggiogroup,
