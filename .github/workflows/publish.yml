@@ -87,4 +87,5 @@ jobs:
           echo "Push develop first, to prevent conflicts with parallel activity"
           git push origin develop
           echo "Push master only after develop was safely pushed"
-          git push origin master
+          # fast-forward only, fails loudly if master has diverged
+          git push origin develop:master
