@@ -4,5 +4,5 @@ flutter = { version = "3.44.0", platforms = { linux-x64 = { url = "https://stora
 jq = "latest"
 npm = "latest"
 yq = "latest"
-"pipx:fonttools," = "latest"
+"pipx:fonttools" = "latest"
 node = "latest"
